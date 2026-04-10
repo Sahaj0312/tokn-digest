@@ -1,0 +1,144 @@
+{
+  "digestDate": "2026-04-10",
+  "generatedAt": "2026-04-10T20:15:55.750034+00:00",
+  "headline": {
+    "id": "53c4a7a387e30b31",
+    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "summary": "Anthropic's new AI model, Mythos, is raising concerns among cybersecurity experts who warn that its capabilities could empower hackers. The model's launch serves as a critical reminder for developers to prioritize security in their software design.",
+    "sourceName": "Wired",
+    "sourceIcon": "antenna.radiowaves.left.and.right",
+    "articleURL": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "publishedAt": "2026-04-10T18:08:37+00:00",
+    "category": "news",
+    "relevanceScore": 56
+  },
+  "articles": [
+    {
+      "id": "0e71e797373003e8",
+      "title": "The Iranian Lego AI video creators credit their virality to ‘heart’",
+      "summary": "Iranian content creation group Explosive Media has gained attention for their viral AI-generated Lego videos, which depict a different narrative surrounding the recent rescue of a downed airman. The creators attribute their success to the emotional resonance of their storytelling, contrasting with the portrayal by political figures.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/909948/explosive-media-lego-iran-war-trump-netanyahu",
+      "publishedAt": "2026-04-10T17:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "a9a95b6df9eaa333",
+      "title": "Stalking victim sues OpenAI, claims ChatGPT fueled her abuser’s delusions and ignored her warnings",
+      "summary": "A stalking victim has filed a lawsuit against OpenAI, claiming that ChatGPT exacerbated her abuser's delusions and failed to heed multiple warnings about his dangerous behavior. The lawsuit alleges that OpenAI ignored a mass-casualty flag and other alerts while the user continued to harass her.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/",
+      "publishedAt": "2026-04-10T16:41:34+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "93944471700f534e",
+      "title": "Last 24 hours: Save up to $500 on your TechCrunch Disrupt 2026 pass",
+      "summary": "TechCrunch is offering a final opportunity to save up to $500 on passes for TechCrunch Disrupt 2026, with the promotion ending tonight at 11:59 p.m. PT. Interested attendees are encouraged to secure their passes before the deadline.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/10/final-24-hours-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
+      "publishedAt": "2026-04-10T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "3ed16fe6568aa9f2",
+      "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+      "summary": "TechCrunch will host the Startup Battlefield at SusHi Tech 2026 in Tokyo, focusing on four key technology domains: AI, Robotics, Resilience, and Entertainment. The event will feature live demonstrations of humanoid robots, discussions on autonomous driving software, and insights into AI's impact on the music and anime industries.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+      "publishedAt": "2026-04-10T16:38:43+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "d8cfa658291b9d62",
+      "title": "Suspect Arrested for Allegedly Throwing Molotov Cocktail at Sam Altman’s Home",
+      "summary": "A suspect has been arrested for allegedly throwing a Molotov cocktail at OpenAI CEO Sam Altman's home and making threats outside the company's headquarters. The incident has raised concerns about safety and security for high-profile figures in the tech industry.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
+      "publishedAt": "2026-04-10T16:32:19+00:00",
+      "category": "news",
+      "relevanceScore": 54
+    },
+    {
+      "id": "28c48132eff9a51d",
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "summary": "During National Robotics Week, NVIDIA is showcasing advancements in AI that are enhancing robotics across various industries, including agriculture, manufacturing, and energy. Key developments in robot learning, simulation, and foundation models are facilitating the transition of robots from virtual training environments to real-world applications.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/national-robotics-week-2026/",
+      "publishedAt": "2026-04-10T19:40:59+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "d367d687f1bf6d4a",
+      "title": "Microsoft starts removing Copilot buttons from Windows 11 apps",
+      "summary": "Microsoft is removing \"unnecessary\" Copilot buttons from Windows 11 applications, including the Notepad and Snipping Tool apps. The Notepad app has replaced the Copilot button with a \"writing tools\" menu in its latest version for Windows Insiders.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/news/909640/microsoft-removing-copilot-windows-11-buttons",
+      "publishedAt": "2026-04-10T09:22:06+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "0a3ea5a884cea4a9",
+      "title": "Gen Z’s love-hate relationship with AI",
+      "summary": "A recent Gallup report reveals that while Gen Z is growing disillusioned with AI, they continue to use it in their daily lives, particularly in educational and professional settings. The study surveyed nearly 1,600 individuals aged 14 to 29 in the US, indicating a shift in perception as AI becomes more integrated into their routines.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/909687/gen-z-doesnt-like-ai-gallup",
+      "publishedAt": "2026-04-10T11:23:28+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "bb10d09d4a952c5f",
+      "title": "This Startup Wants You to Pay Up to Talk With AI Versions of Human Experts",
+      "summary": "Onix is introducing a platform that allows users to interact with AI-generated digital twins of health and wellness influencers for advice and product promotion. The service is likened to a \"Substack of bots,\" enabling 24/7 access to expert insights.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/onix-substack-ai-platform-therapy-medicine-nutrition/",
+      "publishedAt": "2026-04-10T16:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "e73def4159f611dd",
+      "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
+      "summary": "Meta's Muse Spark AI model provides users with health data analysis, including lab results, but raises significant privacy concerns. The model has been criticized for offering poor medical advice, highlighting its limitations compared to professional healthcare providers.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
+      "publishedAt": "2026-04-10T09:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "c29a253ebb4d395f",
+      "title": "Frailty Estimation in Elderly Oncology Patients Using Multimodal Wearable Data and Multi-Instance Learning",
+      "summary": "A new study proposes a multimodal wearable framework to assess frailty in elderly breast cancer patients by analyzing physical activity, sleep data, and ECG features collected via smartwatches. This approach aims to provide continuous monitoring of functional changes between infrequent clinic visits, potentially improving treatment outcomes.",
+      "sourceName": "arXiv AI",
+      "sourceIcon": "doc.text",
+      "articleURL": "https://arxiv.org/abs/2604.06985",
+      "publishedAt": "2026-04-10T04:00:00+00:00",
+      "category": "research",
+      "relevanceScore": 47
+    }
+  ],
+  "metadata": {
+    "feedsAttempted": 20,
+    "feedsSucceeded": 20,
+    "articlesProcessed": 390,
+    "articlesSelected": 12
+  }
+}
