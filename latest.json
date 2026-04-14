@@ -1,138 +1,138 @@
 {
   "digestDate": "2026-04-14",
-  "generatedAt": "2026-04-14T08:47:32.063178+00:00",
+  "generatedAt": "2026-04-14T10:20:57.032948+00:00",
   "headline": {
-    "id": "9dd5aedb3c4a2096",
-    "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
-    "summary": "Unitree is set to launch its R1 humanoid robot on AliExpress for $4,370, targeting international markets. The robot features aerobatic capabilities, though potential use cases for consumers remain unclear.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
-    "publishedAt": "2026-04-13T23:37:38+00:00",
-    "category": "news",
-    "relevanceScore": 53
+    "id": "9d03da47e7c2017b",
+    "title": "Bringing people together at AI for the Economy Forum",
+    "summary": "The AI for the Economy Forum, hosted by Google and MIT FutureTech, focuses on innovation and adaptation in the evolving economic landscape influenced by artificial intelligence. The event aims to foster collaboration among industry leaders and researchers to address challenges and opportunities presented by AI technologies.",
+    "sourceName": "Google AI",
+    "sourceIcon": "magnifyingglass",
+    "articleURL": "https://blog.google/company-news/outreach-and-initiatives/creating-opportunity/ai-economy-forum/",
+    "publishedAt": "2026-04-14T09:00:00+00:00",
+    "category": "product",
+    "relevanceScore": 58
   },
   "articles": [
     {
+      "id": "9dd5aedb3c4a2096",
+      "title": "You Can Soon Buy a $4,370 Humanoid Robot on AliExpress",
+      "summary": "Unitree is set to launch its R1 humanoid robot on AliExpress for $4,370, targeting international markets. The robot features aerobatic capabilities, though potential applications for consumers remain unclear.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/",
+      "publishedAt": "2026-04-13T23:37:38+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
       "id": "986f38eab6f35517",
       "title": "Anthropic repeatedly accidentally trained against the CoT, demonstrating inadequate processes",
-      "summary": "Anthropic has revealed that it inadvertently trained its model, Claude Mythos Preview, against the chain of thought (CoT) in approximately 8% of training episodes, marking at least the second such incident. This raises concerns about the adequacy of their training processes, particularly as more powerful AI systems are developed.",
+      "summary": "Anthropic has revealed that it inadvertently trained its Claude Mythos Preview model against the chain of thought (CoT) in approximately 8% of training episodes, marking at least the second such incident. This raises concerns about the adequacy of their training processes, as similar failures in more advanced systems could pose risks to safely managing AI development.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/K8FxfK9GmJfiAhgcT/anthropic-repeatedly-accidentally-trained-against-the-cot",
       "publishedAt": "2026-04-14T01:44:44+00:00",
       "category": "policy",
-      "relevanceScore": 52
+      "relevanceScore": 50
     },
     {
       "id": "ecc8b88fe8a446ce",
       "title": "Daniel Moreno-Gama is facing federal charges for attacking Sam Altman’s home and OpenAI’s HQ",
-      "summary": "Daniel Moreno-Gama has been charged with federal offenses after allegedly traveling from Texas to California to attack OpenAI CEO Sam Altman. He was arrested on April 10 for throwing a Molotov cocktail at Altman's home and attempting to break into OpenAI's headquarters.",
+      "summary": "Daniel Moreno-Gama has been charged with federal offenses after allegedly traveling from Texas to California with plans to kill OpenAI CEO Sam Altman. He was arrested on April 10 for throwing a Molotov cocktail at Altman's home and attempting to break into OpenAI's headquarters.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/911423/openai-sam-altman-attack",
       "publishedAt": "2026-04-14T00:02:38+00:00",
       "category": "news",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "1b7a10a00011cd51",
       "title": "LABBench2: An Improved Benchmark for AI Systems Performing Biology Research",
-      "summary": "The article introduces LABBench2, an enhanced benchmarking framework designed to evaluate AI systems in biological research. It emphasizes the importance of assessing AI's real-world capabilities in scientific discovery, reflecting the growing optimism for AI's role in accelerating research.",
+      "summary": "The article introduces LABBench2, a new benchmark designed to evaluate AI systems in biological research, emphasizing the importance of measuring real-world capabilities in scientific discovery. It highlights the growing optimism for AI's role in accelerating scientific advancements and the need for improved assessment methods.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.09554",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "5eba44f70b2392b7",
       "title": "DeepReviewer 2.0: A Traceable Agentic System for Auditable Scientific Peer Review",
-      "summary": "DeepReviewer 2.0 is a new automated peer review system designed to enhance the auditability of scientific reviews by providing traceable review packages that include anchored annotations, localized evidence, and actionable follow-up steps. This system aims to improve the transparency and accountability of the peer review process in scientific publishing.",
+      "summary": "DeepReviewer 2.0 is an automated peer review system designed to enhance the auditability of scientific critiques by providing traceable review packages that include anchored annotations, localized evidence, and actionable follow-up steps. This system aims to improve the transparency and accountability of the peer review process in academic publishing.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.09590",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "5ab3c95736f519f8",
       "title": "DERM-3R: A Resource-Efficient Multimodal Agents Framework for Dermatologic Diagnosis and Treatment in Real-World Clinical Settings",
-      "summary": "The DERM-3R framework introduces a resource-efficient multimodal agent system designed for dermatologic diagnosis and treatment in clinical settings. It aims to enhance long-term patient outcomes by integrating traditional Chinese medicine's holistic approach with modern therapeutic strategies.",
+      "summary": "The DERM-3R framework introduces a resource-efficient multimodal agents system designed to enhance dermatologic diagnosis and treatment in clinical settings. It aims to address the limitations of current therapies by integrating traditional Chinese medicine's holistic approach with modern medical practices.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.09596",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "c85225ada6838f81",
       "title": "From GPT-3 to GPT-5: Mapping their capabilities, scope, limitations, and consequences",
-      "summary": "The article provides a comparative analysis of the evolution of the GPT family from GPT-3 to GPT-5, examining advancements in technical framing, user interaction, and deployment architecture. It highlights five key themes, including capability changes and persistent limitations across the different models.",
+      "summary": "The article provides a comparative analysis of the evolution of the GPT family from GPT-3 to GPT-5, examining advancements in technical framing, user interaction, and deployment architecture. It highlights five key themes, including technical progression, capability changes, and persistent limitations across the models.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.10332",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "d8947148f7ef9b55",
       "title": "Agent^2 RL-Bench: Can LLM Agents Engineer Agentic RL Post-Training?",
-      "summary": "The article introduces Agent^2 RL-Bench, a new benchmark designed to assess the ability of large language model (LLM) agents to autonomously create and execute reinforcement learning (RL) pipelines for enhancing foundation models. This benchmark aims to address the limitations of existing static benchmarks in evaluating the dynamic capabilities necessary for effective RL post-training.",
+      "summary": "The article introduces Agent^2 RL-Bench, a new benchmark designed to assess the ability of large language model (LLM) agents to autonomously create and execute reinforcement learning (RL) pipelines for enhancing foundation models. This benchmark addresses the need for dynamic evaluation methods in the context of RL post-training, which is crucial for model alignment and specialization.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.10547",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "927e5c1b3c44485d",
       "title": "ATANT v1.1: Positioning Continuity Evaluation Against Memory, Long-Context, and Agentic-Memory Benchmarks",
-      "summary": "The article introduces ATANT v1.1, which expands upon the initial framework for evaluating continuity in AI systems by addressing its relationship to various memory evaluation benchmarks. It builds on the previously established methodology and aims to clarify how ATANT aligns with existing memory assessment frameworks.",
+      "summary": "The article introduces ATANT v1.1, which builds on the previously established framework for evaluating continuity in AI systems by addressing its relationship to various memory evaluation benchmarks. The updated methodology aims to enhance understanding and assessment of continuity in the context of long-term memory and agentic memory evaluations.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.10981",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "08a53523868c90b0",
       "title": "Measuring the Authority Stack of AI Systems: Empirical Analysis of 366,120 Forced-Choice Responses Across 8 AI Models",
-      "summary": "A new study published on arXiv presents an empirical analysis of decision-making in AI systems, examining 366,120 forced-choice responses across eight models. The research maps AI behavior according to the Authority Stack framework, focusing on value priorities, evidence-type preferences, and source trust hierarchies.",
+      "summary": "A recent study published on arXiv presents an empirical analysis of AI decision-making by examining 366,120 forced-choice responses across eight AI models. This research utilizes the Authority Stack framework to map value priorities, evidence-type preferences, and source trust hierarchies in AI systems, employing the PRISM benchmark to assess performance in structured dilemmas.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.11216",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "f8e4c92ee3a625a6",
       "title": "CoRe-ECG: Advancing Self-Supervised Representation Learning for 12-Lead ECG via Contrastive and Reconstructive Synergy",
-      "summary": "Researchers have introduced CoRe-ECG, a self-supervised learning framework that combines contrastive and reconstructive methods to enhance representation learning for 12-lead ECG signals. This approach aims to improve ECG interpretation by leveraging unlabeled data, addressing the challenges posed by the scarcity of labeled datasets and expert annotations.",
+      "summary": "Researchers have introduced CoRe-ECG, a self-supervised learning framework that combines contrastive and reconstructive methods to enhance representation learning for 12-lead ECG signals. This approach aims to improve the accuracy of ECG interpretation by leveraging unlabeled data, addressing the challenges posed by the scarcity of labeled datasets and expert annotations.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.11359",
       "publishedAt": "2026-04-14T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "7eecc589ec15d248",
-      "title": "Emergent Social Structures in Autonomous AI Agent Networks: A Metadata Analysis of 626 Agents on the Pilot Protocol",
-      "summary": "A study has analyzed the formation of social structures among 626 autonomous AI agents operating on the Pilot Protocol, primarily consisting of OpenClaw instances. The research highlights how these agents independently discovered and joined the network, communicating through encrypted channels without human intervention.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.09561",
-      "publishedAt": "2026-04-14T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     }
   ],
   "metadata": {
