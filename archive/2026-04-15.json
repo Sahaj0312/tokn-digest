@@ -1,144 +1,144 @@
 {
   "digestDate": "2026-04-15",
-  "generatedAt": "2026-04-15T08:48:24.508159+00:00",
+  "generatedAt": "2026-04-15T10:21:54.647185+00:00",
   "headline": {
     "id": "f055c92c257ecae7",
     "title": "Building trust in the AI era with privacy-led UX",
-    "summary": "The article discusses the concept of privacy-led user experience (UX), emphasizing the importance of transparency in data collection and usage as a key element of customer relationships. It highlights the potential of this approach in digital marketing, viewing user consent as a foundational step rather than a mere compliance requirement.",
+    "summary": "The article discusses the concept of privacy-led user experience (UX), which emphasizes transparency in data collection and usage as a key element of customer relationships. It highlights the potential of this approach in digital marketing, positioning user consent as a foundational aspect of ongoing engagement rather than a mere compliance formality.",
     "sourceName": "MIT Tech Review",
     "sourceIcon": "newspaper",
     "articleURL": "https://www.technologyreview.com/2026/04/15/1135530/building-trust-in-the-ai-era-with-privacy-led-ux/",
     "publishedAt": "2026-04-15T06:00:00+00:00",
     "category": "news",
-    "relevanceScore": 59
+    "relevanceScore": 58
   },
   "articles": [
     {
+      "id": "302b3e5e67a8b2a0",
+      "title": "Meet HoloTab by HCompany. Your AI browser companion.",
+      "summary": "HCompany has launched HoloTab, an AI-powered browser companion designed to enhance user experience by providing personalized assistance and information while browsing the web. The tool aims to streamline online tasks and improve productivity through its intelligent features.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/Hcompany/holotab",
+      "publishedAt": "2026-04-15T09:25:20+00:00",
+      "category": "research",
+      "relevanceScore": 57
+    },
+    {
+      "id": "db94799b9fee76e9",
+      "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
+      "summary": "An analysis by WIRED and Indicator revealed that nearly 90 schools and 600 students globally have been affected by AI-generated deepfake nude images, highlighting a significant and ongoing crisis. The findings indicate that this issue is worsening and poses serious implications for student safety and privacy.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
+      "publishedAt": "2026-04-15T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
       "id": "6ac58e540f1cc138",
       "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
-      "summary": "Investors are reconsidering their support for OpenAI as Anthropic's valuation of $380 billion appears more attractive compared to OpenAI's recent funding round, which implies a potential IPO valuation of $1.2 trillion or higher. This shift in perspective highlights growing competition and valuation concerns within the AI sector.",
+      "summary": "Investors are reconsidering their support for OpenAI in light of Anthropic's valuation, which stands at $380 billion. A backer of both companies noted that OpenAI's recent funding round implied a potential IPO valuation of $1.2 trillion or higher, raising concerns about its market position.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
       "publishedAt": "2026-04-15T02:31:04+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 51
     },
     {
       "id": "bc6e1597561099d1",
       "title": "Turn your best AI prompts into one-click tools in Chrome",
-      "summary": "A new feature in Chrome allows users to convert their best AI prompts into one-click tools, streamlining access and usage. This functionality aims to enhance productivity by simplifying the process of utilizing AI capabilities directly within the browser.",
+      "summary": "A new feature in Chrome allows users to convert their best AI prompts into one-click tools, enhancing accessibility and efficiency. This functionality is demonstrated in a video showcasing its practical applications.",
       "sourceName": "Google AI",
       "sourceIcon": "magnifyingglass",
       "articleURL": "https://blog.google/products-and-platforms/products/chrome/skills-in-chrome/",
       "publishedAt": "2026-04-14T17:00:00+00:00",
       "category": "product",
-      "relevanceScore": 51
+      "relevanceScore": 50
     },
     {
       "id": "78d802cd3d1e4572",
       "title": "Modality-Native Routing in Agent-to-Agent Networks: A Multimodal A2A Protocol Extension",
-      "summary": "A recent study demonstrates that modality-native routing in Agent-to-Agent (A2A) networks enhances task accuracy by 20 percentage points compared to text-bottleneck baselines, provided that the downstream reasoning agent can utilize the preserved context. The findings suggest that preserving multimodal signals is crucial for effective cross-modal reasoning in AI systems.",
+      "summary": "A recent study presents a multimodal Agent-to-Agent (A2A) protocol extension that enhances task accuracy by 20 percentage points through modality-native routing. The findings indicate that effective cross-modal reasoning relies on the downstream agent's ability to utilize the richer context preserved by this routing method.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.12213",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "d4cbce17af2bfbb7",
       "title": "DeepTest Tool Competition 2026: Benchmarking an LLM-Based Automotive Assistant",
-      "summary": "The first edition of the Large Language Model Testing competition, part of the DeepTest workshop at ICSE 2026, focused on benchmarking an LLM-based automotive assistant designed for car manual information retrieval. Four tools participated in the competition, which aimed to identify user inputs that led to the omission of important warnings from the manual.",
+      "summary": "The first edition of the Large Language Model Testing competition, part of the DeepTest workshop at ICSE 2026, focused on benchmarking an LLM-based automotive assistant for car manual information retrieval. Four tools were evaluated on their ability to identify user inputs that led to failures in mentioning critical warnings from the manual.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.12615",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "8a31f475c18f1e20",
       "title": "The Second Challenge on Cross-Domain Few-Shot Object Detection at NTIRE 2026: Methods and Results",
-      "summary": "The second Cross-Domain Few-Shot Object Detection (CD-FSOD) Challenge was held at NTIRE 2026 to assess advancements in detecting objects across different domains with minimal annotations. The event attracted significant participation from the research community, highlighting ongoing challenges in the field.",
+      "summary": "The second Cross-Domain Few-Shot Object Detection (CD-FSOD) Challenge was held at NTIRE 2026 to assess advancements in detecting objects across different domains with minimal annotations. The event garnered significant participation from the research community, highlighting ongoing challenges in this area of object detection and few-shot learning.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.11998",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "c9c5d6b1f84497ba",
       "title": "Fully Homomorphic Encryption on Llama 3 model for privacy preserving LLM inference",
-      "summary": "The article discusses the implementation of Fully Homomorphic Encryption (FHE) on the Llama 3 model to enhance privacy during large language model (LLM) inference. It highlights the growing concerns over data security in generative AI applications across various sectors, including healthcare and finance.",
+      "summary": "The article discusses the implementation of Fully Homomorphic Encryption (FHE) on the Llama 3 model to enhance privacy during large language model (LLM) inference. It highlights the importance of addressing security concerns in generative AI applications across various sectors, including healthcare and finance.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.12168",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "fd86940b8152a5a9",
       "title": "Nemotron 3 Super: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning",
-      "summary": "The Nemotron 3 Super is a 120 billion parameter hybrid Mamba-Attention Mixture-of-Experts model designed for efficient agentic reasoning, featuring innovations such as pre-training in NVFP4 and the LatentMoE architecture. This model aims to optimize accuracy per FLOP and parameter, and includes MTP layers to enhance inference speed.",
+      "summary": "The Nemotron 3 Super is a 120 billion parameter hybrid Mamba-Attention Mixture-of-Experts model that introduces several innovations, including pre-training in NVFP4 and the LatentMoE architecture for improved efficiency. This model is designed to enhance agentic reasoning through optimized accuracy per FLOP and parameter, and incorporates MTP layers for faster inference.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.12374",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "6f055e369f3c3df3",
       "title": "Lit2Vec: A Reproducible Workflow for Building a Legally Screened Chemistry Corpus from S2ORC for Downstream Retrieval and Text Mining",
-      "summary": "The article introduces Lit2Vec, a reproducible workflow designed for creating a legally screened chemistry corpus from the Semantic Scholar Open Research Corpus. This workflow resulted in a study corpus of 582,683 full-text chemistry research articles, complete with structured text and paragraph-level embeddings for enhanced retrieval and text mining.",
+      "summary": "The article introduces Lit2Vec, a reproducible workflow designed to create a legally screened chemistry corpus from the Semantic Scholar Open Research Corpus, focusing on metadata-based license screening. The resulting corpus consists of 582,683 full-text research articles, complete with structured text and paragraph-level embeddings for enhanced retrieval and text mining applications.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.12498",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "487a7d6d2b985bbe",
       "title": "NTIRE 2026 The 3rd Restore Any Image Model (RAIM) Challenge: Professional Image Quality Assessment (Track 1)",
-      "summary": "The NTIRE 2026 challenge introduces the 3rd Restore Any Image Model (RAIM) focusing on Professional Image Quality Assessment in Track 1. This initiative aims to address the limitations of conventional Image Quality Assessment methods, which often oversimplify complex visual characteristics into a single scalar score.",
+      "summary": "The NTIRE 2026 challenge introduces the 3rd Restore Any Image Model (RAIM) focusing on Professional Image Quality Assessment in Track 1. This initiative addresses the limitations of traditional Image Quality Assessment methods, which often oversimplify complex visual characteristics into single scalar scores, making it difficult to differentiate between high-quality images.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.12512",
       "publishedAt": "2026-04-15T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "b6cbcefccc4a58aa",
-      "title": "KumoRFM-2: Scaling Foundation Models for Relational Learning",
-      "summary": "KumoRFM-2 is a newly introduced pre-trained foundation model designed specifically for relational data, enabling in-context learning and fine-tuning for various predictive tasks. Unlike traditional tabular models, KumoRFM-2 can process multiple connected tables simultaneously without the need for manual table flattening or target variable generation.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.12596",
-      "publishedAt": "2026-04-15T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "19e8588d424d398c",
-      "title": "DoseRAD2026 Challenge dataset: AI accelerated photon and proton dose calculation for radiotherapy",
-      "summary": "The DoseRAD2026 Challenge dataset offers a public benchmark of paired CT and MRI data, along with beam-level photon and proton Monte Carlo dose distributions, aimed at enhancing the accuracy and speed of dose calculations in radiotherapy. This initiative addresses the increasing demand for precise tumor irradiation while minimizing damage to healthy tissue, particularly in the context of MRI-guided and real-time adaptive radiotherapy.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.12778",
-      "publishedAt": "2026-04-15T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 362,
+    "articlesProcessed": 364,
     "articlesSelected": 12
   }
 }
