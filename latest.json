@@ -1,144 +1,144 @@
 {
   "digestDate": "2026-04-16",
-  "generatedAt": "2026-04-16T08:49:25.573325+00:00",
+  "generatedAt": "2026-04-16T10:20:57.094100+00:00",
   "headline": {
     "id": "c0bc5790c63820f8",
     "title": "Gemini 3.1 Flash TTS: the next generation of expressive AI speech",
-    "summary": "Gemini has launched its 3.1 Flash TTS, a new version of its text-to-speech technology designed to enhance expressiveness in AI-generated speech. This update aims to improve the naturalness and emotional range of synthesized voices for various applications.",
+    "summary": "Gemini has launched its 3.1 Flash TTS, a new generation of AI speech technology designed to deliver more expressive and natural-sounding voice outputs. This update aims to enhance user experience in applications requiring advanced text-to-speech capabilities.",
     "sourceName": "Google AI",
     "sourceIcon": "magnifyingglass",
     "articleURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/",
     "publishedAt": "2026-04-15T15:00:00+00:00",
     "category": "product",
-    "relevanceScore": 62
+    "relevanceScore": 61
   },
   "articles": [
     {
       "id": "11d823cea107d221",
       "title": "DeepL, known for text translation, now wants to translate your voice",
-      "summary": "DeepL has announced its plans to expand beyond text translation by developing technology for real-time voice translation, aiming to integrate with meeting platforms such as Zoom and Microsoft Teams. The new feature is expected to enhance communication in multilingual settings.",
+      "summary": "DeepL has announced plans to expand its translation services to include voice translation, aiming for real-time functionality in platforms such as Zoom and Microsoft Teams. The company believes its technology can enhance communication by providing seamless voice translation during meetings.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/16/deepl-known-for-text-translation-now-wants-to-translate-your-voice/",
       "publishedAt": "2026-04-16T08:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 57
+      "relevanceScore": 56
+    },
+    {
+      "id": "23624d66f30a3587",
+      "title": "Accelerating the cyber defense ecosystem that protects us all",
+      "summary": "OpenAI's Trusted Access for Cyber initiative has partnered with leading security firms and enterprises to enhance global cyber defense using the GPT-5.4-Cyber model. The initiative includes $10 million in API grants aimed at accelerating the development of cybersecurity solutions.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/accelerating-cyber-defense-ecosystem",
+      "publishedAt": "2026-04-16T00:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 50
     },
     {
       "id": "e252d63e3cdb9287",
       "title": "AI-Assisted Peer Review at Scale: The AAAI-26 AI Review Pilot",
-      "summary": "The AAAI-26 conference has launched a pilot program for AI-assisted peer review to address challenges in maintaining review quality amid increasing submission volumes. This initiative marks the first large-scale implementation of AI in the peer review process, aiming to evaluate its effectiveness in generating technically sound reviews.",
+      "summary": "The AAAI-26 conference has initiated a large-scale pilot program for AI-assisted peer review to address challenges in maintaining review quality amid rising submission volumes. This deployment aims to evaluate the effectiveness of AI in generating technically sound reviews in a real-world conference setting.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13940",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "d03ee6045ef66268",
       "title": "4th Workshop on Maritime Computer Vision (MaCVi): Challenge Overview",
-      "summary": "The 4th Workshop on Maritime Computer Vision (MaCVi) will take place during CVPR 2026, featuring five benchmark challenges focused on predictive accuracy and real-time feasibility. The report details the challenge setup, evaluation protocols, datasets, and presents various analyses of emerging methods and trends in maritime computer vision.",
+      "summary": "The 4th Workshop on Maritime Computer Vision (MaCVi), part of CVPR 2026, introduces five benchmark challenges focused on predictive accuracy and real-time feasibility. The report outlines the challenge setup, evaluation protocols, datasets, and presents quantitative and qualitative analyses of emerging trends in methods.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13244",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "6ee63052b31c5e98",
       "title": "L2D-Clinical: Learning to Defer for Adaptive Model Selection in Clinical Text Classification",
-      "summary": "The L2D-Clinical framework introduces a method for adaptive model selection in clinical text classification by determining when a BERT classifier should defer to a general-purpose large language model based on uncertainty signals and text characteristics. This approach addresses the limitations of existing models, which do not consistently outperform one another across all instances.",
+      "summary": "The L2D-Clinical framework introduces a method for adaptive model selection in clinical text classification, determining when a BERT classifier should defer to a general-purpose large language model based on uncertainty signals and text characteristics. This approach aims to improve classification accuracy by leveraging the strengths of both specialized and general models.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13285",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "301c6c5af62f3225",
       "title": "A 3D SAM-Based Progressive Prompting Framework for Multi-Task Segmentation of Radiotherapy-induced Normal Tissue Injuries in Limited-Data Settings",
-      "summary": "A new framework utilizing 3D SAM-based progressive prompting has been developed for the multi-task segmentation of radiotherapy-induced normal tissue injuries in scenarios with limited data. This approach aims to improve the accuracy of injury region segmentation from medical images, which is crucial for disease assessment and treatment planning.",
+      "summary": "A new study presents a 3D SAM-based progressive prompting framework designed for the multi-task segmentation of radiotherapy-induced normal tissue injuries, addressing challenges posed by limited data and variability in lesion characteristics. The framework aims to improve the accuracy of injury region segmentation from medical images, which is crucial for effective disease assessment and treatment planning.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13367",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "6414a7c54c05074d",
       "title": "DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis",
-      "summary": "The DF3DV-1K dataset has been introduced to support the development of distractor-free novel view synthesis by providing a large-scale collection of clean and cluttered images for comprehensive benchmarking. This dataset aims to facilitate advancements in photorealistic radiance fields, addressing the current lack of resources in this area.",
+      "summary": "The DF3DV-1K dataset has been introduced to support the development of distractor-free novel view synthesis by providing a large-scale collection of clean and cluttered images across various scenes. This dataset aims to facilitate comprehensive benchmarking and advance research in photorealistic radiance fields.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13416",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "583d6c6a0d97263f",
       "title": "Monthly Diffusion v0.9: A Latent Diffusion Model for the First AI-MIP",
-      "summary": "Monthly Diffusion v0.9 is a climate emulator that utilizes a Conditional Variational Auto-Encoder architecture to model low-frequency internal atmospheric variability through latent diffusion at a 1.5-degree grid spacing. This version is optimized for monthly mean timesteps and operates effectively in data-sparse conditions with modest computational requirements.",
+      "summary": "Monthly Diffusion v0.9 is a climate emulator that utilizes a Conditional Variational Auto-Encoder architecture to model low-frequency atmospheric variability through latent diffusion at a 1.5-degree grid spacing. This version is designed for monthly mean timesteps and operates effectively in data-sparse conditions with modest computational requirements.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13481",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "ea3feee745b5807b",
       "title": "Beyond Voxel 3D Editing: Learning from 3D Masks and Self-Constructed Data",
-      "summary": "The article discusses advancements in 3D editing techniques that focus on maintaining semantic consistency and local invariance during modifications. It highlights the limitations of current methods, such as multi-view editing and voxel-based approaches, and proposes learning from 3D masks and self-constructed data to improve editing outcomes.",
+      "summary": "The article discusses advancements in 3D editing techniques that focus on maintaining semantic consistency and local invariance during modifications. It highlights the limitations of current methods, such as multi-view editing and voxel-based approaches, and proposes learning from 3D masks and self-constructed data to improve the editing process.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13688",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "8b2c08beb14569e3",
       "title": "FRAGATA: Semantic Retrieval of HPC Support Tickets via Hybrid RAG over 20 Years of Request Tracker History",
-      "summary": "The paper introduces FRAGATA, a hybrid retrieval system designed to enhance the semantic search capabilities of a supercomputing center's historical support ticket database, which spans over 20 years. By addressing the limitations of the existing Request Tracker search engine, FRAGATA aims to improve knowledge reuse among the technical support team at the Galician Supercomputing Center (CESGA).",
+      "summary": "The paper introduces FRAGATA, a hybrid retrieval system designed to improve access to over 20 years of technical support tickets at the Galician Supercomputing Center, addressing limitations in the existing Request Tracker search engine. By utilizing semantic retrieval techniques, FRAGATA aims to enhance knowledge reuse among support staff and streamline incident resolution processes.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13721",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "e0dac67fd0ded872",
       "title": "A Dynamic-Growing Fuzzy-Neuro Controller, Application to a 3PSP Parallel Robot",
-      "summary": "A Dynamic Growing Fuzzy Neural Controller (DGFNC) is proposed for position control of a 3PSP parallel robot, integrating fuzzy systems with neural networks for enhanced decision-making. The study emphasizes the dynamic growing mechanism within the controller, showcasing its application in robotic systems.",
+      "summary": "The article presents a Dynamic Growing Fuzzy Neural Controller (DGFNC) that integrates fuzzy systems and neural networks to enhance decision-making capabilities. This controller is specifically applied to the position control of a 3PSP parallel robot, with a focus on its dynamic growing mechanism.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.13763",
       "publishedAt": "2026-04-16T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "9f17d43bd58a35b3",
-      "title": "Gaslight, Gatekeep, V1-V3: Early Visual Cortex Alignment Shields Vision-Language Models from Sycophantic Manipulation",
-      "summary": "A recent study investigates the alignment of early visual cortex representations in vision-language models to determine their vulnerability to sycophantic manipulation. The research explores whether models that better reflect human neural processing are more resilient to adversarial influences, highlighting important implications for both neuroscience and AI safety.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.13803",
-      "publishedAt": "2026-04-16T04:00:00+00:00",
-      "category": "policy",
-      "relevanceScore": 50
+      "relevanceScore": 49
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 306,
+    "articlesProcessed": 307,
     "articlesSelected": 12
   }
 }
