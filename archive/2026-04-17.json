@@ -1,138 +1,138 @@
 {
   "digestDate": "2026-04-17",
-  "generatedAt": "2026-04-17T08:48:31.857015+00:00",
+  "generatedAt": "2026-04-17T10:18:29.445585+00:00",
   "headline": {
     "id": "39d5158dd0254fd1",
     "title": "Factory hits $1.5B valuation to build AI coding for enterprises",
-    "summary": "A three-year-old startup focused on AI coding for enterprises has achieved a valuation of $1.5 billion after raising $150 million in a funding round led by Khosla Ventures. The investment will support the company's growth and development in the AI sector.",
+    "summary": "A three-year-old startup focused on AI coding for enterprises has achieved a valuation of $1.5 billion after securing $150 million in funding, led by Khosla Ventures. The investment will support the company's growth and development in the AI sector.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
     "articleURL": "https://techcrunch.com/2026/04/16/factory-hits-1-5b-valuation-to-build-ai-coding-for-enterprises/",
     "publishedAt": "2026-04-16T22:55:30+00:00",
     "category": "industry",
-    "relevanceScore": 52
+    "relevanceScore": 51
   },
   "articles": [
     {
       "id": "f5522e57276990b3",
       "title": "Upscale AI in talks to raise at $2B valuation, says report",
-      "summary": "Upscale AI, an AI infrastructure company, is reportedly negotiating to raise funds at a valuation of $2 billion. This would mark its third funding round since its launch seven months ago.",
+      "summary": "Upscale AI, an AI infrastructure company, is reportedly negotiating to raise funds at a valuation of $2 billion. This would mark the company's third funding round since its launch seven months ago.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/16/upscale-ai-in-talks-to-raise-at-2b-valuation-says-report/",
       "publishedAt": "2026-04-16T20:41:13+00:00",
       "category": "industry",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "925e8b7216d94160",
       "title": "MARS$^2$: Scaling Multi-Agent Tree Search via Reinforcement Learning for Code Generation",
-      "summary": "The article presents MARS², a novel approach that enhances multi-agent tree search using reinforcement learning to improve code generation tasks. By introducing structured exploration through multiple interacting policies, the method addresses the limitations of single-agent policy priors and enhances trajectory diversity.",
+      "summary": "The article presents MARS², a novel approach that enhances multi-agent tree search using reinforcement learning to improve code generation tasks. By enabling multiple interacting policies, MARS² addresses the limitations of trajectory diversity and single-agent policy constraints, leading to improved performance in reasoning-intensive applications.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14564",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "85bf12e05dfe5d40",
       "title": "DR$^{3}$-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
-      "summary": "The article introduces DR$^{3}$-Eval, a new benchmark designed to evaluate Deep Research Agents (DRAs) on complex tasks involving multimodal understanding and report generation. This evaluation framework addresses challenges posed by dynamic web environments and ambiguous task definitions, aiming for realism and reproducibility in assessments.",
+      "summary": "The article introduces DR$^{3}$-Eval, a new benchmark designed to evaluate Deep Research Agents (DRAs) on complex research tasks involving multimodal and multi-file report generation. This framework aims to address the challenges of evaluating DRAs in dynamic web environments and ambiguous task definitions, promoting realistic and reproducible assessments.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14683",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "5558ff38df313670",
       "title": "M2-PALE: A Framework for Explaining Multi-Agent MCTS--Minimax Hybrids via Process Mining and LLMs",
-      "summary": "The article introduces M2-PALE, a framework designed to enhance the explainability of multi-agent Monte-Carlo Tree Search (MCTS) and Minimax hybrids by integrating process mining techniques and large language models (LLMs). This framework aims to address the challenges developers and users face in understanding the behavior of MCTS agents within complex decision-making environments.",
+      "summary": "The article introduces M2-PALE, a framework designed to explain the behavior of multi-agent Monte-Carlo Tree Search (MCTS) and Minimax hybrids using process mining and large language models (LLMs). It addresses the challenges in understanding MCTS agents' decision-making processes, which are often obscured by the complexity of their search trees.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14687",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "835356f5ea180306",
       "title": "SAGE Celer 2.6 Technical Card",
-      "summary": "SAGEA has released SAGE Celer 2.6, a new version of its general-purpose Celer models, available in 5B, 10B, and 27B parameter sizes. The model features architectural enhancements and improved pre-training, utilizing an Inverse Reasoning pipeline to reduce errors and hallucinations in complex reasoning tasks.",
+      "summary": "SAGEA has released SAGE Celer 2.6, a new version of its general-purpose Celer models, available in 5B, 10B, and 27B parameter sizes. The model features significant architectural enhancements and improved pre-training, utilizing an Inverse Reasoning pipeline to reduce errors and hallucinations in complex reasoning tasks.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14168",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "dcb16b68ac8d0459",
       "title": "Benchmarking Linguistic Adaptation in Comparable-Sized LLMs: A Study of Llama-3.1-8B, Mistral-7B-v0.1, and Qwen3-8B on Romanized Nepali",
-      "summary": "A study benchmarks the linguistic adaptation of three comparable-sized open-weight large language models—Llama-3.1-8B, Mistral-7B-v0.1, and Qwen3-8B—specifically for Romanized Nepali, a language underrepresented in digital resources. The evaluation focuses on their performance in zero-shot and few-shot scenarios, highlighting the challenges and potential of these models in processing informal digital communication in Nepal.",
+      "summary": "A study benchmarks linguistic adaptation in three comparable-sized large language models—Llama-3.1-8B, Mistral-7B-v0.1, and Qwen3-8B—focusing on their performance with Romanized Nepali, which is underrepresented in existing language resources. The evaluation includes zero-shot and few-shot tasks to assess their capabilities in this informal digital communication medium.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14171",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "d8cccbdd86ecb407",
       "title": "QU-NLP at ArchEHR-QA 2026: Two-Stage QLoRA Fine-Tuning of Qwen3-4B for Patient-Oriented Clinical Question Answering and Evidence Sentence Alignment",
-      "summary": "The QU-NLP team introduced a unified system for the ArchEHR-QA Shared Task, focusing on clinical question answering and evidence sentence alignment. They utilized a two-stage QLoRA fine-tuning approach on the Qwen3-4B model, enhancing its performance through training on a large medical dataset and specific annotated cases.",
+      "summary": "The article discusses the implementation of a unified system by QU-NLP for the ArchEHR-QA 2026 Shared Task, focusing on answer generation and evidence sentence alignment. It details the use of two-stage Quantised Low-Rank Adaptation (QLoRA) on the Qwen3-4B model, utilizing a clinical dataset to enhance performance in patient-oriented clinical question answering.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14175",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "0cdaac51b80c9e43",
       "title": "MEME-Fusion@CHiPSAL 2026: Multimodal Ablation Study of Hate Detection and Sentiment Analysis on Nepali Memes",
-      "summary": "The paper presents a system developed for the CHiPSAL 2026 shared task, focusing on hate speech detection and sentiment analysis in Devanagari-scripted social media memes. It addresses the challenges of multimodal content, linguistic complexity, and data scarcity in low-resource settings through a hybrid approach for both binary hate speech detection and three-class sentiment classification.",
+      "summary": "The article discusses the MEME-Fusion project for the CHiPSAL 2026 shared task, which focuses on hate speech detection and sentiment analysis in Nepali memes. The study addresses challenges related to multimodal content, linguistic complexity, and data scarcity in low-resource environments, presenting a hybrid approach for binary and three-class sentiment classification.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14218",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "2d13c4466aedaef1",
       "title": "ELMoE-3D: Leveraging Intrinsic Elasticity of MoE for Hybrid-Bonding-Enabled Self-Speculative Decoding in On-Premises Serving",
-      "summary": "The article presents ELMoE-3D, a novel approach that utilizes the intrinsic elasticity of Mixture-of-Experts (MoE) models to enhance self-speculative decoding in on-premises serving environments. This method addresses the challenges of memory-bound operations and underutilization of compute resources in large-scale language models by optimizing bandwidth and reducing idle compute.",
+      "summary": "The article introduces ELMoE-3D, a new approach that utilizes the intrinsic elasticity of Mixture-of-Experts (MoE) models to enhance self-speculative decoding for on-premises serving. This method addresses memory constraints and improves compute utilization in large-scale language models by optimizing the balance between memory activation and arithmetic intensity.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14626",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "4024f95c9daecece",
       "title": "Fact4ac at the Financial Misinformation Detection Challenge Task: Reference-Free Financial Misinformation Detection via Fine-Tuning and Few-Shot Prompting of Large Language Models",
-      "summary": "The paper discusses a winning methodology for the Financial Misinformation Detection Challenge, focusing on reference-free detection of financial misinformation using fine-tuning and few-shot prompting of large language models. It addresses the challenges of identifying misleading narratives in real-world scenarios where external verification is not possible, highlighting the importance of tackling financial misinformation for market stability.",
+      "summary": "The paper discusses a winning approach for detecting financial misinformation without relying on external references, addressing the challenges posed by misleading narratives in real-world scenarios. The methodology involves fine-tuning and few-shot prompting of large language models to enhance detection capabilities.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.14640",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     },
     {
       "id": "cb34fb1209ce21b2",
       "title": "AD4AD: Benchmarking Visual Anomaly Detection Models for Safer Autonomous Driving",
-      "summary": "The article presents AD4AD, a benchmarking framework for evaluating visual anomaly detection models in autonomous driving systems. It emphasizes the importance of training data distribution and highlights the potential risks associated with failures in machine vision systems when encountering atypical obstacles.",
+      "summary": "The article introduces AD4AD, a benchmarking framework designed to evaluate visual anomaly detection models specifically for autonomous driving applications. It emphasizes the importance of training data distribution in ensuring the reliability of machine vision systems when faced with atypical obstacles, highlighting the potential risks associated with failures in this context.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.15291",
       "publishedAt": "2026-04-17T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 49
     }
   ],
   "metadata": {
