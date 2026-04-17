@@ -2,8 +2,8 @@ name: Generate Daily Digest
 
 on:
   schedule:
-    # 7 AM UTC (primary) and 9 AM UTC (backup)
-    - cron: '0 7,9 * * *'
+    # Twice a day: 7 AM UTC (morning run) and 7 PM UTC (evening run)
+    - cron: '0 7,19 * * *'
   workflow_dispatch: # Manual trigger for testing
 
 permissions:

@@ -348,6 +348,7 @@ def run_pipeline():
     print("=== tokn Daily Digest Generator ===", file=sys.stderr)
     now = datetime.now(timezone.utc)
     today = now.strftime("%Y-%m-%d")
+    slot = "am" if now.hour < 12 else "pm"
 
     # Load feed sources
     sources = load_feeds()
@@ -400,6 +401,7 @@ def run_pipeline():
 
     digest = {
         "digestDate": today,
+        "digestSlot": slot,
         "generatedAt": now.isoformat(),
         "headline": serialize_article(headline) if headline else None,
         "articles": [serialize_article(a) for a in rest],
@@ -418,15 +420,17 @@ def run_pipeline():
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
     latest_path = OUTPUT_DIR / "latest.json"
-    archive_path = ARCHIVE_DIR / f"{today}.json"
+    slot_archive_path = ARCHIVE_DIR / f"{today}-{slot}.json"
+    date_archive_path = ARCHIVE_DIR / f"{today}.json"
 
-    with open(latest_path, "w") as f:
-        json.dump(digest, f, indent=2, ensure_ascii=False)
+    for path in (latest_path, slot_archive_path, date_archive_path):
+        with open(path, "w") as f:
+            json.dump(digest, f, indent=2, ensure_ascii=False)
 
-    with open(archive_path, "w") as f:
-        json.dump(digest, f, indent=2, ensure_ascii=False)
-
-    print(f"\nDigest written to {latest_path} and {archive_path}", file=sys.stderr)
+    print(
+        f"\nDigest written to {latest_path}, {slot_archive_path}, {date_archive_path}",
+        file=sys.stderr,
+    )
     print(f"Headline: {headline['title'][:80] if headline else 'None'}", file=sys.stderr)
     print(f"Total articles in digest: {len(selected)}", file=sys.stderr)
 
