@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-04-18",
-  "digestSlot": "am",
-  "generatedAt": "2026-04-18T07:58:39.909084+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-04-18T19:39:41.672310+00:00",
   "headline": {
-    "id": "6a3158af30a99032",
-    "title": "7 ways to travel smarter this summer, with help from Google",
-    "summary": "The article outlines seven strategies for smarter summer travel using Google tools and features. It emphasizes how these resources can enhance planning, navigation, and overall travel experiences.",
-    "sourceName": "Google AI",
-    "sourceIcon": "magnifyingglass",
-    "articleURL": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
-    "publishedAt": "2026-04-17T14:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 52
+    "id": "1d3d2f32364daf2d",
+    "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
+    "summary": "Anthropic continues to engage in discussions with senior officials from the Trump administration, despite being identified as a supply-chain risk by the Pentagon. This indicates a potential thawing of their previously strained relationship.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
+    "publishedAt": "2026-04-18T14:56:48+00:00",
+    "category": "industry",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "ba1bcd5f2b06110c",
+      "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
+      "summary": "A recent report reveals that the European Union's new age-verification app can be hacked in just two minutes, raising concerns about its security. Additionally, the article highlights significant data breaches at a gym chain and a hotel giant, along with a disruptive DDoS attack targeting Bluesky.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
+      "publishedAt": "2026-04-18T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "73d6507e408edd31",
+      "title": "AI chip startup Cerebras files for IPO",
+      "summary": "AI chip startup Cerebras has filed for an initial public offering (IPO) following significant partnerships, including an agreement with Amazon Web Services to utilize its chips in data centers and a reported $10 billion deal with OpenAI. The IPO filing marks a key step for the company as it seeks to expand its market presence.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
+      "publishedAt": "2026-04-18T19:19:11+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "5d5bb9dcf3253383",
+      "title": "The App Store is booming again, and AI may be why",
+      "summary": "New data from Appfigures indicates a significant increase in app launches in 2026, potentially driven by advancements in AI tools. This resurgence suggests that AI may be playing a crucial role in revitalizing the mobile software market.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
+      "publishedAt": "2026-04-18T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "e1caa57822346b71",
+      "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
+      "summary": "Schematik is a new program designed to assist users in coding for physical devices, likened to a \"cursor for hardware.\" Anthropic has expressed interest in this technology, which aims to simplify the coding process while ensuring safety.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
+      "publishedAt": "2026-04-18T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "6a3158af30a99032",
+      "title": "7 ways to travel smarter this summer, with help from Google",
+      "summary": "The article outlines seven strategies for smarter summer travel using Google tools, including tips for planning, navigation, and finding local attractions. It emphasizes leveraging technology to enhance the travel experience and make the most of summer adventures.",
+      "sourceName": "Google AI",
+      "sourceIcon": "magnifyingglass",
+      "articleURL": "https://blog.google/products-and-platforms/products/search/summer-travel-tips-google-search-ai/",
+      "publishedAt": "2026-04-17T14:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 42
+    },
+    {
       "id": "d05e171adc5ea8a0",
       "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "summary": "Grinex, a US-sanctioned currency exchange, reported a $15 million heist, attributing the attack to resources available only to \"unfriendly states.\" The company claims that the sophistication of the hacking operation suggests state-sponsored involvement.",
+      "summary": "Grinex, a US-sanctioned currency exchange, reported a $15 million heist, attributing the attack to resources that it claims are only accessible to \"unfriendly states.\" The exchange's statement highlights concerns over the capabilities of state-sponsored hacking in the cryptocurrency sector.",
       "sourceName": "Ars Technica",
       "sourceIcon": "desktopcomputer",
       "articleURL": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
       "publishedAt": "2026-04-17T21:28:35+00:00",
       "category": "news",
-      "relevanceScore": 52
+      "relevanceScore": 42
     },
     {
       "id": "fe3a3e4d73159dd1",
       "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "summary": "Sam Altman's project World is aiming to expand its human verification services by partnering with platforms like Tinder. The initiative focuses on its Orb-centered anonymous verification system to enhance user trust and safety.",
+      "summary": "Sam Altman's project World is aiming to expand its human verification services through partnerships, starting with Tinder. The initiative focuses on its Orb-centered anonymous verification system to enhance user safety and trust on the platform.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
       "publishedAt": "2026-04-17T22:34:02+00:00",
       "category": "industry",
-      "relevanceScore": 50
+      "relevanceScore": 40
     },
     {
       "id": "95fe91d2cdd4e056",
       "title": "Sources: Cursor in talks to raise $2B+ at $50B valuation as enterprise growth surges",
-      "summary": "Cursor is in discussions to raise over $2 billion at a valuation of $50 billion, driven by significant growth in its enterprise sector. The funding round is anticipated to be led by returning investors a16z and Thrive.",
+      "summary": "Cursor is in discussions to raise over $2 billion at a valuation of $50 billion, driven by significant growth in its enterprise segment. The funding round is expected to be led by returning investors a16z and Thrive.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/17/sources-cursor-in-talks-to-raise-2b-at-50b-valuation-as-enterprise-growth-surges/",
       "publishedAt": "2026-04-17T19:17:26+00:00",
       "category": "industry",
-      "relevanceScore": 50
+      "relevanceScore": 40
     },
     {
       "id": "8e20685b4753b1fc",
       "title": "OpenAI’s former Sora boss is leaving",
-      "summary": "Bill Peebles, the leader of OpenAI's Sora video generation team, has announced his departure from the company following the discontinuation of the Sora tool. This change is part of OpenAI's broader strategy to refocus its efforts and avoid distractions in its projects.",
+      "summary": "Bill Peebles, the leader of OpenAI's Sora video generation tool, has announced his departure from the company following its decision to discontinue the Sora project. This change is part of OpenAI's broader strategy to refocus its efforts and avoid distractions.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
       "publishedAt": "2026-04-17T21:13:25+00:00",
       "category": "news",
-      "relevanceScore": 49
+      "relevanceScore": 39
     },
     {
       "id": "ea0b0d676e26ed2b",
       "title": "Should you stare into Sam Altman’s orb before your next date?",
-      "summary": "Tinder is introducing a feature that allows users to verify their identity by visiting a facial scanning orb, co-founded by OpenAI CEO Sam Altman, in exchange for five free boosts on the app. This initiative is part of a broader trend of services adopting orb technology for identity verification.",
+      "summary": "Tinder is introducing a feature that allows users to earn five free boosts by verifying their identity through a facial-scanning orb developed by World, a company co-founded by OpenAI CEO Sam Altman. This initiative aims to enhance user authenticity on the platform.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
       "publishedAt": "2026-04-17T20:42:47+00:00",
       "category": "news",
-      "relevanceScore": 48
+      "relevanceScore": 38
     },
     {
       "id": "56c1348267e1520e",
       "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "Anthropic's new cybersecurity model, Claude Mythos Preview, may help improve the company's relationship with the Trump administration, which has previously criticized it as a threat to national security. The model's focus on cybersecurity could potentially address concerns raised by the government, signaling a shift in dynamics.",
+      "summary": "Anthropic's new cybersecurity model, Claude Mythos Preview, may help improve its relationship with the Trump administration, which has previously criticized the company as a national security threat. The model's focus on cybersecurity could potentially address some of the government's concerns regarding AI safety and security.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
       "publishedAt": "2026-04-17T20:14:21+00:00",
       "category": "news",
-      "relevanceScore": 48
-    },
-    {
-      "id": "0c10e5b56661f583",
-      "title": "Kevin Weil and Bill Peebles exit OpenAI as company continues to shed ‘side quests’",
-      "summary": "Kevin Weil and Bill Peebles are departing from OpenAI as the company discontinues its Sora project and integrates its science team, indicating a strategic shift from consumer-focused initiatives to enterprise AI solutions. This move is part of OpenAI's broader effort to streamline operations and focus on core business objectives.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/",
-      "publishedAt": "2026-04-17T20:38:17+00:00",
-      "category": "industry",
-      "relevanceScore": 48
-    },
-    {
-      "id": "ffb834da7755c1c5",
-      "title": "‘Tokenmaxxing’ is making developers less productive than they think",
-      "summary": "A new analysis reveals that the trend of 'tokenmaxxing' is leading developers to produce more code, but this increase is resulting in higher costs and necessitating extensive rewrites. As a consequence, overall developer productivity may be lower than perceived.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/04/17/tokenmaxxing-is-making-developers-less-productive-than-they-think/",
-      "publishedAt": "2026-04-17T18:42:45+00:00",
-      "category": "industry",
-      "relevanceScore": 46
-    },
-    {
-      "id": "6be28400f854db14",
-      "title": "Gazing Into Sam Altman’s Orb Now Proves You’re Human on Tinder",
-      "summary": "Tinder has introduced a new feature that requires users to verify their humanity by gazing into a virtual orb associated with OpenAI's Sam Altman. This initiative aims to enhance user authenticity and reduce the prevalence of bots on the platform.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/gazing-into-sam-altmans-orb-now-proves-youre-human-on-tinder/",
-      "publishedAt": "2026-04-17T17:14:51+00:00",
-      "category": "news",
-      "relevanceScore": 45
-    },
-    {
-      "id": "3d3fa50c720e6619",
-      "title": "Dairy Queen is putting an AI chatbot in its drive-thrus",
-      "summary": "Dairy Queen is introducing an AI chatbot in its drive-thrus at multiple locations across the US and Canada to enhance service speed and encourage larger orders. The initiative is part of a broader trend among fast food chains to integrate AI technology into their operations.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/913928/dairy-queen-ai-drive-thru-presto",
-      "publishedAt": "2026-04-17T15:46:37+00:00",
-      "category": "news",
-      "relevanceScore": 44
-    },
-    {
-      "id": "87b8715b1426df36",
-      "title": "Tokenmaxxing, OpenAI’s shopping spree, and the AI Anxiety Gap",
-      "summary": "The article discusses the growing divide between AI industry insiders and the general public, highlighting OpenAI's recent acquisitions in various sectors and Anthropic's decision to withhold a powerful AI model from public release. It also notes how companies are rebranding and adapting to the AI landscape, reflecting increasing investment and concern within the field.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/podcast/tokenmaxxing-openais-shopping-spree-and-the-ai-anxiety-gap/",
-      "publishedAt": "2026-04-17T15:57:40+00:00",
-      "category": "industry",
-      "relevanceScore": 44
+      "relevanceScore": 38
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 26,
+    "articlesProcessed": 27,
     "articlesSelected": 12
   }
 }
