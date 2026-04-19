@@ -1,145 +1,123 @@
 {
   "digestDate": "2026-04-19",
-  "digestSlot": "am",
-  "generatedAt": "2026-04-19T08:05:21.045862+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-04-19T19:40:03.548707+00:00",
   "headline": {
-    "id": "63a48b86cfe452f1",
-    "title": "Tesla brings its robotaxi service to Dallas and Houston",
-    "summary": "Tesla has expanded its robotaxi service to Dallas and Houston, following its initial launch in Austin last year. The service now operates in three Texas cities, providing rides without safety drivers since January 2026.",
+    "id": "591945fe58d09475",
+    "title": "The 12-month window",
+    "summary": "Many AI startups are emerging in areas not yet covered by existing foundation models, but this trend is expected to change as these models continue to evolve. Industry experts suggest that the current 12-month window for innovation in these niches may soon close as foundational technologies advance.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
-    "publishedAt": "2026-04-18T21:37:15+00:00",
+    "articleURL": "https://techcrunch.com/2026/04/19/the-12-month-window/",
+    "publishedAt": "2026-04-19T19:30:00+00:00",
     "category": "industry",
-    "relevanceScore": 44
+    "relevanceScore": 60
   },
   "articles": [
     {
+      "id": "566dbc72e57262ab",
+      "title": "Palantir posts mini-manifesto denouncing inclusivity and ‘regressive’ cultures",
+      "summary": "Palantir has released a statement criticizing inclusivity and what it describes as \"regressive\" cultures, reflecting its controversial stance amid its collaborations with agencies like ICE. The company's ideological position has faced increased scrutiny as it asserts its role as a defender of Western values.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/19/palantir-posts-mini-manifesto-denouncing-regressive-and-harmful-cultures/",
+      "publishedAt": "2026-04-19T16:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "00536f8eb9bee2de",
+      "title": "TechCrunch Mobility: Uber enters its assetmaxxing era",
+      "summary": "Uber is entering a new phase focused on maximizing its assets, emphasizing the integration of AI in its operations. The article discusses the implications of this shift for the future of transportation.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/19/techcrunch-mobility-uber-enters-its-assetmaxxing-era/",
+      "publishedAt": "2026-04-19T16:01:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
       "id": "8ac80cafb6b5d9df",
       "title": "The RAM shortage could last years",
-      "summary": "A report from Nikkei Asia indicates that the global DRAM shortage may persist for several years, with suppliers projected to meet only 60 percent of demand by the end of 2027. SK Group's chairman has suggested that the shortages could extend until 2030, despite efforts by major memory manufacturers like Samsung, SK Hynix, and Micron to increase production.",
+      "summary": "A report from Nikkei Asia indicates that despite increased DRAM production efforts, manufacturers are projected to meet only 60 percent of demand by the end of 2027, with potential shortages extending until 2030, according to SK Group's chairman. Major memory producers, including Samsung, SK Hynix, and Micron, are actively working to expand their production capacities.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914672/the-ram-shortage-could-last-years",
       "publishedAt": "2026-04-18T21:08:45+00:00",
       "category": "news",
-      "relevanceScore": 43
+      "relevanceScore": 34
+    },
+    {
+      "id": "63a48b86cfe452f1",
+      "title": "Tesla brings its robotaxi service to Dallas and Houston",
+      "summary": "Tesla has expanded its robotaxi service to Dallas and Houston, adding to its existing operations in Austin. The service, which allows rides without safety drivers, was launched in January 2026.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/",
+      "publishedAt": "2026-04-18T21:37:15+00:00",
+      "category": "industry",
+      "relevanceScore": 34
     },
     {
       "id": "1d3d2f32364daf2d",
       "title": "Anthropic’s relationship with the Trump administration seems to be thawing",
-      "summary": "Anthropic continues to engage in discussions with senior officials from the Trump administration, despite being identified as a supply-chain risk by the Pentagon. The company's ongoing dialogue suggests a potential thawing of their previously strained relationship.",
+      "summary": "Anthropic continues to engage in discussions with senior officials from the Trump administration, despite being classified as a supply-chain risk by the Pentagon. This indicates a potential thawing of their previously strained relationship.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/",
       "publishedAt": "2026-04-18T14:56:48+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 34
     },
     {
       "id": "ba1bcd5f2b06110c",
       "title": "It Takes 2 Minutes to Hack the EU’s New Age-Verification App",
-      "summary": "A recent report reveals that the European Union's new age-verification app can be hacked in just two minutes, raising concerns about its security measures. Additionally, significant data breaches have occurred at a gym chain and a hotel giant, alongside a disruptive DDoS attack on Bluesky.",
+      "summary": "A security analysis reveals that the European Union's new age-verification app can be hacked in just two minutes. The article also highlights significant data breaches at a gym chain and a hotel giant, alongside a disruptive DDoS attack on Bluesky and concerns over questionable hires by ICE.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-it-takes-2-minutes-to-hack-the-eus-new-age-verification-app/",
       "publishedAt": "2026-04-18T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 43
+      "relevanceScore": 33
     },
     {
       "id": "73d6507e408edd31",
       "title": "AI chip startup Cerebras files for IPO",
-      "summary": "AI chip startup Cerebras has filed for an initial public offering (IPO) following significant partnerships, including an agreement with Amazon Web Services to utilize its chips in data centers and a reported $10 billion deal with OpenAI. The IPO aims to capitalize on the growing demand for advanced AI hardware solutions.",
+      "summary": "AI chip startup Cerebras has filed for an initial public offering (IPO) following recent agreements with Amazon Web Services to utilize its chips in data centers and a significant partnership with OpenAI valued at over $10 billion. The IPO filing marks a key step for the company as it seeks to expand its market presence.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/",
       "publishedAt": "2026-04-18T19:19:11+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 32
     },
     {
       "id": "5d5bb9dcf3253383",
       "title": "The App Store is booming again, and AI may be why",
-      "summary": "New data from Appfigures indicates a significant increase in app launches in 2026, suggesting that AI tools may be driving a resurgence in the mobile software market. This trend highlights the growing influence of AI technologies on app development and innovation.",
+      "summary": "New data from Appfigures indicates a significant increase in app launches in 2026, potentially driven by advancements in AI tools. This resurgence suggests that AI may be playing a key role in revitalizing the mobile software market.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/04/18/the-app-store-is-booming-again-and-ai-may-be-why/",
       "publishedAt": "2026-04-18T13:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 32
     },
     {
       "id": "e1caa57822346b71",
       "title": "Schematik Is ‘Cursor for Hardware.’ Anthropic Wants In",
-      "summary": "Schematik is a new program designed to assist users in coding for physical devices, likened to a \"cursor for hardware.\" Anthropic has expressed interest in the technology, which aims to simplify the coding process while ensuring safety.",
+      "summary": "Schematik is a new program designed to assist users in coding for physical devices, likened to a \"cursor for hardware.\" Anthropic has expressed interest in the development of this tool.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/schematik-is-cursor-for-hardware-anthropic-wants-in-on-it/",
       "publishedAt": "2026-04-18T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 40
-    },
-    {
-      "id": "d05e171adc5ea8a0",
-      "title": "US-sanctioned currency exchange says $15 million heist done by \"unfriendly states\"",
-      "summary": "Grinex, a US-sanctioned currency exchange, claims that a recent $15 million heist was executed by \"unfriendly states\" with access to advanced hacking resources. The exchange's statement highlights concerns over the capabilities of state-sponsored cybercriminals.",
-      "sourceName": "Ars Technica",
-      "sourceIcon": "desktopcomputer",
-      "articleURL": "https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/",
-      "publishedAt": "2026-04-17T21:28:35+00:00",
-      "category": "news",
-      "relevanceScore": 32
-    },
-    {
-      "id": "fe3a3e4d73159dd1",
-      "title": "Sam Altman’s project World looks to scale its human verification empire. First stop: Tinder.",
-      "summary": "Sam Altman's project World is aiming to expand its human verification services through new partnerships, starting with Tinder. The initiative focuses on its Orb-centered anonymous verification system to enhance user safety and trust on platforms.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/04/17/sam-altmans-project-world-looks-to-scale-its-human-verification-empire-first-stop-tinder/",
-      "publishedAt": "2026-04-17T22:34:02+00:00",
-      "category": "industry",
       "relevanceScore": 30
-    },
-    {
-      "id": "8e20685b4753b1fc",
-      "title": "OpenAI’s former Sora boss is leaving",
-      "summary": "Bill Peebles, the leader of OpenAI's Sora video generation tool, has announced his departure from the company following its decision to discontinue the Sora project. This move is part of OpenAI's broader strategy to refocus its efforts and avoid distractions in its operations.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing",
-      "publishedAt": "2026-04-17T21:13:25+00:00",
-      "category": "news",
-      "relevanceScore": 28
-    },
-    {
-      "id": "ea0b0d676e26ed2b",
-      "title": "Should you stare into Sam Altman’s orb before your next date?",
-      "summary": "Tinder is introducing a feature that allows users to verify their identity by visiting a facial scanning orb, co-founded by OpenAI CEO Sam Altman, in exchange for five free boosts on the app. This initiative aims to enhance user authenticity and follows a successful testing phase.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914385/world-id-tinder-identity-verifying-orb",
-      "publishedAt": "2026-04-17T20:42:47+00:00",
-      "category": "news",
-      "relevanceScore": 28
-    },
-    {
-      "id": "56c1348267e1520e",
-      "title": "Anthropic’s new cybersecurity model could get it back in the government’s good graces",
-      "summary": "Anthropic's new cybersecurity model, Claude Mythos Preview, may improve its relationship with the Trump administration, which has previously criticized the company as a national security threat. The model aims to address concerns related to cybersecurity and could potentially help the company regain favor with government officials.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview",
-      "publishedAt": "2026-04-17T20:14:21+00:00",
-      "category": "news",
-      "relevanceScore": 28
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 13,
-    "articlesSelected": 12
+    "articlesProcessed": 10,
+    "articlesSelected": 10
   }
 }
