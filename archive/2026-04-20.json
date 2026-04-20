@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-04-20",
-  "digestSlot": "am",
-  "generatedAt": "2026-04-20T09:06:49.909112+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-04-20T19:59:16.656305+00:00",
   "headline": {
-    "id": "6b7138a15a0733cd",
-    "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
-    "summary": "Chinese tech workers are increasingly being asked by employers to train AI agents that could potentially replace them, leading to significant introspection among these early adopters of AI technology. A recent GitHub project called Colleague Skill aims to help users replicate their colleagues' skills and personality traits through AI.",
-    "sourceName": "MIT Tech Review",
-    "sourceIcon": "newspaper",
-    "articleURL": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
-    "publishedAt": "2026-04-20T09:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 61
+    "id": "3effde1e8e7bb991",
+    "title": "It’s not just one thing — it’s another thing",
+    "summary": "The phrase construction \"It's not just this — it's that\" has become a prevalent indicator of AI-generated writing, suggesting a high likelihood that a text is synthetic. This trend highlights the growing recognition of specific linguistic patterns associated with artificial intelligence outputs.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/04/20/ai-writing-its-not-just-this-its-that-barrons/",
+    "publishedAt": "2026-04-20T19:37:07+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "e59b28db9991152d",
+      "title": "Fortnite developers can make AI characters now — just don’t try to date them",
+      "summary": "Epic Games has introduced a new \"conversations\" tool for Fortnite creators, allowing them to develop AI-powered characters that players can interact with. This feature aims to enhance gameplay by enabling dynamic dialogues without the need for traditional dialogue trees.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/games/914963/fortnite-ai-characters-developers-conversations",
+      "publishedAt": "2026-04-20T16:58:39+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "8e041f51f7d18c9e",
+      "title": "NSA spies are reportedly using Anthropic’s Mythos, despite Pentagon feud",
+      "summary": "The NSA is reportedly utilizing Anthropic's restricted Mythos AI model, despite ongoing tensions with the Pentagon. This development highlights the agency's interest in advanced AI technologies for intelligence purposes.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/20/nsa-spies-are-reportedly-using-anthropics-mythos-despite-pentagon-feud/",
+      "publishedAt": "2026-04-20T16:06:21+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "6b7138a15a0733cd",
+      "title": "Chinese tech workers are starting to train their AI doubles–and pushing back",
+      "summary": "Chinese tech workers are facing pressure from employers to train AI agents that could potentially replace them, leading to significant introspection among those who initially embraced AI technology. A recent GitHub project, Colleague Skill, aims to help workers replicate their colleagues' skills and traits, highlighting the growing concern over job security in the tech industry.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/04/20/1136149/chinese-tech-workers-ai-colleagues/",
+      "publishedAt": "2026-04-20T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "3b86ffface50334f",
+      "title": "Prego Has a Dinner-Conversation-Recording Device, Capisce?",
+      "summary": "Prego has collaborated with the nonprofit StoryCorps to create a device that records family conversations during dinner, preserving these moments for future generations. The initiative aims to encourage meaningful dialogue and connection among family members.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/prego-has-a-dinner-recording-device-capiche/",
+      "publishedAt": "2026-04-20T13:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "a6539cfb66e7ff81",
+      "title": "CEO and CFO suddenly depart AI nuclear power upstart Fermi",
+      "summary": "Fermi, an AI nuclear power startup co-founded by former U.S. Energy Secretary Rick Perry, has announced the sudden departure of its CEO and CFO amid challenges at its Texas campus. The company is navigating difficulties in its operations and strategic direction.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/20/fermi-ceo-and-cfo-depart-texas-nuclear-power-ai/",
+      "publishedAt": "2026-04-20T15:30:19+00:00",
+      "category": "industry",
+      "relevanceScore": 49
+    },
+    {
+      "id": "393c46f43550e8f9",
+      "title": "Autonomous AI at Scale: Adobe Agents Unlock Breakthrough Creative Intelligence With NVIDIA and WPP",
+      "summary": "Adobe, in collaboration with NVIDIA and WPP, is integrating autonomous AI agents into enterprise marketing operations to enhance creative production and customer experience. This partnership aims to meet the growing demand for personalized customer interactions by leveraging advanced AI technologies.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/adobe-ai-agents-nvidia-wpp/",
+      "publishedAt": "2026-04-20T13:00:50+00:00",
+      "category": "industry",
+      "relevanceScore": 49
+    },
+    {
       "id": "a7a52cd218b95358",
       "title": "NVIDIA and Partners Showcase the Future of AI-Driven Manufacturing at Hannover Messe 2026",
-      "summary": "At Hannover Messe 2026, NVIDIA and its partners highlighted the transformative impact of AI on manufacturing, emphasizing the industry's shift towards AI-driven production to address challenges such as faster design cycles and labor shortages. The focus is now on the speed and methods of AI adoption in manufacturing processes.",
+      "summary": "NVIDIA and its partners presented advancements in AI-driven manufacturing at Hannover Messe 2026, highlighting the industry's shift towards more efficient production methods amid pressures for faster design cycles and leaner operations. The focus is now on the speed of AI adoption and its integration into manufacturing processes.",
       "sourceName": "NVIDIA AI",
       "sourceIcon": "gamecontroller",
       "articleURL": "https://blogs.nvidia.com/blog/ai-manufacturing-hannover-messe/",
       "publishedAt": "2026-04-20T08:30:55+00:00",
       "category": "industry",
-      "relevanceScore": 57
+      "relevanceScore": 48
+    },
+    {
+      "id": "63c6b4f080942a93",
+      "title": "Tech CEOs Think AI Will Let Them Be Everywhere at Once",
+      "summary": "Tech CEOs Mark Zuckerberg and Jack Dorsey are exploring distinct approaches to leveraging AI for management, with both envisioning enhanced control over their operations. Their differing strategies highlight the potential for AI to enable leaders to maintain oversight across various aspects of their businesses simultaneously.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/tech-ceos-using-ai-to-be-everywhere-at-once/",
+      "publishedAt": "2026-04-20T11:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 45
+    },
+    {
+      "id": "24cb1873b9d2d37a",
+      "title": "OpenAI helps Hyatt advance AI among colleagues",
+      "summary": "Hyatt has implemented ChatGPT Enterprise, utilizing GPT-5.4 and Codex, to enhance productivity and operations across its global workforce. The initiative aims to improve guest experiences through advanced AI integration.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/hyatt-advances-ai-with-chatgpt-enterprise",
+      "publishedAt": "2026-04-20T00:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 42
     },
     {
       "id": "347c47b4a0c08e45",
       "title": "Discover and Prove: An Open-source Agentic Framework for Hard Mode Automated Theorem Proving in Lean 4",
-      "summary": "The article introduces \"Discover and Prove,\" an open-source framework designed for Hard Mode automated theorem proving in Lean 4, which requires systems to independently discover answers before formal proof construction. This framework aims to address limitations in current automated theorem proving benchmarks that often simplify tasks, providing a more realistic challenge akin to human problem-solving.",
+      "summary": "The article introduces \"Discover and Prove,\" an open-source framework designed for Hard Mode automated theorem proving in Lean 4, which requires systems to independently discover answers before formal proof construction. This approach aims to provide a more realistic benchmark for evaluating model capabilities compared to the conventional \"Easy Mode.\"",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.15839",
       "publishedAt": "2026-04-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "eff0a1308acb8a17",
       "title": "The Illusion of Equivalence: Systematic FP16 Divergence in KV-Cached Autoregressive Inference",
-      "summary": "A recent study reveals that KV caching in autoregressive transformer inference, commonly believed to be numerically equivalent to cache-free computation, actually leads to divergent results under standard FP16 precision due to non-associative floating-point accumulation. This discrepancy affects the decoded token sequences in multiple open-weight models, including LLaMA-2-7B.",
+      "summary": "A recent study highlights that KV caching in autoregressive transformer inference, commonly believed to be numerically equivalent to cache-free computation, actually leads to divergent results when using standard FP16 precision. The research demonstrates that the different floating-point accumulation orderings in cache-ON and cache-OFF paths result in non-associative behavior, affecting the consistency of decoded token sequences across various models.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.15409",
       "publishedAt": "2026-04-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "e3ebee6e4c51c9ee",
-      "title": "(1D) Ordered Tokens Enable Efficient Test-Time Search",
-      "summary": "A recent study explores the impact of token structures in autoregressive generative models on the efficiency of test-time search. The findings suggest that ordered tokens can enhance the ability to steer generation by allowing for more effective exploration of candidate generations.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.15453",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "5a6a38b3a30f9db7",
-      "title": "GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows",
-      "summary": "The article introduces GTA-2, a new hierarchical benchmark designed to evaluate General Tool Agents (GTA) by encompassing both atomic tool use and complex, open-ended workflows. This benchmark aims to better align AI tool-use assessments with real-world productivity requirements, addressing limitations in current evaluation methods.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.15715",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "4a13eeaa7e9ed6d0",
-      "title": "Early Detection of Acute Myeloid Leukemia (AML) Using YOLOv12 Deep Learning Model",
-      "summary": "A study published on arXiv demonstrates the use of the YOLOv12 deep learning model for the early detection and classification of Acute Myeloid Leukemia (AML) cells, addressing the challenges posed by the visual similarities among different cell types. The research employs two segmentation techniques focused on cell and nucleus features to enhance classification accuracy.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.16082",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "8a8f718412434114",
-      "title": "Seed1.8 Model Card: Towards Generalized Real-World Agency",
-      "summary": "The Seed1.8 model is a foundation model designed to enhance generalized real-world agency by enabling multi-turn interactions, tool use, and multi-step execution. It maintains strong performance in language and vision tasks while providing a unified interface for search, code generation, and GUI interaction, along with cost-effective inference options.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2603.20633",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "9cfeb03334d65abb",
-      "title": "ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence",
-      "summary": "ARC-AGI-3 is a new interactive benchmark designed to evaluate agentic intelligence in abstract, turn-based environments, where agents must independently explore, infer goals, and plan actions without explicit instructions. This benchmark continues the focus of its predecessors on assessing fluid adaptive efficiency in novel tasks, while avoiding reliance on language and external knowledge.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2603.24621",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "0edc5334366f1a0a",
-      "title": "1S-DAug: One-Shot Data Augmentation for Robust Few-Shot Generalization",
-      "summary": "The article presents 1S-DAug, a novel one-shot generative augmentation method designed to enhance few-shot learning by creating diverse variants from a single example image at test time. This approach combines traditional geometric perturbations with controlled noise injection to improve model generalization to novel classes.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.00114",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "7e4ccde233be47d6",
-      "title": "Security Threat Modeling for Emerging AI-Agent Protocols: A Comparative Analysis of MCP, A2A, Agora, and ANP",
-      "summary": "The article conducts a comparative analysis of emerging AI-agent communication protocols—Model Context Protocol (MCP), Agent2Agent (A2A), Agora, and Agent Network Protocol (ANP)—highlighting their roles in facilitating multi-agent interaction and interoperability. It emphasizes the need for standardized threat modeling to address the security principles that are currently underexplored in these protocols.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.11327",
-      "publishedAt": "2026-04-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "591945fe58d09475",
-      "title": "The 12-month window",
-      "summary": "Many AI startups are emerging in areas not yet covered by existing foundation models, but this opportunity is expected to diminish over time. Industry experts suggest that the current 12-month window for innovation in these categories may soon close as foundational models expand.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/04/19/the-12-month-window/",
-      "publishedAt": "2026-04-19T19:30:00+00:00",
-      "category": "industry",
-      "relevanceScore": 49
+      "relevanceScore": 41
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 287,
+    "articlesProcessed": 293,
     "articlesSelected": 12
   }
 }
