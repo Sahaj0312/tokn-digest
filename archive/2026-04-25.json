@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-04-25",
-  "digestSlot": "am",
-  "generatedAt": "2026-04-25T08:04:48.400468+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-04-25T19:42:45.404446+00:00",
   "headline": {
-    "id": "333699761b3018e4",
-    "title": "8 Gemini tips for organizing your space (and life)",
-    "summary": "The article provides eight practical tips for utilizing Gemini to enhance organization in both physical spaces and daily life. It includes strategies for managing tasks, documents, and communication effectively through the platform.",
-    "sourceName": "Google AI",
-    "sourceIcon": "magnifyingglass",
-    "articleURL": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-    "publishedAt": "2026-04-24T19:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "2e736adc62c62250",
+    "title": "Why Tokyo is the most important tech destination of 2026",
+    "summary": "Tokyo will host SusHi Tech 2026, focusing on four key technology domains with live demonstrations and dedicated exhibit spaces. The event aims to showcase innovations and connect builders and investors in the global tech landscape.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/04/25/why-tokyo-is-the-most-important-tech-destination-of-2026/",
+    "publishedAt": "2026-04-25T15:03:00+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "62bc1e76d26eb1a9",
+      "title": "Apple under Ternus: what comes next for the tech giant’s hardware strategy",
+      "summary": "John Ternus, Apple's new CEO, is expected to refocus the company's strategy on hardware development, emphasizing the importance of devices in Apple's future plans. This shift may lead to a renewed emphasis on innovation and product offerings within the tech giant's hardware lineup.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/25/apple-under-ternus-what-comes-next-for-the-tech-giants-hardware-strategy/",
+      "publishedAt": "2026-04-25T15:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "96d77405b470fc22",
+      "title": "OpenAI CEO apologizes to Tumbler Ridge community",
+      "summary": "OpenAI CEO Sam Altman issued an apology to the Tumbler Ridge community for the company's failure to notify law enforcement regarding a suspect linked to a recent mass shooting. In his letter, he expressed his deep regret for the oversight.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "publishedAt": "2026-04-25T17:17:56+00:00",
+      "category": "industry",
+      "relevanceScore": 50
+    },
+    {
+      "id": "2aab4e3383169f6a",
+      "title": "Discord Sleuths Gained Unauthorized Access to Anthropic’s Mythos",
+      "summary": "Discord users gained unauthorized access to Anthropic's AI model, Mythos, raising concerns about security and data privacy. In related news, spy firms are exploiting vulnerabilities in global telecom networks, and 500,000 UK health records have been listed for sale on Alibaba.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-discord-sleuths-gained-unauthorized-access-to-anthropics-mythos/",
+      "publishedAt": "2026-04-25T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "f0c1efc821c1cc96",
+      "title": "Why Cohere is merging with Aleph Alpha",
+      "summary": "Cohere, a Canadian AI startup, is merging with Germany-based Aleph Alpha, backed by Lidl's owner, Schwarz Group. The partnership aims to provide a sovereign alternative for enterprises in the AI sector, which is largely influenced by American companies.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/25/why-cohere-is-merging-with-aleph-alpha/",
+      "publishedAt": "2026-04-25T16:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 49
+    },
+    {
+      "id": "07e6312f425061ba",
+      "title": "Ace the Ping-Pong Robot Can Whup Your Ass",
+      "summary": "The Ace ping-pong robot is designed to analyze the trajectory of a ball and adjust its racket angle to engage in realistic matches with human players. Its advanced technology allows it to maintain an ongoing exchange, showcasing significant improvements in robotic sports interaction.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/ace-the-robot-wants-to-become-the-world-table-tennis-champion/",
+      "publishedAt": "2026-04-25T09:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "333699761b3018e4",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "summary": "The article provides eight practical tips for utilizing Gemini to enhance organization in both personal space and daily life. It highlights features like document management and checklist tools to streamline tasks and improve productivity.",
+      "sourceName": "Google AI",
+      "sourceIcon": "magnifyingglass",
+      "articleURL": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "publishedAt": "2026-04-24T19:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 46
+    },
+    {
       "id": "99e2e5251837e029",
       "title": "Three reasons why DeepSeek’s new model matters",
-      "summary": "Chinese AI firm DeepSeek has unveiled a preview of its new flagship model, V4, which features enhanced capabilities for processing longer prompts more efficiently. The model remains open source, continuing the company's commitment to accessibility in AI development.",
+      "summary": "Chinese AI firm DeepSeek has previewed its new flagship model, V4, which features an improved design allowing it to process significantly longer prompts than its predecessor. The model remains open source, continuing the company's commitment to accessibility in AI development.",
       "sourceName": "MIT Tech Review",
       "sourceIcon": "newspaper",
       "articleURL": "https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/",
       "publishedAt": "2026-04-24T21:40:58+00:00",
       "category": "product",
-      "relevanceScore": 53
+      "relevanceScore": 43
+    },
+    {
+      "id": "c474457a9e64d986",
+      "title": "ComfyUI hits $500M valuation as creators seek more control over AI-generated media",
+      "summary": "ComfyUI has achieved a valuation of $500 million following a $30 million funding round aimed at enhancing creators' control over AI-generated media, including images, videos, and audio. The company's tools are designed to empower users in the content creation process.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/04/24/comfyui-hits-500m-valuation-as-creators-seek-more-control-over-ai-generated-media/",
+      "publishedAt": "2026-04-24T19:49:35+00:00",
+      "category": "industry",
+      "relevanceScore": 41
     },
     {
       "id": "5a3454eb1a9c0b19",
       "title": "M-CARE: Standardized Clinical Case Reporting for AI Model Behavioral Disorders, with a 20-Case Atlas and Experimental Validation",
-      "summary": "The article introduces M-CARE, a standardized clinical case reporting framework designed for evaluating AI model behavioral disorders, modeled after human medical practices. It includes a comprehensive report format, a diagnostic assessment system, and a classification of AI behavioral conditions, supported by 20 case studies from various observational and experimental sources.",
+      "summary": "The article introduces M-CARE, a standardized clinical case reporting framework designed for evaluating AI model behavioral disorders, modeled after human medical practices. It features a comprehensive report format, a diagnostic assessment system, and a classification of AI behavioral conditions, supported by 20 case studies from various observational and experimental sources.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.20871",
       "publishedAt": "2026-04-25T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 51
+      "relevanceScore": 41
     },
     {
       "id": "420085de571007d6",
       "title": "Planetary Exploration 3.0: A Roadmap for Software-Defined, Radically Adaptive Space Systems",
-      "summary": "The article discusses a proposed roadmap for advancing planetary exploration through the development of software-defined, adaptive space systems, moving beyond the current incremental approach exemplified by NASA's Mars missions. It emphasizes the need to explore the largely uncharted surfaces and subsurfaces of celestial bodies beyond Mars, which may provide critical insights into planetary science.",
+      "summary": "The article discusses a proposed roadmap for advancing planetary exploration through software-defined and adaptive space systems, emphasizing the need to explore the largely uncharted surfaces and subsurfaces of celestial bodies beyond Mars. It critiques the traditional incremental approach of NASA's Mars missions and suggests a shift towards more innovative strategies to address fundamental questions in planetary science.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.20910",
       "publishedAt": "2026-04-25T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 51
+      "relevanceScore": 41
     },
     {
       "id": "de65f4b18598c6f6",
       "title": "Integrated packing, placement, scheduling, and routing of personalized production: a pharmaceutical Industry 4.0 use-case with a planar transport system",
-      "summary": "The article discusses the integration of packing, placement, scheduling, and routing in personalized production within the pharmaceutical industry, utilizing a planar transport system. It highlights how this innovative approach addresses inefficiencies in traditional manufacturing by allowing independent movers to operate on a tile-based planar grid, enhancing logistics and production operations.",
+      "summary": "The article discusses the integration of packing, placement, scheduling, and routing in personalized production within the pharmaceutical sector, utilizing a planar transport system. It highlights how this innovative approach can enhance Flexible Manufacturing Systems (FMS) by improving efficiency through independent movers operating on a tile-based planar grid.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.21029",
       "publishedAt": "2026-04-25T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "f4d0d38e7de471db",
-      "title": "AGNT2: Autonomous Agent Economies on Interaction-Optimized Layer 2 Infrastructure",
-      "summary": "The article discusses AGNT2, a proposed Layer 2 blockchain infrastructure designed to optimize interactions for autonomous AI agents rather than human-initiated transactions. It highlights the limitations of current Layer 2 solutions in handling high-frequency, semantically rich service invocations among untrusting entities and suggests improvements for identity, escrow, and session state management.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.21129",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "edf2718d504b0b99",
-      "title": "The First Challenge on Remote Sensing Infrared Image Super-Resolution at NTIRE 2026: Benchmark Results and Method Overview",
-      "summary": "The NTIRE 2026 Remote Sensing Infrared Image Super-Resolution Challenge focuses on enhancing low-resolution infrared images to high-resolution outputs using a x4 scaling factor. The challenge aims to foster the development of advanced models for improving infrared image quality in remote sensing applications.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.21312",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "dc6206408f47b346",
-      "title": "mcdok at SemEval-2026 Task 13: Finetuning LLMs for Detection of Machine-Generated Code",
-      "summary": "The article discusses the SemEval-2026 Task 13, which focuses on the detection of machine-generated code across multiple programming languages, addressing both binary detection and source attribution. The task includes subtasks for identifying different generator LLM families and detecting hybrid code co-generated by humans and machines, as well as adversarially modified code.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.21365",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "be495332c2375a59",
-      "title": "Geometric Monomial (GEM): a family of rational 2N-differentiable activation functions",
-      "summary": "Researchers have introduced a new family of activation functions called Geometric Monomial (GEM), which are $C^{2N}$-smooth and designed to improve optimization in deep neural networks. These functions, characterized by a log-logistic cumulative distribution function, aim to address the limitations of the widely used Rectified Linear Unit (ReLU) by enhancing gradient-based optimization.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.21677",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "3aa137507c03f596",
-      "title": "AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts",
-      "summary": "The article discusses AgencyBench, a new benchmarking framework designed to evaluate autonomous agents in large language models (LLMs) within real-world contexts involving one million tokens. It addresses the limitations of current benchmarks that focus on single capabilities and highlights the need for scalable evaluation methods that do not rely on human feedback.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2601.11044",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "69ba013b38fceb23",
-      "title": "Geo-R1: Improving Few-Shot Geospatial Referring Expression Understanding with Reinforcement Fine-Tuning",
-      "summary": "The article introduces Geo-R1, a novel approach to enhance few-shot geospatial referring expression understanding through reinforcement fine-tuning. This method aims to improve performance in data-scarce scenarios by focusing on reasoning over complex object-context relationships in remote sensing applications.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2509.21976",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
-    },
-    {
-      "id": "dd6c876589481d48",
-      "title": "Federated Learning for Surgical Vision in Appendicitis Classification: Results of the FedSurg EndoVis 2024 Challenge",
-      "summary": "The FedSurg Challenge is introduced as the first international benchmarking initiative focused on applying Federated Learning (FL) to surgical vision, specifically for classifying appendicitis using complex surgical video data. This initiative addresses the challenge of utilizing multi-institutional data while maintaining patient privacy, marking a significant step in the development of generalizable surgical AI.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2510.04772",
-      "publishedAt": "2026-04-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 51
+      "relevanceScore": 41
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 343,
+    "articlesProcessed": 345,
     "articlesSelected": 12
   }
 }
