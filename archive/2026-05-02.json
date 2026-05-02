@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-05-02",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-02T08:20:09.380992+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-02T19:53:27.779546+00:00",
   "headline": {
-    "id": "5bb77939601dc0d6",
-    "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-    "summary": "In the first week of the trial between Elon Musk and OpenAI, Musk claimed he was misled by CEO Sam Altman and president Greg Brockman into funding the company. He also expressed concerns about the potential dangers of AI, stating that it could pose a significant threat to humanity.",
-    "sourceName": "MIT Tech Review",
-    "sourceIcon": "newspaper",
-    "articleURL": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-    "publishedAt": "2026-05-01T22:08:19+00:00",
-    "category": "news",
-    "relevanceScore": 56
+    "id": "965026d68e243be7",
+    "title": "The best AI dictation apps, tested and ranked",
+    "summary": "A recent evaluation of AI dictation apps highlights their effectiveness for tasks such as email responses, note-taking, and coding via voice commands. The article ranks various apps based on their performance and usability.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
+    "publishedAt": "2026-05-02T16:00:00+00:00",
+    "category": "industry",
+    "relevanceScore": 54
   },
   "articles": [
     {
-      "id": "06437414309dcca2",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "summary": "Replit CEO Amjad Masad discussed the company's position in the tech industry during a TechCrunch event, addressing speculation about potential acquisition offers amid reports that rival Cursor is in talks for a $60 billion deal with SpaceX. Masad emphasized his preference for Replit to remain independent rather than pursue a sale.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "publishedAt": "2026-05-01T23:06:50+00:00",
-      "category": "industry",
-      "relevanceScore": 50
+      "id": "5bb77939601dc0d6",
+      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
+      "summary": "In the first week of the trial between Elon Musk and OpenAI, Musk claimed he was misled by CEO Sam Altman and president Greg Brockman into funding the company. He also expressed concerns about the potential dangers of AI, stating it could pose a significant threat to humanity.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
+      "publishedAt": "2026-05-01T22:08:19+00:00",
+      "category": "news",
+      "relevanceScore": 46
+    },
+    {
+      "id": "7dc6f4b3413ea16c",
+      "title": "Disneyland Now Uses Face Recognition on Visitors",
+      "summary": "Disneyland has implemented face recognition technology to enhance visitor experiences and streamline entry processes. In related news, the NSA is testing Anthropic's Mythos Preview for vulnerability assessment, and a Finnish teenager faces charges linked to the Scattered Spider hacking incidents.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
+      "publishedAt": "2026-05-02T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 45
     },
     {
       "id": "4f07e4e2a9e7a242",
       "title": "TRUST: A Framework for Decentralized AI Service v.0.1",
-      "summary": "The article introduces TRUST, a framework designed to enhance the reliability and verification of Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes domains by addressing the limitations of centralized approaches. TRUST aims to improve robustness, scalability, transparency, and privacy in AI service delivery.",
+      "summary": "The article presents TRUST, a new framework designed to enhance the reliability of Large Reasoning Models (LRMs) and Multi-Agent Systems (MAS) in high-stakes environments by addressing limitations of centralized approaches. TRUST aims to improve robustness, scalability, transparency, and privacy in AI service verification.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27132",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "5cae537d689c9ec7",
       "title": "Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction",
-      "summary": "Web2BigTable is a bi-level multi-agent large language model (LLM) system designed to enhance internet-scale information search and extraction by addressing the dual demands of deep reasoning and structured aggregation. The system aims to improve performance on breadth-oriented tasks that require schema-aligned outputs and depth-oriented tasks that necessitate coherent reasoning across complex search paths.",
+      "summary": "Web2BigTable is a bi-level multi-agent large language model system designed to enhance internet-scale information search and extraction by addressing the dual demands of deep reasoning and structured aggregation. The system aims to improve performance on both breadth-oriented tasks, which require schema-aligned outputs, and depth-oriented tasks that involve coherent reasoning across complex search paths.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27221",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "f08c9ab73c9a9260",
       "title": "SpatialGrammar: A Domain-Specific Language for LLM-Based 3D Indoor Scene Generation",
-      "summary": "SpatialGrammar is a newly proposed domain-specific language designed to enhance the generation of interactive 3D indoor scenes from natural language by large language models (LLMs). It aims to address common spatial errors and collisions in existing methods by providing a more effective representation of 3D spatial relationships and physical constraints.",
+      "summary": "SpatialGrammar is a newly proposed domain-specific language designed to improve the generation of interactive 3D indoor scenes from natural language using large language models (LLMs). It aims to address spatial errors and collisions in existing methods by providing a more effective representation of 3D spatial relationships and physical constraints.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27555",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "8821b5359ad3d519",
       "title": "Intent2Tx: Benchmarking LLMs for Translating Natural Language Intents into Ethereum Transactions",
-      "summary": "The article introduces Intent2Tx, a new benchmark designed to evaluate Large Language Models (LLMs) in translating natural language intents into Ethereum transactions. This benchmark includes 29,921 single-step and 1,575 multi-step instances based on 300 days of real-world Ethereum mainnet data, addressing the limitations of existing benchmarks in capturing the complexity of on-chain transactions.",
+      "summary": "The article introduces Intent2Tx, a new benchmark designed to evaluate Large Language Models (LLMs) in translating natural language user intents into accurate Ethereum transactions. This benchmark includes 29,921 single-step and 1,575 multi-step instances, based on extensive analysis of 300 days of Ethereum mainnet data.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27763",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "63179f5ba9ebdbab",
       "title": "D3-Gym: Constructing Real-World Verifiable Environments for Data-Driven Discovery",
-      "summary": "D3-Gym is a newly introduced dataset designed to enhance data-driven discovery in scientific research by providing verifiable environments for language models and agents. It includes 565 tasks derived from 239 real scientific repositories, addressing the current limitations in the field.",
+      "summary": "D3-Gym is a newly introduced dataset designed to support data-driven discovery in scientific research by providing 565 tasks derived from 239 real-world scientific repositories. This initiative aims to enhance the capabilities of language models and agents by offering verifiable environments that accurately represent scientific tasks.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27977",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "7787babe234c3132",
       "title": "Learning-to-Explain through 20Q Gaming: An Explainable Recommender for Cybersecurity Education",
-      "summary": "The article introduces a new educational framework called \"Learning to Explain Cybersecurity with Q20 Game,\" which utilizes explainable AI to improve interactivity and effectiveness in cybersecurity training. This approach addresses the limitations of traditional learning methods by providing a more intuitive and adaptive learning experience.",
+      "summary": "The article introduces a novel educational framework called \"Learning to Explain Cybersecurity with Q20 Game,\" which utilizes explainable AI to improve interactivity and effectiveness in cybersecurity training. This approach addresses the limitations of traditional learning methods by offering a more intuitive and adaptive learning experience.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.26964",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "e5aba22e51594f13",
       "title": "Reconstruction by Generation: 3D Multi-Object Scene Reconstruction from Sparse Observations",
-      "summary": "Researchers have developed RecGen, a generative framework designed for the probabilistic joint estimation of object and part shapes, along with their poses, from sparse RGB-D images. This approach aims to enhance the accuracy of 3D multi-object scene reconstruction, addressing challenges related to occlusion and partial visibility.",
+      "summary": "The article presents RecGen, a generative framework designed for the probabilistic joint estimation of object and part shapes, along with their poses, from sparse RGB-D images. This approach addresses the challenge of accurately reconstructing complex multi-object scenes, which is essential for advancements in robotics and computer vision.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27106",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "8e5bddaf47390d12",
       "title": "Lightweight Distillation of SAM 3 and DINOv3 for Edge-Deployable Individual-Level Livestock Monitoring and Longitudinal Visual Analytics",
-      "summary": "Researchers have developed a lightweight version of the Perception Encoder from SAM 3, reducing its size from 446M to 40.66M parameters to enable edge-deployable individual-level livestock monitoring. This advancement aims to enhance precision livestock farming by making advanced visual analytics more accessible on commodity edge accelerators.",
+      "summary": "Researchers have developed a lightweight distillation of the SAM 3 and DINOv3 models to enhance individual-level livestock monitoring while ensuring compatibility with commodity edge accelerators. This approach significantly reduces the model size from 446M parameters to 40.66M, enabling more efficient deployment in precision livestock farming applications.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27128",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "15d7022041557f18",
       "title": "When 2D Tasks Meet 1D Serialization: On Serialization Friction in Structured Tasks",
-      "summary": "The article discusses the concept of \"serialization friction,\" which arises when large language models (LLMs) process structured tasks as linear token sequences, potentially complicating tasks that rely on explicit 2D structures. The authors analyze the implications of this approach on task performance and representation.",
+      "summary": "The article discusses the challenges posed by the serialization of structured inputs into 1D token sequences in large language models (LLMs), a process termed \"serialization friction.\" It highlights how this linearization can complicate tasks that rely on explicit 2D structures, affecting row-column alignment and local neighborhood representations.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2604.27272",
       "publishedAt": "2026-05-02T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "a6e292a165064c86",
-      "title": "APPSI-139: A Parallel Corpus of English Application Privacy Policy Summarization and Interpretation",
-      "summary": "The article introduces APPSI-139, a parallel corpus designed to enhance the summarization and interpretation of English application privacy policies. It addresses the challenges users face in understanding complex legal documents by providing a resource aimed at improving clarity and readability.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2604.27550",
-      "publishedAt": "2026-05-02T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 346,
+    "articlesProcessed": 341,
     "articlesSelected": 12
   }
 }
