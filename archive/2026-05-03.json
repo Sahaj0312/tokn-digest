@@ -1,73 +1,73 @@
 {
   "digestDate": "2026-05-03",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-03T08:45:14.293002+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-03T19:53:56.834821+00:00",
   "headline": {
-    "id": "abadd120edb9d746",
-    "title": "AI-generated actors and scripts are now ineligible for Oscars",
-    "summary": "The Academy of Motion Picture Arts and Sciences has announced that AI-generated actors and scripts will no longer be eligible for Oscar nominations. This decision impacts projects like Tilly Norwood, which may have relied on AI-generated content.",
+    "id": "c18c2cf1387f0c1c",
+    "title": "In Harvard study, AI offered more accurate emergency room diagnoses than two human doctors",
+    "summary": "A Harvard study found that a large language model provided more accurate emergency room diagnoses than two human doctors in real cases. The research highlights the potential of AI in medical contexts, particularly in emergency situations.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
-    "publishedAt": "2026-05-02T21:54:58+00:00",
+    "articleURL": "https://techcrunch.com/2026/05/03/in-harvard-study-ai-offered-more-accurate-diagnoses-than-emergency-room-doctors/",
+    "publishedAt": "2026-05-03T18:00:09+00:00",
     "category": "industry",
-    "relevanceScore": 48
+    "relevanceScore": 56
   },
   "articles": [
     {
+      "id": "09d032139459b7e1",
+      "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+      "summary": "The DualShot Recorder app quickly became the top paid app on the App Store within 12 hours of its release, marking an unexpected success. The app's development is linked to a popular internet personality known for his squirrel-themed content.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+      "publishedAt": "2026-05-03T13:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "da0f49eadd034a7c",
+      "title": "AI music is flooding streaming services — but who wants it?",
+      "summary": "AI-generated music is increasingly populating streaming services, raising questions about its reception and demand among listeners. The article explores the implications of this trend for the music industry and the evolving landscape of music consumption.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/921599/ai-music-is-flooding-streaming-services-but-who-wants-it",
+      "publishedAt": "2026-05-03T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "abadd120edb9d746",
+      "title": "AI-generated actors and scripts are now ineligible for Oscars",
+      "summary": "The Academy of Motion Picture Arts and Sciences has announced that AI-generated actors and scripts will no longer be eligible for Oscar nominations. This decision impacts projects like Tilly Norwood, which involved AI in its creative process.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/02/ai-generated-actors-and-scripts-are-now-ineligible-for-oscars/",
+      "publishedAt": "2026-05-02T21:54:58+00:00",
+      "category": "industry",
+      "relevanceScore": 39
+    },
+    {
       "id": "965026d68e243be7",
       "title": "The best AI dictation apps, tested and ranked",
-      "summary": "A recent evaluation of AI dictation apps highlights their effectiveness for tasks such as email responses, note-taking, and coding via voice commands. The article ranks the top-performing apps based on their functionality and user experience.",
+      "summary": "A recent evaluation of AI dictation apps highlights their effectiveness for tasks such as replying to emails, taking notes, and coding via voice commands. The article ranks the top-performing apps based on testing results.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/02/the-best-ai-powered-dictation-apps-of-2025/",
       "publishedAt": "2026-05-02T16:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 44
-    },
-    {
-      "id": "5bb77939601dc0d6",
-      "title": "Musk v. Altman week 1: Elon Musk says he was duped, warns AI could kill us all, and admits that xAI distills OpenAI’s models",
-      "summary": "In the first week of the trial between Elon Musk and OpenAI, Musk claimed he was misled by CEO Sam Altman and president Greg Brockman regarding his financial contributions to the company. He also expressed concerns about the potential dangers of AI, stating it could pose a threat to humanity.",
-      "sourceName": "MIT Tech Review",
-      "sourceIcon": "newspaper",
-      "articleURL": "https://www.technologyreview.com/2026/05/01/1136800/musk-v-altman-week-1-musk-says-he-was-duped-warns-ai-could-kill-us-all-and-admits-that-xai-distills-openais-models/",
-      "publishedAt": "2026-05-01T22:08:19+00:00",
-      "category": "news",
-      "relevanceScore": 36
+      "relevanceScore": 34
     },
     {
       "id": "7dc6f4b3413ea16c",
       "title": "Disneyland Now Uses Face Recognition on Visitors",
-      "summary": "Disneyland has implemented face recognition technology for visitors to enhance security and streamline entry processes. In related news, the NSA is testing Anthropic’s Mythos Preview for vulnerability assessments, and a Finnish teenager faces charges related to the Scattered Spider hacking incidents.",
+      "summary": "Disneyland has implemented facial recognition technology for visitors to enhance security and streamline entry processes. In related news, the NSA is testing Anthropic’s Mythos Preview for vulnerability assessment, and a Finnish teenager faces charges related to the Scattered Spider hacking incidents.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-disneyland-now-uses-face-recognition-on-visitors/",
       "publishedAt": "2026-05-02T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 34
-    },
-    {
-      "id": "06437414309dcca2",
-      "title": "Replit’s Amjad Masad on the Cursor deal, fighting Apple, and why he’d rather not sell",
-      "summary": "Replit CEO Amjad Masad discussed the company's position amid rumors of rival Cursor's potential $60 billion acquisition by SpaceX, emphasizing his preference to remain independent rather than sell. The conversation took place at TechCrunch's StrictlyVC event in San Francisco, addressing key industry questions about acquisitions and competition.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/01/replits-amjad-masad-on-the-cursor-deal-fighting-apple-and-why-hed-rather-not-sell/",
-      "publishedAt": "2026-05-01T23:06:50+00:00",
-      "category": "industry",
-      "relevanceScore": 29
-    },
-    {
-      "id": "2d6eedf71207d009",
-      "title": "Meta buys robotics startup to bolster its humanoid AI ambitions",
-      "summary": "Meta has acquired the robotics startup Assured Robot Intelligence to enhance its humanoid AI capabilities. This move aims to strengthen Meta's AI models specifically for robotic applications.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/01/meta-buys-robotics-startup-to-bolster-its-humanoid-ai-ambitions/",
-      "publishedAt": "2026-05-01T22:13:27+00:00",
-      "category": "industry",
-      "relevanceScore": 24
+      "relevanceScore": 25
     }
   ],
   "metadata": {
