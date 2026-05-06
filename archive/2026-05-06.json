@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-05-06",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-06T09:21:58.652109+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-06T20:20:38.279878+00:00",
   "headline": {
-    "id": "31fe2445fddd71f2",
-    "title": "Peter Sarlin’s QuTwo reaches $380M valuation in angel round",
-    "summary": "Finnish AI lab QyTw0, founded by Peter Sarlin, has achieved a valuation of approximately $380 million following a €25 million angel funding round. The investment highlights ongoing support for AI, quantum computing, and sovereign technology in Europe.",
+    "id": "dcdb8c8794da566d",
+    "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
+    "summary": "Apple has reached a $250 million settlement in a class action lawsuit that accused the company of overpromising the release of AI features for its Siri voice assistant. The settlement addresses claims that consumers were misled about the capabilities and timeline of Siri's enhancements.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/05/05/peter-sarlins-qutwo-reaches-380m-valuation-in-angel-round/",
-    "publishedAt": "2026-05-06T06:47:12+00:00",
+    "articleURL": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
+    "publishedAt": "2026-05-06T15:12:49+00:00",
     "category": "industry",
-    "relevanceScore": 58
+    "relevanceScore": 66
   },
   "articles": [
     {
-      "id": "9835e185f42fb109",
-      "title": "(POSTER) From Sensors to Insight: Rapid, Edge-to-Core Application Development for Sensor-Driven Applications",
-      "summary": "The paper presents a pattern-based, AI-assisted methodology for the rapid development of sensor-driven applications, addressing the challenges of transforming raw sensor data into actionable insights across the edge-to-cloud continuum. Utilizing Pegasus workflows on the FABRIC testbed, the authors outline a five-step development process to streamline application creation.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.02844",
-      "publishedAt": "2026-05-06T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 57
-    },
-    {
-      "id": "18d6f0557bd0bfb9",
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "summary": "Google has announced a partnership with XPRIZE and Range Media Partners to launch the $3.5 million Future Vision film competition. The initiative aims to encourage filmmakers to create innovative narratives that explore the potential of technology and its impact on society.",
+      "id": "243fcac7b7920056",
+      "title": "5 gardening tips you can try right in Search",
+      "summary": "The article provides five practical gardening tips that users can easily implement through search engines. These tips aim to enhance gardening practices by leveraging online resources and information.",
       "sourceName": "Google AI",
       "sourceIcon": "magnifyingglass",
-      "articleURL": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "publishedAt": "2026-05-05T16:00:00+00:00",
+      "articleURL": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "publishedAt": "2026-05-06T16:00:00+00:00",
       "category": "product",
-      "relevanceScore": 53
+      "relevanceScore": 63
     },
     {
-      "id": "b9d142e19a2f7f9f",
-      "title": "SAP bets $1.16B on 18-month-old German AI lab and says yes to NemoClaw",
-      "summary": "SAP has announced its acquisition of German AI startup Prior Labs for $1.16 billion, signaling a significant investment in AI development. Additionally, the company will restrict customer access to certain AI agents, including Nvidia's NemoClaw.",
+      "id": "7e5850e825732bed",
+      "title": "Using AI for Just 10 Minutes Might Make You Lazy and Dumb, Study Shows",
+      "summary": "A recent study indicates that using AI assistants for just 10 minutes may impair cognitive abilities and problem-solving skills. Researchers warn that increased reliance on these technologies could lead to decreased mental engagement.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/using-ai-negative-impact-thinking-problem-solving-study/",
+      "publishedAt": "2026-05-06T18:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 59
+    },
+    {
+      "id": "463b01d5793bbfd3",
+      "title": "vLLM V0 to V1: Correctness Before Corrections in RL",
+      "summary": "The article discusses the transition from vLLM version 0 to version 1, emphasizing the importance of ensuring correctness in reinforcement learning (RL) models before implementing any corrections. It highlights the key improvements and methodologies adopted in the new version to enhance model reliability and performance.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections",
+      "publishedAt": "2026-05-06T19:06:55+00:00",
+      "category": "research",
+      "relevanceScore": 59
+    },
+    {
+      "id": "d6a01025310dd996",
+      "title": "SpaceX may spend up to $119B on ‘Terafab’ chip factory in Texas",
+      "summary": "SpaceX is considering a proposal to invest up to $119 billion in a new semiconductor manufacturing facility in Texas, dubbed the \"Terafab\" project. The facility aims to be a multi-phase, vertically integrated site for advanced computing and semiconductor fabrication.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/05/sap-bets-1-16b-on-18-month-old-german-ai-lab-and-says-yes-to-nemoclaw/",
-      "publishedAt": "2026-05-05T23:50:10+00:00",
+      "articleURL": "https://techcrunch.com/2026/05/06/spacex-may-spend-up-to-119-billion-on-terafab-chip-factory-in-texas/",
+      "publishedAt": "2026-05-06T17:23:08+00:00",
       "category": "industry",
-      "relevanceScore": 53
+      "relevanceScore": 58
     },
     {
-      "id": "745db6d7ecea3838",
-      "title": "Altara secures $7M to bridge the data gap that’s slowing down physical sciences",
-      "summary": "Altara has raised $7 million to enhance its AI platform, which focuses on diagnosing failures and accelerating research and development in the physical sciences by integrating data from disparate sources. The funding will support efforts to address the challenges posed by siloed data in the industry.",
+      "id": "88674fb9c4551a91",
+      "title": "DeepSeek could hit $45B valuation from its first investment round",
+      "summary": "Chinese AI lab DeepSeek is poised to achieve a valuation of $45 billion following its initial investment round. The company gained attention in early 2025 for developing a large language model that operates with significantly lower compute power and costs compared to major U.S. competitors.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/05/altara-secures-7m-to-bridge-the-data-gap-thats-slowing-down-physical-sciences/",
-      "publishedAt": "2026-05-05T22:57:41+00:00",
+      "articleURL": "https://techcrunch.com/2026/05/06/deepseek-could-hit-45b-valuation-from-its-first-investment-round/",
+      "publishedAt": "2026-05-06T17:20:34+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 58
     },
     {
-      "id": "2022a8bdcb5c9c5c",
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-      "summary": "Apple has reached a $250 million settlement in a class action lawsuit alleging that it misled customers regarding the availability of its AI Siri features. The settlement applies to U.S. purchasers of iPhone 15 Pro and iPhone 16 models between June 10, 2024, and a specified date.",
+      "id": "ee8cf3d88effeeac",
+      "title": "How Elon Musk left OpenAI, according to Greg Brockman",
+      "summary": "Greg Brockman provides insights into the contentious negotiations surrounding Elon Musk's departure from OpenAI, highlighting the challenges faced by startup founders in such high-stakes environments. The article sheds light on the dynamics of decision-making within the organization as it evolved into a significant player in the AI landscape.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/",
+      "publishedAt": "2026-05-06T18:23:54+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "6fbdfa8b3827d0b3",
+      "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
+      "summary": "Ethos has secured $22.75 million in funding from Andreessen Horowitz to enhance its expert network, which currently onboards 35,000 experts weekly using voice technology. The investment aims to further develop Ethos's platform and expand its capabilities in connecting experts with users.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
+      "publishedAt": "2026-05-06T15:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "f8cfbc7d0e396631",
+      "title": "At TechCrunch Disrupt 2026, all your M&A questions will be answered",
+      "summary": "At TechCrunch Disrupt 2026, industry leaders from Coinbase, M13, and Mignano Law Group will discuss the role of mergers and acquisitions as a strategy for early-stage companies. Attendees can register to participate in the live event and gain insights into M&A practices.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/06/at-techcrunch-disrupt-2026-all-your-ma-questions-will-be-answered/",
+      "publishedAt": "2026-05-06T14:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "b57a7c80550f7ec1",
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "summary": "Mira Murati, former CTO of OpenAI, testified in the Musk v. Altman trial that CEO Sam Altman misled her regarding the safety standards for a new AI model. During her deposition, she claimed Altman falsely asserted that the legal department had approved the model's safety.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
-      "publishedAt": "2026-05-05T21:18:23+00:00",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "publishedAt": "2026-05-06T17:55:53+00:00",
       "category": "news",
-      "relevanceScore": 50
+      "relevanceScore": 55
     },
     {
-      "id": "d3d14854a762474f",
-      "title": "Marc Lore says that AI will soon enable anyone open a restaurant",
-      "summary": "Marc Lore's company, Wonder, aims to revolutionize the restaurant industry by developing AI-powered \"restaurant factories\" that allow individuals to create virtual food brands simply by providing a prompt. This innovation is expected to democratize restaurant ownership and streamline the food service process.",
+      "id": "1be956b64c64de01",
+      "title": "3 days left to lock in 50% off a second ticket to TechCrunch Disrupt 2026",
+      "summary": "TechCrunch is offering a promotion for its Disrupt 2026 event, allowing attendees to purchase a second ticket at 50% off when they buy the first ticket. This offer is valid until May 8 at 11:59 p.m. PT.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/",
-      "publishedAt": "2026-05-06T06:34:32+00:00",
+      "articleURL": "https://techcrunch.com/2026/05/06/3-days-left-to-lock-in-50-off-a-second-ticket-to-techcrunch-disrupt-2026/",
+      "publishedAt": "2026-05-06T14:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 50
+      "relevanceScore": 55
     },
     {
-      "id": "c29fc59588eb601c",
-      "title": "Apple plans to make iOS 27 a Choose Your Own Adventure of AI models",
-      "summary": "Apple's upcoming iOS 27 will allow users to select from various third-party AI models for different tasks, enhancing personalization and functionality. This feature aims to provide a more tailored user experience by integrating diverse AI options.",
+      "id": "6aa0d1945284ddd2",
+      "title": "AI boom pushes Samsung to $1T",
+      "summary": "Samsung's valuation surpassed $1 trillion, driven by increased demand for AI-related chips, marking it as the second Asian company to achieve this milestone after TSMC. The surge in shares reflects the growing impact of artificial intelligence on the semiconductor market.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
-      "publishedAt": "2026-05-05T20:56:41+00:00",
+      "articleURL": "https://techcrunch.com/2026/05/06/ai-boom-pushes-samsung-to-1t/",
+      "publishedAt": "2026-05-06T13:54:09+00:00",
       "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "f8cc77f8b31f46bf",
-      "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
-      "summary": "The article outlines a roadmap for the integration of artificial intelligence and machine learning in smart manufacturing by 2026, highlighting their potential to enhance efficiency and adaptability in industrial processes. It also addresses significant challenges such as managing complex industrial data and ensuring compatibility with diverse sensing and control systems.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.00839",
-      "publishedAt": "2026-05-06T04:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 50
-    },
-    {
-      "id": "a61f565ad030d314",
-      "title": "Accelerating battery research with an AI interface between FINALES and Kadi4Mat",
-      "summary": "Researchers have developed an AI interface that connects FINALES and Kadi4Mat to enhance the optimization of formation protocols for sodium-ion coin cells, aiming to improve their longevity and End Of Life (EOL) performance. The study focuses on balancing the reduction of formation time with the enhancement of performance outcomes, thereby minimizing resource consumption and accelerating battery research.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.00909",
-      "publishedAt": "2026-05-06T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "1d1f886581eb193b",
-      "title": "Arithmetic in the Wild: Llama uses Base-10 Addition to Reason About Cyclic Concepts",
-      "summary": "A recent study on Llama-3.1-8B explores its reasoning capabilities regarding cyclic concepts, such as determining the month six months after August. The findings indicate that the model employs a generic addition mechanism rather than directly computing modular addition, despite the circular structure of its representations.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.01148",
-      "publishedAt": "2026-05-06T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "5176fd9461ddae44",
-      "title": "Valley3: Scaling Omni Foundation Models for E-commerce",
-      "summary": "Valley3 is a new omni multimodal large language model designed for various global e-commerce tasks, integrating text, images, video, and audio for unified understanding and reasoning. Its notable feature is the native multilingual audio capability, enhanced to support critical audio-visual tasks, especially in short-video contexts.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.01278",
-      "publishedAt": "2026-05-06T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 55
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 644,
+    "articlesProcessed": 658,
     "articlesSelected": 12
   }
 }
