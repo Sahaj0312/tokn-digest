@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-05-09",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-09T08:26:10.795010+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-09T19:56:29.408396+00:00",
   "headline": {
-    "id": "90d8b86981840654",
-    "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-    "summary": "In the ongoing trial between Elon Musk and OpenAI, Musk accused CEO Sam Altman and president Greg Brockman of misleading him regarding his $38 million donation to the organization. Additionally, Shivon Zilis disclosed that Musk attempted to recruit Altman away from OpenAI.",
-    "sourceName": "MIT Tech Review",
-    "sourceIcon": "newspaper",
-    "articleURL": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-    "publishedAt": "2026-05-08T23:59:19+00:00",
-    "category": "news",
-    "relevanceScore": 57
+    "id": "70b5b16f35057bec",
+    "title": "Nvidia has already committed $40B to equity AI deals this year",
+    "summary": "Nvidia has invested $40 billion in equity deals related to artificial intelligence in 2023, reinforcing its position as a significant player in the AI ecosystem. This commitment highlights the company's ongoing strategy to expand its influence and capabilities in the rapidly evolving AI market.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
+    "publishedAt": "2026-05-09T14:43:30+00:00",
+    "category": "industry",
+    "relevanceScore": 56
   },
   "articles": [
     {
-      "id": "d4d422d4fb85c44a",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "summary": "Laid-off Oracle employees attempted to negotiate improved severance packages after discovering they did not qualify for WARN Act protections, which typically require two months' notice. Oracle attributed this classification to their status as remote workers, leading to dissatisfaction among the affected individuals.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "publishedAt": "2026-05-08T22:59:05+00:00",
-      "category": "industry",
-      "relevanceScore": 50
+      "id": "720e95603af970ca",
+      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
+      "summary": "Researchers have developed OncoAgent, a dual-tier multi-agent framework designed to enhance privacy-preserving clinical decision support in oncology. This innovative system aims to improve patient data security while facilitating effective cancer treatment recommendations.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
+      "publishedAt": "2026-05-09T18:09:28+00:00",
+      "category": "research",
+      "relevanceScore": 56
+    },
+    {
+      "id": "90d8b86981840654",
+      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
+      "summary": "In the ongoing trial between Elon Musk and OpenAI, Musk accused CEO Sam Altman and president Greg Brockman of misleading him regarding his $38 million donation to the organization. Additionally, Shivon Zilis revealed that Musk attempted to recruit Altman away from OpenAI.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
+      "publishedAt": "2026-05-08T23:59:19+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "2e8e6ec6ef7893d9",
+      "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
+      "summary": "A newly discovered vulnerability in a robot lawn mower allows hackers to take control of the device, raising security concerns for users. In related news, Meta has discontinued encrypted direct messaging on Instagram, while leaked documents expose Russia's training program for elite hackers.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
+      "publishedAt": "2026-05-09T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 45
     },
     {
       "id": "e7179ffcd37b717a",
       "title": "ZAYA1-8B Technical Report",
-      "summary": "The ZAYA1-8B model, developed by Zyphra, is a reasoning-focused mixture-of-experts model featuring 700 million active parameters and a total of 8 billion parameters, built on the MoE++ architecture. It demonstrates competitive performance against the DeepSeek-R1-0528 model on various mathematics and coding benchmarks while utilizing a full-stack AMD compute platform for its training processes.",
+      "summary": "The ZAYA1-8B model, developed by Zyphra, is a reasoning-focused mixture-of-experts (MoE) architecture featuring 700 million active parameters and a total of 8 billion parameters. It has demonstrated competitive performance on various mathematics and coding benchmarks, surpassing the DeepSeek-R1-0528 model while utilizing less than 1 billion active parameters.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05365",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "bee8cba63635c0e0",
       "title": "FinRAG-12B: A Production-Validated Recipe for Grounded Question Answering in Banking",
-      "summary": "The article introduces FinRAG-12B, a framework designed for training domain-specific large language models (LLMs) in the banking sector, addressing challenges such as accuracy, regulatory compliance, and the need for verifiable responses. This production-validated approach aims to enhance answer quality and citation grounding while ensuring compliance with real-world deployment constraints.",
+      "summary": "The article introduces FinRAG-12B, a framework designed for training grounded domain-specific large language models (LLMs) in the banking sector, addressing challenges such as accuracy, regulatory compliance, and verifiable responses. This production-validated recipe aims to enhance answer quality and citation grounding while ensuring calibrated refusals in real-world applications.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05482",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "3f431254496bed7d",
       "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
-      "summary": "The article introduces Skill1, a framework designed for the unified evolution of skill-augmented agents through reinforcement learning. It emphasizes the importance of a persistent skill library that enables agents to select, execute, and distill skills effectively, addressing the limitations of existing methods that optimize these capabilities in isolation.",
+      "summary": "The article introduces Skill1, a framework designed for the unified evolution of skill-augmented agents through reinforcement learning. It addresses the challenges of maintaining a persistent skill library by integrating the selection, execution, and distillation of skills into a cohesive system, improving the efficiency of skill utilization across tasks.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.06130",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "f675b94d57b90d24",
       "title": "ViTok-v2: Scaling Native Resolution Auto-Encoders to 5 Billion Parameters",
-      "summary": "Researchers have introduced ViTok-v2, a Vision Transformer auto-encoder model that scales to 5 billion parameters, enhancing image tokenization and reconstruction capabilities. The study addresses limitations of existing ViT tokenizers, particularly in maintaining performance outside training resolutions and improving stability during scaling.",
+      "summary": "The article discusses ViTok-v2, a new model that scales Vision Transformer (ViT) auto-encoders to 5 billion parameters, improving image reconstruction capabilities compared to traditional convolutional tokenizers. It addresses limitations in existing ViT tokenizers related to performance degradation outside training resolutions and the challenges of stable scaling due to reliance on adversarial losses.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05331",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "2b4407a8017b8cb9",
       "title": "Tamaththul3D: High-Fidelity 3D Saudi Sign Language Avatars from Monocular Video",
-      "summary": "Researchers have developed Tamaththul3D, a system that generates high-fidelity 3D avatars for Saudi Sign Language using monocular video, addressing the lack of quality 3D annotations in Arabic Sign Language. The project includes the first high-quality 3D parametric annotations for the Ishara-500 dataset, enhancing avatar generation for the approximately 400 million Arabic speakers.",
+      "summary": "The article presents Tamaththul3D, which introduces high-quality 3D parametric annotations for the Ishara-500 Saudi Sign Language dataset, addressing the lack of specialized reconstruction methods for avatar generation in Arabic Sign Language. This work aims to enhance the representation and accessibility of sign language for approximately 400 million Arabic speakers globally.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05367",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "1d43f88083629556",
       "title": "Two Steps Are All You Need: Efficient 3D Point Cloud Anomaly Detection with Consistency Models",
-      "summary": "Researchers have introduced a novel approach to 3D point cloud anomaly detection using diffusion models, which enhances reliability and efficiency in manufacturing quality assurance. This method addresses the challenges of existing techniques that are often computationally intensive or ineffective in complex environments, making it suitable for resource-constrained and latency-sensitive applications.",
+      "summary": "A new study presents a method for efficient 3D point cloud anomaly detection using consistency models, addressing challenges in practical deployment on resource-constrained systems. The approach aims to enhance reliability and performance in high-throughput manufacturing environments, where effective quality assurance is critical.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05372",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "5a04734742a20bb1",
       "title": "X-Voice: Enabling Everyone to Speak 30 Languages via Zero-Shot Cross-Lingual Voice Cloning",
-      "summary": "Researchers have introduced X-Voice, a multilingual zero-shot voice cloning model capable of replicating voices in 30 languages without the need for prompt text or complex preprocessing. The model, trained on a 420K-hour multilingual corpus using the International Phonetic Alphabet, utilizes a two-stage training paradigm to achieve its capabilities.",
+      "summary": "X-Voice is a multilingual zero-shot voice cloning model capable of replicating arbitrary voices and enabling speech in 30 languages, trained on a 420K-hour multilingual corpus. The model employs a two-stage training paradigm and uses the International Phonetic Alphabet (IPA) for unified representation, eliminating the need for complex preprocessing.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05611",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "dcc2cbaff3ac6f21",
       "title": "When2Speak: A Dataset for Temporal Participation and Turn-Taking in Multi-Party Conversations for Large Language Models",
-      "summary": "The article introduces When2Speak, a synthetic dataset designed to improve large language models' performance in multi-party conversations by focusing on the timing of interventions. The dataset aims to enhance conversational coherence by addressing the challenges of turn-taking and participation in dialogue.",
+      "summary": "Researchers have introduced When2Speak, a synthetic dataset designed to improve large language models' performance in multi-party conversations by focusing on the timing of speech interventions. The dataset aims to enhance conversational coherence by addressing the challenges of turn-taking and participation dynamics in group discussions.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.05626",
       "publishedAt": "2026-05-09T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "50e7bdb336ed7bc6",
-      "title": "Leveraging Image Generators to Address Training Data Scarcity: The Gen4Regen Dataset for Forest Regeneration Mapping",
-      "summary": "The paper presents the Gen4Regen dataset, designed to enhance forest regeneration mapping by utilizing image generators to mitigate the shortage of expert-annotated imagery. It highlights the potential of Uncrewed Aerial Vehicles (UAVs) for scalable data collection while addressing challenges in deep learning interpretation due to limited training data.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.05627",
-      "publishedAt": "2026-05-09T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "4fbf856f03dd3dd0",
-      "title": "The Missing Evaluation Axis: What 10,000 Student Submissions Reveal About AI Tutor Effectiveness",
-      "summary": "A recent study highlights the need for a behavioral evaluation axis in assessing AI tutoring systems, based on an analysis of 10,000 student submissions. The authors argue that while pedagogical quality is important, understanding how students utilize feedback is crucial for a comprehensive evaluation of AI tutor effectiveness.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.05648",
-      "publishedAt": "2026-05-09T04:00:00+00:00",
-      "category": "opinion",
-      "relevanceScore": 50
+      "relevanceScore": 41
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 555,
+    "articlesProcessed": 551,
     "articlesSelected": 12
   }
 }
