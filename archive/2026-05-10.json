@@ -1,84 +1,84 @@
 {
   "digestDate": "2026-05-10",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-10T08:52:09.507993+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-10T19:57:54.380820+00:00",
   "headline": {
-    "id": "c13edb38ea482848",
-    "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
-    "summary": "Wispr Flow reports accelerated growth in India following the launch of its Hinglish voice AI product, despite ongoing challenges in the voice AI sector. The company remains committed to expanding its offerings in the Indian market.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
-    "publishedAt": "2026-05-10T02:00:00+00:00",
-    "category": "industry",
-    "relevanceScore": 52
+    "id": "7c90eb1585b830e0",
+    "title": "MachinaCheck: Building a Multi-Agent CNC Manufacturability System on AMD MI300X",
+    "summary": "Researchers have developed MachinaCheck, a multi-agent system designed to enhance the manufacturability of CNC (Computer Numerical Control) processes using AMD's MI300X architecture. This system aims to optimize production efficiency and quality in manufacturing environments by leveraging advanced AI techniques.",
+    "sourceName": "Hugging Face",
+    "sourceIcon": "face.smiling",
+    "articleURL": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/machinacheck",
+    "publishedAt": "2026-05-10T18:44:11+00:00",
+    "category": "research",
+    "relevanceScore": 59
   },
   "articles": [
     {
+      "id": "a38b68847a1458b8",
+      "title": "We’re feeling cynical about xAI’s big deal with Anthropic",
+      "summary": "The latest episode of the Equity podcast analyzes xAI's recent partnership with Anthropic and its potential implications for SpaceX. The discussion highlights a sense of skepticism regarding the significance of this collaboration.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/10/were-feeling-cynical-about-xais-big-deal-with-anthropic/",
+      "publishedAt": "2026-05-10T15:34:25+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "067cffbfb38ab0fd",
+      "title": "Clarifying the role of the behavioral selection model",
+      "summary": "The article elaborates on the behavioral selection model for predicting AI motivations, emphasizing the importance of distinguishing between different motivations to understand AI behavior. It highlights that similar training behaviors can lead to significantly different outcomes when deployed, underscoring the model's relevance in AI development.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/nBjo6yniFjmy2uaYa/clarifying-the-role-of-the-behavioral-selection-model",
+      "publishedAt": "2026-05-10T19:41:32+00:00",
+      "category": "policy",
+      "relevanceScore": 52
+    },
+    {
+      "id": "c13edb38ea482848",
+      "title": "Voice AI in India is hard. Wispr Flow is betting on it anyway.",
+      "summary": "Wispr Flow reports accelerated growth in India following the launch of its Hinglish voice AI product, despite ongoing challenges in the voice AI market. The company remains committed to expanding its offerings in this complex landscape.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/09/voice-ai-in-india-is-hard-wispr-flow-is-betting-on-it-anyway/",
+      "publishedAt": "2026-05-10T02:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 43
+    },
+    {
       "id": "bf795ae700754842",
       "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "The article provides a glossary of key AI terms and phrases to help readers better understand the rapidly evolving language associated with artificial intelligence. It aims to clarify common jargon and improve comprehension of the field.",
+      "summary": "The article provides a glossary of essential AI terms and phrases to help readers better understand the rapidly evolving language surrounding artificial intelligence. It aims to clarify common jargon and concepts that have emerged alongside the rise of AI technology.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/09/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "2026-05-09T21:45:00+00:00",
       "category": "industry",
-      "relevanceScore": 48
+      "relevanceScore": 39
     },
     {
       "id": "70b5b16f35057bec",
       "title": "Nvidia has already committed $40B to equity AI deals this year",
-      "summary": "Nvidia has invested $40 billion in equity deals related to artificial intelligence in 2023, reinforcing its position as a major player in the AI ecosystem. The company's significant financial commitment highlights its ongoing strategy to expand its influence in the AI sector.",
+      "summary": "Nvidia has committed $40 billion to equity deals in the AI sector in 2023, reinforcing its position as a major investor in the AI ecosystem. This significant investment highlights the company's ongoing focus on advancing AI technologies and partnerships.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/09/nvidia-has-already-committed-40b-to-equity-ai-deals-this-year/",
       "publishedAt": "2026-05-09T14:43:30+00:00",
       "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "720e95603af970ca",
-      "title": "\"OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support\"",
-      "summary": "Researchers have developed OncoAgent, a dual-tier multi-agent framework designed to enhance privacy in oncology clinical decision support systems. The framework aims to facilitate secure data sharing and improve decision-making processes while safeguarding patient confidentiality.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper",
-      "publishedAt": "2026-05-09T18:09:28+00:00",
-      "category": "research",
-      "relevanceScore": 45
-    },
-    {
-      "id": "90d8b86981840654",
-      "title": "Musk v. Altman week 2: OpenAI fires back, and Shivon Zilis reveals that Musk tried to poach Sam Altman",
-      "summary": "In the ongoing trial between Elon Musk and OpenAI, Musk has accused CEO Sam Altman and president Greg Brockman of misleading him regarding his $38 million donation to the organization. Additionally, Shivon Zilis revealed that Musk attempted to recruit Altman away from OpenAI.",
-      "sourceName": "MIT Tech Review",
-      "sourceIcon": "newspaper",
-      "articleURL": "https://www.technologyreview.com/2026/05/08/1137008/musk-v-altman-week-2-openai-fires-back-and-shivon-zilis-reveals-that-musk-tried-to-poach-sam-altman/",
-      "publishedAt": "2026-05-08T23:59:19+00:00",
-      "category": "news",
-      "relevanceScore": 37
+      "relevanceScore": 36
     },
     {
       "id": "2e8e6ec6ef7893d9",
       "title": "Hackable Robot Lawn Mower Unlocks a New Nightmare",
-      "summary": "A newly discovered vulnerability in a robot lawn mower allows hackers to take control of the device, raising concerns about security in smart home technology. In related news, Meta has discontinued encrypted direct messaging on Instagram, and leaked documents reveal insights into Russia's training programs for elite hackers.",
+      "summary": "A newly discovered vulnerability in a robot lawn mower allows hackers to take control of the device, raising security concerns for users. In related news, Meta has discontinued encrypted messaging for Instagram, and leaked documents have exposed Russia's training program for elite hackers.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-hackable-robot-lawnmower-unlocks-a-new-nightmare/",
       "publishedAt": "2026-05-09T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 34
-    },
-    {
-      "id": "d4d422d4fb85c44a",
-      "title": "Laid-off Oracle workers tried to negotiate better severance. Oracle said no.",
-      "summary": "Laid-off Oracle employees attempted to negotiate improved severance packages after discovering they were ineligible for WARN Act protections due to their classification as remote workers. Oracle declined their requests for better severance terms.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/08/laid-off-oracle-workers-tried-to-negotiate-better-severance-oracle-said-no/",
-      "publishedAt": "2026-05-08T22:59:05+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 25
     }
   ],
   "metadata": {
