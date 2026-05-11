@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-05-11",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-11T10:37:17.427302+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-11T20:45:51.946949+00:00",
   "headline": {
-    "id": "5d49356f591b1f7d",
-    "title": "OpenAI Campus Network: Student club interest form",
-    "summary": "OpenAI has launched the Campus Network, aimed at connecting student clubs globally to facilitate access to AI tools, event hosting, and the development of an AI-focused campus community. Interested students can fill out an interest form to participate in the initiative.",
-    "sourceName": "OpenAI",
-    "sourceIcon": "sparkles",
-    "articleURL": "https://openai.com/index/openai-campus-network-student-club-interest-form",
-    "publishedAt": "2026-05-11T10:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 63
+    "id": "8104cc4ef19078b2",
+    "title": "Three things in AI to watch, according to a Nobel-winning economist",
+    "summary": "Nobel-winning economist Daron Acemoglu highlights three key areas in AI that warrant attention, following the publication of a controversial paper critical of Big Tech's approach to artificial intelligence. His insights come just months before he received the Nobel Prize in economics in 2024.",
+    "sourceName": "MIT Tech Review",
+    "sourceIcon": "newspaper",
+    "articleURL": "https://www.technologyreview.com/2026/05/11/1137090/three-things-in-ai-to-watch-according-to-a-nobel-winning-economist/",
+    "publishedAt": "2026-05-11T17:35:12+00:00",
+    "category": "news",
+    "relevanceScore": 59
   },
   "articles": [
     {
+      "id": "5d49356f591b1f7d",
+      "title": "OpenAI Campus Network: Student club interest form",
+      "summary": "OpenAI has launched the Campus Network to connect student clubs globally, providing access to AI tools and resources. The initiative aims to facilitate events and foster the development of AI-powered campus communities.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/openai-campus-network-student-club-interest-form",
+      "publishedAt": "2026-05-11T10:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 55
+    },
+    {
+      "id": "50f7739d1a3e0299",
+      "title": "Fostering breakthrough AI innovation through customer-back engineering",
+      "summary": "A McKinsey report highlights that organizations are realizing less than one-third of the expected value from digital investments due to a focus on technology over customer needs. The article advocates for a customer-back engineering approach to foster more effective AI innovation and avoid fragmented solutions.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/05/11/1136967/fostering-breakthrough-ai-innovation-through-customer-back-engineering/",
+      "publishedAt": "2026-05-11T13:33:06+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "0a3079a9c132f3ff",
+      "title": "Empowerment, corrigibility, etc. are simple abstractions (of a messed-up ontology)",
+      "summary": "The article discusses the complexities of AI alignment, emphasizing that while AIs are often designed to enhance human agency and empowerment, the challenge lies in the inherently under-determined nature of human goals, which can be easily influenced or manipulated. It highlights the difficulty in establishing clear distinctions between beneficial guidance and manipulation in the context of AI interactions with humans.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/vzHtHHBJoKATi5SeK/empowerment-corrigibility-etc-are-simple-abstractions-of-a",
+      "publishedAt": "2026-05-11T17:48:11+00:00",
+      "category": "policy",
+      "relevanceScore": 55
+    },
+    {
+      "id": "289d563161661c4b",
+      "title": "Google stopped a zero-day hack that it says was developed with AI",
+      "summary": "Google has identified and thwarted a zero-day exploit created using AI, which was intended for a mass exploitation event targeting two-factor authentication. The Google Threat Intelligence Group reported that this vulnerability was linked to prominent cybercrime actors.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/928007/google-ai-zero-day-exploit-stopped",
+      "publishedAt": "2026-05-11T16:09:42+00:00",
+      "category": "news",
+      "relevanceScore": 54
+    },
+    {
+      "id": "57f5e5227a007121",
+      "title": "Digg tries again, this time as an AI news aggregator",
+      "summary": "Digg has relaunched as an AI news aggregator, aiming to provide users with a centralized platform for reading the latest developments in artificial intelligence. This marks the latest attempt by the platform to reinvent itself in the digital news landscape.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/11/digg-tries-again-this-time-as-an-ai-news-aggregator/",
+      "publishedAt": "2026-05-11T17:02:35+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "d545cdc0811d85a1",
+      "title": "There aren’t enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "Cowboy Space has raised $275 million to develop space-based data centers in response to the growing demand for AI computing. The company faces challenges due to a shortage of rockets and high launch costs for deploying these facilities in orbit.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "publishedAt": "2026-05-11T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "ab78c57e6975550d",
+      "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
+      "summary": "Elon Musk and Sam Altman are currently engaged in a court battle that could significantly impact OpenAI and its flagship product, ChatGPT. Musk's lawsuit alleges that OpenAI has strayed from its original mission of developing AI for the benefit of humanity in favor of profit-driven motives.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
+      "publishedAt": "2026-05-11T15:27:12+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
       "id": "40cb696e64600139",
       "title": "The new AI-powered Google Finance is expanding to Europe.",
-      "summary": "Google Finance is launching its AI-powered features in Europe, enhancing user experience with advanced analytics and insights. This expansion aims to provide European users with improved financial data management and investment tools.",
+      "summary": "Google Finance is launching its AI-powered features in Europe, enhancing user experience with advanced tools for financial analysis. This expansion follows the successful rollout of the AI-driven platform in other regions.",
       "sourceName": "Google AI",
       "sourceIcon": "magnifyingglass",
       "articleURL": "https://blog.google/products-and-platforms/products/search/ai-powered-google-finance-in-europe/",
       "publishedAt": "2026-05-11T06:00:00+00:00",
       "category": "product",
-      "relevanceScore": 60
+      "relevanceScore": 52
+    },
+    {
+      "id": "9249e291e9539aca",
+      "title": "Joanna Stern is not a robot, but she lived with them",
+      "summary": "Joanna Stern, a former senior personal technology columnist for The Wall Street Journal and co-founder of The Verge, discusses her experiences living with robots in a recent podcast episode. The conversation highlights her insights into technology and its impact on daily life.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/podcast/926752/joanna-stern-i-am-not-a-robot-new-things-media-youtube-ai-automation",
+      "publishedAt": "2026-05-11T14:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
     },
     {
       "id": "2a6999bc8c1adf45",
       "title": "How enterprises are scaling AI",
-      "summary": "Enterprises are advancing their AI initiatives by transitioning from initial experiments to broader implementations that emphasize trust, governance, workflow design, and quality. This strategic approach aims to enhance the overall impact of AI across organizations.",
+      "summary": "Enterprises are transitioning from initial AI experiments to broader implementation by focusing on trust, governance, workflow design, and maintaining quality at scale. This strategic approach aims to enhance the overall impact of AI initiatives within organizations.",
       "sourceName": "OpenAI",
       "sourceIcon": "sparkles",
       "articleURL": "https://openai.com/business/guides-and-resources/how-enterprises-are-scaling-ai",
       "publishedAt": "2026-05-11T10:00:00+00:00",
       "category": "product",
-      "relevanceScore": 58
+      "relevanceScore": 50
     },
     {
-      "id": "c19599175b31ecc0",
-      "title": "I Work in Hollywood. Everyone Who Used to Make TV Is Now Secretly Training AI",
-      "summary": "In Hollywood, screenwriters and other creatives are increasingly turning to AI-related gig work as traditional job opportunities diminish. One writer reports completing 20 contracts for various platforms in just eight months, highlighting the challenging landscape for those in the industry.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/i-work-in-hollywood-everyone-who-used-to-make-tv-now-training-ai/",
-      "publishedAt": "2026-05-11T10:00:00+00:00",
+      "id": "ba8b0de5c47c29b7",
+      "title": "Implementing advanced AI technologies in finance",
+      "summary": "AI technologies are increasingly being adopted in finance departments, often without prior oversight or strategic planning from leadership. This has created a challenge for organizations as they seek to implement governance and structure in a sector traditionally characterized by precision and control.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/05/11/1136786/implementing-advanced-ai-technologies-in-finance/",
+      "publishedAt": "2026-05-11T13:00:00+00:00",
       "category": "news",
-      "relevanceScore": 57
-    },
-    {
-      "id": "b84c6201be0547b3",
-      "title": "CUDA Proves Nvidia Is a Software Company",
-      "summary": "Nvidia's success is increasingly attributed to its software capabilities, particularly through its CUDA platform, which has created a significant competitive advantage. This shift highlights the importance of software in the company's overall strategy, reinforcing its position as a leading player in the AI and computing sectors.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/cuda-proves-nvidia-is-a-software-company/",
-      "publishedAt": "2026-05-11T10:00:00+00:00",
-      "category": "news",
-      "relevanceScore": 52
-    },
-    {
-      "id": "2d9864d503ae2571",
-      "title": "2.5-D Decomposition for LLM-Based Spatial Construction",
-      "summary": "A new study introduces a neuro-symbolic pipeline utilizing 2.5-D decomposition to enhance spatial reasoning in autonomous systems that construct structures from natural language instructions. This approach allows large language models to plan in two dimensions while a deterministic executor handles vertical placements, addressing systematic coordinate errors in three-dimensional block arrangements.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.07066",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "aa54491eccc05fab",
-      "title": "MPD$^2$-Router: Mask-aware Multi-expert Prior-regularized Dual-head Deferral Router in Glaucoma Screening and Diagnosis",
-      "summary": "The MPD$^2$-Router is a novel framework designed for glaucoma screening that utilizes a mask-aware, multi-expert approach to improve the routing of difficult cases to human specialists. This method addresses challenges such as expert availability, reader behavior variability, and workload imbalances in the diagnostic process.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.08024",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "152df99ff07b6e0f",
-      "title": "Domain-level metacognitive monitoring in frontier LLMs: A 33-model atlas",
-      "summary": "A study analyzed metacognitive monitoring across 33 frontier large language models (LLMs) using 1,500 items from the MMLU benchmark, revealing significant domain-level variation in performance despite overall aggregate scores. The research highlights the importance of examining within-model differences to better understand LLM capabilities across specific domains.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.06673",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "455785866b87af68",
-      "title": "From Specification to Deployment: Empirical Evidence from a W3C VC + DID Trust Infrastructure for Autonomous Agents",
-      "summary": "The article discusses the implementation of a W3C Verifiable Credentials (VC) and Decentralized Identifiers (DID) trust infrastructure to support autonomous AI agents, which are currently executing a significant volume of transactions without a shared trust layer. It highlights the convergence of regulatory frameworks and major AI laboratories on the need for an open and cryptographically verifiable system to enhance trust in these transactions.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.06738",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "048f8d05234e30a8",
-      "title": "R$^3$L: Reasoning 3D Layouts from Relative Spatial Relations",
-      "summary": "The paper introduces R$^3$L, a framework designed to enhance the reliability and consistency of reasoning about 3D layouts using relative spatial relations. It addresses the limitations of current methods that rely on Multimodal Large Language Models (MLLMs) for inferring these relations, which often result in unreliable outputs.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.06758",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "df41c33d09a7458f",
-      "title": "PAMPOS: Causal Transformer-based Trajectory Prediction for Attack-Agnostic Misbehavior Detection in V2X Networks",
-      "summary": "The article introduces PAMPOS, a causal transformer-based model designed for trajectory prediction in Vehicle-to-Everything (V2X) networks, aimed at detecting misbehavior without relying on labeled attack samples. This approach addresses the limitations of existing supervised misbehavior detection schemes, enhancing resilience against unseen insider falsification attacks.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.06833",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "27459033a19e98e2",
-      "title": "Knowledge Transfer Scaling Laws for 3D Medical Imaging",
-      "summary": "Researchers have explored knowledge transfer scaling laws for 3D medical imaging, focusing on the unified pretraining of vision foundation models across various imaging modalities like CT, MRI, and PET. The study highlights the challenges of mixing heterogeneous imaging domains and critiques existing heuristic strategies for model training.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.06859",
-      "publishedAt": "2026-05-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
+      "relevanceScore": 50
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 492,
+    "articlesProcessed": 500,
     "articlesSelected": 12
   }
 }
