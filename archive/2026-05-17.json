@@ -1,93 +1,126 @@
 {
   "digestDate": "2026-05-17",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-17T09:03:13.327925+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-17T20:03:22.278615+00:00",
   "headline": {
-    "id": "fc9c03bc0ddedd28",
-    "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
-    "summary": "Sony has issued clarifications regarding its AI Camera Assistant feature on the Xperia 1 XIII, emphasizing that it provides suggestions based on lighting, depth, and subject rather than editing photos. The assistant offers users four options to enhance their photography experience.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
-    "publishedAt": "2026-05-16T15:37:05+00:00",
-    "category": "news",
-    "relevanceScore": 43
+    "id": "f776d229b3733fcc",
+    "title": "If you’re giving a commencement speech in 2026, maybe don’t mention AI",
+    "summary": "A recent article discusses the challenges of inspiring graduating students about their future in a world increasingly influenced by artificial intelligence. It suggests that speakers may want to avoid mentioning AI in commencement speeches to maintain a positive outlook.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/05/17/if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai/",
+    "publishedAt": "2026-05-17T16:32:04+00:00",
+    "category": "industry",
+    "relevanceScore": 58
   },
   "articles": [
     {
+      "id": "bfa74b2b7d7a0e70",
+      "title": "Why trust is a big question at the Elon Musk-OpenAI trial",
+      "summary": "The trial involving Elon Musk and OpenAI has raised significant questions about the trustworthiness of OpenAI CEO Sam Altman. As the proceedings conclude, the focus remains on the implications of trust in the context of AI development and leadership.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/17/why-trust-is-a-big-question-at-the-elon-musk-openai-trial/",
+      "publishedAt": "2026-05-17T19:46:34+00:00",
+      "category": "industry",
+      "relevanceScore": 57
+    },
+    {
+      "id": "a323c116cff08691",
+      "title": "Revamped Siri will reportedly offer auto-deleting chats",
+      "summary": "Apple's upcoming Siri update in iOS 27 will reportedly feature an auto-deleting chat history option, emphasizing the company's commitment to user privacy. This move aims to enhance Siri's functionality as it evolves to be more chatbot-like, amid increasing competition in the AI space.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/932207/siri-apple-intelligence-auto-deleting-chats",
+      "publishedAt": "2026-05-17T18:40:28+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "64442dd9847679eb",
+      "title": "University of Arizona students boo Eric Schmidt’s AI cheerleading during commencement",
+      "summary": "Former Google CEO Eric Schmidt faced boos from University of Arizona students during his commencement address as he discussed artificial intelligence. The negative reaction reflects the students' concerns about AI's impact on the job market they are about to enter.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/932203/university-of-arizona-students-boo-eric-schmidt-ai-commencement",
+      "publishedAt": "2026-05-17T17:22:23+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "2935032332bad53b",
+      "title": "TechCrunch Mobility: The AI skills arms race is coming for automotive",
+      "summary": "The automotive industry is entering an AI skills arms race as companies compete to develop advanced technologies for vehicles. This shift highlights the growing importance of AI expertise in shaping the future of transportation.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/17/techcrunch-mobility-the-ai-skills-arms-race-is-coming-for-automotive/",
+      "publishedAt": "2026-05-17T16:05:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "9d57e2f2980879d2",
+      "title": "Chatbots at the drive-thru are just the beginning",
+      "summary": "McDonald's has begun implementing AI-driven chatbots at drive-thrus, marking a significant step in the integration of artificial intelligence into everyday customer service. This initiative is part of a broader trend of AI adoption across various sectors, indicating a shift in how businesses interact with consumers.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/928096/chatbots-ai-drive-thru-mcdonalds-wendys",
+      "publishedAt": "2026-05-17T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "fc9c03bc0ddedd28",
+      "title": "Sony tries to explain that its AI Camera Assistant doesn’t suck",
+      "summary": "Sony is clarifying the functionality of its AI Camera Assistant on the Xperia 1 XIII, following criticism from a demonstration post. The company emphasizes that the feature provides suggestions based on lighting, depth, and subject, rather than editing photos directly.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/932133/sony-xperia-1-xiii-ai-camera-assistant",
+      "publishedAt": "2026-05-16T15:37:05+00:00",
+      "category": "news",
+      "relevanceScore": 34
+    },
+    {
       "id": "6a5dc541976aede7",
       "title": "OpenAI co-founder Greg Brockman takes charge of product strategy",
-      "summary": "OpenAI co-founder Greg Brockman has assumed responsibility for the company's product strategy amid a restructuring. This change coincides with plans to integrate ChatGPT with the programming tool Codex.",
+      "summary": "OpenAI co-founder Greg Brockman has taken over the company's product strategy amid plans to integrate ChatGPT with its programming tool, Codex. This restructuring reflects OpenAI's ongoing efforts to enhance its product offerings.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/16/openai-co-founder-greg-brockman-reportedly-takes-charge-of-product-strategy/",
       "publishedAt": "2026-05-16T15:33:33+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 34
     },
     {
       "id": "931137b1f90f1fd1",
       "title": "The haves and have nots of the AI gold rush",
-      "summary": "The article discusses the growing divide in the tech industry during the current AI boom, highlighting concerns about inequities between those who benefit from AI advancements and those who do not. It notes that despite the potential for innovation, the overall sentiment within the industry remains negative.",
+      "summary": "The article discusses the growing divide in the tech industry amid the ongoing AI boom, highlighting concerns about inequality and access to resources. It emphasizes that despite the rapid advancements in AI, the overall sentiment within the industry is not positive.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/16/the-haves-and-have-nots-of-the-ai-gold-rush/",
       "publishedAt": "2026-05-16T20:17:16+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 33
     },
     {
       "id": "597008159031e2a8",
       "title": "Research repository ArXiv will ban authors for a year if they let AI do all the work",
-      "summary": "ArXiv has announced a new policy that will impose a one-year ban on authors who submit papers that rely entirely on AI-generated content without proper human oversight. This move aims to address concerns about the careless use of large language models in scientific research.",
+      "summary": "ArXiv has announced a new policy that will impose a one-year ban on authors who submit papers that rely entirely on AI-generated content. This move aims to address concerns over the careless use of large language models in scientific research.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/16/research-repository-arxiv-will-ban-authors-for-a-year-if-they-let-ai-do-all-the-work/",
       "publishedAt": "2026-05-16T18:54:28+00:00",
       "category": "research",
-      "relevanceScore": 41
-    },
-    {
-      "id": "3a453aa523934e6e",
-      "title": "Musk v. Altman week 3: Elon Musk and Sam Altman traded blows over each other’s credibility. Now the jury will pick a side.",
-      "summary": "In the concluding week of the Musk v. Altman trial, attorneys for both sides challenged the credibility of Elon Musk and OpenAI CEO Sam Altman. The jury is now tasked with deciding the outcome after intense cross-examinations regarding allegations of dishonesty and motivations for control in AI development.",
-      "sourceName": "MIT Tech Review",
-      "sourceIcon": "newspaper",
-      "articleURL": "https://www.technologyreview.com/2026/05/15/1137357/musk-v-altman-week-3/",
-      "publishedAt": "2026-05-15T23:39:35+00:00",
-      "category": "news",
-      "relevanceScore": 37
+      "relevanceScore": 32
     },
     {
       "id": "23caa935f84fc929",
       "title": "Some Asexuals Are Using AI Companions for Intimacy Without the Sex",
-      "summary": "Some asexual individuals are turning to AI companions for emotional intimacy and role-playing, as reported by WIRED. However, this trend has sparked concerns among some asexual advocates regarding the implications of such associations.",
+      "summary": "Some asexual individuals are turning to AI companions for emotional intimacy and role-playing, as reported by WIRED. However, this trend has sparked concern among some asexual advocates who feel it misrepresents their community.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/some-asexual-people-are-using-ai-companions-for-intimacy-without-the-sex/",
       "publishedAt": "2026-05-16T09:30:00+00:00",
-      "category": "news",
-      "relevanceScore": 33
-    },
-    {
-      "id": "20383a0947db90dd",
-      "title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
-      "summary": "OpenAI has partnered with Malta to provide all citizens access to ChatGPT Plus, along with training programs aimed at enhancing practical AI skills and promoting responsible AI usage. This initiative seeks to broaden AI accessibility and education within the Maltese community.",
-      "sourceName": "OpenAI",
-      "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/malta-chatgpt-plus-partnership",
-      "publishedAt": "2026-05-16T00:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 31
-    },
-    {
-      "id": "bc7da4ccf2bb5718",
-      "title": "YouTube is expanding its AI deepfake detection tool to all adult users",
-      "summary": "YouTube is rolling out its AI deepfake detection tool to all adult users, allowing them to monitor the platform for potential deepfakes of themselves. The tool utilizes a selfie-style scan to identify lookalikes and notifies users if a match is found.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/news/931884/youtube-likeness-detection-ai-deepfake-expansion-all-adults",
-      "publishedAt": "2026-05-15T22:25:00+00:00",
       "category": "news",
       "relevanceScore": 24
     }
@@ -95,7 +128,7 @@
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 8,
-    "articlesSelected": 8
+    "articlesProcessed": 11,
+    "articlesSelected": 11
   }
 }
