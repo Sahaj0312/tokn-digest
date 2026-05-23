@@ -1,11 +1,11 @@
 {
   "digestDate": "2026-05-23",
   "digestSlot": "pm",
-  "generatedAt": "2026-05-23T18:25:13.079366+00:00",
+  "generatedAt": "2026-05-23T18:29:07.830450+00:00",
   "headline": {
     "id": "ec62a2c7b7c791c5",
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
-    "summary": "Ferrari is collaborating with IBM to enhance the fan experience in Formula 1 by leveraging AI technology. This partnership aims to create a more engaging and personalized experience for superfans of Scuderia Ferrari.",
+    "summary": "Ferrari is collaborating with IBM to enhance the Formula 1 fan experience through the use of artificial intelligence. The partnership aims to create more engaging and personalized interactions for superfans of Scuderia Ferrari.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
     "articleURL": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
@@ -28,7 +28,7 @@
     {
       "id": "edcbe67ae765f37c",
       "title": "Google’s new anything-to-anything AI model is wild",
-      "summary": "Google has introduced a new AI model capable of generating content across various formats, showcasing its versatility in transforming images and videos. This development highlights the potential for creative applications, including personalized storytelling and deepfake technology.",
+      "summary": "Google has introduced a new AI model capable of generating content across various formats, referred to as \"anything-to-anything.\" This model aims to enhance creative possibilities in digital content creation, as demonstrated by user experiments like deepfaking a child's stuffed animal in vacation scenarios.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
@@ -39,7 +39,7 @@
     {
       "id": "59cf6521ecffda3d",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "summary": "At Google I/O 2026, Alphabet CEO Sundar Pichai participated in a discussion on the Dialogues stage, addressing key topics related to the company's vision and future initiatives. The event highlighted advancements in AI and technology, showcasing Google's ongoing commitment to innovation.",
+      "summary": "At Google I/O 2026, Alphabet CEO Sundar Pichai participated in a discussion on the Dialogues stage, addressing key topics related to the company's vision and future developments. The event highlighted Google's ongoing commitment to innovation and technology advancements.",
       "sourceName": "Google AI",
       "sourceIcon": "magnifyingglass",
       "articleURL": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
@@ -50,7 +50,7 @@
     {
       "id": "6746482c2346725b",
       "title": "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)",
-      "summary": "The AOP-Wiki EMOD 3.0 introduces an expanded data model and a content evaluation framework aimed at enhancing the integration of Adverse Outcome Pathways (AOPs) with New Approach Methodologies (NAMs). This development supports the use of agentic AI to improve the understanding and application of in vitro and in silico methods in chemical regulatory assessments.",
+      "summary": "The AOP-Wiki EMOD 3.0 introduces a data model expansion and a content evaluation framework aimed at enhancing the integration of Adverse Outcome Pathways (AOPs) with new approach methodologies (NAMs) in chemical regulation. This update emphasizes the use of agentic AI to improve the contextualization of in vitro and in silico methods as alternatives to animal testing.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.21645",
@@ -61,7 +61,7 @@
     {
       "id": "5b87dcfb1da4cee6",
       "title": "Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents",
-      "summary": "Trace2Skill is a new framework designed to enhance hardware LLM agents' performance on Complex Verilog Design Problems (CVDP) by enabling them to effectively localize and edit relevant components within large repository snapshots. This approach focuses on improving agent capabilities at test time without the need for specialized model fine-tuning.",
+      "summary": "The article introduces Trace2Skill, a framework designed to enhance hardware LLM agents' performance on Complex Verilog Design Problems (CVDP) by utilizing verifier-guided skill evolution without requiring RTL-specialized model fine-tuning. This approach addresses challenges related to localizing relevant RTL components and managing dependencies within large repository snapshots.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.21810",
@@ -72,7 +72,7 @@
     {
       "id": "b493d09521b91b02",
       "title": "S2ED: From Story to Executable Descriptions for Consistency-Aware Story Illustration",
-      "summary": "The article introduces S2ED (Story-to-Executable Descriptions), a framework designed to enhance multi-frame story illustration by converting narratives into editable executable descriptions. This approach aims to improve long-horizon coherence and consistency in character identity and layout across multiple images without requiring additional training.",
+      "summary": "The article introduces S2ED (Story-to-Executable Descriptions), a framework designed to enhance multi-frame story illustration by converting narratives into editable executable descriptions, ensuring consistency in character identity and layout across frames. This model-agnostic approach aims to improve coherence in long-horizon storytelling without the need for extensive training.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22448",
@@ -83,7 +83,7 @@
     {
       "id": "ed9e3729ac5f7a03",
       "title": "Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning",
-      "summary": "The article discusses the concept of Search-E1, which utilizes self-distillation to enhance the capabilities of search-augmented reasoning agents post-training. It highlights recent advancements that improve performance by integrating external supervision and additional modules into the standard language model pipeline.",
+      "summary": "The article discusses a new approach called Search-E1, which utilizes self-distillation to enhance the capabilities of search-augmented reasoning agents after their initial training. This method aims to improve performance by integrating external supervision and additional modules, while also restructuring the search process.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22511",
@@ -94,7 +94,7 @@
     {
       "id": "93b69d67e028310f",
       "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
-      "summary": "The article discusses Gated DeltaNet-2, a model that enhances linear attention by effectively decoupling the erase and write processes in memory management. It introduces a mechanism for editing compressed memory while maintaining existing associations, utilizing delta-rule models and Kimi Delta Attention to improve the efficiency of memory updates.",
+      "summary": "The article introduces Gated DeltaNet-2, a model that enhances linear attention by decoupling the processes of erasing and writing in a fixed-size recurrent state. This approach aims to improve memory editing in attention mechanisms while maintaining efficient time and memory usage.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22791",
@@ -105,7 +105,7 @@
     {
       "id": "937b3e3e85203a95",
       "title": "CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety",
-      "summary": "The article discusses CR4T, a new framework designed to enhance the safety of large language models (LLMs) in adolescent digital environments by implementing rewrite-based guardrails. This approach aims to provide constructive guidance rather than relying solely on suppression methods that can hinder meaningful interactions.",
+      "summary": "The article discusses CR4T, a framework designed to enhance the safety of large language models (LLMs) in adolescent digital environments by implementing rewrite-based guardrails. This approach aims to provide constructive guidance rather than relying solely on refusal-oriented suppression, addressing the limitations of current safety mechanisms that are primarily focused on adult norms.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.21609",
@@ -116,7 +116,7 @@
     {
       "id": "3d31527466d3f557",
       "title": "Virtual 3D H&E Staining from Phase-contrast Back-illumination Interference Tomography",
-      "summary": "Researchers have developed a method for virtual 3D H&E staining using Back-illumination Interference Tomography (BIT), a phase microscopy technology that allows for rapid, non-destructive imaging of unprocessed tissues. This advancement aims to enhance disease management by enabling detailed volumetric characterization of tissue microarchitecture.",
+      "summary": "Researchers have developed a method to create virtual 3D H&E stained images from unprocessed tissues using Back-illumination Interference Tomography (BIT), a novel phase microscopy technology. This advancement allows for rapid, non-destructive volumetric imaging, potentially enhancing disease management through improved tissue microarchitecture assessment.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22000",
@@ -127,7 +127,7 @@
     {
       "id": "366c13637ac1229e",
       "title": "Echo4DIR: 4D Implicit Heart Reconstruction from 2D Echocardiography Videos",
-      "summary": "Researchers have developed Echo4DIR, a framework for reconstructing 4D cardiac geometry from 2D echocardiography videos, addressing challenges of geometric ambiguity and temporal discontinuity. The method utilizes statistical shape models and a cardiac conditional signed distance function to enhance the accuracy of heart shape reconstruction.",
+      "summary": "Researchers have developed Echo4DIR, a framework for reconstructing 4D cardiac geometry from 2D echocardiography videos, addressing challenges related to geometric ambiguity and temporal discontinuity. The approach utilizes statistical shape models and a cardiac conditional signed distance function to enhance the accuracy of the 3D shape reconstruction.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22066",
