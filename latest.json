@@ -1,7 +1,7 @@
 {
   "digestDate": "2026-05-23",
   "digestSlot": "pm",
-  "generatedAt": "2026-05-23T18:29:07.830450+00:00",
+  "generatedAt": "2026-05-23T20:04:25.068921+00:00",
   "headline": {
     "id": "ec62a2c7b7c791c5",
     "title": "Ferrari is using IBM’s AI to create F1 superfans",
@@ -11,129 +11,129 @@
     "articleURL": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
     "publishedAt": "2026-05-23T15:08:00+00:00",
     "category": "industry",
-    "relevanceScore": 58
+    "relevanceScore": 56
   },
   "articles": [
     {
       "id": "f7923321bfce7565",
       "title": "Elon Musk has given up on solar power (on Earth)",
-      "summary": "Elon Musk's xAI has shifted its focus from solar power to natural gas, while SpaceX is concentrating on developing orbital data centers. This change raises questions about the future of Musk's vision for a solar-electric economy.",
+      "summary": "Elon Musk's xAI has shifted its focus from solar power to natural gas, while SpaceX is concentrating on developing orbital data centers. This change raises questions about the future of Musk's vision for a \"solar-electric economy.\"",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
       "publishedAt": "2026-05-23T13:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 53
+      "relevanceScore": 52
     },
     {
       "id": "edcbe67ae765f37c",
       "title": "Google’s new anything-to-anything AI model is wild",
-      "summary": "Google has introduced a new AI model capable of generating content across various formats, referred to as \"anything-to-anything.\" This model aims to enhance creative possibilities in digital content creation, as demonstrated by user experiments like deepfaking a child's stuffed animal in vacation scenarios.",
+      "summary": "Google has introduced a new AI model capable of generating content across various formats, referred to as \"anything-to-anything.\" This model allows users to create diverse media, including deepfakes, by transforming images and videos into different representations.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
       "publishedAt": "2026-05-23T11:00:00+00:00",
       "category": "news",
-      "relevanceScore": 51
+      "relevanceScore": 50
     },
     {
       "id": "59cf6521ecffda3d",
       "title": "Catch up on the Dialogues stage at Google I/O 2026.",
-      "summary": "At Google I/O 2026, Alphabet CEO Sundar Pichai participated in a discussion on the Dialogues stage, addressing key topics related to the company's vision and future developments. The event highlighted Google's ongoing commitment to innovation and technology advancements.",
+      "summary": "At Google I/O 2026, Alphabet CEO Sundar Pichai participated in a discussion on the Dialogues stage, addressing key topics related to the company's vision and future initiatives. The event highlighted Google's ongoing commitment to innovation and technology advancements.",
       "sourceName": "Google AI",
       "sourceIcon": "magnifyingglass",
       "articleURL": "https://blog.google/innovation-and-ai/technology/ai/io-2026-dialogues-recap/",
       "publishedAt": "2026-05-22T18:00:00+00:00",
       "category": "product",
-      "relevanceScore": 47
+      "relevanceScore": 45
     },
     {
       "id": "6746482c2346725b",
       "title": "AOP-Wiki EMOD 3.0: Data Model Expansions and Content Evaluation Framework for Using Agentic AI to Improve Integration between AOPs and New Approach Methodologies (NAMs)",
-      "summary": "The AOP-Wiki EMOD 3.0 introduces a data model expansion and a content evaluation framework aimed at enhancing the integration of Adverse Outcome Pathways (AOPs) with new approach methodologies (NAMs) in chemical regulation. This update emphasizes the use of agentic AI to improve the contextualization of in vitro and in silico methods as alternatives to animal testing.",
+      "summary": "The AOP-Wiki has released EMOD 3.0, which expands its data model and introduces a content evaluation framework aimed at enhancing the integration of Adverse Outcome Pathways (AOPs) with New Approach Methodologies (NAMs). This update supports the use of agentic AI to improve the application of in vitro and in silico methods in chemical regulatory assessments.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.21645",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "5b87dcfb1da4cee6",
       "title": "Trace2Skill: Verifier-Guided Skill Evolution for Long-Context EDA Agents",
-      "summary": "The article introduces Trace2Skill, a framework designed to enhance hardware LLM agents' performance on Complex Verilog Design Problems (CVDP) by utilizing verifier-guided skill evolution without requiring RTL-specialized model fine-tuning. This approach addresses challenges related to localizing relevant RTL components and managing dependencies within large repository snapshots.",
+      "summary": "Trace2Skill is a new framework designed to enhance hardware LLM agents' performance on Complex Verilog Design Problems (CVDP) by guiding skill evolution through verifier feedback. The approach allows for improvements without the need for specialized model fine-tuning, focusing on efficiently managing large repository snapshots and addressing hidden-verifier failures.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.21810",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "b493d09521b91b02",
       "title": "S2ED: From Story to Executable Descriptions for Consistency-Aware Story Illustration",
-      "summary": "The article introduces S2ED (Story-to-Executable Descriptions), a framework designed to enhance multi-frame story illustration by converting narratives into editable executable descriptions, ensuring consistency in character identity and layout across frames. This model-agnostic approach aims to improve coherence in long-horizon storytelling without the need for extensive training.",
+      "summary": "The article presents S2ED, a novel framework designed to enhance multi-frame story illustration by converting full narratives into a sequence of editable executable descriptions. This approach aims to improve long-horizon coherence and consistency in character identity and layout across illustrations without requiring additional training.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22448",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "ed9e3729ac5f7a03",
       "title": "Search-E1: Self-Distillation Drives Self-Evolution in Search-Augmented Reasoning",
-      "summary": "The article discusses a new approach called Search-E1, which utilizes self-distillation to enhance the capabilities of search-augmented reasoning agents after their initial training. This method aims to improve performance by integrating external supervision and additional modules, while also restructuring the search process.",
+      "summary": "The article discusses a new approach called Search-E1, which utilizes self-distillation to enhance the performance of search-augmented reasoning agents post-training. This method aims to improve the efficiency and effectiveness of language models by integrating external supervision and additional modules without relying solely on traditional techniques.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22511",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "93b69d67e028310f",
       "title": "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention",
-      "summary": "The article introduces Gated DeltaNet-2, a model that enhances linear attention by decoupling the processes of erasing and writing in a fixed-size recurrent state. This approach aims to improve memory editing in attention mechanisms while maintaining efficient time and memory usage.",
+      "summary": "The article introduces Gated DeltaNet-2, a model that enhances linear attention by effectively decoupling the erase and write processes in memory management. It builds on Delta-rule models and Kimi Delta Attention to improve the editing of compressed memory while maintaining existing associations.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22791",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "937b3e3e85203a95",
       "title": "CR4T: Rewrite-Based Guardrails for Adolescent LLM Safety",
-      "summary": "The article discusses CR4T, a framework designed to enhance the safety of large language models (LLMs) in adolescent digital environments by implementing rewrite-based guardrails. This approach aims to provide constructive guidance rather than relying solely on refusal-oriented suppression, addressing the limitations of current safety mechanisms that are primarily focused on adult norms.",
+      "summary": "The article discusses CR4T, a new framework for enhancing the safety of large language models (LLMs) in adolescent digital environments by implementing rewrite-based guardrails. This approach aims to provide constructive guidance rather than relying solely on suppression methods, which can hinder effective communication and support for young users.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.21609",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "3d31527466d3f557",
       "title": "Virtual 3D H&E Staining from Phase-contrast Back-illumination Interference Tomography",
-      "summary": "Researchers have developed a method to create virtual 3D H&E stained images from unprocessed tissues using Back-illumination Interference Tomography (BIT), a novel phase microscopy technology. This advancement allows for rapid, non-destructive volumetric imaging, potentially enhancing disease management through improved tissue microarchitecture assessment.",
+      "summary": "Researchers have developed a method using Back-illumination Interference Tomography (BIT) to create virtual 3D H&E stained images from unprocessed tissue samples, enhancing the ability to assess tissue microarchitecture. This innovative phase microscopy technology offers rapid, non-destructive volumetric imaging, which could significantly improve disease management and in-vivo assessments.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22000",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     },
     {
       "id": "366c13637ac1229e",
       "title": "Echo4DIR: 4D Implicit Heart Reconstruction from 2D Echocardiography Videos",
-      "summary": "Researchers have developed Echo4DIR, a framework for reconstructing 4D cardiac geometry from 2D echocardiography videos, addressing challenges related to geometric ambiguity and temporal discontinuity. The approach utilizes statistical shape models and a cardiac conditional signed distance function to enhance the accuracy of the 3D shape reconstruction.",
+      "summary": "Researchers have introduced Echo4DIR, a framework designed to reconstruct 4D cardiac geometry from 2D echocardiography videos, addressing challenges of geometric ambiguity and temporal discontinuity. The method utilizes statistical shape models and a cardiac conditional signed distance function to enhance the accuracy of heart shape reconstruction.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22066",
       "publishedAt": "2026-05-23T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 42
+      "relevanceScore": 41
     }
   ],
   "metadata": {
