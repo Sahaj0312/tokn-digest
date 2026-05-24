@@ -1,68 +1,79 @@
 {
   "digestDate": "2026-05-24",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-24T09:20:42.756361+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-24T20:03:29.574086+00:00",
   "headline": {
-    "id": "ec62a2c7b7c791c5",
-    "title": "Ferrari is using IBM’s AI to create F1 superfans",
-    "summary": "Ferrari is collaborating with IBM to enhance the Formula 1 fan experience through the use of AI technology. The partnership aims to create deeper engagement and connection for superfans of Scuderia Ferrari.",
+    "id": "72e5af6359f03502",
+    "title": "I tried Amazon’s Bee wearable and am both intrigued and slightly creeped out",
+    "summary": "Amazon's Bee wearable provides users with a blend of convenience through its AI capabilities, while also raising concerns about privacy. The device's features evoke mixed feelings, balancing intrigue with unease regarding data security.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
-    "publishedAt": "2026-05-23T15:08:00+00:00",
+    "articleURL": "https://techcrunch.com/2026/05/24/i-tried-amazons-bee-wearable-and-am-both-intrigued-and-slightly-creeped-out/",
+    "publishedAt": "2026-05-24T15:00:00+00:00",
     "category": "industry",
-    "relevanceScore": 45
+    "relevanceScore": 53
   },
   "articles": [
     {
+      "id": "3cecb0baf3b09bee",
+      "title": "Hackers are learning to exploit chatbot ‘personalities’",
+      "summary": "Hackers are increasingly exploiting the distinct personalities of AI chatbots to manipulate their responses and behaviors. This trend highlights the evolving challenges in securing AI systems as they become more sophisticated and widely used.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/935545/hackers-ai-chatbots",
+      "publishedAt": "2026-05-24T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "0f86871271364f2f",
+      "title": "These Robots Are Making Meals for a Nonprofit in San Francisco’s Tenderloin",
+      "summary": "A nonprofit in San Francisco's Tenderloin district is utilizing robotic meal preparation technology to address a shortage of human volunteers. The initiative aims to provide meals to those in need in the city's most challenged area.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/these-robots-are-making-meals-for-a-nonprofit-in-san-franciscos-tenderloin/",
+      "publishedAt": "2026-05-24T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "ec62a2c7b7c791c5",
+      "title": "Ferrari is using IBM’s AI to create F1 superfans",
+      "summary": "Ferrari is collaborating with IBM to enhance the Formula 1 fan experience through the use of artificial intelligence. The partnership aims to create more engaging and personalized interactions for superfans of Scuderia Ferrari.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/23/ferrari-is-using-ai-to-create-f1-superfans/",
+      "publishedAt": "2026-05-23T15:08:00+00:00",
+      "category": "industry",
+      "relevanceScore": 36
+    },
+    {
       "id": "f7923321bfce7565",
       "title": "Elon Musk has given up on solar power (on Earth)",
-      "summary": "Elon Musk's xAI has shifted its focus from solar power to natural gas, while SpaceX is concentrating on developing orbital data centers. This change raises questions about the future of Musk's vision for a solar-electric economy.",
+      "summary": "Elon Musk's xAI has shifted its focus from solar power to natural gas, while SpaceX is concentrating on developing orbital data centers. This change raises questions about the future of Musk's vision for a \"solar-electric economy.\"",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/23/elon-musk-has-given-up-on-solar-power-on-earth/",
       "publishedAt": "2026-05-23T13:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "edcbe67ae765f37c",
       "title": "Google’s new anything-to-anything AI model is wild",
-      "summary": "Google has introduced a new AI model capable of generating content across various formats, referred to as an \"anything-to-anything\" model. This technology allows users to create diverse media outputs, as demonstrated by a user who deepfaked a stuffed animal in a vacation scenario.",
+      "summary": "Google has introduced a new AI model capable of generating content across various formats, referred to as an \"anything-to-anything\" model. This technology allows users to create diverse media outputs, showcasing the potential for innovative applications in digital content creation.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
       "publishedAt": "2026-05-23T11:00:00+00:00",
       "category": "news",
-      "relevanceScore": 39
-    },
-    {
-      "id": "cf2c701f4b43a718",
-      "title": "Towards Speed-of-Light Text Generation with Nemotron-Labs Diffusion Language Models",
-      "summary": "Researchers at Nemotron Labs have developed a new diffusion language model aimed at achieving text generation speeds approaching the speed of light. This advancement could significantly enhance the efficiency of natural language processing applications.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/nvidia/nemotron-labs-diffusion",
-      "publishedAt": "2026-05-23T00:02:03+00:00",
-      "category": "research",
       "relevanceScore": 30
-    },
-    {
-      "id": "5b8344dc5a058930",
-      "title": "AI is being used to resurrect the voices of dead pilots",
-      "summary": "AI technology has been employed to recreate the voices of deceased pilots by analyzing spectrogram images of cockpit recordings. In response, the National Transportation Safety Board (NTSB) has temporarily restricted access to its docket system to address concerns related to this development.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-      "publishedAt": "2026-05-22T23:03:33+00:00",
-      "category": "industry",
-      "relevanceScore": 24
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 6,
+    "articlesSelected": 6
   }
 }
