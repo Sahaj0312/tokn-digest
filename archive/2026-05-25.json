@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-05-25",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-25T11:09:03.155003+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-25T20:21:25.204191+00:00",
   "headline": {
-    "id": "b462cba90102cbd6",
-    "title": "The AI Era Is Creating a Bug Hunting Arms Race",
-    "summary": "The rise of AI-driven exploit development is intensifying the competition in the search for software vulnerabilities, prompting a shift in bug hunting strategies. Security experts are adapting to the evolving landscape as attackers increasingly leverage AI technologies to enhance their capabilities.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
-    "publishedAt": "2026-05-25T10:30:00+00:00",
-    "category": "news",
-    "relevanceScore": 52
+    "id": "7e1ad4d5bd6def03",
+    "title": "Startup Battlefield 200 applications close in days: Apply before May 27",
+    "summary": "The application deadline for Startup Battlefield 200 is May 27, offering startups a chance to gain venture capital access, global visibility, and coverage from TechCrunch, along with a $100,000 prize. Interested parties are encouraged to apply or nominate before the closing date.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/05/25/startup-battlefield-200-applications-close-in-days-apply-before-may-27/",
+    "publishedAt": "2026-05-25T14:30:00+00:00",
+    "category": "industry",
+    "relevanceScore": 56
   },
   "articles": [
     {
+      "id": "4c18d67502f185fe",
+      "title": "5 days left: Save up to $410 on TechCrunch Disrupt 2026 passes before prices increase",
+      "summary": "Early Bird registration for TechCrunch Disrupt 2026 in San Francisco ends on May 29 at 11:59 p.m. PT, offering savings of up to $410 on passes. Attendees are encouraged to register before the price increase.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/25/5-days-left-save-up-to-410-on-techcrunch-disrupt-2026-passes-before-prices-increase/",
+      "publishedAt": "2026-05-25T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "e719dfe3a7d8da07",
+      "title": "What ClickUp’s mass layoff tells us about the future of work",
+      "summary": "ClickUp is transitioning from a traditional workforce to a model that relies heavily on AI, resulting in the layoff of hundreds of employees as they implement thousands of AI agents. This move reflects a broader trend in the tech industry towards automation and AI integration in the workplace.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/25/what-clickups-mass-layoff-tells-us-about-the-future-of-work/",
+      "publishedAt": "2026-05-25T16:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "cf4cb213d04f1392",
+      "title": "Pope Leo calls for being ‘profoundly human’ in the age of AI",
+      "summary": "Pope Leo XIV released his first major papal document, \"Magnifica Humanitas,\" emphasizing the need to prioritize human dignity in the face of advancing artificial intelligence. The manifesto addresses concerns about AI's impact on warfare, labor, and the ethical implications of unchecked technological power.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/news/936945/pope-leo-letter-encyclical-ai-anthropic-labor-warfare",
+      "publishedAt": "2026-05-25T15:05:07+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "37c2f6516fdf5f17",
+      "title": "The pope’s AI encyclical isn’t really about AI",
+      "summary": "Pope Leo XIV's first encyclical addresses issues such as concentrated power and eroding democracy, using AI as a framework to explore these longstanding concerns. The document critiques the influence of a tech elite on society rather than focusing solely on artificial intelligence itself.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/25/the-popes-ai-encyclical-isnt-really-about-ai/",
+      "publishedAt": "2026-05-25T15:09:41+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "098c687ca8408359",
+      "title": "US's big bet on quantum computing may not be entirely legal",
+      "summary": "The U.S. government's significant investment in quantum computing may face legal challenges, raising questions about the necessity of the newly launched quantum foundry company. Experts are debating the implications of this initiative amidst concerns over its compliance with existing regulations.",
+      "sourceName": "Ars Technica",
+      "sourceIcon": "desktopcomputer",
+      "articleURL": "https://arstechnica.com/tech-policy/2026/05/uss-big-bet-on-quantum-computing-may-not-be-entirely-legal/",
+      "publishedAt": "2026-05-25T12:00:15+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "e60fa7207f6a1461",
+      "title": "OpenAI, Grupo Folha and Grupo UOL announce strategic content partnership",
+      "summary": "OpenAI has formed a strategic partnership with Grupo Folha and Grupo UOL to integrate trusted Brazilian journalism into ChatGPT, enhancing news accessibility while ensuring attribution and transparency. This collaboration aims to provide users with reliable news content in the Brazilian context.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/grupo-folha-grupo-uol-partnership",
+      "publishedAt": "2026-05-25T00:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 47
+    },
+    {
+      "id": "b462cba90102cbd6",
+      "title": "The AI Era Is Creating a Bug Hunting Arms Race",
+      "summary": "The increasing use of AI by attackers to develop exploits is intensifying the competition in the search for software vulnerabilities. This shift is prompting a reevaluation of bug hunting strategies in the cybersecurity landscape.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/the-ai-era-is-creating-a-bug-hunting-arms-race/",
+      "publishedAt": "2026-05-25T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 44
+    },
+    {
+      "id": "54b58833c71340c0",
+      "title": "Harness, Scaffold, and the AI Agent Terms Worth Getting Right",
+      "summary": "The article discusses the importance of accurately defining key terms related to AI agents, such as \"harness\" and \"scaffold,\" to ensure clear communication and understanding in the field. It emphasizes that precise terminology is essential for effective collaboration and development in AI research and applications.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/agent-glossary",
+      "publishedAt": "2026-05-25T00:00:00+00:00",
+      "category": "research",
+      "relevanceScore": 41
+    },
+    {
       "id": "2d18854ba9365335",
       "title": "NeuroNL2LTL: A Neurosymbolic Framework for Natural Language Translation of Linear Temporal Logic",
-      "summary": "NeuroNL2LTL is a neurosymbolic framework designed to translate natural language into Linear Temporal Logic (LTL), addressing the challenges of expertise and correctness in formal verification for safety-critical development. The architecture combines learned translation methods with formal verification to enhance expressiveness while maintaining reliability.",
+      "summary": "NeuroNL2LTL is a neurosymbolic framework designed to translate natural language into Linear Temporal Logic (LTL), addressing the challenges of expertise and correctness in formal verification for safety-critical applications. This approach combines the fluency of neural methods with the reliability of formal verification, aiming to enhance the accessibility and accuracy of formal logic translations.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22874",
       "publishedAt": "2026-05-25T04:00:00+00:00",
       "category": "policy",
-      "relevanceScore": 48
+      "relevanceScore": 40
     },
     {
       "id": "dd72e1f088ce23bc",
       "title": "ImProver 2: Iteratively Self-Improving LMs for Neurosymbolic Proof Optimization",
-      "summary": "ImProver 2 is a neurosymbolic framework designed to enhance the optimization of formal mathematical proofs by addressing challenges such as heterogeneous objectives and high training costs. The framework aims to improve the maintainability of verified proofs and the quality of training data for neural provers.",
+      "summary": "ImProver 2 is a neurosymbolic framework designed to automate proof optimization, addressing challenges such as heterogeneous objectives and high training costs in formal mathematics. The framework aims to enhance the maintainability of verified proofs and improve the quality of training data for neural provers.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22885",
       "publishedAt": "2026-05-25T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 48
+      "relevanceScore": 40
     },
     {
       "id": "db1f5704d82cd296",
       "title": "Mediative Fuzzy Logic: From Type-1 Foundations to Type-2, Type-3 and Quantum Extensions",
-      "summary": "The article presents a comprehensive framework for Mediative Fuzzy Logic, extending its foundational principles from type-1 to include type-2, type-3, and quantum variations. It aims to address the underdeveloped logical and semantic aspects of this approach, particularly in the context of fuzzy control and decision-making.",
+      "summary": "The article discusses the development of Mediative Fuzzy Logic, which aims to reconcile conflicting assessments in fuzzy control and decision-making. It presents a unified framework that extends from type-1 to interval type-2, granular type-3, and quantum fuzzy logic, focusing on the characterization of the mediative operator.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2605.22900",
       "publishedAt": "2026-05-25T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "c05d2cc9bf1fcc8a",
-      "title": "KPI2KVI: A Multi Agent Workflow for Calculating Key Value Indicators from Service Descriptions",
-      "summary": "The article presents KPI2KVI, a multi-agent workflow designed to facilitate the calculation of Key Value Indicators (KVIs) from service descriptions. It addresses the challenges of selecting KVI categories, defining measurable Key Performance Indicators (KPIs), and applying consistent calculation logic to derive actionable insights for stakeholders.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.22825",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "a21f3e4190c8f891",
-      "title": "RAG4Outcome: A Retrieval-Augmented Multimodal Framework for Prognostic Prediction in Chronic Osteomyelitis",
-      "summary": "The article introduces RAG4Outcome, a retrieval-augmented multimodal framework designed to improve prognostic predictions for chronic osteomyelitis by addressing the limitations of traditional manual scoring systems. This framework aims to enhance scalability, efficiency, and consistency in clinical assessments by effectively managing the heterogeneous nature of clinical data.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.22833",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "6a523fd96be51fc3",
-      "title": "DRL-Driven Edge-Aware Utility Optimization for Multi-Slice 6G Networks",
-      "summary": "The article discusses a framework for optimizing resource allocation and edge caching in 6G networks, specifically targeting Virtual Reality services that require low latency and high bandwidth. It utilizes Deep Q-Network (DQN) learning to enhance dynamic resource provisioning across multiple network slices in an O-RAN-compliant architecture.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.23056",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "6ad4412d6d7db459",
-      "title": "Do Synthetic Brain MRIs Reliably Improve Tumour Classification? A StyleGAN2-ADA Class-Plane Augmentation Study on BRISC 2025",
-      "summary": "A study published on arXiv investigates the effectiveness of synthetic brain MRIs generated by StyleGAN2-ADA in improving tumor classification accuracy on the BRISC 2025 dataset. The research focuses on whether the addition of GAN-generated samples enhances performance in medical imaging tasks, highlighting the potential benefits of generative augmentation in small datasets.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.23094",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "506f1d2a47a5703f",
-      "title": "6G Communication Networks Enabling Embodied Agents: Architecture and Prototype",
-      "summary": "The article explores the communication requirements of embodied agents and how 6G technology can address these needs through its features like sub-millisecond latency and ultra-high reliability. It highlights the lack of systematic studies on leveraging 6G capabilities for enhancing communication in embodied agents.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.23263",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "5dfeefed9ed18b4e",
-      "title": "Online Hand Gesture Recognition Using 3D Convolutional Neural Networks",
-      "summary": "The article presents a new online hand gesture recognition system that utilizes 3D Convolutional Neural Networks to detect and classify dynamic hand gestures in real-time video streams. The proposed system addresses challenges such as response lag and variability in gesture performance among different users.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.23409",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "57316758d488c878",
-      "title": "Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking",
-      "summary": "The Any2Any framework introduces an efficient method for transferring pretrained whole-body tracking models across different humanoid embodiments, minimizing the need for extensive adaptation. This approach aims to reduce the costs associated with training models from scratch, facilitating quicker deployment on various humanoid platforms.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.23733",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "b33d3be505650965",
-      "title": "PhotoFlow: Agentic 3D Virtual Photography Missions",
-      "summary": "The article discusses PhotoFlow, a new approach to virtual photography that enables an agent to navigate a 3D scene and generate images based on scene information and language intent without preselected camera poses. This development highlights advancements in vision-language models while addressing the challenges of evaluating complex 3D spatial reasoning and camera parameter selection.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2605.23771",
-      "publishedAt": "2026-05-25T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 294,
+    "articlesProcessed": 302,
     "articlesSelected": 12
   }
 }
