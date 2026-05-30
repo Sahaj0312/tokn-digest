@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-05-30",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-30T09:13:20.266244+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-30T20:07:37.626986+00:00",
   "headline": {
-    "id": "303bbaef93552d73",
-    "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
-    "summary": "Google AI Studio has been utilized to create a quiz centered around the key announcements from I/O 2026. The interactive quiz aims to engage users with the latest developments showcased at the event.",
-    "sourceName": "Google AI",
-    "sourceIcon": "magnifyingglass",
-    "articleURL": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
-    "publishedAt": "2026-05-29T19:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 55
+    "id": "fc92e7666d8560c3",
+    "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
+    "summary": "Google's AI assistant, Gemini Spark, is designed to automate various everyday tasks such as summarizing emails and planning local events. However, the rationale behind its release as a separate product remains unclear.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
+    "publishedAt": "2026-05-30T15:30:00+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "9a565ad4fa481d91",
+      "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
+      "summary": "The article provides an overview of various alternative web browsers that are emerging as competitors to Chrome and Safari in 2026. It highlights key features and advantages of these browsers, emphasizing their potential to reshape the current browser landscape.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-05-30T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "62b3c8620cd83b69",
+      "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
+      "summary": "GitHub Copilot has introduced a new token-based billing system, leading to dissatisfaction among developers who feel it undermines the tool's value. This change marks a significant shift in the pricing model for the AI-powered coding assistant.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
+      "publishedAt": "2026-05-30T16:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "c4461eb8f33ad045",
+      "title": "How one founder’s bet on ‘the old school web’ is paying off",
+      "summary": "Craig Campbell, a former Meta engineer, has opted to focus on developing a traditional website instead of pursuing opportunities in the AI sector, despite the influx of investment in that area. His decision is paying off as he leverages his experience to create a platform that stands apart from current AI trends.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
+      "publishedAt": "2026-05-30T13:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "845cee3551e52c24",
+      "title": "Meta is reportedly developing an AI pendant",
+      "summary": "Meta is reportedly working on an AI pendant, indicating a significant investment in AI-powered hardware. This development aligns with the company's broader strategy to integrate artificial intelligence into its product offerings.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
+      "publishedAt": "2026-05-30T15:59:58+00:00",
+      "category": "industry",
+      "relevanceScore": 49
+    },
+    {
+      "id": "e8b3db5035b5a3a9",
+      "title": "Do You Actually Need to Pay for Transcription Software?",
+      "summary": "The article evaluates the effectiveness of Wispr Flow and other AI-powered transcription software, comparing paid options to free services. It concludes whether investing in a subscription is worthwhile based on performance and features.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
+      "publishedAt": "2026-05-30T09:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "7f9ed506f0867a92",
+      "title": "AI grifters are creating fake Black people to sell Shein junk",
+      "summary": "The article discusses the emergence of AI-generated personas, specifically fake Black individuals, being used to promote and sell low-quality products from brands like Shein on platforms like TikTok. It highlights the struggles of real creators, such as a light-skinned Black woman, who face challenges in gaining visibility and support amidst this trend.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
+      "publishedAt": "2026-05-30T13:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "303bbaef93552d73",
+      "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
+      "summary": "Google AI Studio has been utilized to create a quiz focused on the key announcements from I/O 2026. The interactive quiz aims to engage users with the latest developments showcased at the event.",
+      "sourceName": "Google AI",
+      "sourceIcon": "magnifyingglass",
+      "articleURL": "https://blog.google/innovation-and-ai/technology/ai/io-2026-vibe-coded-quiz/",
+      "publishedAt": "2026-05-29T19:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 46
+    },
+    {
+      "id": "9d47e61baec25b18",
+      "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
+      "summary": "Elon Musk has filed to take SpaceX public, drawing comparisons to the controversial WeWork IPO and raising concerns about potential risks for investors. Critics argue that the IPO could benefit Musk and his financiers at the expense of retail investors.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
+      "publishedAt": "2026-05-30T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 46
+    },
+    {
       "id": "6874e6a9bd6256dd",
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
-      "summary": "The article showcases nine demonstrations of the Gemini Omni and Gemini 3.5 AI models, highlighting their capabilities and features. These demos illustrate the advancements in AI technology and the practical applications of the Gemini series.",
+      "summary": "The article showcases nine demonstrations of the Gemini Omni and Gemini 3.5, highlighting their capabilities and features. These demos illustrate the advancements in AI technology represented by the latest iterations of the Gemini series.",
       "sourceName": "Google AI",
       "sourceIcon": "magnifyingglass",
       "articleURL": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-omni-3-5-videos/",
       "publishedAt": "2026-05-29T17:30:00+00:00",
       "category": "product",
-      "relevanceScore": 54
+      "relevanceScore": 45
     },
     {
       "id": "4e635a78e75c5b97",
       "title": "Botnet of more than 17 million devices dismantled",
-      "summary": "A botnet comprising over 17 million devices has been dismantled, with connections to a Russia-based residential proxy network. The operation highlights ongoing efforts to combat large-scale cyber threats and improve internet security.",
+      "summary": "A botnet consisting of over 17 million devices has been dismantled, which was linked to a Russia-based residential proxy network. The operation highlights ongoing efforts to combat large-scale cyber threats and improve internet security.",
       "sourceName": "Ars Technica",
       "sourceIcon": "desktopcomputer",
       "articleURL": "https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/",
       "publishedAt": "2026-05-29T18:46:33+00:00",
       "category": "news",
-      "relevanceScore": 48
+      "relevanceScore": 39
     },
     {
       "id": "8580fb0b73c4b214",
       "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "summary": "Researchers caution that while AI tools are enabling coders to work more efficiently, they may not be enhancing the quality of the code produced. This reliance on AI could lead to potential issues in the future as the quality of software development may decline.",
+      "summary": "Researchers caution that while AI tools are enabling coders to work more efficiently, the quality of the code produced may not be improving, potentially leading to future issues. This reliance on AI could have negative consequences for developers if the quality of their output declines.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
       "publishedAt": "2026-05-29T22:14:22+00:00",
       "category": "industry",
-      "relevanceScore": 48
-    },
-    {
-      "id": "820e17bd437a4c07",
-      "title": "After Nvidia’s $20B not-acqui-hire, AI chip startup Groq reportedly raising $650M",
-      "summary": "AI chip startup Groq is reportedly seeking to raise $650 million in funding as it shifts its focus from hardware to enhancing AI inference capabilities. This move follows Nvidia's recent $20 billion acquisition, which did not include Groq.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/29/after-nvidias-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650m/",
-      "publishedAt": "2026-05-29T17:27:13+00:00",
-      "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "9029599331381d94",
-      "title": "Amazon Is Making an AI-Animated ‘Good Advice Cupcake’ TV Show. Its Original Creator Is Furious",
-      "summary": "Amazon is developing an AI-animated TV show based on \"The Good Advice Cupcake,\" a character originally created by Loryn Brantz for BuzzFeed. Brantz has expressed anger over the licensing of her character for the series without her consent.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/story/amazon-is-making-an-ai-animated-good-advice-cupcake-tv-show-its-original-creator-is-furious/",
-      "publishedAt": "2026-05-29T20:56:59+00:00",
-      "category": "news",
-      "relevanceScore": 47
-    },
-    {
-      "id": "e62972f402e43362",
-      "title": "Boston Children’s uses AI to unlock new diagnoses",
-      "summary": "Boston Children’s Hospital is leveraging OpenAI technology to enhance patient care and streamline operations, successfully diagnosing over 40 rare disease cases. The initiative aims to improve diagnostic accuracy and efficiency in pediatric healthcare.",
-      "sourceName": "OpenAI",
-      "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/boston-childrens-hospital",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 46
-    },
-    {
-      "id": "aa745decade4a5ca",
-      "title": "Check out real-life AI prototypes from the Futures Lab.",
-      "summary": "University of Waterloo students have created AI prototypes, including sign language tutors, aimed at transforming education and workplace interactions. These innovations were showcased at the Futures Lab, highlighting the potential applications of AI in real-world scenarios.",
-      "sourceName": "Google AI",
-      "sourceIcon": "magnifyingglass",
-      "articleURL": "https://blog.google/innovation-and-ai/technology/ai/university-waterloo-labs/",
-      "publishedAt": "2026-05-29T12:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 46
-    },
-    {
-      "id": "31efc6054298e968",
-      "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-      "summary": "Google's AI agent, Gemini Spark, analyzed personal data such as emails and calendars to assist in planning a birthday party but failed to recognize the user's significant other as a key figure in their life. The experience highlights the limitations of AI in understanding personal relationships despite its capabilities in organizing tasks.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-      "publishedAt": "2026-05-29T19:07:46+00:00",
-      "category": "news",
-      "relevanceScore": 46
-    },
-    {
-      "id": "7717164fd5ff5f1b",
-      "title": "So you’ve heard these AI terms and nodded along; let’s fix that",
-      "summary": "A new glossary has been released to help individuals understand the growing number of terms and slang associated with artificial intelligence. The resource aims to clarify key concepts and phrases that are becoming increasingly prevalent in discussions about AI.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/29/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
-      "publishedAt": "2026-05-29T18:49:19+00:00",
-      "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "1bd0043ce7d9bec3",
-      "title": "What happens when companies become too AI-pilled?",
-      "summary": "Box founder Aaron Levie warns that decision-makers advocating for AI to replace jobs often lack a true understanding of those roles, a phenomenon he describes as \"AI psychosis.\" Recent layoffs, such as ClickUp's 22% workforce reduction due to AI agents, highlight the growing trend of tech companies downsizing amid increasing reliance on artificial intelligence.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/video/what-happens-when-companies-become-too-ai-pilled/",
-      "publishedAt": "2026-05-29T17:57:05+00:00",
-      "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "4f45d2a019861e67",
-      "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-      "summary": "Today is the final day to submit applications for speaking opportunities at TechCrunch Disrupt 2026. Interested individuals can propose session topics to contribute to discussions shaping the future of the tech industry.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-      "publishedAt": "2026-05-29T14:15:00+00:00",
-      "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 39
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 31,
+    "articlesProcessed": 34,
     "articlesSelected": 12
   }
 }
