@@ -1,134 +1,145 @@
 {
   "digestDate": "2026-05-31",
-  "digestSlot": "am",
-  "generatedAt": "2026-05-31T09:46:05.346500+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-05-31T20:05:46.371485+00:00",
   "headline": {
-    "id": "60aedc29cd148177",
-    "title": "How Turkey Hacked the Hair Transplant Industry",
-    "summary": "Turkey's hair transplant industry has evolved into a billion-dollar sector through the integration of specialized motors and machine learning algorithms. This continuous innovation has positioned Turkey as a leading destination for hair restoration procedures.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
-    "publishedAt": "2026-05-31T09:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 52
+    "id": "c816e79b79e67af2",
+    "title": "Making sense of the debate over AI psychosis",
+    "summary": "In the latest episode of Equity, the discussion centers on the notion that tech CEOs may be particularly susceptible to \"AI psychosis.\" The debate examines the implications of this phenomenon within the context of the rapidly evolving AI landscape.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/05/31/making-sense-of-the-debate-over-ai-psychosis/",
+    "publishedAt": "2026-05-31T15:30:00+00:00",
+    "category": "industry",
+    "relevanceScore": 49
   },
   "articles": [
     {
+      "id": "8acfaa52355452c5",
+      "title": "I went looking for the AI weed vape that gives you Bitcoin for smoking",
+      "summary": "The article explores the Gudtrip, a cannabis vape that claims to reward users with Bitcoin for each hit. The author investigates the device's legitimacy and the implications of combining cryptocurrency with cannabis consumption.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/933916/ai-powered-crypto-cannabis-vape",
+      "publishedAt": "2026-05-31T13:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "60aedc29cd148177",
+      "title": "How Turkey Hacked the Hair Transplant Industry",
+      "summary": "Turkey's hair transplant industry has evolved into a billion-dollar sector through the integration of specialized motors and machine learning algorithms. This ongoing innovation has positioned the country as a leading destination for hair restoration services.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/how-turkey-hacked-the-hair-transplant-industry/",
+      "publishedAt": "2026-05-31T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "3fbc7b2605f77b42",
       "title": "SoftBank says it will invest up to €75 billion to build French data centers",
-      "summary": "SoftBank announced plans to invest up to €75 billion in the development and operation of French data centers, aiming to add up to 5 gigawatts of capacity. This investment is part of the company's strategy to expand its presence in the European data center market.",
+      "summary": "SoftBank announced plans to invest up to €75 billion in building data centers in France, aiming to develop and operate an additional 5 gigawatts of capacity. This investment is part of the company's strategy to expand its presence in the European data center market.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/30/softbank-says-it-will-invest-up-to-e75-billion-to-build-french-data-centers/",
       "publishedAt": "2026-05-30T21:45:00+00:00",
       "category": "industry",
-      "relevanceScore": 50
+      "relevanceScore": 42
     },
     {
       "id": "fc92e7666d8560c3",
       "title": "I put Google’s 24/7 AI assistant Gemini Spark to work, and it’s actually pretty useful",
-      "summary": "Google's Gemini Spark is an AI assistant designed to automate everyday tasks such as summarizing emails and planning local events. However, the rationale behind its development as a separate product remains unclear.",
+      "summary": "Google's Gemini Spark is a 24/7 AI assistant designed to automate everyday tasks such as inbox summaries and local event planning. However, the rationale behind Google creating it as a separate product remains unclear.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/30/i-put-googles-24-7-ai-assistant-gemini-spark-to-work-and-its-actually-pretty-useful/",
       "publishedAt": "2026-05-30T15:30:00+00:00",
       "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 37
     },
     {
       "id": "62b3c8620cd83b69",
       "title": "‘What a joke’: Github Copilot’s new token-based billing spurs consternation among devs",
-      "summary": "GitHub Copilot has introduced a new token-based billing system, leading to dissatisfaction among developers. This change marks a significant shift in the service's pricing structure, raising concerns within the developer community.",
+      "summary": "GitHub Copilot has introduced a new token-based billing system, leading to frustration among developers who are expressing their concerns about the changes. This shift marks a significant transition for the service, which has been widely used in the development community.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/30/what-a-joke-github-copilots-new-token-based-billing-spurs-consternation-among-devs/",
       "publishedAt": "2026-05-30T16:30:00+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 35
     },
     {
       "id": "9a565ad4fa481d91",
       "title": "As the browser wars heat up, here are the hottest alternatives to Chrome and Safari in 2026",
-      "summary": "The article provides an overview of several alternative web browsers that are emerging as competitors to Chrome and Safari in 2026. It highlights key features and advantages of these browsers, showcasing their potential to reshape the current browser landscape.",
+      "summary": "The article provides an overview of several alternative web browsers in 2026 that are positioning themselves as competitors to Chrome and Safari. It highlights the features and advantages of these browsers in the context of the ongoing browser wars.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/30/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "publishedAt": "2026-05-30T13:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 35
     },
     {
       "id": "c4461eb8f33ad045",
       "title": "How one founder’s bet on ‘the old school web’ is paying off",
-      "summary": "Craig Campbell, a former Meta engineer, has chosen to focus on building a traditional website instead of pursuing opportunities in the AI sector, despite the influx of investment in that area. His decision reflects a growing interest in \"the old school web,\" and he aims to leverage his experience to create a successful online platform.",
+      "summary": "Craig Campbell, a former Meta engineer, has opted to focus on building a traditional website instead of pursuing opportunities in the AI sector, despite the influx of investment in that area. His decision reflects a strategic bet on \"the old school web,\" which is proving to be successful for his new venture.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/938245/past-maps-website-google-zero-ai",
       "publishedAt": "2026-05-30T13:00:00+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 32
     },
     {
       "id": "845cee3551e52c24",
       "title": "Meta is reportedly developing an AI pendant",
-      "summary": "Meta is reportedly working on an AI-powered pendant, indicating a significant investment in AI-driven hardware. This development aligns with the company's broader strategy to integrate artificial intelligence into its product offerings.",
+      "summary": "Meta is reportedly working on an AI pendant, expanding its focus on AI-powered hardware. This development indicates the company's commitment to integrating artificial intelligence into wearable technology.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
       "publishedAt": "2026-05-30T15:59:58+00:00",
       "category": "industry",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "e8b3db5035b5a3a9",
       "title": "Do You Actually Need to Pay for Transcription Software?",
-      "summary": "The article evaluates the effectiveness of Wispr Flow and other AI-powered transcription software, comparing their features and performance against free alternatives. It concludes whether a subscription is worthwhile for users seeking transcription services.",
+      "summary": "The article evaluates the effectiveness of Wispr Flow and other AI-powered transcription software, comparing paid options to free services. It concludes that while paid software may offer enhanced features, many users can achieve satisfactory results with free alternatives.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
       "publishedAt": "2026-05-30T09:30:00+00:00",
       "category": "news",
-      "relevanceScore": 37
+      "relevanceScore": 29
     },
     {
       "id": "7f9ed506f0867a92",
       "title": "AI grifters are creating fake Black people to sell Shein junk",
-      "summary": "The article discusses the emergence of AI-generated personas, specifically fake Black individuals, being used to promote and sell products from Shein on social media platforms like TikTok. It highlights the challenges faced by real creators, such as a Black woman named Aliyah, who struggles to gain visibility and sales amidst this trend.",
+      "summary": "The article discusses the rise of AI-generated personas, specifically fake Black individuals, used to promote and sell products on platforms like TikTok, highlighting the challenges faced by real Black creators in gaining visibility. It features a case study of a light-skinned Black woman struggling to sell her handmade items while expressing frustrations about audience engagement.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/938844/ai-tiktok-shop-blackface-shein-dropshipping",
       "publishedAt": "2026-05-30T13:00:00+00:00",
       "category": "news",
-      "relevanceScore": 35
+      "relevanceScore": 27
     },
     {
       "id": "9d47e61baec25b18",
       "title": "The SpaceX IPO is great for Elon Musk and terrible for you",
-      "summary": "Elon Musk has filed for a SpaceX IPO, drawing comparisons to the controversial WeWork IPO due to concerns about the company's financial viability and potential risks for investors. Critics argue that the offering could disproportionately benefit Musk and his associates while leaving everyday investors vulnerable.",
+      "summary": "Elon Musk has filed to take SpaceX public, raising concerns about the potential risks for investors, similar to the controversial WeWork IPO. Critics argue that the financial structure and implications of the SpaceX IPO could leave everyday investors at a disadvantage.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/940001/elon-musk-spacex-ipo-ai",
       "publishedAt": "2026-05-30T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 34
-    },
-    {
-      "id": "8580fb0b73c4b214",
-      "title": "Coders are refusing to work without AI — and that could come back to bite them",
-      "summary": "Researchers caution that while AI is enabling coders to work more efficiently, it may not enhance the quality of the code produced, potentially leading to future issues. This reliance on AI tools raises concerns about the long-term implications for software development practices.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/05/29/coders-are-refusing-to-work-without-ai-and-that-could-come-back-to-bite-them/",
-      "publishedAt": "2026-05-29T22:14:22+00:00",
-      "category": "industry",
-      "relevanceScore": 28
+      "relevanceScore": 26
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 11,
-    "articlesSelected": 11
+    "articlesProcessed": 12,
+    "articlesSelected": 12
   }
 }
