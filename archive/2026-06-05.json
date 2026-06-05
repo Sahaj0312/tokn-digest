@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-06-05",
-  "digestSlot": "am",
-  "generatedAt": "2026-06-05T10:44:58.035486+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-05T20:47:01.642000+00:00",
   "headline": {
-    "id": "6e744dc13d98b4e4",
-    "title": "The Meta hack shows there’s more to AI security than Mythos",
-    "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts by requesting the linking of accounts to their own email addresses. This incident highlights vulnerabilities in AI security, as one attacker even accessed a dormant Obama White House account to post pro-Iran content.",
-    "sourceName": "MIT Tech Review",
-    "sourceIcon": "newspaper",
-    "articleURL": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
-    "publishedAt": "2026-06-05T09:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 60
+    "id": "9b819b28485237e7",
+    "title": "The latest AI news we announced in May 2026",
+    "summary": "In May 2026, several advancements in AI technology were announced, highlighting improvements in natural language processing and machine learning algorithms. Key developments included new models that enhance conversational AI capabilities and increased efficiency in data processing tasks.",
+    "sourceName": "Google AI",
+    "sourceIcon": "magnifyingglass",
+    "articleURL": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+    "publishedAt": "2026-06-05T14:45:00+00:00",
+    "category": "product",
+    "relevanceScore": 62
   },
   "articles": [
     {
+      "id": "ff2c47681da3c3bc",
+      "title": "Startup Battlefield 200 applications officially close in 3 days",
+      "summary": "Applications for the Startup Battlefield 200 will close on June 8 at 11:59 p.m. PT, offering startups the opportunity to compete on the Disrupt Stage at TechCrunch Disrupt 2026 in San Francisco. Interested applicants are encouraged to submit their entries before the deadline.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/05/startup-battlefield-200-applications-officially-close-in-3-days/",
+      "publishedAt": "2026-06-05T20:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 60
+    },
+    {
+      "id": "38ee3d60b8bcde39",
+      "title": "Google will pay SpaceX $920M per month for compute",
+      "summary": "Google has entered into a deal to pay SpaceX $920 million per month for computing services, as announced on Friday. This agreement comes just a week before SpaceX's anticipated IPO.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
+      "publishedAt": "2026-06-05T18:57:20+00:00",
+      "category": "industry",
+      "relevanceScore": 59
+    },
+    {
+      "id": "6822450eea64cb01",
+      "title": "The ‘together tech’ wave might be the most intriguing startup bet of 2026",
+      "summary": "In 2026, some startups are focusing on fostering in-person connections and social experiences, diverging from the AI-centric fundraising trend. Notable examples include Brynn Putnam's Board, which emphasizes games and social interactions, and the viral Cyberdeck creators promoting DIY computers that encourage outdoor engagement.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/the-together-tech-wave-might-be-the-most-intriguing-startup-bet-of-2026/",
+      "publishedAt": "2026-06-05T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "2cc6826effd4da13",
+      "title": "This is your laptop… on AI",
+      "summary": "During recent developer conferences, Big Tech leaders, including Nvidia's Jensen Huang, emphasized the transformative potential of AI in everyday technology, particularly in how laptops are utilized. Huang outlined innovative approaches that could redefine user interaction and functionality in computing devices.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "publishedAt": "2026-06-05T16:39:07+00:00",
+      "category": "news",
+      "relevanceScore": 54
+    },
+    {
+      "id": "c1eb5a441517bce3",
+      "title": "AirTrunk commits $30B to build 5GW of AI data centers in India",
+      "summary": "AirTrunk has announced a $30 billion investment to establish 5GW of AI data center capacity in India. This initiative aims to enhance the country's infrastructure for data processing and storage.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/05/airtrunk-commits-30b-to-build-5gw-of-ai-data-centers-in-india/",
+      "publishedAt": "2026-06-05T13:03:10+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "199faef5d2a1799e",
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "summary": "New York State lawmakers have approved a one-year moratorium on new large data centers, pending Governor Kathy Hochul's signature. The ban aims to allow time for policymakers to assess the environmental and energy price implications of such facilities.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
+      "publishedAt": "2026-06-05T15:25:10+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "04fae99a085f30dc",
+      "title": "The token bill comes due: Inside the industry scramble to manage AI’s runaway costs",
+      "summary": "The AI industry is facing escalating costs, prompting a shift in focus from rapid expansion to implementing necessary safeguards and cost management strategies. Companies are now prioritizing the establishment of guardrails to control expenses associated with AI development and deployment.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/05/the-token-bill-comes-due-inside-the-industry-scramble-to-manage-ais-runaway-costs/",
+      "publishedAt": "2026-06-05T14:49:12+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "1b7c69ed3ec23a27",
+      "title": "Has Microsoft Lost Its Mojo (Again)?",
+      "summary": "Microsoft's AI products are reportedly underperforming in sales, and GitHub is facing ongoing challenges. In an interview, VP Scott Hanselman discussed the company's current position and whether it is in a state of catch-up in the AI landscape.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/has-microsoft-lost-its-mojo-again/",
+      "publishedAt": "2026-06-05T15:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "6e744dc13d98b4e4",
+      "title": "The Meta hack shows there’s more to AI security than Mythos",
+      "summary": "Attackers exploited Meta's AI customer support agent to steal Instagram accounts by requesting the linking of accounts to their own email addresses. This incident highlights vulnerabilities in AI security, as one attacker even gained access to a dormant Obama White House account.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/05/1138437/the-meta-hack-shows-theres-more-to-ai-security-than-mythos/",
+      "publishedAt": "2026-06-05T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "0d03bd630d9800ab",
+      "title": "The most interesting startups right now want to get you off your phone",
+      "summary": "Startups like Board, founded by Brynn Putnam, are focusing on in-person social experiences and games, raising funds to encourage people to disconnect from their phones. Additionally, creators of Cyberdeck are gaining popularity by designing whimsical DIY computers that promote outdoor engagement.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/video/the-most-interesting-startups-right-now-want-to-get-you-off-your-phone/",
+      "publishedAt": "2026-06-05T17:17:06+00:00",
+      "category": "industry",
+      "relevanceScore": 50
+    },
+    {
       "id": "699659268369603a",
       "title": "OpenAI and Anthropic May Be Rivals, but Investors Aren’t Picking Sides",
-      "summary": "Investors are showing interest in both OpenAI and Anthropic, viewing them as complementary players in the AI space rather than direct competitors. This perspective allows for diversified investment in leading AI technologies, similar to investing in both Pepsi and Coke.",
+      "summary": "Investors are showing interest in both OpenAI and Anthropic, viewing them as complementary players in the AI space rather than direct competitors. This perspective allows for diversified investment in the rapidly evolving AI industry.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/openai-and-anthropic-may-be-rivals-but-their-investors-arent-choosing-sides/",
       "publishedAt": "2026-06-05T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 57
-    },
-    {
-      "id": "ed35274ed3a7bb67",
-      "title": "Mira Murati steps back into the spotlight, carefully",
-      "summary": "Mira Murati, a prominent figure in the AI industry, is re-emerging into the public eye to reinforce her presence in a competitive market. This shift comes as industry leaders recognize the need to actively engage and maintain visibility amid evolving dynamics.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/04/mira-murati-steps-back-into-the-spotlight-carefully/",
-      "publishedAt": "2026-06-05T05:06:37+00:00",
-      "category": "industry",
-      "relevanceScore": 53
-    },
-    {
-      "id": "7cf0f07ddbf36c0f",
-      "title": "Why Apple Might Put Cameras Into Its Next AirPods",
-      "summary": "Apple is exploring the integration of cameras into its next generation of AirPods, but faces challenges related to battery life and privacy concerns. The potential feature aims to enhance functionality, though its implementation remains uncertain.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/why-apple-might-put-cameras-into-its-next-airpods/",
-      "publishedAt": "2026-06-05T10:00:00+00:00",
-      "category": "news",
-      "relevanceScore": 52
-    },
-    {
-      "id": "76c18f594c29bfd2",
-      "title": "AI Has Come for Serif Fonts",
-      "summary": "AI companies are increasingly adopting serif fonts in their designs to convey a sense of humanity and warmth. However, critics have labeled this trend as \"tasteslop,\" suggesting a lack of originality and quality in the aesthetic choices.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/ai-has-come-for-serif-fonts/",
-      "publishedAt": "2026-06-05T09:00:00+00:00",
-      "category": "news",
-      "relevanceScore": 51
-    },
-    {
-      "id": "d2b7f08df100b41e",
-      "title": "Seoul Purpose: How NVIDIA and South Korea Are Building the Future of AI",
-      "summary": "NVIDIA CEO Jensen Huang is visiting Seoul to engage with South Korean partners and innovators in AI and robotics, highlighting the country's role as a global hub for AI development. The collaboration aims to enhance sovereign AI infrastructure and support the vibrant gaming community in South Korea.",
-      "sourceName": "NVIDIA AI",
-      "sourceIcon": "gamecontroller",
-      "articleURL": "https://blogs.nvidia.com/blog/korea-ecosystem-2026/",
-      "publishedAt": "2026-06-05T05:38:37+00:00",
-      "category": "industry",
-      "relevanceScore": 51
-    },
-    {
-      "id": "7f6bdb142a2960be",
-      "title": "Defense tech, AI, and fundraising take center stage at StrictlyVC Los Angeles on June 18",
-      "summary": "On June 18, The Aerospace Corporation Campus will host the StrictlyVC event, bringing together investors, founders, and tech leaders to discuss key developments in venture capital, defense technology, artificial intelligence, and advanced industries. Attendees can secure their spots for an evening of insightful conversations on these critical topics.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/04/defense-tech-ai-and-fundraising-take-center-stage-at-strictlyvc-los-angeles-on-june-18/",
-      "publishedAt": "2026-06-04T21:30:00+00:00",
-      "category": "industry",
       "relevanceScore": 49
-    },
-    {
-      "id": "8e52b2b33d1698cb",
-      "title": "Beyond Output Matching: Preserving Internal Geometry in NVFP4 LLM Distillatio",
-      "summary": "The article discusses a new approach to quantization-aware distillation (QAD) for low-precision inference in large language models, specifically focusing on NVFP4-based methods. It emphasizes the importance of preserving internal geometry during the distillation process to improve accuracy while reducing computational costs.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.05682",
-      "publishedAt": "2026-06-05T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "56d86186e03a78ba",
-      "title": "Edit-R2: Context-Aware Reinforcement Learning for Multi-Turn Image Editing",
-      "summary": "The paper introduces Edit-R2, a context-aware reinforcement learning framework designed for multi-turn image editing, allowing users to iteratively refine images through a series of instructions. This approach addresses the limitations of existing methods that primarily focus on single-turn editing by incorporating session-level constraints to maintain coherence across multiple editing steps.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.05950",
-      "publishedAt": "2026-06-05T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "45626d8cef5447dc",
-      "title": "Boosting Brain-to-Image Decoding with TRIBE v2 Data Augmentation",
-      "summary": "Researchers have explored the use of TRIBE v2, a pretrained model of fMRI responses, to enhance brain-to-image decoding by augmenting small datasets with synthetic data. Their findings suggest that this approach can effectively improve decoding performance in low-data scenarios.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.06345",
-      "publishedAt": "2026-06-05T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "767926f74f1f7737",
-      "title": "Domain-Conditioned Safety in Frontier Computer-Using Agents: A 793-Episode Browser Benchmark, a Coding-Domain Cross-Reference, and a Reproducibility Audit of Recent Red-Teaming",
-      "summary": "The article introduces CUA-HandCrafted, a public benchmark consisting of 793 episodes designed to evaluate the effectiveness of prompt-injection attack techniques against current frontier computer-using agents (CUAs). It highlights the need for reproducibility in red-teaming efforts, as previous studies reported high attack success rates primarily on retired models and the most vulnerable agents.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.05233",
-      "publishedAt": "2026-06-05T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "9e883f993945c6ec",
-      "title": "Pattern Selectivity is Not Task-Causal Structure: A Cross-Architecture Mechanistic Study of Composed-Task Circuits in 1B-Class Language Models",
-      "summary": "A study investigates the effectiveness of a method for identifying attention-head circuits in 1B-class language models by examining task-pattern selectivity and causal ablation. The findings indicate that while the methodology is applicable across different model architectures, the specific circuits identified vary significantly between them.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.05378",
-      "publishedAt": "2026-06-05T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 454,
+    "articlesProcessed": 460,
     "articlesSelected": 12
   }
 }
