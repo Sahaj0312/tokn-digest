@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-06-19",
-  "digestSlot": "am",
-  "generatedAt": "2026-06-19T11:20:12.898264+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-19T20:25:17.497939+00:00",
   "headline": {
-    "id": "4232573b884d931c",
-    "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
-    "summary": "Miami-based AI startup Subquadratic has emerged from stealth mode, claiming to have solved a long-standing mathematical bottleneck affecting large language models. While initial details were sparse and met with skepticism, the company is beginning to provide evidence to support its assertions.",
-    "sourceName": "MIT Tech Review",
-    "sourceIcon": "newspaper",
-    "articleURL": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
-    "publishedAt": "2026-06-19T10:40:24+00:00",
-    "category": "news",
-    "relevanceScore": 61
+    "id": "c2065e74b69e3495",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "summary": "The US government has ordered Anthropic to halt the release of its Fable 5 and Mythos 5 AI models due to national security concerns, following reports of vulnerabilities that could allow users to bypass safety measures. In response, cybersecurity experts have expressed concerns about the implications of this decision, highlighting that similar vulnerabilities exist in other AI models.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "publishedAt": "2026-06-19T16:01:03+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "dc353e1572f581bc",
+      "title": "Is the US government’s Anthropic ban accidentally helping the brand?",
+      "summary": "The US government's ban on Anthropic's latest models, Fable 5 and Mythos 5, due to national security concerns has sparked criticism from cybersecurity researchers who argue that the decision could be detrimental. Anthropic has pointed out that similar vulnerabilities exist in other AI models, raising questions about the broader implications of the ban.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/video/is-the-us-governments-anthropic-ban-accidentally-helping-the-brand/",
+      "publishedAt": "2026-06-19T16:08:17+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "4232573b884d931c",
+      "title": "A startup claims it broke through a bottleneck that’s holding back LLMs",
+      "summary": "Miami-based AI startup Subquadratic has announced that it has solved a longstanding mathematical bottleneck affecting large language models. While initial details were sparse and met with skepticism, the company has begun to provide evidence supporting its claims.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/19/1139313/a-startup-claims-it-broke-through-a-bottleneck-thats-holding-back-llms/",
+      "publishedAt": "2026-06-19T10:40:24+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "a6c7ef98625762a3",
+      "title": "Billionaire Ambani wants AI in every call, app, and home",
+      "summary": "Billionaire Mukesh Ambani's Reliance is integrating artificial intelligence into its telecom services, aiming to enhance user experience for over 500 million customers. The initiative seeks to incorporate AI across various applications, calls, and home technologies.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/19/billionaire-ambani-wants-ai-in-every-call-app-and-home/",
+      "publishedAt": "2026-06-19T15:23:28+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "55672ac2c7413736",
+      "title": "The CEO of Allbirds’ new AI biz has a plan, but no employees",
+      "summary": "The CEO of Allbirds has launched a new AI startup that currently operates without any employees, relying on a significant seed funding round to kickstart its operations. The future direction and plans for the company remain uncertain at this stage.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/19/the-ceo-of-allbirds-new-ai-biz-has-a-plan-but-no-employees/",
+      "publishedAt": "2026-06-19T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "f44fda153444e015",
+      "title": "The film about Sam Altman has been dropped by Amazon MGM",
+      "summary": "Amazon MGM has canceled the film \"Artificial,\" directed by Luca Guadagnino and centered on OpenAI CEO Sam Altman, after a year of development. The film, featuring Andrew Garfield and Monica Barbaro, was set to depict the tumultuous events surrounding Altman's termination and subsequent reinstatement in 2023.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/952906/sam-altman-film-artificial-openai-amazon-mgm-dropped",
+      "publishedAt": "2026-06-19T14:15:29+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
       "id": "ba2a87a424811d9b",
-      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t",
-      "summary": "The U.S. government has raised concerns that ASML's advanced chip manufacturing equipment may be in China, while ASML has denied these claims. The company argues that it would not jeopardize its export license by supplying such technology to a Chinese customer.",
+      "title": "The US says ASML’s top chip tool may be in China. ASML says it isn’t.",
+      "summary": "The U.S. government has raised concerns that ASML's advanced chip manufacturing equipment may be located in China, while ASML has denied these claims. The company asserts that it would not jeopardize its export license by supplying such technology to a Chinese client.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/19/the-us-says-asmls-top-chip-tool-may-be-in-china-asml-says-it-isnt/",
       "publishedAt": "2026-06-19T07:59:12+00:00",
       "category": "industry",
-      "relevanceScore": 55
+      "relevanceScore": 47
     },
     {
       "id": "56001dbe21a01b7f",
-      "title": "Source: Elastic agrees to buy CRV-backed DeductiveAI for up to $85M",
-      "summary": "Elastic has agreed to acquire DeductiveAI, a startup focused on using AI for software bug detection and resolution, for up to $85 million. Founded three years ago and backed by CRV, DeductiveAI aims to enhance software reliability through its innovative technology.",
+      "title": "Source: Elastic agrees to buy CRV-backed Deductive AI for up to $85M",
+      "summary": "Elastic has agreed to acquire Deductive AI, a startup focused on using AI to identify and fix software bugs, for up to $85 million. Founded three years ago and backed by CRV, Deductive AI aims to enhance software development processes.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/18/source-elastic-agrees-to-buy-crv-backed-deductiveai-for-up-to-85m/",
       "publishedAt": "2026-06-19T00:51:11+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
       "id": "b8ade19f739b6588",
       "title": "AI inference startup Baseten reportedly raising $1.5B months after its last mega-round",
-      "summary": "AI inference startup Baseten is reportedly nearing the completion of a $1.5 billion funding round, which would value the company at $13 billion. This follows a significant funding round just months prior, highlighting the ongoing demand in the AI inference sector.",
+      "summary": "AI inference startup Baseten is reportedly nearing the completion of a $1.5 billion funding round, which would value the company at $13 billion. This comes just months after its previous significant funding round amid growing interest in AI inference technologies.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/18/ai-inference-startup-baseten-reportedly-raising-1-5b-months-after-its-last-mega-round/",
       "publishedAt": "2026-06-18T21:20:13+00:00",
       "category": "industry",
-      "relevanceScore": 49
+      "relevanceScore": 41
+    },
+    {
+      "id": "b2c21641f617e3bd",
+      "title": "Barret Zoph is out at OpenAI again after just five months",
+      "summary": "Barret Zoph has left OpenAI again after just five months, having rejoined the company in January as head of enterprise AI sales. His departure follows a previous role as co-founder and CTO of Thinking Machines Lab, a competing AI firm.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/952837/barret-zoph-openai-thinking-machines-lab",
+      "publishedAt": "2026-06-19T04:49:33+00:00",
+      "category": "news",
+      "relevanceScore": 40
     },
     {
       "id": "d6d31125e5338284",
       "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "summary": "The article presents a framework for measuring curriculum alignment in undergraduate computer science programs, focusing on topical coverage, competency, and cognitive depth in relation to international guidelines. This approach utilizes a human-in-the-loop pipeline to assess how well programs adhere to evolving curricular standards, specifically comparing the CS2013 and CS2023 guidelines.",
+      "summary": "The article presents a human-in-the-loop pipeline designed to measure the alignment of undergraduate computer science curricula with international guidelines, specifically comparing the CS2013 and CS2023 frameworks. This approach aims to provide a reliable method for assessing how well programs cover these guidelines and how that coverage evolves over time.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19469",
       "publishedAt": "2026-06-19T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 48
+      "relevanceScore": 40
     },
     {
       "id": "a352095b9b4d4342",
       "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
-      "summary": "The article reviews the evolution of artificial intelligence in systems engineering over the past decade, categorizing developments into foundational, applied, and large language model (LLM) phases. It highlights the growth of a research community sparked by a 2020 INCOSE INSIGHT special issue, which has since attracted over 250 participants to its annual workshop.",
+      "summary": "The article reviews the evolution of artificial intelligence in systems engineering over the past decade, categorizing developments into three phases: foundational, applied, and LLM inflection. It highlights the significant impact of the March 2020 INCOSE INSIGHT special issue on AI and Systems Engineering, which initiated a thriving research community.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19630",
       "publishedAt": "2026-06-19T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "ac6c00ff2b7eec0b",
-      "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
-      "summary": "Researchers have introduced BrainG3N, a dual-purpose tokenizer designed to enhance the generation of controllable 3D brain MRI images. This innovation aims to improve clinical applications in neurology and neuro-oncology by addressing the challenges of retaining clinical information while facilitating data sharing and simulating disease trajectories.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19651",
-      "publishedAt": "2026-06-19T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "7e922696c4ffcd32",
-      "title": "TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability",
-      "summary": "TelcoAgent is a new framework designed for scalable and explainable forecasting of Key Performance Measurements (KPMs) in 5G and next-generation telecom networks. The model addresses the limitations of existing machine learning approaches, enhancing proactive network management capabilities.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19821",
-      "publishedAt": "2026-06-19T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "b2d9da235ed74939",
-      "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
-      "summary": "The article discusses the limitations of current FP4 training methods for large language models (LLMs), specifically highlighting the Shrinkage Bias associated with non-uniform data formats like E2M1. The authors propose a new approach, termed UFP4, to mitigate these issues and improve the efficiency of LLM pretraining on existing hardware systems.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.20381",
-      "publishedAt": "2026-06-19T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "87e751818406d6b4",
-      "title": "Ensembles of Large Language Models for Identifying EQ-5D Studies in PubMed Based on Their Abstracts",
-      "summary": "This study explores the application of ensemble large language models, including Google's Gemini, for the automated identification of EQ-5D studies in PubMed based on their abstracts. The research aims to improve the efficiency and consistency of screening in systematic literature reviews, addressing the challenges faced by human reviewers in classifying health-related quality-of-life studies.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19345",
-      "publishedAt": "2026-06-19T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "8418dca4e2129404",
-      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "The DeepSeek-V4 series introduces two advanced Mixture-of-Experts language models, DeepSeek-V4-Pro with 1.6 trillion parameters and DeepSeek-V4-Flash with 284 billion parameters, both capable of handling a context length of one million tokens. Key architectural upgrades include a hybrid attention mechanism and enhanced optimization techniques to improve efficiency and performance.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19348",
-      "publishedAt": "2026-06-19T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "3a363745050c5c8a",
-      "title": "StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns",
-      "summary": "StaminaBench is a new benchmark designed to evaluate the endurance of coding agents by measuring how many consecutive interaction turns they can manage before failure. The benchmark focuses on real-world coding scenarios, requiring agents to implement and modify a REST API server through a series of procedurally generated change requests.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19613",
-      "publishedAt": "2026-06-19T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 352,
+    "articlesProcessed": 350,
     "articlesSelected": 12
   }
 }
