@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-06-20",
-  "digestSlot": "am",
-  "generatedAt": "2026-06-20T10:07:36.227394+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-20T20:13:01.030383+00:00",
   "headline": {
-    "id": "baedc19be0fb282b",
-    "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-    "summary": "The latest iteration of Siri AI has been enhanced to provide more conversational interactions and improved assistance capabilities. Users report that the updated assistant is more helpful and accessible in various contexts.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
-    "publishedAt": "2026-06-20T10:00:00+00:00",
-    "category": "news",
+    "id": "d9f773276eb361a0",
+    "title": "In the Weights is your new AI-centric vanity search",
+    "summary": "The article introduces \"In the Weights,\" a new AI-driven platform that allows users to assess their fitness and health metrics through a personalized scoring system. This tool aims to provide insights into individual performance and wellness, catering to those interested in tracking their fitness journey.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
+    "publishedAt": "2026-06-20T19:41:11+00:00",
+    "category": "industry",
     "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "a97066b5c157923b",
+      "title": "[Linkpost] How Transparent Is DiffusionGemma (and why it matters)",
+      "summary": "A recent transparency audit of the DiffusionGemma text diffusion model, conducted by the GDM interpretability and text diffusion teams, revealed that it is not significantly less transparent than its predecessor, Gemma. Both models demonstrated similar performance in terms of monitorability and interpretability.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/linkpost-how-transparent-is-diffusiongemma-and-why-it",
+      "publishedAt": "2026-06-20T20:05:50+00:00",
+      "category": "research",
+      "relevanceScore": 57
+    },
+    {
+      "id": "c36b8336a7fd8c79",
+      "title": "The Atlantic created a searchable database of the music used to train AI",
+      "summary": "The Atlantic has launched a searchable database containing four datasets of music used for training AI models, including two large sets with 12 million and 9 million tracks. This initiative, led by reporter Alex Reisner, aims to provide public access to significant training data for AI development.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
+      "publishedAt": "2026-06-20T18:46:48+00:00",
+      "category": "research",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5564eb29f2579452",
+      "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
+      "summary": "Nobel laureate John Jumper is departing from DeepMind to join rival AI company Anthropic. His exit follows a trend of notable departures from Google DeepMind.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
+      "publishedAt": "2026-06-20T16:39:57+00:00",
+      "category": "industry",
+      "relevanceScore": 50
+    },
+    {
+      "id": "baedc19be0fb282b",
+      "title": "Siri AI Hands On: A Smart, Helpful Assistant",
+      "summary": "The latest iteration of Siri AI features enhanced conversational abilities and improved functionality, making it a more effective digital assistant. Users report that it is now more helpful and responsive in various tasks.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
+      "publishedAt": "2026-06-20T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "a9edc22c0fd8e4fd",
+      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
+      "summary": "The article discusses the ineffectiveness of export controls on cybersecurity-related software over the past 30 years, highlighting that previous attempts have failed to prevent the dissemination of such technologies. It questions the likelihood of success for current measures, particularly concerning Anthropic's cybersecurity model, Mythos.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
+      "publishedAt": "2026-06-19T22:40:14+00:00",
+      "category": "industry",
+      "relevanceScore": 40
+    },
+    {
       "id": "d6d31125e5338284",
       "title": "Measuring Curriculum Alignment across Topical Coverage, Competency, and Cognitive Depth: A Longitudinal Framework Applied to CS2013 and CS2023",
-      "summary": "A new study presents a human-in-the-loop pipeline designed to measure the alignment of undergraduate computer science curricula with international guidelines, specifically comparing the CS2013 and CS2023 standards. This framework aims to provide a reliable method for assessing how well programs cover these evolving guidelines over time.",
+      "summary": "A new study presents a human-in-the-loop pipeline for measuring curriculum alignment in undergraduate computer science programs against international guidelines, focusing on topical coverage, competency, and cognitive depth. This framework is applied longitudinally to assess changes between the CS2013 and CS2023 curricular guidelines.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19469",
       "publishedAt": "2026-06-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "a352095b9b4d4342",
       "title": "AI4SE and SE4AI Exploration: A Decade Looking Back and Forward",
-      "summary": "The article reviews the evolution of AI and Systems Engineering (SE) over the past decade, highlighting key developments in three phases: foundational, applied, and LLM inflection. It also notes the growth of a research community sparked by a special issue on AI and SE, which has attracted over 250 participants to its annual workshop.",
+      "summary": "The article reviews the evolution of artificial intelligence in systems engineering over the past decade, categorizing developments into three phases: foundational, applied, and LLM inflection. It highlights the growth of a research community, sparked by a popular 2020 INCOSE INSIGHT special issue, which now attracts over 250 participants to its annual workshop.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19630",
       "publishedAt": "2026-06-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "ac6c00ff2b7eec0b",
       "title": "BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation",
-      "summary": "Researchers have introduced BrainG3N, a dual-purpose tokenizer designed to enhance the generation of controllable 3D brain MRIs, which are crucial for clinical neurology and neuro-oncology. This innovation aims to balance the retention of clinical information with the demands of generative modeling, potentially improving data sharing and simulation of disease trajectories.",
+      "summary": "Researchers have introduced BrainG3N, a dual-purpose tokenizer designed to enhance the generation of controllable 3D brain MRI images for clinical applications. This approach aims to balance the retention of critical clinical information while facilitating the use of generative models in neurology and neuro-oncology.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19651",
       "publishedAt": "2026-06-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "7e922696c4ffcd32",
       "title": "TelcoAgent: A Scalable 5G Multi-KPM Forecasting With 3GPP-Grounded Explainability",
-      "summary": "TelcoAgent is a new framework designed for scalable and explainable Key Performance Measurement (KPM) forecasting in 5G and next-generation telecom networks. By leveraging a foundation model, it aims to address the limitations of existing machine learning approaches in real-world applications.",
+      "summary": "TelcoAgent is a new framework designed for scalable and explainable forecasting of Key Performance Measurements (KPMs) in 5G and next-generation telecom networks. It addresses the limitations of existing machine learning approaches, enhancing their applicability in real-world network management.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19821",
       "publishedAt": "2026-06-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "b2d9da235ed74939",
       "title": "Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe",
-      "summary": "The article discusses the limitations of current FP4 training methods for large language models (LLMs), specifically focusing on the Shrinkage Bias associated with non-uniform data formats like E2M1. It highlights the need for alternative approaches, such as the proposed UFP4 recipe, to mitigate these issues and improve efficiency in LLM pretraining.",
+      "summary": "The article discusses the limitations of current FP4 training methods for large language models (LLMs), specifically focusing on the Shrinkage Bias associated with non-uniform data formats like E2M1. It highlights the need for alternative approaches, such as the proposed UFP4 recipe, to mitigate these systematic rounding errors and improve pretraining efficiency on various hardware systems.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.20381",
       "publishedAt": "2026-06-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "87e751818406d6b4",
       "title": "Ensembles of Large Language Models for Identifying EQ-5D Studies in PubMed Based on Their Abstracts",
-      "summary": "This study explores the effectiveness of ensembles of large language models, including Google's Gemini, in automating the identification of EQ-5D studies in PubMed by analyzing their abstracts. The research aims to improve the efficiency and consistency of systematic literature reviews, addressing the challenges faced by human reviewers in classifying health-related quality-of-life results.",
+      "summary": "This study explores the application of ensemble methods using large language models, including Google's Gemini, to automate the identification of EQ-5D studies in PubMed based on their abstracts. The approach aims to enhance the efficiency and consistency of systematic literature reviews by reducing the reliance on manual screening.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2606.19345",
       "publishedAt": "2026-06-20T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "8418dca4e2129404",
-      "title": "DeepSeek-V4: Towards Highly Efficient Million-Token Context Intelligence",
-      "summary": "The DeepSeek-V4 series introduces two advanced Mixture-of-Experts language models, DeepSeek-V4-Pro with 1.6 trillion parameters and DeepSeek-V4-Flash with 284 billion parameters, both capable of processing context lengths of up to one million tokens. Key architectural improvements include a hybrid attention mechanism and enhanced optimization techniques.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19348",
-      "publishedAt": "2026-06-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "3a363745050c5c8a",
-      "title": "StaminaBench: Stress-Testing Coding Agents over 100 Interaction Turns",
-      "summary": "StaminaBench is a new benchmark designed to evaluate the endurance of coding agents by assessing their ability to handle multiple consecutive interaction turns before failure. The benchmark focuses on real-world coding scenarios, where agents are tasked with implementing and modifying a REST API server in response to a series of procedurally generated change requests.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19613",
-      "publishedAt": "2026-06-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "71a3b6dcb119fb98",
-      "title": "QueryGaussian: Scalable and Training-Free Open-Vocabulary 3D Instance Retrieval",
-      "summary": "The paper introduces QueryGaussian, a novel method for scalable and training-free open-vocabulary 3D instance retrieval using natural language prompts. It addresses the limitations of existing scene-level embedding approaches by offering a more efficient solution that reduces memory and computational costs associated with complex 3D scenes.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19733",
-      "publishedAt": "2026-06-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "926a0ee6c8e7f07b",
-      "title": "SL-S4Wave: Self-Supervised Learning of Physiological Waveforms with Structured State Space Models",
-      "summary": "The article presents SL-S4Wave, a self-supervised learning framework designed to model long-sequence physiological waveforms, such as electrocardiograms (ECG), using structured state space models. This approach addresses challenges related to high sampling rates, multichannel signal complexity, and limited labeled data in medical time series analysis.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19888",
-      "publishedAt": "2026-06-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "b9bf5944bec3f67e",
-      "title": "SIMBA: ABidirectional Retrieval Forward Simulation Framework for Modeling FY-4A GIIRS Hyperspectral Infrared Radiances Toward NWP Applications",
-      "summary": "The article introduces SIMBA, a bidirectional retrieval forward simulation framework designed to model hyperspectral infrared radiances from the FY-4A GIIRS for numerical weather prediction applications. It addresses the limitations of existing deep learning methods by facilitating both the retrieval of atmospheric profiles from radiances and the reverse simulation of radiances from atmospheric states.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2606.19943",
-      "publishedAt": "2026-06-20T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 325,
+    "articlesProcessed": 324,
     "articlesSelected": 12
   }
 }
