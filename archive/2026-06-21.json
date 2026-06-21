@@ -1,90 +1,112 @@
 {
   "digestDate": "2026-06-21",
-  "digestSlot": "am",
-  "generatedAt": "2026-06-21T10:27:45.612713+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-21T20:23:31.796860+00:00",
   "headline": {
-    "id": "8bb4d1fb3849c0e1",
-    "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
-    "summary": "Meredith Whittaker, co-founder of Signal, emphasizes that AI chatbots should not be perceived as friends or sentient beings, highlighting their lack of consciousness. She urges users to remain aware of the limitations and nature of these technologies.",
+    "id": "9f86aef53b948bd1",
+    "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
+    "summary": "iOS 27 will introduce several practical AI features beyond the revamped Siri, enhancing user experience on iPhones. These updates were highlighted during Apple's WWDC event, showcasing advancements in AI integration across the operating system.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
-    "publishedAt": "2026-06-20T20:32:29+00:00",
+    "articleURL": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
+    "publishedAt": "2026-06-21T14:40:28+00:00",
     "category": "industry",
-    "relevanceScore": 46
+    "relevanceScore": 56
   },
   "articles": [
     {
-      "id": "1fb0bcf332facad9",
-      "title": "How transparent is DiffusionGemma (and why it matters)",
-      "summary": "A recent transparency audit of DiffusionGemma, conducted by the GDM interpretability and text diffusion teams, evaluates the model's transparency and its implications for understanding AI systems. The findings highlight the importance of transparency in AI models, particularly in the context of text generation.",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
-      "publishedAt": "2026-06-20T20:05:50+00:00",
-      "category": "research",
-      "relevanceScore": 46
+      "id": "7d198b07e24c6732",
+      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
+      "summary": "The latest episode of Equity examines the Trump administration's recent actions against Anthropic and the potential implications for the broader AI ecosystem. The discussion focuses on the motivations behind the crackdown and who may benefit from these regulatory changes.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
+      "publishedAt": "2026-06-21T15:28:17+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "4a44803257ab041b",
+      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
+      "summary": "The article provides 28 tips for optimizing prompts when using OpenAI's ChatGPT to enhance the quality and relevance of the responses. It emphasizes the importance of effective prompt engineering to achieve more interesting and useful results from the AI.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
+      "publishedAt": "2026-06-21T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "8bb4d1fb3849c0e1",
+      "title": "Signal’s Meredith Whittaker wants you to remember that AI chatbots ‘are not your friends’",
+      "summary": "Meredith Whittaker, co-founder of Signal, emphasizes that AI chatbots should not be perceived as friends or sentient beings, highlighting their lack of consciousness. She urges users to maintain a clear distinction between human interactions and AI capabilities.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/20/signals-meredith-whittaker-wants-you-to-remember-that-ai-chatbots-are-not-your-friends/",
+      "publishedAt": "2026-06-20T20:32:29+00:00",
+      "category": "industry",
+      "relevanceScore": 38
     },
     {
       "id": "d9f773276eb361a0",
       "title": "In the Weights is your new AI-centric vanity search",
-      "summary": "The new AI tool \"In the Weights\" allows users to assess their fitness and health metrics through a personalized vanity score. This platform leverages artificial intelligence to provide insights and comparisons based on individual data.",
+      "summary": "The article introduces \"In the Weights,\" a new AI-driven platform that allows users to assess their fitness and health metrics through a personalized scoring system. This tool aims to provide users with insights into their physical performance and wellness.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/20/in-the-weights-is-your-new-ai-centric-vanity-search/",
       "publishedAt": "2026-06-20T19:41:11+00:00",
       "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 37
+    },
+    {
+      "id": "1fb0bcf332facad9",
+      "title": "How transparent is DiffusionGemma (and why it matters)",
+      "summary": "A recent transparency audit of DiffusionGemma, a text diffusion model developed by GDM, assessed its interpretability and operational mechanisms. The collaboration aimed to enhance understanding of the model's functionality and implications in AI applications.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/zoYXpdaMgFT43Wc24/how-transparent-is-diffusiongemma-and-why-it-matters",
+      "publishedAt": "2026-06-20T20:05:50+00:00",
+      "category": "research",
+      "relevanceScore": 37
     },
     {
       "id": "c36b8336a7fd8c79",
       "title": "The Atlantic created a searchable database of the music used to train AI",
-      "summary": "The Atlantic has launched a searchable database containing four music datasets used for training AI models, including two large sets with 12 million and 9 million tracks. This initiative aims to provide public access to significant training data resources in the field of AI music generation.",
+      "summary": "The Atlantic has launched a searchable database featuring four datasets of music used for training AI models, including two large sets containing 12 million and 9 million tracks. This initiative, led by reporter Alex Reisner, aims to provide public access to significant training data for AI development.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/953183/the-atlantic-searchable-database-music-ai-training-data",
       "publishedAt": "2026-06-20T18:46:48+00:00",
       "category": "research",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "5564eb29f2579452",
       "title": "Nobel laureate John Jumper is leaving DeepMind for rival Anthropic",
-      "summary": "Nobel laureate John Jumper is departing from DeepMind to join rival AI company Anthropic. His exit follows a trend of notable figures leaving Google DeepMind for other opportunities in the AI sector.",
+      "summary": "Nobel laureate John Jumper is departing from DeepMind to join rival AI company Anthropic. He is among several prominent figures leaving Google DeepMind recently.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/20/nobel-laureate-john-jumper-is-leaving-deepmind-for-rival-anthropic/",
       "publishedAt": "2026-06-20T16:39:57+00:00",
       "category": "industry",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "baedc19be0fb282b",
       "title": "Siri AI Hands On: A Smart, Helpful Assistant",
-      "summary": "The latest iteration of Siri AI has been enhanced to provide more conversational interactions and improved assistance capabilities. Users report that the updated assistant is more helpful and accessible in various contexts.",
+      "summary": "The latest iteration of Siri AI has been updated to provide a more conversational and helpful user experience. Its omnipresence allows for improved assistance across various tasks and interactions.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/siri-ai-hands-on-iphone/",
       "publishedAt": "2026-06-20T10:00:00+00:00",
       "category": "news",
-      "relevanceScore": 37
-    },
-    {
-      "id": "a9edc22c0fd8e4fd",
-      "title": "From PGP to Mythos: a brief history of export controls that didn’t stop anyone",
-      "summary": "The article discusses the historical ineffectiveness of export controls on cybersecurity-related software over the past 30 years, highlighting that previous measures have failed to prevent the dissemination of such technologies. It questions the potential success of current controls, particularly in relation to Anthropic's cybersecurity model, Mythos.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/19/encryption-spyware-and-now-mythos-history-shows-why-cyber-export-control-doesnt-work/",
-      "publishedAt": "2026-06-19T22:40:14+00:00",
-      "category": "industry",
-      "relevanceScore": 28
+      "relevanceScore": 29
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 7,
-    "articlesSelected": 7
+    "articlesProcessed": 9,
+    "articlesSelected": 9
   }
 }
