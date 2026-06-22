@@ -1,101 +1,145 @@
 {
   "digestDate": "2026-06-22",
   "digestSlot": "pm",
-  "generatedAt": "2026-06-22T12:48:05.134372+00:00",
+  "generatedAt": "2026-06-22T21:30:20.574896+00:00",
   "headline": {
-    "id": "dc48f588e1b09881",
-    "title": "Read this before you vibe-code another app",
-    "summary": "Bob Starr's website \"Boomberg,\" which tracks US tax money allocated to tech companies, was launched quickly using vibe-coding techniques. Months later, he discovered a hidden SQL injection vulnerability that could have compromised the site's security.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/950844/vibe-coding-security-risks-apps",
-    "publishedAt": "2026-06-22T11:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 56
+    "id": "972115220a4b8e85",
+    "title": "AI chipmaker Groq confirms $650M raise, re-staffs after Nvidia’s $20B not-acqui-hire deal",
+    "summary": "AI chipmaker Groq has confirmed a $650 million funding round as it re-staffs following Nvidia's $20 billion not-acqui-hire deal. The company is focusing on expanding its neocloud business and bringing in new executives to support its growth.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/06/22/ai-chipmaker-groq-confirms-650m-raise-re-staffs-after-nvidias-20b-not-acqui-hire-deal/",
+    "publishedAt": "2026-06-22T20:13:58+00:00",
+    "category": "industry",
+    "relevanceScore": 59
   },
   "articles": [
     {
-      "id": "d678054b8fd245a2",
-      "title": "Hotter Than a Hot Tub: The 45°C Breakthrough to Cool AI’s Biggest Machines",
-      "summary": "NVIDIA has developed new AI servers capable of operating with cooling liquid temperatures up to 45°C, significantly higher than typical hot tub temperatures. This breakthrough enhances energy efficiency in AI machine cooling systems.",
-      "sourceName": "NVIDIA AI",
-      "sourceIcon": "gamecontroller",
-      "articleURL": "https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/",
-      "publishedAt": "2026-06-22T05:00:22+00:00",
+      "id": "432ec2dfc19caf93",
+      "title": "Three things to watch amid Anthropic’s latest feud with the government",
+      "summary": "Anthropic is currently in conflict with the US government regarding its AI model, Mythos, which was announced in April. The article outlines three key aspects to monitor as the situation develops.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/22/1139424/three-things-to-watch-amid-anthropics-latest-feud-with-the-government/",
+      "publishedAt": "2026-06-22T18:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 58
+    },
+    {
+      "id": "84e564d04ee45efa",
+      "title": "Google DeepMind bets $75M on AI’s future in Hollywood with A24 deal",
+      "summary": "Google DeepMind has partnered with A24 in a $75 million deal to develop AI filmmaking tools. This collaboration aims to enhance the creative process in Hollywood through advanced artificial intelligence technologies.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/22/google-deepmind-bets-75m-on-ais-future-in-hollywood-with-a24-deal/",
+      "publishedAt": "2026-06-22T18:49:44+00:00",
       "category": "industry",
-      "relevanceScore": 51
+      "relevanceScore": 58
     },
     {
-      "id": "848b20ff3f1ad4fc",
-      "title": "Some Electricians Think Building Data Centers Is for Sellouts",
-      "summary": "As Big Tech invests heavily in data center construction, some electricians are expressing concerns about the ethical implications of working on these projects amid rising national opposition. This growing skepticism highlights a divide within the workforce regarding the value and impact of building data centers.",
+      "id": "9f76c835bed222ee",
+      "title": "The AI world is getting ‘loopy’",
+      "summary": "The article discusses the emergence of \"loopy\" AI systems, which involve a swarm of agentic AI agents that operate continuously in the background. This development represents a significant advancement in AI capabilities, allowing for ongoing autonomous operations.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/22/the-ai-world-is-getting-loopy/",
+      "publishedAt": "2026-06-22T20:53:11+00:00",
+      "category": "industry",
+      "relevanceScore": 57
+    },
+    {
+      "id": "419e78928b61b1d3",
+      "title": "Meta Pauses Employee-Tracking Program Following Internal Data Leak",
+      "summary": "Meta has paused its employee-tracking program after an internal data leak exposed potentially sensitive information. The decision follows concerns about the security and privacy of the data involved in the initiative.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/data-center-buildout-electricians-selling-out/",
-      "publishedAt": "2026-06-22T09:30:00+00:00",
+      "articleURL": "https://www.wired.com/story/meta-pauses-employee-tracking-program-following-internal-security-breach/",
+      "publishedAt": "2026-06-22T21:08:09+00:00",
       "category": "news",
-      "relevanceScore": 50
+      "relevanceScore": 57
     },
     {
-      "id": "9f0d755c0478cd30",
-      "title": "World Cup Scams Are Getting Harder to Spot",
-      "summary": "AI technology is increasingly being used to create sophisticated scams related to the World Cup, including counterfeit tickets and cloned websites. As a result, fans are finding it more challenging to differentiate between legitimate offers and fraudulent schemes.",
+      "id": "b1bfc5f389230711",
+      "title": "Meta Exposed Data Internally From Its Controversial Employee-Tracking Program",
+      "summary": "Meta has revealed that it internally exposed data from its employee-tracking program, which collects keystroke data to train AI models. This initiative has faced criticism from employees who raised concerns about privacy and surveillance.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/world-cup-scams-are-getting-harder-to-spot/",
-      "publishedAt": "2026-06-22T09:30:00+00:00",
+      "articleURL": "https://www.wired.com/story/meta-accidentally-let-employees-access-each-others-keystroke-data/",
+      "publishedAt": "2026-06-22T20:28:53+00:00",
       "category": "news",
-      "relevanceScore": 50
+      "relevanceScore": 57
     },
     {
-      "id": "4a975b89e4a0f0fb",
-      "title": "Samsung Electronics brings ChatGPT and Codex to employees",
-      "summary": "Samsung Electronics has implemented ChatGPT Enterprise and Codex for its global workforce, representing one of the largest deployments of OpenAI's AI technologies in an enterprise setting. This initiative aims to enhance productivity and streamline operations across the company.",
+      "id": "a6a4d0b9b1c8c70f",
+      "title": "Following user outcry, AMD reinstates memory encryption in consumer CPUs",
+      "summary": "AMD has decided to reinstate memory encryption features in its consumer CPUs after receiving significant backlash from users. The initial removal of this feature was perceived by critics as a strategy to push consumers towards more expensive chip options.",
+      "sourceName": "Ars Technica",
+      "sourceIcon": "desktopcomputer",
+      "articleURL": "https://arstechnica.com/security/2026/06/following-user-outcry-amd-reinstates-memory-encryption-in-consumer-cpus/",
+      "publishedAt": "2026-06-22T19:16:52+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "0d1234bdee0b8975",
+      "title": "Nvidia wants to cut data center water use, but that’s not the same as fixing AI’s water problem",
+      "summary": "Nvidia has introduced a new cooling system designed to reduce water consumption within data centers. However, this initiative does not tackle the significant water usage associated with fossil fuel power plants that support AI operations.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/22/nvidia-wants-to-cut-data-center-water-use-but-thats-not-the-same-as-fixing-ais-water-problem/",
+      "publishedAt": "2026-06-22T20:08:15+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "b63e5cb33bb0ec81",
+      "title": "Daybreak: Tools for securing every organization in the world",
+      "summary": "OpenAI has launched Daybreak tools, featuring Codex Security and GPT-5.5-Cyber, designed to assist organizations in identifying, validating, and patching vulnerabilities efficiently. These tools aim to enhance cybersecurity measures across various sectors.",
       "sourceName": "OpenAI",
       "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "publishedAt": "2026-06-21T23:00:00+00:00",
+      "articleURL": "https://openai.com/index/daybreak-securing-the-world",
+      "publishedAt": "2026-06-22T10:00:00+00:00",
       "category": "product",
-      "relevanceScore": 47
+      "relevanceScore": 54
     },
     {
-      "id": "9f86aef53b948bd1",
-      "title": "Beyond Siri: Here are the practical AI features coming to your iPhone in iOS 27",
-      "summary": "iOS 27 will introduce several practical AI features beyond the revamped Siri, enhancing user experience on iPhones. These updates, showcased at WWDC, aim to improve functionality and usability across various applications within the operating system.",
+      "id": "3696e67c2c9e8aaa",
+      "title": "Patch the Planet: a Daybreak initiative to support open source maintainers",
+      "summary": "OpenAI has launched \"Patch the Planet,\" a Daybreak initiative aimed at assisting open-source maintainers in identifying, validating, and addressing vulnerabilities using AI and expert reviews. The program seeks to enhance the security and reliability of open-source software projects.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/patch-the-planet",
+      "publishedAt": "2026-06-22T10:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 54
+    },
+    {
+      "id": "2f46c0405ca30062",
+      "title": "Amazon is testing Alexa+ in India with Hindi support",
+      "summary": "Amazon is testing its new conversational AI assistant, Alexa+, in India, offering a version that supports the Hindi language. The company is inviting users in the country to participate in the testing phase.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/21/beyond-siri-here-are-the-practical-ai-features-coming-to-your-iphone-in-ios-27/",
-      "publishedAt": "2026-06-21T14:40:28+00:00",
+      "articleURL": "https://techcrunch.com/2026/06/22/amazon-is-testing-alexa-in-india-with-hindi-support/",
+      "publishedAt": "2026-06-22T17:31:29+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 54
     },
     {
-      "id": "7d198b07e24c6732",
-      "title": "When the Trump administration cracks down on Anthropic, who benefits?",
-      "summary": "The latest episode of Equity examines the Trump administration's actions against Anthropic, exploring the motivations behind these moves and their potential implications for the AI ecosystem. The discussion highlights the stakeholders who may benefit from the administration's crackdown.",
+      "id": "88c9406f759f1aae",
+      "title": "SpaceX inks compute deal with Reflection AI, an open source AI lab",
+      "summary": "SpaceX has signed a contract with Reflection AI for $150 million per month starting July 1, 2026, to provide access to Nvidia's GB300 AI chips and related hardware at its Colossus 2 data center in Tennessee. The deal will extend through 2029, supporting Reflection AI's open-source AI initiatives.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/21/when-the-trump-administration-cracks-down-on-anthropic-who-benefits/",
-      "publishedAt": "2026-06-21T15:28:17+00:00",
+      "articleURL": "https://techcrunch.com/2026/06/22/spacex-inks-compute-deal-with-reflection-ai-an-open-source-ai-lab/",
+      "publishedAt": "2026-06-22T16:51:29+00:00",
       "category": "industry",
-      "relevanceScore": 40
-    },
-    {
-      "id": "4a44803257ab041b",
-      "title": "28 Tips to Take Your ChatGPT Prompts to the Next Level",
-      "summary": "The article provides 28 practical tips for enhancing the effectiveness of prompts used with OpenAI's ChatGPT, enabling users to achieve more engaging and relevant responses. By applying these strategies, users can optimize their interactions with the chatbot for improved outcomes.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/28-tips-to-take-your-chatgpt-prompts-to-the-next-level/",
-      "publishedAt": "2026-06-21T10:30:00+00:00",
-      "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 54
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 8,
-    "articlesSelected": 8
+    "articlesProcessed": 30,
+    "articlesSelected": 12
   }
 }
