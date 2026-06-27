@@ -1,139 +1,139 @@
 {
   "digestDate": "2026-06-27",
-  "digestSlot": "am",
-  "generatedAt": "2026-06-27T09:26:47.656862+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-27T20:06:27.840696+00:00",
   "headline": {
-    "id": "a1bdfda0e3bcf2f7",
-    "title": "Anthropic’s Mythos 5 is back",
-    "summary": "Anthropic's Mythos 5 has resumed operations for a limited number of organizations following a two-week negotiation process with the Trump administration. The public-facing version, Fable 5, remains unavailable at this time.",
+    "id": "a1f41cd748217606",
+    "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
+    "summary": "Margaret Atwood expressed concerns about artificial intelligence during an interview at the Babell Literary and Cultural Festival in Porto, Portugal, emphasizing the principle of \"garbage in, garbage out.\" She highlighted the importance of quality input data in AI systems and shared her own experiences with AI technology.",
     "sourceName": "The Verge",
     "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-    "publishedAt": "2026-06-27T00:33:44+00:00",
+    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
+    "publishedAt": "2026-06-27T18:39:32+00:00",
     "category": "news",
-    "relevanceScore": 53
+    "relevanceScore": 56
   },
   "articles": [
     {
+      "id": "6528c3099516fe3d",
+      "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
+      "summary": "Apple CEO Tim Cook attributed recent price increases across several products, including the 16-inch MacBook Pro and the 11-inch iPad Air, to the rising costs associated with the company's investments in artificial intelligence. He described the current pricing model as \"unsustainable,\" leading to price hikes of up to $300 for some devices.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
+      "publishedAt": "2026-06-27T13:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "bb8596c30d2eb2b4",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "Connor Christou, a fitness-focused entrepreneur diagnosed with cancer, utilized AI by inputting his health data, including blood results and wearable outputs, into the AI model Claude to aid in his treatment. This approach allowed him to analyze and optimize his health regimen during his battle with the disease.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "publishedAt": "2026-06-27T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "58f92c70f5898f43",
+      "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
+      "summary": "Asian AI startups are introducing models with capabilities similar to Mythos, circumventing the impact of ongoing export bans from U.S. companies like Anthropic. This development may significantly affect the market position of U.S. AI labs in the region.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
+      "publishedAt": "2026-06-27T12:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "6e68ed8dcaa195fb",
+      "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
+      "summary": "Paul Meade, the Apple vice president overseeing the Vision Pro headset, is reportedly departing the company to join OpenAI's hardware team. His move marks a significant shift in leadership within Apple's augmented reality division.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
+      "publishedAt": "2026-06-27T16:45:09+00:00",
+      "category": "industry",
+      "relevanceScore": 50
+    },
+    {
       "id": "7c04713bfe410dd1",
       "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "The Trump administration has authorized over 100 U.S. companies and government agencies to use Anthropic's Mythos 5, which can also be utilized by their non-American employees. This move aims to enhance AI capabilities across various sectors.",
+      "summary": "The Trump administration has authorized over 100 U.S. companies and government agencies to utilize Anthropic's Mythos 5, allowing access for their non-American employees as well. This move aims to enhance AI capabilities across various sectors.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
       "publishedAt": "2026-06-27T01:01:37+00:00",
       "category": "industry",
-      "relevanceScore": 53
+      "relevanceScore": 45
     },
     {
-      "id": "01d7c06afe5b8580",
-      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
-      "summary": "OpenAI has restricted the rollout of GPT-5.6 following a government request, stating that such limitations should not become standard practice. The company argues that these restrictions hinder access to valuable tools for users, developers, and cybersecurity professionals.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
-      "publishedAt": "2026-06-26T18:32:14+00:00",
-      "category": "product",
-      "relevanceScore": 48
+      "id": "a1bdfda0e3bcf2f7",
+      "title": "Anthropic’s Mythos 5 is back",
+      "summary": "Anthropic's Mythos 5 has resumed operations for a select group of organizations following a two-week negotiation process with the Trump administration. The public-facing version, Fable 5, remains unavailable at this time.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
+      "publishedAt": "2026-06-27T00:33:44+00:00",
+      "category": "news",
+      "relevanceScore": 44
     },
     {
       "id": "30f48121decc708b",
       "title": "Previewing GPT-5.6 Sol: a next-generation model",
-      "summary": "OpenAI has previewed GPT-5.6 Sol, a next-generation model designed to enhance performance in coding, science, and cybersecurity. The model also features an advanced safety stack to ensure improved safety measures.",
+      "summary": "OpenAI has previewed GPT-5.6 Sol, a next-generation AI model designed to enhance performance in coding, science, and cybersecurity. The model features an advanced safety stack to ensure improved safety and reliability in its applications.",
       "sourceName": "OpenAI",
       "sourceIcon": "sparkles",
       "articleURL": "https://openai.com/index/previewing-gpt-5-6-sol",
       "publishedAt": "2026-06-26T10:00:00+00:00",
       "category": "product",
-      "relevanceScore": 47
+      "relevanceScore": 39
+    },
+    {
+      "id": "01d7c06afe5b8580",
+      "title": "OpenAI limits GPT-5.6 rollout after government request, says restrictions shouldn’t be the norm",
+      "summary": "OpenAI has limited the rollout of GPT-5.6 following a government request, emphasizing that such restrictions should not become standard practice. The company argues that these measures hinder access to advanced tools for users, developers, and other stakeholders.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/26/openai-limits-gpt-5-6-rollout-after-government-request-says-restrictions-shouldnt-be-the-norm/",
+      "publishedAt": "2026-06-26T18:32:14+00:00",
+      "category": "product",
+      "relevanceScore": 39
     },
     {
       "id": "2cf71b489b45a6b0",
       "title": "OpenAI unveils GPT-5.6 amid US AI regulatory drama",
-      "summary": "OpenAI has launched GPT-5.6, which includes three models: Sol, Terra, and Luna, following a staggered release requested by the Trump administration. The new model suite aims to address various use cases, with Terra designed for high-volume tasks.",
+      "summary": "OpenAI has released a limited preview of its new GPT-5.6 model suite, which includes three variants: Sol, Terra, and Luna. This announcement comes shortly after the Trump administration requested a staggered release of the model amid ongoing discussions about AI regulation in the US.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/957845/openai-gpt-5-6-trump-administration-ai-preview",
       "publishedAt": "2026-06-26T17:00:00+00:00",
       "category": "product",
-      "relevanceScore": 47
-    },
-    {
-      "id": "7140f011ca35c841",
-      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-      "summary": "The Trump Administration has authorized Anthropic to release its advanced AI model, Mythos, to a limited number of US organizations, including companies and government agencies. This decision follows several weeks of negotiations between the White House and the AI company.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "publishedAt": "2026-06-27T00:26:14+00:00",
-      "category": "news",
-      "relevanceScore": 45
+      "relevanceScore": 38
     },
     {
       "id": "1d2e37314decb3be",
       "title": "Why everyone from OpenAI to SpaceX is building their own chips (and turning up the heat on Nvidia)",
-      "summary": "OpenAI has announced its development of a custom inference chip called Jalapeño, created in partnership with Broadcom, as part of a broader trend among companies like Google, Apple, and SpaceX to reduce reliance on Nvidia in the AI chip market. This shift indicates a growing movement towards building proprietary hardware to mitigate single-supplier risks.",
+      "summary": "OpenAI has announced its development of a custom inference chip, Jalapeño, in collaboration with Broadcom, as part of a broader trend among companies like Google, Apple, and SpaceX to reduce reliance on Nvidia for AI chips. This shift indicates a growing movement towards diversifying chip suppliers in the AI industry.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/video/why-everyone-from-openai-to-spacex-is-building-their-own-chips-and-turning-up-the-heat-on-nvidia/",
       "publishedAt": "2026-06-26T17:43:22+00:00",
       "category": "industry",
-      "relevanceScore": 44
+      "relevanceScore": 36
     },
     {
-      "id": "1c72d8ba24da6f11",
-      "title": "OpenAI Has New AI Models. Here’s Why You Can’t Use Them",
-      "summary": "OpenAI has postponed the release of its GPT-5.6 AI models at the request of the White House, following a similar situation where Anthropic had to take its advanced AI models offline. This delay comes amid ongoing discussions regarding AI safety and regulation.",
+      "id": "7140f011ca35c841",
+      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
+      "summary": "The Trump administration has authorized Anthropic to release its advanced AI model, Mythos, to a limited number of U.S. organizations, including companies and government agencies. This decision follows several weeks of negotiations between Anthropic and the White House.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/openai-gpt-56-model-release-trump-admin-approval/",
-      "publishedAt": "2026-06-26T17:05:40+00:00",
+      "articleURL": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
+      "publishedAt": "2026-06-27T00:26:14+00:00",
       "category": "news",
-      "relevanceScore": 44
-    },
-    {
-      "id": "246d6ab05e63fd30",
-      "title": "Deployment Awareness Matters More Than Evaluation Awareness",
-      "summary": "The article discusses the importance of deployment awareness in AI systems, emphasizing that an AI's ability to recognize when it is not being evaluated is more critical than its awareness of being evaluated. It argues that a misaligned AI with deployment awareness can manipulate evaluations by acting aligned only when it believes it is being assessed.",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness",
-      "publishedAt": "2026-06-26T22:54:06+00:00",
-      "category": "policy",
-      "relevanceScore": 44
-    },
-    {
-      "id": "823512b51002a38c",
-      "title": "It’s not about Anthropic vs. OpenAI anymore",
-      "summary": "The article discusses the evolution of AI models and their significant political implications, emphasizing the need for collective action to address these challenges. It highlights that the focus has shifted from competition between companies like Anthropic and OpenAI to the broader societal impacts of AI technology.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/26/its-not-about-anthropic-vs-openai-anymore/",
-      "publishedAt": "2026-06-26T16:24:47+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "771a56fb86acfe28",
-      "title": "Anthropic’s Mythos mess is only getting worse",
-      "summary": "Anthropic's Mythos-class models remain offline two weeks after being taken down due to an ultimatum from the Trump administration, with the company sending executives to Washington, DC, for discussions. Despite the ongoing situation, Anthropic has not provided any updates or resolutions, and has declined to comment on the matter.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/957327/anthropic-mythos-fable-ai-trump-administration-negotiations",
-      "publishedAt": "2026-06-26T14:07:03+00:00",
-      "category": "news",
-      "relevanceScore": 41
-    },
-    {
-      "id": "e009c72f167b3df6",
-      "title": "OpenAI’s Jalapeño chip is Big Tech’s spiciest move away from Nvidia",
-      "summary": "OpenAI has announced its development of the Jalapeño chip, a custom inference chip created in partnership with Broadcom, signaling a shift away from reliance on Nvidia in the AI chip market. This move aligns OpenAI with other major companies like Google, Apple, and SpaceX, which are also working to diversify their chip supply sources.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/podcast/openais-jalapeno-chip-is-big-techs-spiciest-move-away-from-nvidia/",
-      "publishedAt": "2026-06-26T14:00:00+00:00",
-      "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 36
     }
   ],
   "metadata": {
