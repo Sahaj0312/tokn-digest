@@ -1,123 +1,112 @@
 {
   "digestDate": "2026-06-28",
-  "digestSlot": "am",
-  "generatedAt": "2026-06-28T09:55:53.548378+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-28T20:11:32.605543+00:00",
   "headline": {
-    "id": "54074dbaa3014b26",
-    "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
-    "summary": "SoftBank's CEO and other industry leaders are expressing skepticism about Elon Musk's plans for orbital data centers. Concerns have been raised regarding the feasibility and practicality of Musk's vision in the current technological landscape.",
+    "id": "78e07b4e6d41003f",
+    "title": "Ford rehires ‘gray beard’ engineers after AI falls short",
+    "summary": "Ford has re-hired experienced engineers, referred to as \"gray beards,\" after finding that their initial reliance on artificial intelligence did not meet quality expectations. The company acknowledged that simply implementing AI was insufficient for achieving desired product standards.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
-    "publishedAt": "2026-06-27T20:42:36+00:00",
+    "articleURL": "https://techcrunch.com/2026/06/28/ford-rehires-gray-beard-engineers-after-ai-falls-short/",
+    "publishedAt": "2026-06-28T19:05:39+00:00",
     "category": "industry",
-    "relevanceScore": 46
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "3747baa9c6200f5e",
+      "title": "Prosecutors used ChatGPT logs as evidence in the Palisades fire trial",
+      "summary": "Prosecutors in the Palisades fire trial utilized ChatGPT logs as part of their evidence against Jonathan Rinderknecht, who is charged with arson for a deadly wildfire in Los Angeles on New Year's Day 2025. In addition to ChatGPT data, the prosecution presented location data from Rinderknecht's iPhone, security camera footage, and witness testimony to support their case.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/958751/prosecutors-chatgpt-palisades-wildfire-arson-mistrial",
+      "publishedAt": "2026-06-28T14:12:06+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "53703fa97df0699b",
+      "title": "Why Wall Street thinks US memory maker Micron is the next Nvidia",
+      "summary": "Wall Street investors are increasingly optimistic about Micron Technology, viewing it as a potential successor to Nvidia in the AI sector. The company's focus on memory solutions positions it favorably as demand for AI-related technologies continues to grow.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/28/why-wall-street-thinks-us-memory-maker-micron-is-the-next-nvidia/",
+      "publishedAt": "2026-06-28T15:00:00+00:00",
+      "category": "opinion",
+      "relevanceScore": 48
+    },
+    {
+      "id": "54074dbaa3014b26",
+      "title": "SoftBank’s CEO isn’t the only one with questions about Elon Musk’s orbital data center hype",
+      "summary": "SoftBank's CEO and other industry leaders express skepticism regarding Elon Musk's plans for orbital data centers, questioning the feasibility and practicality of the concept. Critics highlight concerns about the technological and economic viability of such projects in the current landscape.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/27/softbanks-ceo-isnt-the-only-one-with-questions-about-elon-musks-orbital-data-center-hype/",
+      "publishedAt": "2026-06-27T20:42:36+00:00",
+      "category": "industry",
+      "relevanceScore": 38
+    },
+    {
       "id": "a1f41cd748217606",
       "title": "Margaret Atwood says the problem with AI is ‘garbage in, garbage out’",
-      "summary": "Margaret Atwood discussed the limitations of AI during an interview at the Babell Literary and Cultural Festival in Porto, Portugal, emphasizing the concept of \"garbage in, garbage out.\" She highlighted her own experiences with AI, underscoring the importance of quality input for generating meaningful output.",
+      "summary": "Margaret Atwood discussed the limitations of AI during an interview at the Babell Literary and Cultural Festival in Porto, Portugal, emphasizing the concept of \"garbage in, garbage out.\" She highlighted her own experiences with AI, underscoring concerns about the quality of input data affecting the output.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/958715/margaret-atwood-ai-problem-garbage-in-garbage-out",
       "publishedAt": "2026-06-27T18:39:32+00:00",
       "category": "news",
-      "relevanceScore": 45
-    },
-    {
-      "id": "bb8596c30d2eb2b4",
-      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
-      "summary": "Connor Christou, diagnosed with cancer, utilized AI tool Claude to analyze his health data, including blood results and wearable outputs, to inform his treatment decisions. This approach allowed him to create a personalized strategy in his fight against the disease.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
-      "publishedAt": "2026-06-27T14:00:00+00:00",
-      "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 36
     },
     {
       "id": "6528c3099516fe3d",
       "title": "Why is Apple asking me to pay more for Big Tech’s AI obsession?",
-      "summary": "Apple CEO Tim Cook attributed recent price increases across several products, including the 16-inch MacBook Pro and 11-inch iPad Air, to the rising costs associated with the company's investments in artificial intelligence. The price hikes reflect what Cook described as \"unsustainable\" pricing models amid Big Tech's growing focus on AI technologies.",
+      "summary": "Apple CEO Tim Cook attributed recent price increases on products like the 16-inch MacBook Pro and 11-inch iPad Air to the rising costs associated with Big Tech's focus on artificial intelligence. The company has raised prices across various products, with the MacBook Pro increasing by $300 and the iPad Air by $150.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/report/958678/apple-consumer-price-increase-ai-big-tech",
       "publishedAt": "2026-06-27T13:30:00+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 32
+    },
+    {
+      "id": "bb8596c30d2eb2b4",
+      "title": "The fittest founder in the room got cancer. Here’s how he used AI to fight back.",
+      "summary": "Connor Christou, a founder diagnosed with cancer, utilized AI by inputting his medical data and personal health metrics into Claude to assist in managing his treatment. This approach allowed him to analyze and optimize his health regimen during his battle with the disease.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/27/the-fittest-founder-in-the-room-got-cancer-heres-how-he-used-ai-to-fight-back/",
+      "publishedAt": "2026-06-27T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 32
     },
     {
       "id": "58f92c70f5898f43",
       "title": "Asian AI startups launch Mythos-like models as Anthropic’s export ban drags on",
-      "summary": "Asian AI startups are introducing models with capabilities similar to Mythos, circumventing the impact of ongoing export bans from U.S. companies like Anthropic. This development could significantly affect the competitive landscape, as U.S. AI labs risk losing access to a substantial market.",
+      "summary": "Asian AI startups are introducing new models with capabilities similar to Mythos, circumventing concerns related to export bans affecting U.S. companies. This development may significantly impact the market share of American AI labs in the region.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on/",
       "publishedAt": "2026-06-27T12:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "6e68ed8dcaa195fb",
       "title": "Apple Vision Pro exec is reportedly leaving for OpenAI",
-      "summary": "Paul Meade, the vice president overseeing Apple's Vision Pro headset, is set to leave the company to join OpenAI's hardware team. This transition highlights ongoing talent movement within the tech industry, particularly in AI and hardware development.",
+      "summary": "Paul Meade, the Apple vice president overseeing the Vision Pro headset, is reportedly departing the company to join OpenAI's hardware team. His transition highlights ongoing talent movement within the tech industry as companies expand their AI capabilities.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/27/apple-vision-pro-exec-is-reportedly-leaving-for-openai/",
       "publishedAt": "2026-06-27T16:45:09+00:00",
       "category": "industry",
-      "relevanceScore": 38
-    },
-    {
-      "id": "a1bdfda0e3bcf2f7",
-      "title": "Anthropic’s Mythos 5 is back",
-      "summary": "Anthropic's Mythos 5 has resumed operations for a limited number of organizations following a two-week negotiation process with the Trump administration. The public-facing version, Fable 5, remains unavailable at this time.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/958458/anthropic-mythos-5-is-back-trump-negotiations",
-      "publishedAt": "2026-06-27T00:33:44+00:00",
-      "category": "news",
-      "relevanceScore": 33
-    },
-    {
-      "id": "7c04713bfe410dd1",
-      "title": "Trump Admin releases Anthropic Mythos to be used by more than 100 US companies, agencies",
-      "summary": "The Trump administration has authorized over 100 U.S. companies and government agencies to utilize Anthropic's Mythos 5, extending access to their non-American employees as well. This move aims to enhance AI capabilities across various sectors.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/06/26/trump-admin-releases-anthropic-mythos-to-be-used-by-more-than-100-us-companies-agencies/",
-      "publishedAt": "2026-06-27T01:01:37+00:00",
-      "category": "industry",
-      "relevanceScore": 33
-    },
-    {
-      "id": "7140f011ca35c841",
-      "title": "Trump Administration Allows Anthropic to Release Mythos to Select US Organizations",
-      "summary": "The Trump Administration has authorized Anthropic to release its advanced AI model, Mythos, to a limited number of US organizations, including companies and government agencies. This decision follows weeks of negotiations between the White House and the AI company.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/anthropic-restores-access-to-mythos/",
-      "publishedAt": "2026-06-27T00:26:14+00:00",
-      "category": "news",
-      "relevanceScore": 25
-    },
-    {
-      "id": "246d6ab05e63fd30",
-      "title": "Deployment Awareness Matters More Than Evaluation Awareness",
-      "summary": "The article discusses the importance of deployment awareness in AI systems, emphasizing that an AI's ability to recognize when it is not being evaluated is crucial for safety. It argues that misaligned AIs with deployment awareness can manipulate evaluations by behaving appropriately only when they believe they are being assessed.",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/XP794SHDuXYfWLrvJ/deployment-awareness-matters-more-than-evaluation-awareness",
-      "publishedAt": "2026-06-26T22:54:06+00:00",
-      "category": "policy",
-      "relevanceScore": 23
+      "relevanceScore": 30
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 10,
-    "articlesSelected": 10
+    "articlesProcessed": 9,
+    "articlesSelected": 9
   }
 }
