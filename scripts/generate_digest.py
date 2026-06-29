@@ -36,6 +36,17 @@ MAX_ARTICLES = 12
 MIN_ARTICLES = 3
 FETCH_TIMEOUT = 10  # seconds per feed
 
+# Languages to translate the digest into, in addition to English.
+# Keys must match the app's AppLanguage raw values / .lproj folder names.
+LANGUAGES = {
+    "de": "German",
+    "es": "Spanish",
+    "fr": "French",
+    "pt": "Portuguese",
+    "hi": "Hindi",
+    "ar": "Arabic",
+}
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -339,6 +350,81 @@ def summarize_articles(articles: list[dict]) -> list[dict]:
     return articles
 
 
+def translate_digest(
+    digest: dict, lang_name: str, client: OpenAI
+) -> dict | None:
+    """Return a copy of the digest with `title` and `summary` translated into
+    `lang_name`. All other fields (id, category, sourceName, URLs, dates,
+    metadata) are left unchanged. Returns None if translation fails so the
+    caller can simply skip writing that language (the app falls back to English).
+    """
+    items = []
+    if digest.get("headline"):
+        items.append(digest["headline"])
+    items.extend(digest["articles"])
+
+    if not items:
+        return digest  # nothing to translate
+
+    payload = [
+        {"id": a["id"], "title": a["title"], "summary": a["summary"]} for a in items
+    ]
+
+    system = (
+        f"You are a professional translator for a daily AI news digest. "
+        f"Translate the 'title' and 'summary' fields of each item into {lang_name}. "
+        f"Keep translations natural, concise, and faithful to the meaning. "
+        f"Do NOT translate product, company, or model names that are normally kept "
+        f"in English (e.g. OpenAI, ChatGPT, Anthropic, Claude, Gemini, GPT-4). "
+        f"Return ONLY a JSON object of the form "
+        f'{{"items": [{{"id": "...", "title": "...", "summary": "..."}}]}} '
+        f"with the same 'id' values, unchanged."
+    )
+
+    try:
+        response = client.chat.completions.create(
+            model="gpt-4o-mini",
+            messages=[
+                {"role": "system", "content": system},
+                {"role": "user", "content": json.dumps({"items": payload}, ensure_ascii=False)},
+            ],
+            max_tokens=4000,
+            temperature=0.2,
+            response_format={"type": "json_object"},
+        )
+        data = json.loads(response.choices[0].message.content)
+        translations = {item["id"]: item for item in data.get("items", [])}
+    except Exception as e:
+        print(f"  [WARN] Translation to {lang_name} failed: {e}", file=sys.stderr)
+        return None
+
+    def localize(a: dict) -> dict:
+        t = translations.get(a["id"])
+        if not t:
+            return a
+        b = dict(a)
+        b["title"] = t.get("title") or a["title"]
+        b["summary"] = t.get("summary") or a["summary"]
+        return b
+
+    out = dict(digest)
+    out["headline"] = localize(digest["headline"]) if digest.get("headline") else None
+    out["articles"] = [localize(a) for a in digest["articles"]]
+    return out
+
+
+def write_digest(digest: dict, today: str, slot: str, suffix: str = "") -> Path:
+    """Write a digest to latest{suffix}.json plus the dated/slot archives.
+    `suffix` is "" for English or ".<lang>" for a translation."""
+    latest_path = OUTPUT_DIR / f"latest{suffix}.json"
+    slot_archive_path = ARCHIVE_DIR / f"{today}-{slot}{suffix}.json"
+    date_archive_path = ARCHIVE_DIR / f"{today}{suffix}.json"
+    for path in (latest_path, slot_archive_path, date_archive_path):
+        with open(path, "w") as f:
+            json.dump(digest, f, indent=2, ensure_ascii=False)
+    return latest_path
+
+
 # ---------------------------------------------------------------------------
 # Main pipeline
 # ---------------------------------------------------------------------------
@@ -415,24 +501,29 @@ def run_pipeline():
         },
     }
 
-    # Write output
+    # Write output (English / default)
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     ARCHIVE_DIR.mkdir(parents=True, exist_ok=True)
 
-    latest_path = OUTPUT_DIR / "latest.json"
-    slot_archive_path = ARCHIVE_DIR / f"{today}-{slot}.json"
-    date_archive_path = ARCHIVE_DIR / f"{today}.json"
-
-    for path in (latest_path, slot_archive_path, date_archive_path):
-        with open(path, "w") as f:
-            json.dump(digest, f, indent=2, ensure_ascii=False)
-
-    print(
-        f"\nDigest written to {latest_path}, {slot_archive_path}, {date_archive_path}",
-        file=sys.stderr,
-    )
+    latest_path = write_digest(digest, today, slot)
+    print(f"\nDigest written to {latest_path} (+ archives)", file=sys.stderr)
     print(f"Headline: {headline['title'][:80] if headline else 'None'}", file=sys.stderr)
     print(f"Total articles in digest: {len(selected)}", file=sys.stderr)
+
+    # Step 8: Translations — one digest file per language, English stays the
+    # fallback. If the API key is missing or a translation fails, that language
+    # is skipped and the app falls back to the English `latest.json`.
+    api_key = os.environ.get("OPENAI_API_KEY")
+    if api_key:
+        print("\nGenerating translations...", file=sys.stderr)
+        client = OpenAI(api_key=api_key)
+        for lang_code, lang_name in LANGUAGES.items():
+            translated = translate_digest(digest, lang_name, client)
+            if translated:
+                write_digest(translated, today, slot, suffix=f".{lang_code}")
+                print(f"  Wrote {lang_code} digest", file=sys.stderr)
+    else:
+        print("  [WARN] No OPENAI_API_KEY, skipping translations", file=sys.stderr)
 
 
 if __name__ == "__main__":
