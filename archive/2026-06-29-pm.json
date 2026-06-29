@@ -1,11 +1,11 @@
 {
   "digestDate": "2026-06-29",
   "digestSlot": "pm",
-  "generatedAt": "2026-06-29T20:48:15.090732+00:00",
+  "generatedAt": "2026-06-29T21:05:43.775309+00:00",
   "headline": {
     "id": "e0616775a3b94cd0",
     "title": "Ask an AI expert: What exactly is the full stack?",
-    "summary": "The article explores the concept of full-stack AI infrastructure, detailing its components and how they integrate to create comprehensive AI solutions. It provides insights from an AI expert on the various layers involved, from data management to model deployment.",
+    "summary": "The article explores the concept of full-stack AI infrastructure, detailing the various components that comprise it, including data management, model training, and deployment. It provides insights from AI experts on how these elements work together to create effective AI systems.",
     "sourceName": "Google AI",
     "sourceIcon": "magnifyingglass",
     "articleURL": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
@@ -17,7 +17,7 @@
     {
       "id": "d8f8776c167af942",
       "title": "AI agents are not your “coworkers”",
-      "summary": "The article discusses the misconception that AI agents can be considered \"coworkers,\" emphasizing that they are tools designed to assist rather than colleagues. It highlights the implications of integrating AI into the workplace and the need for clear distinctions between human workers and AI systems.",
+      "summary": "The article discusses the misconception that AI agents, referred to as \"coworkers,\" can function like human employees in the workplace. It emphasizes that while AI tools can assist in various tasks, they do not possess the same capabilities or responsibilities as human workers.",
       "sourceName": "MIT Tech Review",
       "sourceIcon": "newspaper",
       "articleURL": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
@@ -28,7 +28,7 @@
     {
       "id": "9236547930cc988b",
       "title": "South Korean tech giants commit over $550B to ease ‘RAMageddon’",
-      "summary": "South Korea's leading memory chip manufacturers have pledged over $550 billion to expand memory fabrication facilities in response to increasing demand for AI technologies. This investment aims to strengthen the country's position as a global AI tech powerhouse.",
+      "summary": "South Korean tech giants have pledged over $550 billion to expand memory chip production in response to increasing demand for AI technologies. This investment aims to establish South Korea as a leading player in the global AI tech landscape.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
@@ -39,7 +39,7 @@
     {
       "id": "e0fdc00097208408",
       "title": "Arena, the AI leaderboard everyone uses, is now a $100M business",
-      "summary": "Arena, a startup known for its widely used AI leaderboard, has reached a valuation of $100 million following the launch of its commercial service in September 2022. The platform provides a competitive environment for AI developers to showcase their models and track performance.",
+      "summary": "Arena, known for its widely used AI leaderboard, has achieved a valuation of $100 million following the launch of its commercial service last September. The startup's platform allows users to track and compare AI model performance effectively.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
@@ -48,20 +48,9 @@
       "relevanceScore": 58
     },
     {
-      "id": "6a27433cd7caf168",
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-      "summary": "Tidal announced that it will not pay royalties on AI-generated music, effective immediately, while labeling tracks identified as fully AI-generated with an icon starting July 15th. The platform aims to protect artists and inform listeners without outright banning AI-generated content.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "publishedAt": "2026-06-29T19:47:35+00:00",
-      "category": "news",
-      "relevanceScore": 57
-    },
-    {
       "id": "d4aae48d6fd82415",
       "title": "Gemini’s personalized AI image generation is now free for US users",
-      "summary": "Google has made Gemini's personalized AI image generation feature available for free to eligible users in the U.S., enabling the chatbot to create images tailored to individual interests and data from connected Google applications. This expansion aims to enhance user experience by leveraging personal data for customized image creation.",
+      "summary": "Google has made its Gemini personalized AI image generation feature available for free to eligible users in the U.S., enabling the chatbot to create images tailored to individual interests and data from connected Google applications. This expansion aims to enhance user experience by leveraging personal data for more relevant image creation.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
@@ -70,9 +59,20 @@
       "relevanceScore": 57
     },
     {
+      "id": "6a27433cd7caf168",
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "summary": "Tidal announced that it will not pay royalties on AI-generated music but will label tracks identified as fully AI-generated starting July 15th. The platform aims to protect artists and inform listeners while allowing AI-generated content to remain available.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
       "id": "aa37178caf156a2e",
       "title": "OpenAI is teasing new hardware… for Codex",
-      "summary": "OpenAI is set to unveil new hardware related to its AI coding tool, Codex, on July 15th, featuring a square-shaped device with multiple buttons. The announcement was made via a video on X, indicating an upgrade to Codex shortcuts.",
+      "summary": "OpenAI is set to unveil a new hardware device related to its AI coding tool, Codex, on July 15th. The announcement includes a video showcasing a square-shaped device with buttons, indicating an upgrade to Codex shortcuts.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
@@ -83,7 +83,7 @@
     {
       "id": "ddcf21cdc2b34bd2",
       "title": "Anthropic and Gov. Newsom forge deal allowing California government to use Claude at half price",
-      "summary": "Anthropic has reached an agreement with California Governor Gavin Newsom to provide the state's government access to its AI model, Claude, at a 50% discount. This partnership comes amid increasing tensions between Anthropic and the federal government, positioning the company as a competitor to OpenAI.",
+      "summary": "Anthropic has reached an agreement with California Governor Gavin Newsom to provide the state's government access to its AI model, Claude, at half the standard price. This partnership comes amid growing tensions between Anthropic and the federal government, positioning the company as a competitor to OpenAI.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
@@ -94,7 +94,7 @@
     {
       "id": "36e203f11c0f7339",
       "title": "Robot hand company settles Tesla trade secret suit and announces $11M raise",
-      "summary": "Proception, a startup focused on developing robotic hands, has settled a trade secret lawsuit with Tesla and announced an $11 million funding round. The company aims to innovate in the field of robotics by employing a unique method for gathering training data.",
+      "summary": "Proception, a startup focused on developing robotic hands, has settled a trade secret lawsuit with Tesla and announced an $11 million funding round. The company aims to address challenges in robotics by employing innovative methods for collecting training data.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
@@ -105,7 +105,7 @@
     {
       "id": "9cc3b14e3b9c7b80",
       "title": "DiScoFormer: One transformer for density and score, across distributions",
-      "summary": "Researchers have introduced DiScoFormer, a novel transformer model designed to simultaneously estimate density and score functions across various distributions. This approach aims to enhance the efficiency and effectiveness of generative modeling tasks in machine learning.",
+      "summary": "Researchers have introduced DiScoFormer, a novel transformer model designed to simultaneously estimate density and score across various distributions. This approach aims to enhance performance in generative modeling tasks by leveraging the strengths of both density estimation and score matching.",
       "sourceName": "Hugging Face",
       "sourceIcon": "face.smiling",
       "articleURL": "https://huggingface.co/blog/allenai/discoformer",
@@ -116,18 +116,18 @@
     {
       "id": "0d320457f7e21f46",
       "title": "Claude Meets Blackwell Ultra: Anthropic’s Models Now Run on NVIDIA GB300 in Azure",
-      "summary": "Anthropic's Claude models are now available on Microsoft Azure, utilizing NVIDIA's GB300 Blackwell Ultra GPUs. This integration allows enterprises to develop autonomous and domain-specific AI agents more effectively.",
+      "summary": "Anthropic's Claude models are now available on Microsoft Azure, utilizing NVIDIA's GB300 Blackwell Ultra GPUs, enabling enterprises to develop autonomous and domain-specific AI agents. This integration aims to enhance the capabilities of organizations in leveraging agentic AI for innovation.",
       "sourceName": "NVIDIA AI",
       "sourceIcon": "gamecontroller",
       "articleURL": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
       "publishedAt": "2026-06-29T17:00:19+00:00",
       "category": "product",
-      "relevanceScore": 55
+      "relevanceScore": 54
     },
     {
       "id": "247324a6d137edef",
       "title": "Mapping Europe’s AI Workforce Opportunity",
-      "summary": "A recent OpenAI report analyzes the potential impact of AI on the European workforce, identifying occupations at risk of automation as well as those expected to grow or undergo workflow changes. The findings aim to provide insights into how AI could reshape job opportunities across the EU.",
+      "summary": "A recent OpenAI report analyzes the potential impact of AI on jobs in the EU, identifying occupations that may experience automation, growth, or changes in workflow. The findings aim to provide insights into the future of the workforce as AI technologies continue to evolve.",
       "sourceName": "OpenAI",
       "sourceIcon": "sparkles",
       "articleURL": "https://openai.com/index/mapping-ai-jobs-transition-eu",

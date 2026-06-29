@@ -1,0 +1,145 @@
+{
+  "digestDate": "2026-06-29",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-29T21:05:43.775309+00:00",
+  "headline": {
+    "id": "e0616775a3b94cd0",
+    "title": "اسأل خبير الذكاء الاصطناعي: ما هو بالضبط البنية التحتية الكاملة؟",
+    "summary": "تستكشف المقالة مفهوم بنية الذكاء الاصطناعي الكاملة، موضحة المكونات المختلفة التي تتكون منها، بما في ذلك إدارة البيانات، تدريب النماذج، والنشر. تقدم المقالة رؤى من خبراء الذكاء الاصطناعي حول كيفية عمل هذه العناصر معًا لإنشاء أنظمة ذكاء اصطناعي فعالة.",
+    "sourceName": "Google AI",
+    "sourceIcon": "magnifyingglass",
+    "articleURL": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "publishedAt": "2026-06-29T16:00:00+00:00",
+    "category": "product",
+    "relevanceScore": 60
+  },
+  "articles": [
+    {
+      "id": "d8f8776c167af942",
+      "title": "عملاء الذكاء الاصطناعي ليسوا \"زملاء عملك\"",
+      "summary": "تناقش المقالة المفهوم الخاطئ بأن عملاء الذكاء الاصطناعي، الذين يُشار إليهم بـ\"زملاء العمل\"، يمكن أن يعملوا مثل الموظفين البشر في مكان العمل. تؤكد المقالة أنه على الرغم من أن أدوات الذكاء الاصطناعي يمكن أن تساعد في مهام مختلفة، إلا أنها لا تمتلك نفس القدرات أو المسؤوليات مثل العمال البشر.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "publishedAt": "2026-06-29T18:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 59
+    },
+    {
+      "id": "9236547930cc988b",
+      "title": "عمالقة التكنولوجيا الكورية الجنوبية يلتزمون بأكثر من 550 مليار دولار لتخفيف \"راماجيدون\"",
+      "summary": "التزم عمالقة التكنولوجيا الكورية الجنوبية بأكثر من 550 مليار دولار لتوسيع إنتاج رقائق الذاكرة استجابةً للطلب المتزايد على تقنيات الذكاء الاصطناعي. يهدف هذا الاستثمار إلى جعل كوريا الجنوبية لاعبًا رئيسيًا في مشهد التكنولوجيا العالمية للذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "publishedAt": "2026-06-29T18:07:48+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "e0fdc00097208408",
+      "title": "Arena، لوحة المتصدرين في الذكاء الاصطناعي التي يستخدمها الجميع، أصبحت الآن شركة بقيمة 100 مليون دولار",
+      "summary": "حققت Arena، المعروفة بلوحة المتصدرين في الذكاء الاصطناعي التي تُستخدم على نطاق واسع، تقييمًا بقيمة 100 مليون دولار بعد إطلاق خدمتها التجارية في سبتمبر الماضي. تتيح منصة الشركة للمستخدمين تتبع ومقارنة أداء نماذج الذكاء الاصطناعي بشكل فعال.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "publishedAt": "2026-06-29T17:39:17+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "d4aae48d6fd82415",
+      "title": "توليد الصور الشخصية بالذكاء الاصطناعي من Gemini متاح الآن مجانًا للمستخدمين في الولايات المتحدة",
+      "summary": "جعلت Google ميزة توليد الصور الشخصية بالذكاء الاصطناعي من Gemini متاحة مجانًا للمستخدمين المؤهلين في الولايات المتحدة، مما يمكّن الدردشة من إنشاء صور مصممة وفقًا للاهتمامات الفردية والبيانات من تطبيقات Google المتصلة. يهدف هذا التوسع إلى تحسين تجربة المستخدم من خلال الاستفادة من البيانات الشخصية لإنشاء صور أكثر ملاءمة.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "2026-06-29T20:12:59+00:00",
+      "category": "industry",
+      "relevanceScore": 57
+    },
+    {
+      "id": "6a27433cd7caf168",
+      "title": "Tidal لن تدفع حقوق الملكية على الموسيقى التي تم إنشاؤها بواسطة الذكاء الاصطناعي لكنها لن تحظرها تمامًا",
+      "summary": "أعلنت Tidal أنها لن تدفع حقوق الملكية على الموسيقى التي تم إنشاؤها بواسطة الذكاء الاصطناعي لكنها ستقوم بوضع علامات على المقاطع التي تم تحديدها على أنها تم إنشاؤها بالكامل بواسطة الذكاء الاصطناعي اعتبارًا من 15 يوليو. تهدف المنصة إلى حماية الفنانين وإبلاغ المستمعين مع السماح بمحتوى الذكاء الاصطناعي بالبقاء متاحًا.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "aa37178caf156a2e",
+      "title": "OpenAI تلمح إلى أجهزة جديدة... لـ Codex",
+      "summary": "تستعد OpenAI للكشف عن جهاز جديد متعلق بأداة البرمجة الخاصة بها، Codex، في 15 يوليو. يتضمن الإعلان فيديو يعرض جهازًا مربع الشكل مع أزرار، مما يشير إلى ترقية لاختصارات Codex.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "publishedAt": "2026-06-29T18:52:03+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "ddcf21cdc2b34bd2",
+      "title": "Anthropic وGov. Newsom يبرمان صفقة تسمح لحكومة كاليفورنيا باستخدام Claude بسعر نصف السعر",
+      "summary": "توصلت Anthropic إلى اتفاق مع حاكم كاليفورنيا غافين نيوسوم لتوفير وصول الحكومة في الولاية إلى نموذج الذكاء الاصطناعي الخاص بها، Claude، بسعر نصف السعر القياسي. تأتي هذه الشراكة في ظل تصاعد التوترات بين Anthropic والحكومة الفيدرالية، مما يضع الشركة كمنافس لـ OpenAI.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "publishedAt": "2026-06-29T18:10:26+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "36e203f11c0f7339",
+      "title": "شركة اليد الروبوتية تسوي دعوى أسرار تجارية مع تسلا وتعلن عن جمع 11 مليون دولار",
+      "summary": "توصلت Proception، وهي شركة ناشئة تركز على تطوير الأيدي الروبوتية، إلى تسوية لدعوى أسرار تجارية مع تسلا وأعلنت عن جولة تمويل بقيمة 11 مليون دولار. تهدف الشركة إلى معالجة التحديات في مجال الروبوتات من خلال استخدام طرق مبتكرة لجمع بيانات التدريب.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "publishedAt": "2026-06-29T14:00:08+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "9cc3b14e3b9c7b80",
+      "title": "DiScoFormer: محول واحد للكثافة والدرجة، عبر التوزيعات",
+      "summary": "قدم الباحثون DiScoFormer، نموذج محول جديد مصمم لتقدير الكثافة والدرجة في وقت واحد عبر توزيعات مختلفة. يهدف هذا النهج إلى تعزيز الأداء في مهام النمذجة التوليدية من خلال الاستفادة من نقاط القوة في كل من تقدير الكثافة ومطابقة الدرجات.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/allenai/discoformer",
+      "publishedAt": "2026-06-29T18:02:48+00:00",
+      "category": "research",
+      "relevanceScore": 55
+    },
+    {
+      "id": "0d320457f7e21f46",
+      "title": "Claude يلتقي بـ Blackwell Ultra: نماذج Anthropic تعمل الآن على NVIDIA GB300 في Azure",
+      "summary": "تتوفر الآن نماذج Claude من Anthropic على Microsoft Azure، باستخدام وحدات معالجة الرسوميات NVIDIA GB300 Blackwell Ultra، مما يمكّن الشركات من تطوير وكلاء ذكاء اصطناعي مستقلين ومخصصين. يهدف هذا التكامل إلى تعزيز قدرات المؤسسات في الاستفادة من الذكاء الاصطناعي الوكالي من أجل الابتكار.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "publishedAt": "2026-06-29T17:00:19+00:00",
+      "category": "product",
+      "relevanceScore": 54
+    },
+    {
+      "id": "247324a6d137edef",
+      "title": "رسم خريطة فرص القوى العاملة في الذكاء الاصطناعي في أوروبا",
+      "summary": "تحلل تقرير OpenAI الأخير التأثير المحتمل للذكاء الاصطناعي على الوظائف في الاتحاد الأوروبي، محددًا المهن التي قد تشهد أتمتة أو نموًا أو تغييرات في سير العمل. تهدف النتائج إلى تقديم رؤى حول مستقبل القوى العاملة مع استمرار تطور تقنيات الذكاء الاصطناعي.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 52
+    }
+  ],
+  "metadata": {
+    "feedsAttempted": 20,
+    "feedsSucceeded": 20,
+    "articlesProcessed": 259,
+    "articlesSelected": 12
+  }
+}

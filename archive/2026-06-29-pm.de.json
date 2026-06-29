@@ -1,0 +1,145 @@
+{
+  "digestDate": "2026-06-29",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-29T21:05:43.775309+00:00",
+  "headline": {
+    "id": "e0616775a3b94cd0",
+    "title": "Fragen Sie einen KI-Experten: Was genau ist der vollständige Stack?",
+    "summary": "Der Artikel untersucht das Konzept der vollständigen KI-Infrastruktur und beschreibt die verschiedenen Komponenten, die sie ausmachen, einschließlich Datenmanagement, Modelltraining und Bereitstellung. Er bietet Einblicke von KI-Experten, wie diese Elemente zusammenarbeiten, um effektive KI-Systeme zu schaffen.",
+    "sourceName": "Google AI",
+    "sourceIcon": "magnifyingglass",
+    "articleURL": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "publishedAt": "2026-06-29T16:00:00+00:00",
+    "category": "product",
+    "relevanceScore": 60
+  },
+  "articles": [
+    {
+      "id": "d8f8776c167af942",
+      "title": "KI-Agenten sind nicht Ihre „Kollegen“",
+      "summary": "Der Artikel diskutiert das Missverständnis, dass KI-Agenten, die als \"Kollegen\" bezeichnet werden, wie menschliche Mitarbeiter am Arbeitsplatz funktionieren können. Es wird betont, dass KI-Tools zwar bei verschiedenen Aufgaben helfen können, sie jedoch nicht über die gleichen Fähigkeiten oder Verantwortlichkeiten wie menschliche Arbeiter verfügen.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "publishedAt": "2026-06-29T18:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 59
+    },
+    {
+      "id": "9236547930cc988b",
+      "title": "Südkoreanische Technologiegiganten verpflichten sich zu über 550 Milliarden Dollar zur Minderung von ‚RAMageddon‘",
+      "summary": "Südkoreanische Technologiegiganten haben über 550 Milliarden Dollar zugesagt, um die Produktion von Speicherchips in Reaktion auf die steigende Nachfrage nach KI-Technologien auszubauen. Diese Investition zielt darauf ab, Südkorea als führenden Akteur im globalen KI-Technologiemarkt zu etablieren.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "publishedAt": "2026-06-29T18:07:48+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "e0fdc00097208408",
+      "title": "Arena, die KI-Rangliste, die jeder nutzt, ist jetzt ein 100-Millionen-Dollar-Geschäft",
+      "summary": "Arena, bekannt für ihre weit verbreitete KI-Rangliste, hat nach dem Start ihres kommerziellen Dienstes im letzten September eine Bewertung von 100 Millionen Dollar erreicht. Die Plattform des Startups ermöglicht es Nutzern, die Leistung von KI-Modellen effektiv zu verfolgen und zu vergleichen.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "publishedAt": "2026-06-29T17:39:17+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "d4aae48d6fd82415",
+      "title": "Geminis personalisierte KI-Bilderzeugung ist jetzt kostenlos für US-Nutzer",
+      "summary": "Google hat die personalisierte KI-Bilderzeugungsfunktion von Gemini für berechtigte Nutzer in den USA kostenlos verfügbar gemacht, sodass der Chatbot Bilder erstellen kann, die auf individuellen Interessen und Daten aus verbundenen Google-Anwendungen basieren. Diese Erweiterung zielt darauf ab, das Nutzererlebnis durch die Nutzung persönlicher Daten für relevantere Bildgenerierung zu verbessern.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "2026-06-29T20:12:59+00:00",
+      "category": "industry",
+      "relevanceScore": 57
+    },
+    {
+      "id": "6a27433cd7caf168",
+      "title": "Tidal wird keine Tantiemen für KI-generierte Musik zahlen, verbietet sie aber nicht vollständig",
+      "summary": "Tidal hat angekündigt, dass es keine Tantiemen für KI-generierte Musik zahlen wird, aber ab dem 15. Juli Titel kennzeichnen wird, die als vollständig KI-generiert identifiziert werden. Die Plattform zielt darauf ab, Künstler zu schützen und die Hörer zu informieren, während KI-generierte Inhalte weiterhin verfügbar bleiben.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "aa37178caf156a2e",
+      "title": "OpenAI kündigt neue Hardware an… für Codex",
+      "summary": "OpenAI wird am 15. Juli ein neues Hardwaregerät im Zusammenhang mit seinem KI-Coding-Tool Codex vorstellen. Die Ankündigung umfasst ein Video, das ein quadratisches Gerät mit Tasten zeigt, was auf ein Upgrade der Codex-Shortcuts hinweist.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "publishedAt": "2026-06-29T18:52:03+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "ddcf21cdc2b34bd2",
+      "title": "Anthropic und Gouverneur Newsom schließen Vereinbarung, die der kalifornischen Regierung die Nutzung von Claude zum halben Preis ermöglicht",
+      "summary": "Anthropic hat eine Vereinbarung mit dem kalifornischen Gouverneur Gavin Newsom getroffen, um der staatlichen Regierung den Zugang zu seinem KI-Modell Claude zum halben Standardpreis zu ermöglichen. Diese Partnerschaft entsteht vor dem Hintergrund wachsender Spannungen zwischen Anthropic und der Bundesregierung und positioniert das Unternehmen als Konkurrent von OpenAI.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "publishedAt": "2026-06-29T18:10:26+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "36e203f11c0f7339",
+      "title": "Robotikunternehmen Proception einigt sich im Tesla-Geheimprozess und kündigt eine Finanzierung von 11 Millionen Dollar an",
+      "summary": "Proception, ein Startup, das sich auf die Entwicklung von Robotikarmen konzentriert, hat einen Geheimprozess mit Tesla beigelegt und eine Finanzierungsrunde von 11 Millionen Dollar angekündigt. Das Unternehmen zielt darauf ab, Herausforderungen in der Robotik durch innovative Methoden zur Datensammlung für das Training anzugehen.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "publishedAt": "2026-06-29T14:00:08+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "9cc3b14e3b9c7b80",
+      "title": "DiScoFormer: Ein Transformer für Dichte und Punktzahl über Verteilungen hinweg",
+      "summary": "Forscher haben DiScoFormer vorgestellt, ein neuartiges Transformer-Modell, das entwickelt wurde, um gleichzeitig Dichte und Punktzahl über verschiedene Verteilungen hinweg zu schätzen. Dieser Ansatz zielt darauf ab, die Leistung bei generativen Modellierungsaufgaben zu verbessern, indem die Stärken der Dichteschätzung und der Punktübereinstimmung genutzt werden.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/allenai/discoformer",
+      "publishedAt": "2026-06-29T18:02:48+00:00",
+      "category": "research",
+      "relevanceScore": 55
+    },
+    {
+      "id": "0d320457f7e21f46",
+      "title": "Claude trifft Blackwell Ultra: Anthropics Modelle laufen jetzt auf NVIDIA GB300 in Azure",
+      "summary": "Die Claude-Modelle von Anthropic sind jetzt auf Microsoft Azure verfügbar und nutzen die NVIDIA GB300 Blackwell Ultra GPUs, was es Unternehmen ermöglicht, autonome und domänenspezifische KI-Agenten zu entwickeln. Diese Integration zielt darauf ab, die Fähigkeiten von Organisationen bei der Nutzung agentischer KI für Innovationen zu verbessern.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "publishedAt": "2026-06-29T17:00:19+00:00",
+      "category": "product",
+      "relevanceScore": 54
+    },
+    {
+      "id": "247324a6d137edef",
+      "title": "Mapping der KI-Arbeitskräfte-Chancen in Europa",
+      "summary": "Ein aktueller Bericht von OpenAI analysiert die potenziellen Auswirkungen von KI auf Arbeitsplätze in der EU und identifiziert Berufe, die von Automatisierung, Wachstum oder Veränderungen im Arbeitsablauf betroffen sein könnten. Die Ergebnisse sollen Einblicke in die Zukunft der Arbeitskräfte geben, während sich KI-Technologien weiterentwickeln.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 52
+    }
+  ],
+  "metadata": {
+    "feedsAttempted": 20,
+    "feedsSucceeded": 20,
+    "articlesProcessed": 259,
+    "articlesSelected": 12
+  }
+}

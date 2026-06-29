@@ -1,0 +1,145 @@
+{
+  "digestDate": "2026-06-29",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-29T21:05:43.775309+00:00",
+  "headline": {
+    "id": "e0616775a3b94cd0",
+    "title": "एक AI विशेषज्ञ से पूछें: पूर्ण स्टैक क्या है?",
+    "summary": "यह लेख पूर्ण-स्टैक AI अवसंरचना की अवधारणा की जांच करता है, जिसमें डेटा प्रबंधन, मॉडल प्रशिक्षण और तैनाती सहित विभिन्न घटकों का विवरण दिया गया है। यह AI विशेषज्ञों से अंतर्दृष्टि प्रदान करता है कि ये तत्व प्रभावी AI सिस्टम बनाने के लिए कैसे एक साथ काम करते हैं।",
+    "sourceName": "Google AI",
+    "sourceIcon": "magnifyingglass",
+    "articleURL": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "publishedAt": "2026-06-29T16:00:00+00:00",
+    "category": "product",
+    "relevanceScore": 60
+  },
+  "articles": [
+    {
+      "id": "d8f8776c167af942",
+      "title": "AI एजेंट आपके \"सहकर्मी\" नहीं हैं",
+      "summary": "यह लेख इस भ्रांति पर चर्चा करता है कि AI एजेंट, जिन्हें \"सहकर्मी\" कहा जाता है, कार्यस्थल में मानव कर्मचारियों की तरह कार्य कर सकते हैं। यह इस बात पर जोर देता है कि जबकि AI उपकरण विभिन्न कार्यों में सहायता कर सकते हैं, वे मानव श्रमिकों की तरह क्षमताएँ या जिम्मेदारियाँ नहीं रखते।",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "publishedAt": "2026-06-29T18:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 59
+    },
+    {
+      "id": "9236547930cc988b",
+      "title": "दक्षिण कोरियाई तकनीकी दिग्गजों ने 'RAMageddon' को कम करने के लिए $550B से अधिक का वादा किया",
+      "summary": "दक्षिण कोरियाई तकनीकी दिग्गजों ने AI तकनीकों की बढ़ती मांग के जवाब में मेमोरी चिप उत्पादन को बढ़ाने के लिए $550 बिलियन से अधिक का वादा किया है। यह निवेश दक्षिण कोरिया को वैश्विक AI तकनीक परिदृश्य में एक प्रमुख खिलाड़ी के रूप में स्थापित करने का लक्ष्य रखता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "publishedAt": "2026-06-29T18:07:48+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "e0fdc00097208408",
+      "title": "Arena, जो AI लीडरबोर्ड सभी उपयोग करते हैं, अब $100M का व्यवसाय है",
+      "summary": "Arena, जो अपने व्यापक रूप से उपयोग किए जाने वाले AI लीडरबोर्ड के लिए जाना जाता है, ने पिछले सितंबर में अपने वाणिज्यिक सेवा के लॉन्च के बाद $100 मिलियन का मूल्यांकन प्राप्त किया है। स्टार्टअप का प्लेटफॉर्म उपयोगकर्ताओं को AI मॉडल प्रदर्शन को प्रभावी ढंग से ट्रैक और तुलना करने की अनुमति देता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "publishedAt": "2026-06-29T17:39:17+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "d4aae48d6fd82415",
+      "title": "Gemini की व्यक्तिगत AI छवि निर्माण अब अमेरिकी उपयोगकर्ताओं के लिए मुफ्त है",
+      "summary": "Google ने अपने Gemini व्यक्तिगत AI छवि निर्माण सुविधा को अमेरिका में योग्य उपयोगकर्ताओं के लिए मुफ्त उपलब्ध कराया है, जिससे चैटबॉट को व्यक्तिगत रुचियों और जुड़े हुए Google अनुप्रयोगों से डेटा के अनुसार छवियाँ बनाने में सक्षम बनाया जा सके। यह विस्तार व्यक्तिगत डेटा का उपयोग करके अधिक प्रासंगिक छवि निर्माण के लिए उपयोगकर्ता अनुभव को बढ़ाने का लक्ष्य रखता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "2026-06-29T20:12:59+00:00",
+      "category": "industry",
+      "relevanceScore": 57
+    },
+    {
+      "id": "6a27433cd7caf168",
+      "title": "Tidal AI-निर्मित संगीत पर रॉयल्टी नहीं देगा लेकिन इसे पूरी तरह से प्रतिबंधित नहीं करेगा",
+      "summary": "Tidal ने घोषणा की है कि वह AI-निर्मित संगीत पर रॉयल्टी नहीं देगा लेकिन 15 जुलाई से पूरी तरह से AI-निर्मित ट्रैकों को लेबल करेगा। यह प्लेटफॉर्म कलाकारों की रक्षा करने और श्रोताओं को सूचित करने का लक्ष्य रखता है जबकि AI-निर्मित सामग्री को उपलब्ध रखने की अनुमति देता है।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "aa37178caf156a2e",
+      "title": "OpenAI नए हार्डवेयर का टीज़र दे रहा है... Codex के लिए",
+      "summary": "OpenAI 15 जुलाई को अपने AI कोडिंग टूल, Codex से संबंधित एक नए हार्डवेयर डिवाइस का अनावरण करने के लिए तैयार है। घोषणा में एक वर्गाकार डिवाइस का वीडियो शामिल है जिसमें बटन हैं, जो Codex शॉर्टकट्स में एक अपग्रेड का संकेत देता है।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "publishedAt": "2026-06-29T18:52:03+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "ddcf21cdc2b34bd2",
+      "title": "Anthropic और गव. न्यूज़म ने कैलिफोर्निया सरकार को आधी कीमत पर Claude का उपयोग करने की अनुमति देने के लिए सौदा किया",
+      "summary": "Anthropic ने कैलिफोर्निया के गवर्नर गेविन न्यूज़म के साथ एक समझौता किया है ताकि राज्य की सरकार को इसके AI मॉडल, Claude, तक आधी मानक कीमत पर पहुंच प्रदान की जा सके। यह साझेदारी Anthropic और संघीय सरकार के बीच बढ़ती तनाव के बीच आती है, जिससे कंपनी OpenAI के लिए एक प्रतिस्पर्धी के रूप में स्थापित होती है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "publishedAt": "2026-06-29T18:10:26+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "36e203f11c0f7339",
+      "title": "रोबोट हाथ कंपनी ने Tesla व्यापार रहस्य मुकदमे का निपटारा किया और $11M की वृद्धि की घोषणा की",
+      "summary": "Proception, जो रोबोटिक हाथों के विकास पर केंद्रित एक स्टार्टअप है, ने Tesla के साथ एक व्यापार रहस्य मुकदमे का निपटारा किया है और $11 मिलियन की फंडिंग राउंड की घोषणा की है। कंपनी प्रशिक्षण डेटा एकत्र करने के लिए नवोन्मेषी तरीकों का उपयोग करके रोबोटिक्स में चुनौतियों का समाधान करने का लक्ष्य रखती है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "publishedAt": "2026-06-29T14:00:08+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "9cc3b14e3b9c7b80",
+      "title": "DiScoFormer: घनत्व और स्कोर के लिए एक ट्रांसफार्मर, विभिन्न वितरणों में",
+      "summary": "शोधकर्ताओं ने DiScoFormer पेश किया है, एक नवीन ट्रांसफार्मर मॉडल जिसे विभिन्न वितरणों में घनत्व और स्कोर का अनुमान लगाने के लिए डिज़ाइन किया गया है। यह दृष्टिकोण जनरेटिव मॉडलिंग कार्यों में प्रदर्शन को बढ़ाने का लक्ष्य रखता है, घनत्व अनुमान और स्कोर मिलान की ताकतों का लाभ उठाकर।",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/allenai/discoformer",
+      "publishedAt": "2026-06-29T18:02:48+00:00",
+      "category": "research",
+      "relevanceScore": 55
+    },
+    {
+      "id": "0d320457f7e21f46",
+      "title": "Claude Meets Blackwell Ultra: Anthropic के मॉडल अब Azure में NVIDIA GB300 पर चलते हैं",
+      "summary": "Anthropic के Claude मॉडल अब Microsoft Azure पर उपलब्ध हैं, NVIDIA के GB300 Blackwell Ultra GPUs का उपयोग करते हुए, जिससे उद्यमों को स्वायत्त और डोमेन-विशिष्ट AI एजेंट विकसित करने में सक्षम बनाया जा सके। यह एकीकरण संगठनों की क्षमताओं को बढ़ाने का लक्ष्य रखता है ताकि नवाचार के लिए एजेंटिक AI का लाभ उठाया जा सके।",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "publishedAt": "2026-06-29T17:00:19+00:00",
+      "category": "product",
+      "relevanceScore": 54
+    },
+    {
+      "id": "247324a6d137edef",
+      "title": "यूरोप के AI कार्यबल अवसर का मानचित्रण",
+      "summary": "एक हालिया OpenAI रिपोर्ट ने EU में AI के कार्यों पर संभावित प्रभाव का विश्लेषण किया है, उन व्यवसायों की पहचान की है जो स्वचालन, वृद्धि, या कार्यप्रवाह में बदलाव का अनुभव कर सकते हैं। निष्कर्ष AI तकनीकों के विकास के साथ कार्यबल के भविष्य के बारे में अंतर्दृष्टि प्रदान करने का लक्ष्य रखते हैं।",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 52
+    }
+  ],
+  "metadata": {
+    "feedsAttempted": 20,
+    "feedsSucceeded": 20,
+    "articlesProcessed": 259,
+    "articlesSelected": 12
+  }
+}

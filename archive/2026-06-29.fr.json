@@ -1,0 +1,145 @@
+{
+  "digestDate": "2026-06-29",
+  "digestSlot": "pm",
+  "generatedAt": "2026-06-29T21:05:43.775309+00:00",
+  "headline": {
+    "id": "e0616775a3b94cd0",
+    "title": "Demandez à un expert en IA : Qu'est-ce que le full stack ?",
+    "summary": "L'article explore le concept d'infrastructure IA full-stack, détaillant les divers composants qui la composent, y compris la gestion des données, l'entraînement des modèles et le déploiement. Il fournit des perspectives d'experts en IA sur la manière dont ces éléments fonctionnent ensemble pour créer des systèmes IA efficaces.",
+    "sourceName": "Google AI",
+    "sourceIcon": "magnifyingglass",
+    "articleURL": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer/",
+    "publishedAt": "2026-06-29T16:00:00+00:00",
+    "category": "product",
+    "relevanceScore": 60
+  },
+  "articles": [
+    {
+      "id": "d8f8776c167af942",
+      "title": "Les agents IA ne sont pas vos « collègues »",
+      "summary": "L'article discute de la misconception selon laquelle les agents IA, appelés « collègues », peuvent fonctionner comme des employés humains sur le lieu de travail. Il souligne que, bien que les outils IA puissent aider dans diverses tâches, ils ne possèdent pas les mêmes capacités ou responsabilités que les travailleurs humains.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/06/29/1139849/ai-agents-are-not-your-coworkers/",
+      "publishedAt": "2026-06-29T18:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 59
+    },
+    {
+      "id": "9236547930cc988b",
+      "title": "Les géants technologiques sud-coréens s'engagent à investir plus de 550 milliards de dollars pour atténuer le ‘RAMageddon’",
+      "summary": "Les géants technologiques sud-coréens ont promis plus de 550 milliards de dollars pour étendre la production de puces mémoire en réponse à la demande croissante pour les technologies IA. Cet investissement vise à établir la Corée du Sud comme un acteur majeur dans le paysage technologique mondial de l'IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/south-korean-tech-giants-commit-over-550b-to-ease-ramageddon/",
+      "publishedAt": "2026-06-29T18:07:48+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "e0fdc00097208408",
+      "title": "Arena, le classement IA que tout le monde utilise, est désormais une entreprise de 100 millions de dollars",
+      "summary": "Arena, connu pour son classement IA largement utilisé, a atteint une valorisation de 100 millions de dollars suite au lancement de son service commercial en septembre dernier. La plateforme de la startup permet aux utilisateurs de suivre et de comparer efficacement les performances des modèles IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/arena-the-ai-leaderboard-everyone-uses-is-now-a-100m-business/",
+      "publishedAt": "2026-06-29T17:39:17+00:00",
+      "category": "industry",
+      "relevanceScore": 58
+    },
+    {
+      "id": "d4aae48d6fd82415",
+      "title": "La génération d'images IA personnalisée de Gemini est désormais gratuite pour les utilisateurs américains",
+      "summary": "Google a rendu sa fonctionnalité de génération d'images IA personnalisée de Gemini disponible gratuitement pour les utilisateurs éligibles aux États-Unis, permettant au chatbot de créer des images adaptées aux intérêts individuels et aux données des applications Google connectées. Cette expansion vise à améliorer l'expérience utilisateur en exploitant les données personnelles pour une création d'images plus pertinente.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/geminis-personalized-ai-image-generation-is-now-free-for-u-s-users/",
+      "publishedAt": "2026-06-29T20:12:59+00:00",
+      "category": "industry",
+      "relevanceScore": 57
+    },
+    {
+      "id": "6a27433cd7caf168",
+      "title": "Tidal ne paiera pas de redevances sur la musique générée par IA mais ne l'interdit pas complètement",
+      "summary": "Tidal a annoncé qu'il ne paiera pas de redevances sur la musique générée par IA mais étiquetera les morceaux identifiés comme entièrement générés par IA à partir du 15 juillet. La plateforme vise à protéger les artistes et à informer les auditeurs tout en permettant que le contenu généré par IA reste disponible.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "publishedAt": "2026-06-29T19:47:35+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "aa37178caf156a2e",
+      "title": "OpenAI tease un nouveau matériel… pour Codex",
+      "summary": "OpenAI s'apprête à dévoiler un nouvel appareil matériel lié à son outil de codage IA, Codex, le 15 juillet. L'annonce comprend une vidéo présentant un appareil de forme carrée avec des boutons, indiquant une mise à niveau des raccourcis Codex.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/959174/openai-codex-hardware-work-louder",
+      "publishedAt": "2026-06-29T18:52:03+00:00",
+      "category": "news",
+      "relevanceScore": 56
+    },
+    {
+      "id": "ddcf21cdc2b34bd2",
+      "title": "Anthropic et le gouverneur Newsom concluent un accord permettant au gouvernement californien d'utiliser Claude à moitié prix",
+      "summary": "Anthropic a conclu un accord avec le gouverneur de Californie, Gavin Newsom, pour fournir au gouvernement de l'État un accès à son modèle IA, Claude, à moitié prix. Ce partenariat intervient dans un contexte de tensions croissantes entre Anthropic et le gouvernement fédéral, positionnant l'entreprise comme un concurrent d'OpenAI.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/anthropic-and-gov-newsom-forge-deal-allowing-california-government-to-use-claude-at-half-price/",
+      "publishedAt": "2026-06-29T18:10:26+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "36e203f11c0f7339",
+      "title": "La société de mains robotiques règle un procès pour secret commercial avec Tesla et annonce une levée de fonds de 11 millions de dollars",
+      "summary": "Proception, une startup axée sur le développement de mains robotiques, a réglé un procès pour secret commercial avec Tesla et a annoncé une levée de fonds de 11 millions de dollars. L'entreprise vise à relever les défis de la robotique en utilisant des méthodes innovantes pour collecter des données d'entraînement.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/06/29/robot-hand-company-settles-tesla-trade-secret-suit-and-announces-11m-raise/",
+      "publishedAt": "2026-06-29T14:00:08+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "9cc3b14e3b9c7b80",
+      "title": "DiScoFormer : Un transformateur pour la densité et le score, à travers les distributions",
+      "summary": "Des chercheurs ont introduit DiScoFormer, un nouveau modèle de transformateur conçu pour estimer simultanément la densité et le score à travers diverses distributions. Cette approche vise à améliorer les performances dans les tâches de modélisation générative en tirant parti des forces de l'estimation de densité et de l'appariement de score.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/allenai/discoformer",
+      "publishedAt": "2026-06-29T18:02:48+00:00",
+      "category": "research",
+      "relevanceScore": 55
+    },
+    {
+      "id": "0d320457f7e21f46",
+      "title": "Claude rencontre Blackwell Ultra : Les modèles d'Anthropic fonctionnent désormais sur NVIDIA GB300 dans Azure",
+      "summary": "Les modèles Claude d'Anthropic sont désormais disponibles sur Microsoft Azure, utilisant les GPU NVIDIA GB300 Blackwell Ultra, permettant aux entreprises de développer des agents IA autonomes et spécifiques à un domaine. Cette intégration vise à améliorer les capacités des organisations à tirer parti de l'IA agentique pour l'innovation.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/anthropic-nvidia-gb300-blackwell-ultra-microsoft-azure/",
+      "publishedAt": "2026-06-29T17:00:19+00:00",
+      "category": "product",
+      "relevanceScore": 54
+    },
+    {
+      "id": "247324a6d137edef",
+      "title": "Cartographie des opportunités de la main-d'œuvre IA en Europe",
+      "summary": "Un récent rapport d'OpenAI analyse l'impact potentiel de l'IA sur les emplois dans l'UE, identifiant les professions qui pourraient connaître une automatisation, une croissance ou des changements dans le flux de travail. Les résultats visent à fournir des perspectives sur l'avenir de la main-d'œuvre à mesure que les technologies IA continuent d'évoluer.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/mapping-ai-jobs-transition-eu",
+      "publishedAt": "2026-06-29T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 52
+    }
+  ],
+  "metadata": {
+    "feedsAttempted": 20,
+    "feedsSucceeded": 20,
+    "articlesProcessed": 259,
+    "articlesSelected": 12
+  }
+}
