@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-03",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-03T09:55:26.149956+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-03T20:12:36.327725+00:00",
   "headline": {
-    "id": "933cf223cd309151",
-    "title": "Mark Zuckerberg dit au personnel que les agents IA n'ont pas progressé aussi rapidement qu'il l'espérait",
-    "summary": "Mark Zuckerberg a informé le personnel de Meta lors d'une réunion interne que le développement de l'IA de l'entreprise n'avait pas progressé aussi rapidement qu'il l'avait espéré. Il a exprimé des inquiétudes concernant le rythme des avancées dans les agents IA.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "publishedAt": "2026-07-02T23:38:10+00:00",
-    "category": "industry",
-    "relevanceScore": 49
+    "id": "4e2b1466249cf48f",
+    "title": "Google DeepMind et A24 annoncent un partenariat de recherche inédit",
+    "summary": "Google DeepMind s'est associé à A24 pour explorer l'intersection de l'intelligence artificielle et de la production cinématographique, marquant une collaboration unique dans l'industrie du divertissement. Le partenariat vise à tirer parti de la technologie AI pour améliorer la narration et les processus créatifs dans la réalisation de films.",
+    "sourceName": "DeepMind",
+    "sourceIcon": "atom",
+    "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "publishedAt": "2026-07-03T14:25:43+00:00",
+    "category": "research",
+    "relevanceScore": 62
   },
   "articles": [
     {
+      "id": "76b1b409171803e9",
+      "title": "Les guerres des navigateurs ne concernent plus la recherche — voici les meilleures alternatives à Chrome et Safari",
+      "summary": "L'article présente un aperçu de divers navigateurs web alternatifs qui émergent comme concurrents de Chrome et Safari. Il met en avant les caractéristiques et les avantages de ces navigateurs, soulignant le changement de focus des capacités de recherche vers l'expérience de navigation globale.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-07-03T18:43:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "935cc86f8f589e17",
+      "title": "FDT pragmatique et prédicteurs en tant que théorie des jeux",
+      "summary": "Le Bulldog de Bentham critique la Théorie de Décision Fonctionnelle (FDT) dans un récent article de blog, soulignant le fossé entre sa popularité parmi les rationalistes et le scepticisme des théoriciens de la décision académiques. L'article met en avant l'acceptation limitée de la FDT au sein de la communauté académique, suggérant que ses partisans sont rares.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
+      "publishedAt": "2026-07-03T13:22:38+00:00",
+      "category": "policy",
+      "relevanceScore": 52
+    },
+    {
+      "id": "bb4458a89fcbd24b",
+      "title": "Un aperçu des coulisses du scanner médical de Midjourney laisse de nombreuses questions sans réponse",
+      "summary": "Midjourney a dévoilé une vidéo des coulisses de son scanner ultrasonique de type dunk-tank, visant à fournir des images médicales abordables, détaillées et sans radiation. Cependant, l'entreprise n'a pas encore fourni de preuves substantielles de l'efficacité du scanner.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "publishedAt": "2026-07-03T11:49:10+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "603eeb4ef4f4d69f",
+      "title": "Les discussions sur la syndicalisation chez Google DeepMind commencent difficilement",
+      "summary": "Les négociations pour la syndicalisation chez Google DeepMind ont rencontré des défis alors que les employés ont exprimé leur mécontentement face au manque d'engagement significatif des dirigeants dans les discussions. Les pourparlers, tenus mercredi, ont mis en lumière les tensions persistantes entre le personnel et la direction concernant la représentation syndicale.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "publishedAt": "2026-07-03T16:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "c0c7da9f05458369",
+      "title": "Anthropic veut développer ses propres médicaments",
+      "summary": "Anthropic a présenté Claude Science, un banc d'essai AI conçu pour consolider divers outils scientifiques et ensembles de données en une seule plateforme, améliorant ainsi le processus de recherche pour les scientifiques. Cette annonce a été faite lors de l'événement \"AI for Science\", soulignant l'engagement continu d'Anthropic à faire avancer les applications de l'IA dans la recherche scientifique.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "publishedAt": "2026-07-03T13:56:52+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "933cf223cd309151",
+      "title": "Mark Zuckerberg informe le personnel que les agents AI n'ont pas progressé aussi rapidement qu'il l'espérait",
+      "summary": "Mark Zuckerberg a informé le personnel de Meta lors d'une réunion interne que le développement de l'IA de l'entreprise n'avait pas progressé aussi rapidement qu'il l'avait espéré. Il a exprimé des inquiétudes concernant le rythme des avancées dans les agents AI.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "publishedAt": "2026-07-02T23:38:10+00:00",
+      "category": "industry",
+      "relevanceScore": 40
+    },
+    {
       "id": "ea79a1ee37b92e89",
-      "title": "Agent4cs : Un système multi-agents pour la synthèse de code dans de grandes bases de code hiérarchiques",
-      "summary": "Agent4cs est un système multi-agents conçu pour améliorer la synthèse de code dans de grandes bases de code hiérarchiques, en s'attaquant aux défis posés par des structures obscurcies et une documentation incomplète. Contrairement aux méthodes traditionnelles qui traitent le code source comme un texte plat, Agent4cs exploite les interdépendances et les informations hiérarchiques au sein des dépôts pour améliorer la compréhension et la synthèse.",
+      "title": "Agent4cs : Un système multi-agents pour la synthèse de code dans de grands codes hiérarchiques",
+      "summary": "Agent4cs est un système multi-agents conçu pour améliorer la synthèse de code dans de grands codes hiérarchiques en tirant parti des interdépendances et des informations hiérarchiques au sein des dépôts. Cette approche vise à améliorer la compréhension des structures de code complexes, souvent mal documentées et difficiles à naviguer.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01425",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "7a25d0cafa8e60af",
       "title": "SimWorlds : Un système multi-agents pour la création de scènes 3D dynamiques",
-      "summary": "SimWorlds introduit un système multi-agents conçu pour créer des scènes 3D dynamiques à partir d'entrées en langage naturel, répondant aux limitations des systèmes existants qui génèrent principalement des sorties statiques. Le cadre vise à faciliter la génération de contenu modifiable basé sur la physique, ce qui peut améliorer la génération vidéo et la formation pour les applications d'IA incarnée.",
+      "summary": "SimWorlds est un nouveau système multi-agents conçu pour créer des scènes 3D dynamiques à partir d'entrées en langage naturel, répondant aux limites des systèmes existants qui génèrent principalement des sorties statiques. Le système vise à produire un contenu éditable présentant des dynamiques fluides, des émissions de particules et des mécanismes en mouvement, ce qui pourrait améliorer les données d'entraînement pour la génération vidéo et les applications d'IA incarnée.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01766",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "5504ff254463b4af",
-      "title": "A$^{2}$utoLPBench : Un benchmark généré automatiquement, adapté aux agents pour les problèmes de programmation linéaire via la construction inverse-KKT",
-      "summary": "L'article présente A$^{2}$utoLPBench, un nouveau benchmark conçu pour évaluer les agents pilotés par LLM sur des problèmes de programmation linéaire générés par une méthode de construction inverse-KKT. Cette approche répond aux limitations des ensembles de données statiques étiquetées manuellement en fournissant un cadre dynamique et évolutif pour tester les modèles d'IA sur des défis de programmation linéaire.",
+      "title": "A$^{2}$utoLPBench : Un benchmark généré automatiquement, adapté aux agents, via une construction inverse-KKT",
+      "summary": "L'article présente A$^{2}$utoLPBench, un nouveau benchmark conçu pour évaluer les agents pilotés par LLM sur des problèmes de programmation linéaire générés par une méthode de construction inverse-KKT. Cette approche répond aux limites des ensembles de données statiques étiquetées manuellement en fournissant un cadre dynamique et évolutif pour les tests.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.02141",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "b3069f28cee12103",
       "title": "Synthèse de scènes intérieures 3D pilotée par texte dans des environnements non-Manhattan",
-      "summary": "Des chercheurs ont introduit SPG-Layout, un nouveau cadre piloté par texte conçu pour améliorer la synthèse de scènes intérieures 3D dans des environnements non-Manhattan, répondant aux limitations des méthodes existantes qui peinent avec des relations spatiales non orthogonales. Le cadre vise à améliorer les motifs de disposition des objets, réduisant les violations géométriques et augmentant la fidélité physique dans les scènes synthétisées.",
+      "summary": "Des chercheurs ont introduit SPG-Layout, un nouveau cadre piloté par texte conçu pour améliorer la synthèse de scènes intérieures 3D dans des environnements non-Manhattan, répondant aux limites des méthodes existantes qui peinent avec des relations spatiales non orthogonales. Le cadre vise à améliorer les motifs de disposition des objets et à réduire les violations géométriques, augmentant ainsi la fidélité physique des scènes synthétisées.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.02407",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "2e74a9f18f71dffe",
-      "title": "Les harmoniques sphériques pondérées par spin permettent des réseaux équivariants complets et évolutifs $\\mathrm{E}(3)$",
-      "summary": "Des chercheurs ont introduit SpinGTP, une nouvelle méthode qui améliore l'expressivité des réseaux équivariants $\\mathrm{E}(3)$ en s'attaquant aux limitations du produit tensoriel de Gaunt (GTP) dans la modélisation des systèmes atomiques 3D. Cette approche vise à améliorer l'évolutivité tout en maintenant la capacité à capturer des chemins antisymétriques, qui étaient auparavant mal représentés.",
+      "title": "Les harmoniques sphériques pondérées par spin permettent des réseaux équivariants $\\mathrm{E}(3)$ complets et évolutifs",
+      "summary": "Des chercheurs ont introduit SpinGTP, une nouvelle méthode qui améliore l'expressivité des réseaux équivariants $\\mathrm{E}(3)$ pour la modélisation de systèmes atomiques 3D en répondant aux limites du produit tensoriel de Gaunt (GTP). Cette approche vise à améliorer l'évolutivité tout en maintenant la capacité de capturer des chemins antisymétriques, qui étaient auparavant négligés.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01408",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "0ecd57418d6c38cf",
-      "title": "Adoption et impact des agents de codage IA en ligne de commande : Une étude sur le déploiement précoce de Claude Code et GitHub Copilot CLI par Microsoft en début 2026",
-      "summary": "Une étude récente examine l'adoption et l'impact des agents de codage IA en ligne de commande, en particulier le déploiement par Microsoft de Claude Code et GitHub Copilot CLI au début de 2026. La recherche souligne l'importance de comprendre l'engagement des utilisateurs et l'efficacité des résultats pour éviter des erreurs coûteuses dans les mises en œuvre organisationnelles de ces outils.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01418",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "392b155daf164822",
-      "title": "Reconnaissance robuste et explicable des modes de forme 3D utilisant des réseaux de neurones graphiques sensibles aux régions",
-      "summary": "Des chercheurs ont développé une méthode robuste et explicable pour la reconnaissance des modes de forme 3D utilisant des réseaux de neurones graphiques sensibles aux régions, répondant aux limitations des techniques existantes qui reposent sur une inspection manuelle et sont sensibles aux variations de l'architecture des véhicules et des configurations de mesure. Cette nouvelle approche vise à améliorer la fiabilité de la reconnaissance des modes de forme dans le développement du bruit, des vibrations et de la dureté (NVH) automobile.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01522",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "63741bb5f0e36d4d",
-      "title": "TUDUM : Un pipeline de raisonnement à pensée turque pour Qwen3.5-27B",
-      "summary": "L'article présente TUDUM, un pipeline conçu pour adapter le modèle Qwen-family 27B pour le raisonnement en turc, en se concentrant à la fois sur la compréhension des invites turques et sur la fourniture de traces de raisonnement en turc. Le projet vise à améliorer la capacité du modèle à traiter et résoudre des problèmes principalement en turc plutôt que de s'appuyer sur un raisonnement centré sur l'anglais.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01927",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "73a6b1b626b29620",
-      "title": "AIriskEval-edu : Nouveau jeu de données pour l'évaluation des risques dans les explications éducatives médiées par l'IA pour le K-12",
-      "summary": "Le jeu de données AIriskEval-edu-db2 a été introduit pour faciliter la formation et l'évaluation des auditeurs utilisant de grands modèles de langage pour l'évaluation des risques dans les explications éducatives K-12. Il contient 1 639 explications provenant de 170 questions ScienceQA sélectionnées dans divers sujets, y compris des réponses écrites par des humains et générées par l'IA.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01934",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "3c46ac94dca9024f",
-      "title": "PhysMani : Modèle de monde 3D basé sur la physique pour la manipulation dynamique d'objets",
-      "summary": "Des chercheurs ont introduit PhysMani, un nouveau cadre conçu pour améliorer la manipulation dynamique d'objets dans des environnements 3D non structurés en intégrant un modèle de monde 3D gaussien basé sur la physique avec un modèle de politique d'action conscient du futur. Cette approche vise à améliorer la précision de la représentation de la géométrie 3D et des prévisions physiquement significatives pour les systèmes d'IA incarnée.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01938",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "e2bd03fb57c40f24",
-      "title": "Stratégies de course multi-agents basées sur l'apprentissage en Formule 1",
-      "summary": "Une nouvelle étude présente une approche d'apprentissage par renforcement pour optimiser les stratégies de course multi-agents en Formule 1, en se concentrant sur des facteurs tels que la gestion de l'énergie, la dégradation des pneus et les décisions de pit-stop. La méthode proposée améliore une politique d'agent unique pré-entraînée en incorporant un module d'interaction pour tenir compte du comportement des concurrents pendant les courses.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.23056",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 369,
+    "articlesProcessed": 374,
     "articlesSelected": 12
   }
 }

@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-03",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-03T09:55:26.149956+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-03T20:12:36.327725+00:00",
   "headline": {
-    "id": "933cf223cd309151",
-    "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
-    "summary": "Mark Zuckerberg informed Meta staff during an internal meeting that the company's AI development has not progressed as quickly as he had hoped. He expressed concerns about the pace of advancements in AI agents.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "publishedAt": "2026-07-02T23:38:10+00:00",
-    "category": "industry",
-    "relevanceScore": 49
+    "id": "4e2b1466249cf48f",
+    "title": "Google DeepMind and A24 announce first-of-its-kind research partnership",
+    "summary": "Google DeepMind has partnered with A24 to explore the intersection of artificial intelligence and film production, marking a unique collaboration in the entertainment industry. The partnership aims to leverage AI technology to enhance storytelling and creative processes in filmmaking.",
+    "sourceName": "DeepMind",
+    "sourceIcon": "atom",
+    "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "publishedAt": "2026-07-03T14:25:43+00:00",
+    "category": "research",
+    "relevanceScore": 62
   },
   "articles": [
     {
+      "id": "76b1b409171803e9",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "summary": "The article provides an overview of various alternative web browsers that are emerging as competitors to Chrome and Safari. It highlights the features and advantages of these browsers, emphasizing the shift in focus from search capabilities to overall browsing experience.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-07-03T18:43:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "935cc86f8f589e17",
+      "title": "Pragmatic FDT, and predictors as game theory",
+      "summary": "Bentham's Bulldog critiques Functional Decision Theory (FDT) in a recent blog post, highlighting the divide between its popularity among rationalists and skepticism from academic decision theorists. The article emphasizes the limited acceptance of FDT within the academic community, suggesting that its proponents are few and far between.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
+      "publishedAt": "2026-07-03T13:22:38+00:00",
+      "category": "policy",
+      "relevanceScore": 52
+    },
+    {
+      "id": "bb4458a89fcbd24b",
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "summary": "Midjourney has unveiled a behind-the-scenes video of its dunk-tank ultrasound scanner, aimed at providing affordable, detailed, and radiation-free medical imaging. However, the company has yet to provide substantial evidence of the scanner's effectiveness.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "publishedAt": "2026-07-03T11:49:10+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "603eeb4ef4f4d69f",
+      "title": "Google DeepMind Unionization Talks Are Off to a Rocky Start",
+      "summary": "Negotiations for unionization at Google DeepMind faced challenges as employees expressed dissatisfaction with executives' lack of meaningful engagement in discussions. The talks, held on Wednesday, highlighted ongoing tensions between staff and management regarding union representation.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "publishedAt": "2026-07-03T16:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "c0c7da9f05458369",
+      "title": "Anthropic wants to develop its own drugs",
+      "summary": "Anthropic has introduced Claude Science, an AI workbench designed to consolidate various scientific tools and datasets into a single platform, enhancing the research process for scientists. This announcement was made during the \"AI for Science\" event, highlighting Anthropic's ongoing commitment to advancing AI applications in scientific research.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "publishedAt": "2026-07-03T13:56:52+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "933cf223cd309151",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "summary": "Mark Zuckerberg informed Meta staff during an internal meeting that the company's AI development has not progressed as quickly as he had hoped. He expressed concerns about the pace of advancements in AI agents.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "publishedAt": "2026-07-02T23:38:10+00:00",
+      "category": "industry",
+      "relevanceScore": 40
+    },
+    {
       "id": "ea79a1ee37b92e89",
       "title": "Agent4cs: A Multi-agent System for Code Summarization in Large Hierarchical Codebases",
-      "summary": "Agent4cs is a multi-agent system designed to enhance code summarization in large hierarchical codebases, addressing challenges posed by obfuscated structures and incomplete documentation. Unlike traditional methods that treat source code as flat text, Agent4cs leverages the interdependencies and hierarchical information within repositories to improve understanding and summarization.",
+      "summary": "Agent4cs is a multi-agent system designed to improve code summarization in large hierarchical codebases by leveraging the interdependencies and hierarchical information within repositories. This approach aims to enhance understanding of complex code structures, which are often poorly documented and challenging to navigate.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01425",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "7a25d0cafa8e60af",
       "title": "SimWorlds: A Multi-Agent System for Dynamic 3D Scene Creation",
-      "summary": "SimWorlds introduces a multi-agent system designed to create dynamic 3D scenes from natural language inputs, addressing the limitations of existing systems that primarily generate static outputs. The framework aims to facilitate the generation of editable, physics-based content, which can enhance video generation and training for embodied AI applications.",
+      "summary": "SimWorlds is a new multi-agent system designed to create dynamic 3D scenes from natural language input, addressing the limitations of existing systems that primarily generate static outputs. The system aims to produce editable content featuring fluid dynamics, particle emissions, and moving mechanisms, which could enhance training data for video generation and embodied AI applications.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01766",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "5504ff254463b4af",
       "title": "A$^{2}$utoLPBench: An Auto-Generated, Agent-Friendly LP Benchmark via Inverse-KKT Construction",
-      "summary": "The article introduces A$^{2}$utoLPBench, a new benchmark designed for evaluating LLM-driven agents on linear programming problems generated through an inverse-KKT construction method. This approach addresses limitations of static, hand-labeled datasets by providing a dynamic and scalable framework for testing AI models on LP challenges.",
+      "summary": "The article introduces A$^{2}$utoLPBench, a new benchmark designed for evaluating LLM-driven agents on linear programming problems generated through an inverse-KKT construction method. This approach addresses the limitations of static, hand-labeled datasets by providing a dynamic and scalable framework for testing.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.02141",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "b3069f28cee12103",
       "title": "Text-Driven 3D Indoor Scene Synthesis in Non-Manhattan Environments",
-      "summary": "Researchers have introduced SPG-Layout, a new text-driven framework designed to enhance 3D indoor scene synthesis in non-Manhattan environments, addressing limitations in existing methods that struggle with non-orthogonal spatial relationships. The framework aims to improve object layout patterns, reducing geometric violations and increasing physical fidelity in synthesized scenes.",
+      "summary": "Researchers have introduced SPG-Layout, a new text-driven framework designed to improve 3D indoor scene synthesis in non-Manhattan environments, addressing limitations in existing methods that struggle with non-orthogonal spatial relationships. The framework aims to enhance object layout patterns and reduce geometric violations, thereby increasing physical fidelity in synthesized scenes.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.02407",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "2e74a9f18f71dffe",
       "title": "Spin-Weighted Spherical Harmonics Enable Complete and Scalable $\\mathrm{E}(3)$-Equivariant Networks",
-      "summary": "Researchers have introduced SpinGTP, a new method that enhances the expressivity of $\\mathrm{E}(3)$-equivariant networks by addressing the limitations of the Gaunt Tensor Product (GTP) in modeling 3D atomistic systems. This approach aims to improve scalability while maintaining the ability to capture antisymmetric paths, which were previously inadequately represented.",
+      "summary": "Researchers have introduced SpinGTP, a new method that enhances the expressivity of $\\mathrm{E}(3)$-equivariant networks for 3D atomistic system modeling by addressing the limitations of the Gaunt Tensor Product (GTP). This approach aims to improve scalability while maintaining the ability to capture antisymmetric paths, which were previously overlooked.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01408",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "0ecd57418d6c38cf",
-      "title": "Adoption and Impact of Command-Line AI Coding Agents: A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI",
-      "summary": "A recent study examines the adoption and impact of command-line AI coding agents, specifically Microsoft's rollout of Claude Code and GitHub Copilot CLI in early 2026. The research highlights the importance of understanding user engagement and output efficiency to avoid costly miscalculations in organizational implementations of these tools.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01418",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "392b155daf164822",
-      "title": "Robust and Explainable 3D Mode Shape Recognition Using Region-Aware Graph Neural Networks",
-      "summary": "Researchers have developed a robust and explainable method for 3D mode shape recognition using region-aware graph neural networks, addressing the limitations of existing techniques that rely on manual inspection and are sensitive to variations in vehicle architecture and measurement setups. This new approach aims to enhance the reliability of mode shape recognition in automotive noise, vibration, and harshness (NVH) development.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01522",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "63741bb5f0e36d4d",
-      "title": "TUDUM: A Turkish-Thinking Reasoning Pipeline for Qwen3.5-27B",
-      "summary": "The paper introduces TUDUM, a pipeline designed to adapt the Qwen-family 27B model for reasoning in Turkish, focusing on both understanding Turkish prompts and providing reasoning traces in Turkish. The project aims to enhance the model's capability to process and solve problems primarily in Turkish rather than relying on English-centric reasoning.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01927",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "73a6b1b626b29620",
-      "title": "AIriskEval-edu: New Dataset for Risk Assessment in AI-mediated K-12 Educational Explanations",
-      "summary": "The AIriskEval-edu-db2 dataset has been introduced to facilitate the training and evaluation of auditors using large language models for risk assessment in K-12 educational explanations. It contains 1,639 explanations from 170 curated ScienceQA questions across various subjects, including human-written and AI-generated responses.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01934",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "3c46ac94dca9024f",
-      "title": "PhysMani: Physics-principled 3D World Model for Dynamic Object Manipulation",
-      "summary": "Researchers have introduced PhysMani, a new framework designed to enhance dynamic object manipulation in unstructured 3D environments by integrating a physics-principled 3D Gaussian world model with a future-aware action policy model. This approach aims to improve the accuracy of 3D geometry representation and physically meaningful forecasting for embodied AI systems.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01938",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "e2bd03fb57c40f24",
-      "title": "Learning-based Multi-agent Race Strategies in Formula 1",
-      "summary": "A new study presents a reinforcement learning approach for optimizing multi-agent race strategies in Formula 1, focusing on factors such as energy management, tire degradation, and pit-stop decisions. The proposed method enhances a pre-trained single-agent policy by incorporating an interaction module to account for competitor behavior during races.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.23056",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 369,
+    "articlesProcessed": 374,
     "articlesSelected": 12
   }
 }

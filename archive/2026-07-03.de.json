@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-03",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-03T09:55:26.149956+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-03T20:12:36.327725+00:00",
   "headline": {
-    "id": "933cf223cd309151",
-    "title": "Mark Zuckerberg informiert Mitarbeiter, dass KI-Agenten sich nicht so schnell entwickelt haben, wie er gehofft hatte",
-    "summary": "Mark Zuckerberg teilte den Meta-Mitarbeitern in einer internen Sitzung mit, dass sich die KI-Entwicklung des Unternehmens nicht so schnell entwickelt hat, wie er gehofft hatte. Er äußerte Bedenken hinsichtlich des Tempos der Fortschritte bei KI-Agenten.",
-    "sourceName": "TechCrunch",
-    "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-    "publishedAt": "2026-07-02T23:38:10+00:00",
-    "category": "industry",
-    "relevanceScore": 49
+    "id": "4e2b1466249cf48f",
+    "title": "Google DeepMind und A24 kündigen eine einzigartige Forschungskooperation an",
+    "summary": "Google DeepMind hat sich mit A24 zusammengeschlossen, um die Schnittstelle zwischen künstlicher Intelligenz und Filmproduktion zu erkunden, was eine einzigartige Zusammenarbeit in der Unterhaltungsindustrie darstellt. Ziel der Partnerschaft ist es, KI-Technologie zu nutzen, um das Geschichtenerzählen und die kreativen Prozesse in der Filmproduktion zu verbessern.",
+    "sourceName": "DeepMind",
+    "sourceIcon": "atom",
+    "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+    "publishedAt": "2026-07-03T14:25:43+00:00",
+    "category": "research",
+    "relevanceScore": 62
   },
   "articles": [
     {
+      "id": "76b1b409171803e9",
+      "title": "Die Browserkriege drehen sich nicht mehr um die Suche – hier sind die besten Alternativen zu Chrome und Safari",
+      "summary": "Der Artikel bietet einen Überblick über verschiedene alternative Webbrowser, die als Konkurrenten zu Chrome und Safari aufkommen. Er hebt die Funktionen und Vorteile dieser Browser hervor und betont den Fokuswechsel von Suchfunktionen hin zu einem insgesamt besseren Surferlebnis.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "publishedAt": "2026-07-03T18:43:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "935cc86f8f589e17",
+      "title": "Pragmatische FDT und Prädiktoren als Spieltheorie",
+      "summary": "Bentham's Bulldog kritisiert die Funktionale Entscheidungstheorie (FDT) in einem aktuellen Blogbeitrag und hebt die Kluft zwischen ihrer Beliebtheit bei Rationalisten und dem Skeptizismus akademischer Entscheidungstheoretiker hervor. Der Artikel betont die begrenzte Akzeptanz von FDT innerhalb der akademischen Gemeinschaft und deutet darauf hin, dass ihre Befürworter selten sind.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
+      "publishedAt": "2026-07-03T13:22:38+00:00",
+      "category": "policy",
+      "relevanceScore": 52
+    },
+    {
+      "id": "bb4458a89fcbd24b",
+      "title": "Ein Blick hinter die Kulissen von Midjourneys medizinischem Scanner lässt viele Fragen offen",
+      "summary": "Midjourney hat ein Behind-the-Scenes-Video seines Ultraschall-Scanners veröffentlicht, der darauf abzielt, erschwingliche, detaillierte und strahlungsfreie medizinische Bildgebung bereitzustellen. Das Unternehmen hat jedoch noch keine substantiellen Beweise für die Wirksamkeit des Scanners vorgelegt.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "publishedAt": "2026-07-03T11:49:10+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "603eeb4ef4f4d69f",
+      "title": "Die Gespräche zur Gewerkschaftsbildung bei Google DeepMind haben einen holprigen Start",
+      "summary": "Die Verhandlungen zur Gewerkschaftsbildung bei Google DeepMind stießen auf Herausforderungen, da Mitarbeiter Unzufriedenheit über das mangelnde Engagement der Führungskräfte in den Diskussionen äußerten. Die Gespräche, die am Mittwoch stattfanden, verdeutlichten die anhaltenden Spannungen zwischen Mitarbeitern und Management bezüglich der Gewerkschaftsvertretung.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
+      "publishedAt": "2026-07-03T16:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "c0c7da9f05458369",
+      "title": "Anthropic möchte eigene Medikamente entwickeln",
+      "summary": "Anthropic hat Claude Science vorgestellt, eine KI-Arbeitsumgebung, die darauf abzielt, verschiedene wissenschaftliche Werkzeuge und Datensätze auf einer einzigen Plattform zu konsolidieren und den Forschungsprozess für Wissenschaftler zu verbessern. Diese Ankündigung wurde während der Veranstaltung \"AI for Science\" gemacht und unterstreicht Anthropics fortwährende Verpflichtung zur Förderung von KI-Anwendungen in der wissenschaftlichen Forschung.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
+      "publishedAt": "2026-07-03T13:56:52+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "933cf223cd309151",
+      "title": "Mark Zuckerberg informiert die Mitarbeiter, dass sich KI-Agenten nicht so schnell entwickelt haben, wie er gehofft hatte",
+      "summary": "Mark Zuckerberg informierte die Meta-Mitarbeiter während eines internen Treffens, dass sich die KI-Entwicklung des Unternehmens nicht so schnell entwickelt hat, wie er gehofft hatte. Er äußerte Bedenken über das Tempo der Fortschritte bei KI-Agenten.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "publishedAt": "2026-07-02T23:38:10+00:00",
+      "category": "industry",
+      "relevanceScore": 40
+    },
+    {
       "id": "ea79a1ee37b92e89",
       "title": "Agent4cs: Ein Multi-Agenten-System zur Code-Zusammenfassung in großen hierarchischen Codebasen",
-      "summary": "Agent4cs ist ein Multi-Agenten-System, das entwickelt wurde, um die Code-Zusammenfassung in großen hierarchischen Codebasen zu verbessern und Herausforderungen durch obfuskierte Strukturen und unvollständige Dokumentation zu bewältigen. Im Gegensatz zu traditionellen Methoden, die Quellcode als flachen Text behandeln, nutzt Agent4cs die Abhängigkeiten und hierarchischen Informationen innerhalb von Repositories, um das Verständnis und die Zusammenfassung zu verbessern.",
+      "summary": "Agent4cs ist ein Multi-Agenten-System, das entwickelt wurde, um die Code-Zusammenfassung in großen hierarchischen Codebasen zu verbessern, indem es die Abhängigkeiten und hierarchischen Informationen innerhalb der Repositories nutzt. Dieser Ansatz zielt darauf ab, das Verständnis komplexer Code-Strukturen zu verbessern, die oft schlecht dokumentiert und schwer zu navigieren sind.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01425",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "7a25d0cafa8e60af",
       "title": "SimWorlds: Ein Multi-Agenten-System zur dynamischen 3D-Szenenerstellung",
-      "summary": "SimWorlds führt ein Multi-Agenten-System ein, das entwickelt wurde, um dynamische 3D-Szenen aus natürlichen Spracheingaben zu erstellen und die Einschränkungen bestehender Systeme zu adressieren, die hauptsächlich statische Ausgaben generieren. Das Framework zielt darauf ab, die Erstellung von bearbeitbarem, physikbasiertem Inhalt zu erleichtern, was die Videogenerierung und das Training für verkörperte KI-Anwendungen verbessern kann.",
+      "summary": "SimWorlds ist ein neues Multi-Agenten-System, das entwickelt wurde, um dynamische 3D-Szenen aus natürlicher Spracheingabe zu erstellen und die Einschränkungen bestehender Systeme zu adressieren, die hauptsächlich statische Ausgaben erzeugen. Das System zielt darauf ab, bearbeitbare Inhalte mit Fluiddynamik, Partikelemissionen und beweglichen Mechanismen zu produzieren, was die Trainingsdaten für die Videogenerierung und Anwendungen der verkörperten KI verbessern könnte.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01766",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "5504ff254463b4af",
       "title": "A$^{2}$utoLPBench: Ein automatisch generierter, agentenfreundlicher LP-Benchmark über Inverse-KKT-Konstruktion",
-      "summary": "Der Artikel stellt A$^{2}$utoLPBench vor, einen neuen Benchmark, der zur Bewertung von LLM-gesteuerten Agenten bei linearen Programmierungsproblemen entwickelt wurde, die durch eine Inverse-KKT-Konstruktionsmethode generiert werden. Dieser Ansatz adressiert die Einschränkungen statischer, manuell beschrifteter Datensätze, indem er ein dynamisches und skalierbares Framework für Tests von KI-Modellen bei LP-Herausforderungen bereitstellt.",
+      "summary": "Der Artikel stellt A$^{2}$utoLPBench vor, einen neuen Benchmark, der zur Bewertung von LLM-gesteuerten Agenten bei linearen Programmierungsproblemen entwickelt wurde, die durch eine Inverse-KKT-Konstruktionsmethode generiert wurden. Dieser Ansatz adressiert die Einschränkungen statischer, manuell beschrifteter Datensätze, indem er einen dynamischen und skalierbaren Rahmen für Tests bereitstellt.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.02141",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "b3069f28cee12103",
       "title": "Textgesteuerte 3D-Innenraumsynthese in Nicht-Manhattan-Umgebungen",
-      "summary": "Forscher haben SPG-Layout eingeführt, ein neues textgesteuertes Framework, das entwickelt wurde, um die 3D-Innenraumsynthese in Nicht-Manhattan-Umgebungen zu verbessern und die Einschränkungen bestehender Methoden zu adressieren, die mit nicht-orthogonalen räumlichen Beziehungen kämpfen. Das Framework zielt darauf ab, Objektanordnungsmuster zu verbessern, geometrische Verstöße zu reduzieren und die physikalische Treue in synthetisierten Szenen zu erhöhen.",
+      "summary": "Forscher haben SPG-Layout eingeführt, ein neues textgesteuertes Framework, das entwickelt wurde, um die 3D-Innenraumsynthese in Nicht-Manhattan-Umgebungen zu verbessern und die Einschränkungen bestehender Methoden zu adressieren, die mit nicht-orthogonalen räumlichen Beziehungen kämpfen. Das Framework zielt darauf ab, Objektanordnungsmuster zu verbessern und geometrische Verstöße zu reduzieren, wodurch die physische Treue in synthetisierten Szenen erhöht wird.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.02407",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "2e74a9f18f71dffe",
       "title": "Spin-Weighted Spherical Harmonics ermöglichen vollständige und skalierbare $\\mathrm{E}(3)$-äquivariante Netzwerke",
-      "summary": "Forscher haben SpinGTP eingeführt, eine neue Methode, die die Ausdruckskraft von $\\mathrm{E}(3)$-äquivarianten Netzwerken verbessert, indem sie die Einschränkungen des Gaunt Tensor Products (GTP) bei der Modellierung von 3D-atomistischen Systemen adressiert. Dieser Ansatz zielt darauf ab, die Skalierbarkeit zu verbessern und gleichzeitig die Fähigkeit zu bewahren, antisymmetrische Pfade zu erfassen, die zuvor unzureichend dargestellt wurden.",
+      "summary": "Forscher haben SpinGTP eingeführt, eine neue Methode, die die Ausdruckskraft von $\\mathrm{E}(3)$-äquivarianten Netzwerken für die Modellierung 3D-atomistischer Systeme verbessert, indem sie die Einschränkungen des Gaunt Tensor Products (GTP) adressiert. Dieser Ansatz zielt darauf ab, die Skalierbarkeit zu verbessern und gleichzeitig die Fähigkeit zu bewahren, antisymmetrische Pfade zu erfassen, die zuvor übersehen wurden.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.01408",
       "publishedAt": "2026-07-03T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "0ecd57418d6c38cf",
-      "title": "Adoption und Auswirkungen von KI-Coding-Agenten in der Kommandozeile: Eine Studie über Microsofts frühe Einführung von Claude Code und GitHub Copilot CLI im Jahr 2026",
-      "summary": "Eine aktuelle Studie untersucht die Adoption und Auswirkungen von KI-Coding-Agenten in der Kommandozeile, insbesondere Microsofts Einführung von Claude Code und GitHub Copilot CLI Anfang 2026. Die Forschung hebt die Bedeutung des Verständnisses von Benutzerengagement und Ausgabeeffizienz hervor, um kostspielige Fehlkalkulationen bei der organisatorischen Implementierung dieser Tools zu vermeiden.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01418",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "392b155daf164822",
-      "title": "Robuste und erklärbare 3D-Modenformenerkennung mit regionenbewussten Graph-Neuronalen Netzwerken",
-      "summary": "Forscher haben eine robuste und erklärbare Methode zur 3D-Modenformenerkennung mit regionenbewussten Graph-Neuronalen Netzwerken entwickelt, die die Einschränkungen bestehender Techniken adressiert, die auf manueller Inspektion basieren und empfindlich auf Variationen in Fahrzeugarchitektur und Messanordnungen reagieren. Dieser neue Ansatz zielt darauf ab, die Zuverlässigkeit der Modenformenerkennung in der Entwicklung von Geräuschen, Vibrationen und Rauheit (NVH) im Automobilbereich zu verbessern.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01522",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "63741bb5f0e36d4d",
-      "title": "TUDUM: Eine türkisch-denkende Argumentationspipeline für Qwen3.5-27B",
-      "summary": "Das Papier stellt TUDUM vor, eine Pipeline, die entwickelt wurde, um das Qwen-Familienmodell 27B für das Argumentieren in Türkisch anzupassen, wobei sowohl das Verständnis türkischer Eingaben als auch die Bereitstellung von Argumentationsspuren in Türkisch im Fokus stehen. Das Projekt zielt darauf ab, die Fähigkeit des Modells zu verbessern, Probleme hauptsächlich auf Türkisch zu verarbeiten und zu lösen, anstatt sich auf englischzentriertes Argumentieren zu verlassen.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01927",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "73a6b1b626b29620",
-      "title": "AIriskEval-edu: Neuer Datensatz zur Risikobewertung in KI-vermittelten K-12-Bildungserklärungen",
-      "summary": "Der AIriskEval-edu-db2-Datensatz wurde eingeführt, um das Training und die Bewertung von Prüfern zu erleichtern, die große Sprachmodelle zur Risikobewertung in K-12-Bildungserklärungen verwenden. Er enthält 1.639 Erklärungen aus 170 kuratierten ScienceQA-Fragen aus verschiedenen Fächern, einschließlich menschlich verfasster und KI-generierter Antworten.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01934",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "3c46ac94dca9024f",
-      "title": "PhysMani: Physikbasierter 3D-Weltmodell für dynamische Objektmanipulation",
-      "summary": "Forscher haben PhysMani eingeführt, ein neues Framework, das entwickelt wurde, um die dynamische Objektmanipulation in unstrukturierten 3D-Umgebungen zu verbessern, indem ein physikbasierter 3D-Gaussian-Weltmodell mit einem zukunftsorientierten Aktionspolitikmodell integriert wird. Dieser Ansatz zielt darauf ab, die Genauigkeit der 3D-Geometrie-Darstellung und physikalisch sinnvolle Vorhersagen für verkörperte KI-Systeme zu verbessern.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.01938",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "e2bd03fb57c40f24",
-      "title": "Lernbasierte Multi-Agenten-Rennstrategien in der Formel 1",
-      "summary": "Eine neue Studie präsentiert einen Reinforcement-Learning-Ansatz zur Optimierung von Multi-Agenten-Rennstrategien in der Formel 1, wobei Faktoren wie Energiemanagement, Reifenverschleiß und Boxenstoppentscheidungen im Fokus stehen. Die vorgeschlagene Methode verbessert eine vortrainierte Einzelagentenpolitik, indem sie ein Interaktionsmodul integriert, um das Verhalten von Konkurrenten während der Rennen zu berücksichtigen.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.23056",
-      "publishedAt": "2026-07-03T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 369,
+    "articlesProcessed": 374,
     "articlesSelected": 12
   }
 }
