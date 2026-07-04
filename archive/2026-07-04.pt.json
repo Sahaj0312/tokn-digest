@@ -1,101 +1,134 @@
 {
   "digestDate": "2026-07-04",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-04T09:20:25.819461+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-04T20:07:42.208760+00:00",
   "headline": {
-    "id": "4e2b1466249cf48f",
-    "title": "Google DeepMind e A24 anunciam parceria de pesquisa inovadora",
-    "summary": "Google DeepMind fez uma parceria com a A24 para explorar a interseção entre inteligência artificial e produção cinematográfica. Esta colaboração visa aproveitar a tecnologia de IA para aprimorar a narrativa e os processos criativos na indústria do cinema.",
-    "sourceName": "DeepMind",
-    "sourceIcon": "atom",
-    "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "publishedAt": "2026-07-03T14:25:43+00:00",
-    "category": "research",
-    "relevanceScore": 51
+    "id": "3ecb788b7685a2a7",
+    "title": "O que é Mistral AI? Tudo o que você precisa saber sobre o concorrente da OpenAI",
+    "summary": "A Mistral AI, fundada em 2023, foca em fornecer modelos de IA de código aberto e garantiu um financiamento substancial para apoiar sua missão de tornar a IA avançada acessível a todos. A empresa se posiciona como uma concorrente da OpenAI no cenário de IA em rápida evolução.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "category": "industry",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "151809d8d6d43248",
+      "title": "A comunidade de fanfiction está em guerra com a IA — e consigo mesma",
+      "summary": "Um novo movimento dentro da comunidade de fanfiction surgiu, visando autores que utilizam ferramentas de IA generativa como Claude e ChatGPT. Os métodos para detectar conteúdo gerado por IA são controversos, levantando preocupações sobre o potencial de identificar erroneamente e penalizar escritores inocentes de fanfic.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "publishedAt": "2026-07-04T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5055d11adfa5dd46",
+      "title": "Midjourney quer que estúdios de Hollywood revelem detalhes sobre o uso de IA",
+      "summary": "A Midjourney está processando três estúdios de Hollywood para obter informações sobre suas práticas de uso de IA. A empresa busca obrigar os estúdios a divulgar detalhes relacionados à implementação de tecnologias de inteligência artificial.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "publishedAt": "2026-07-04T18:00:05+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "f54c603277b40db5",
+      "title": "Alibaba proíbe funcionários de usar Claude Code",
+      "summary": "A Alibaba proibiu seus funcionários de usar o Claude Code, classificando-o como software de alto risco. Essa decisão reflete as preocupações crescentes da empresa em relação à segurança e às implicações de certas ferramentas de IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "publishedAt": "2026-07-04T16:32:08+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "4e2b1466249cf48f",
+      "title": "Google DeepMind e A24 anunciam parceria de pesquisa inovadora",
+      "summary": "A Google DeepMind e a A24 formaram uma parceria de pesquisa única com o objetivo de explorar a interseção entre inteligência artificial e artes criativas. Esta colaboração se concentrará em aproveitar tecnologias de IA para aprimorar a narrativa e a criação de conteúdo em cinema e mídia.",
+      "sourceName": "DeepMind",
+      "sourceIcon": "atom",
+      "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "publishedAt": "2026-07-03T14:25:43+00:00",
+      "category": "research",
+      "relevanceScore": 42
+    },
+    {
       "id": "7ed8945d37d5b37f",
       "title": "O único glossário de IA que você precisará este ano",
-      "summary": "Este artigo fornece um glossário abrangente de terminologia essencial de IA, ajudando os leitores a navegar pela crescente complexidade da linguagem associada à inteligência artificial. Inclui definições de termos e frases-chave que surgiram com o crescimento da tecnologia de IA.",
+      "summary": "Um novo glossário de IA foi lançado para ajudar os usuários a navegar pelo número crescente de termos e gírias associados à inteligência artificial. O glossário fornece definições claras para palavras e frases-chave relevantes para o campo.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "2026-07-03T21:20:00+00:00",
       "category": "industry",
-      "relevanceScore": 47
+      "relevanceScore": 39
     },
     {
       "id": "76b1b409171803e9",
       "title": "As guerras dos navegadores não são mais sobre busca — aqui estão as melhores alternativas ao Chrome e Safari",
-      "summary": "O artigo fornece uma visão geral de vários navegadores da web alternativos que estão surgindo para competir com jogadores dominantes como Chrome e Safari. Destaca as características e benefícios dessas alternativas, enfatizando o cenário em evolução da navegação na web.",
+      "summary": "O artigo fornece uma visão geral de vários navegadores da web alternativos que estão surgindo para competir com jogadores dominantes como Chrome e Safari. Ele destaca as características e benefícios dessas alternativas, enfatizando sua crescente importância no atual cenário de navegadores.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "publishedAt": "2026-07-03T18:43:00+00:00",
       "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 36
     },
     {
       "id": "935cc86f8f589e17",
       "title": "FDT pragmático e preditores como teoria dos jogos",
-      "summary": "Um artigo recente critica a Teoria da Decisão Funcional (FDT), destacando uma divisão entre seus defensores e o ceticismo prevalente entre teóricos da decisão acadêmicos. O autor menciona o argumento do Bulldog de Bentham de que a aceitação limitada da FDT entre acadêmicos sublinha seu status controverso no campo da teoria da decisão.",
+      "summary": "Um artigo recente no Bentham's Bulldog critica a Teoria da Decisão Funcional (FDT), destacando a divisão entre seus defensores e o ceticismo da comunidade acadêmica de teoria da decisão. O autor observa que o número de apoiadores acadêmicos da FDT é extremamente limitado, refletindo um debate mais amplo sobre sua validade e aplicação.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
       "publishedAt": "2026-07-03T13:22:38+00:00",
       "category": "policy",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "bb4458a89fcbd24b",
       "title": "Um olhar nos bastidores do scanner médico da Midjourney deixa muitas perguntas sem resposta",
-      "summary": "A Midjourney revelou um vídeo dos bastidores de seu scanner de ultrassom tipo dunk-tank, que visa fornecer imagens médicas acessíveis e detalhadas sem radiação. No entanto, a empresa ainda não apresentou evidências substanciais da eficácia do scanner.",
+      "summary": "A Midjourney revelou um vídeo dos bastidores de seu scanner de ultrassom tipo dunk-tank, que visa fornecer imagens médicas acessíveis, detalhadas e sem radiação. No entanto, a empresa ainda não forneceu evidências substanciais da eficácia do scanner.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "publishedAt": "2026-07-03T11:49:10+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 31
     },
     {
       "id": "603eeb4ef4f4d69f",
       "title": "As negociações de sindicalização da Google DeepMind começam de forma conturbada",
-      "summary": "Funcionários da Google DeepMind expressaram insatisfação durante negociações recentes, citando a falta de engajamento significativo por parte dos executivos em relação aos esforços de sindicalização. As conversas enfrentaram desafios à medida que os trabalhadores buscam abordar suas preocupações sobre o processo de sindicalização.",
+      "summary": "Funcionários da Google DeepMind expressaram insatisfação durante negociações recentes, citando a falta de engajamento significativo dos executivos em relação aos esforços de sindicalização. As conversas enfrentaram desafios significativos enquanto os funcionários buscam estabelecer um sindicato.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
       "publishedAt": "2026-07-03T16:30:00+00:00",
       "category": "news",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "c0c7da9f05458369",
       "title": "A Anthropic quer desenvolver seus próprios medicamentos",
-      "summary": "A Anthropic apresentou o Claude Science, uma plataforma de IA projetada para cientistas que integra várias ferramentas e conjuntos de dados em uma única plataforma enquanto gera figuras e visuais. Este anúncio foi feito durante o evento \"The Briefing: AI for Science\", destacando os esforços contínuos da empresa para expandir sua influência na comunidade científica.",
+      "summary": "A Anthropic apresentou o Claude Science, uma plataforma de IA projetada para consolidar várias ferramentas científicas e conjuntos de dados em um único ambiente, facilitando a geração de figuras e visuais para pesquisadores. O anúncio foi feito no evento \"IA para Ciência\", destacando o compromisso contínuo da empresa em avançar as aplicações de IA na pesquisa científica.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "publishedAt": "2026-07-03T13:56:52+00:00",
       "category": "news",
-      "relevanceScore": 36
-    },
-    {
-      "id": "933cf223cd309151",
-      "title": "Mark Zuckerberg diz aos funcionários que os agentes de IA não progrediram tão rapidamente quanto esperava",
-      "summary": "Durante uma reunião interna, o CEO da Meta, Mark Zuckerberg, expressou decepção pelo fato de que o desenvolvimento de IA da empresa não avançou tão rapidamente quanto ele esperava. Ele enfatizou a necessidade de foco contínuo e melhoria nos esforços de IA.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "publishedAt": "2026-07-02T23:38:10+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 27
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 8,
-    "articlesSelected": 8
+    "articlesProcessed": 11,
+    "articlesSelected": 11
   }
 }

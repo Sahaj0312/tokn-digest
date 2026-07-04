@@ -1,101 +1,134 @@
 {
   "digestDate": "2026-07-04",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-04T09:20:25.819461+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-04T20:07:42.208760+00:00",
   "headline": {
-    "id": "4e2b1466249cf48f",
-    "title": "جوجل ديب مايند وA24 يعلنان عن شراكة بحثية فريدة من نوعها",
-    "summary": "تعاونت جوجل ديب مايند مع A24 لاستكشاف تقاطع الذكاء الاصطناعي وإنتاج الأفلام. تهدف هذه الشراكة إلى استغلال تكنولوجيا الذكاء الاصطناعي لتعزيز السرد والعمليات الإبداعية في صناعة السينما.",
-    "sourceName": "DeepMind",
-    "sourceIcon": "atom",
-    "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "publishedAt": "2026-07-03T14:25:43+00:00",
-    "category": "research",
-    "relevanceScore": 51
+    "id": "3ecb788b7685a2a7",
+    "title": "ما هو Mistral AI؟ كل ما تحتاج لمعرفته عن المنافس لـ OpenAI",
+    "summary": "تأسست Mistral AI في عام 2023، وتركز على توفير نماذج ذكاء اصطناعي مفتوحة المصدر وقد secured substantial funding لدعم مهمتها في جعل الذكاء الاصطناعي المتقدم متاحًا للجميع. تضع الشركة نفسها كمنافس لـ OpenAI في المشهد المتطور بسرعة للذكاء الاصطناعي.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "category": "industry",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "151809d8d6d43248",
+      "title": "مجتمع الفان فيكشن في حرب مع الذكاء الاصطناعي — ومع نفسه",
+      "summary": "ظهر حركة جديدة داخل مجتمع الفان فيكشن تستهدف المؤلفين الذين يستخدمون أدوات الذكاء الاصطناعي التوليدية مثل Claude و ChatGPT. تعتبر طرق اكتشاف المحتوى الذي تم إنشاؤه بواسطة الذكاء الاصطناعي مثيرة للجدل، مما يثير القلق بشأن إمكانية تحديد هوية وفرض عقوبات على كتاب الفان فيكشن الأبرياء.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "publishedAt": "2026-07-04T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5055d11adfa5dd46",
+      "title": "Midjourney تريد من استوديوهات هوليوود الكشف عن تفاصيل استخدامهم للذكاء الاصطناعي",
+      "summary": "تسعى Midjourney لاتخاذ إجراءات قانونية ضد ثلاثة استوديوهات هوليوود للحصول على معلومات حول ممارسات استخدامهم للذكاء الاصطناعي. تهدف الشركة إلى إجبار الاستوديوهات على الكشف عن تفاصيل تتعلق بتطبيقهم لتقنيات الذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "publishedAt": "2026-07-04T18:00:05+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "f54c603277b40db5",
+      "title": "Alibaba تحظر على الموظفين استخدام Claude Code",
+      "summary": "حظرت Alibaba على موظفيها استخدام Claude Code، مصنفة إياه كبرنامج عالي المخاطر. تعكس هذه القرار مخاوف الشركة المتزايدة بشأن أمان وتأثيرات بعض أدوات الذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "publishedAt": "2026-07-04T16:32:08+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "4e2b1466249cf48f",
+      "title": "Google DeepMind و A24 يعلنان عن شراكة بحثية فريدة من نوعها",
+      "summary": "شكلت Google DeepMind و A24 شراكة بحثية فريدة تهدف إلى استكشاف تقاطع الذكاء الاصطناعي والفنون الإبداعية. ستركز هذه التعاون على استغلال تقنيات الذكاء الاصطناعي لتعزيز السرد وخلق المحتوى في السينما ووسائل الإعلام.",
+      "sourceName": "DeepMind",
+      "sourceIcon": "atom",
+      "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "publishedAt": "2026-07-03T14:25:43+00:00",
+      "category": "research",
+      "relevanceScore": 42
+    },
+    {
       "id": "7ed8945d37d5b37f",
       "title": "القاموس الوحيد للذكاء الاصطناعي الذي ستحتاجه هذا العام",
-      "summary": "يوفر هذا المقال قاموسًا شاملاً لمصطلحات الذكاء الاصطناعي الأساسية، مما يساعد القراء على التنقل في التعقيد المتزايد للغة المرتبطة بالذكاء الاصطناعي. يتضمن تعريفات للمصطلحات والعبارات الرئيسية التي ظهرت جنبًا إلى جنب مع نمو تكنولوجيا الذكاء الاصطناعي.",
+      "summary": "تم إصدار قاموس جديد للذكاء الاصطناعي لمساعدة المستخدمين على التنقل في العدد المتزايد من المصطلحات والعبارات المرتبطة بالذكاء الاصطناعي. يوفر القاموس تعريفات واضحة للكلمات والعبارات الرئيسية ذات الصلة بالمجال.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "2026-07-03T21:20:00+00:00",
       "category": "industry",
-      "relevanceScore": 47
+      "relevanceScore": 39
     },
     {
       "id": "76b1b409171803e9",
-      "title": "حروب المتصفحات لم تعد تتعلق بالبحث — إليك أفضل البدائل لـ Chrome وSafari",
-      "summary": "يوفر المقال لمحة عامة عن مجموعة من متصفحات الويب البديلة التي تظهر لتتنافس مع اللاعبين الرئيسيين مثل Chrome وSafari. يبرز ميزات وفوائد هذه البدائل، مؤكدًا على المشهد المتطور لتصفح الويب.",
+      "title": "حروب المتصفحات لم تعد تتعلق بالبحث — إليك أفضل البدائل لـ Chrome و Safari",
+      "summary": "يوفر المقال نظرة عامة على مجموعة من المتصفحات البديلة التي تظهر للتنافس مع اللاعبين الرئيسيين مثل Chrome و Safari. يبرز الميزات والفوائد لهذه البدائل، مشددًا على أهميتها المتزايدة في مشهد المتصفحات الحالي.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "publishedAt": "2026-07-03T18:43:00+00:00",
       "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 36
     },
     {
       "id": "935cc86f8f589e17",
-      "title": "نظرية القرار الوظيفي، والمتنبئون كنظرية ألعاب",
-      "summary": "ينتقد مقال حديث نظرية القرار الوظيفي (FDT)، مشيرًا إلى وجود انقسام بين مؤيديها والشكوك السائدة بين علماء نظرية القرار الأكاديميين. يشير الكاتب إلى حجة كلب بنتام التي تؤكد أن القبول المحدود لـ FDT بين الأكاديميين يبرز وضعها المثير للجدل في مجال نظرية القرار.",
+      "title": "FDT البراغماتي، والمتنبئون كنظرية الألعاب",
+      "summary": "ينتقد مقال حديث على Bentham's Bulldog نظرية القرار الوظيفية (FDT)، مشيرًا إلى الانقسام بين مؤيديها والشكوك من مجتمع نظرية القرار الأكاديمية. يشير المؤلف إلى أن عدد المؤيدين الأكاديميين لـ FDT محدود للغاية، مما يعكس نقاشًا أوسع حول صحتها وتطبيقها.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
       "publishedAt": "2026-07-03T13:22:38+00:00",
       "category": "policy",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "bb4458a89fcbd24b",
-      "title": "نظرة خلف الكواليس على جهاز المسح الطبي من Midjourney تترك العديد من الأسئلة بلا إجابة",
-      "summary": "كشفت Midjourney عن فيديو خلف الكواليس لجهاز الموجات فوق الصوتية الخاص بها، الذي يهدف إلى توفير تصوير طبي مفصل وبأسعار معقولة دون إشعاع. ومع ذلك، لم تقدم الشركة بعد أدلة ملموسة على فعالية الجهاز.",
+      "title": "نظرة خلف الكواليس على جهاز المسح الطبي لـ Midjourney تترك العديد من الأسئلة بلا إجابة",
+      "summary": "كشفت Midjourney عن فيديو خلف الكواليس لجهاز المسح بالموجات فوق الصوتية الخاص بها، الذي يهدف إلى توفير تصوير طبي مفصل وميسور التكلفة وخالي من الإشعاع. ومع ذلك، لم تقدم الشركة بعد أدلة ملموسة على فعالية الجهاز.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "publishedAt": "2026-07-03T11:49:10+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 31
     },
     {
       "id": "603eeb4ef4f4d69f",
-      "title": "محادثات اتحاد جوجل ديب مايند بدأت بشكل متعثر",
-      "summary": "عبّر موظفو جوجل ديب مايند عن عدم رضاهم خلال المفاوضات الأخيرة، مشيرين إلى نقص في المشاركة الفعالة من التنفيذيين بشأن جهود الاتحاد. واجهت المحادثات تحديات حيث يسعى العمال لمعالجة مخاوفهم بشأن عملية الاتحاد.",
+      "title": "محادثات تنظيم Google DeepMind تبدأ بشكل صعب",
+      "summary": "عبر موظفو Google DeepMind عن عدم رضاهم خلال المفاوضات الأخيرة، مشيرين إلى نقص في المشاركة الفعالة من التنفيذيين بشأن جهود التنظيم. واجهت المحادثات تحديات كبيرة حيث يسعى الموظفون لتأسيس نقابة.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
       "publishedAt": "2026-07-03T16:30:00+00:00",
       "category": "news",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "c0c7da9f05458369",
-      "title": "Anthropic ترغب في تطوير أدوية خاصة بها",
-      "summary": "قدمت Anthropic Claude Science، وهي منصة عمل للذكاء الاصطناعي مصممة للعلماء، تدمج أدوات وبيانات متعددة في منصة واحدة بينما تنتج الأشكال والمرئيات. تم الإعلان عن ذلك خلال حدث \"التقرير: الذكاء الاصطناعي للعلوم\"، مما يبرز جهود الشركة المستمرة لتوسيع نفوذها في المجتمع العلمي.",
+      "title": "Anthropic تريد تطوير أدوية خاصة بها",
+      "summary": "قدمت Anthropic Claude Science، وهي منصة ذكاء اصطناعي مصممة لتجميع أدوات وبيانات علمية متنوعة في بيئة واحدة، مما يسهل توليد الأشكال والمرئيات للباحثين. تم الإعلان عن ذلك في حدث \"AI for Science\"، مما يبرز التزام الشركة المستمر بتعزيز تطبيقات الذكاء الاصطناعي في البحث العلمي.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "publishedAt": "2026-07-03T13:56:52+00:00",
       "category": "news",
-      "relevanceScore": 36
-    },
-    {
-      "id": "933cf223cd309151",
-      "title": "مارك زوكربيرغ يخبر الموظفين أن وكلاء الذكاء الاصطناعي لم يتقدموا بالسرعة التي كان يأملها",
-      "summary": "خلال اجتماع داخلي، أعرب مارك زوكربيرغ، الرئيس التنفيذي لشركة ميتا، عن خيبة أمله من أن تطوير الذكاء الاصطناعي في الشركة لم يتقدم بالسرعة التي كان يأملها. وأكد على الحاجة إلى التركيز المستمر والتحسين في جهود الذكاء الاصطناعي.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "publishedAt": "2026-07-02T23:38:10+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 27
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 8,
-    "articlesSelected": 8
+    "articlesProcessed": 11,
+    "articlesSelected": 11
   }
 }

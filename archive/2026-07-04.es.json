@@ -1,101 +1,134 @@
 {
   "digestDate": "2026-07-04",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-04T09:20:25.819461+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-04T20:07:42.208760+00:00",
   "headline": {
-    "id": "4e2b1466249cf48f",
-    "title": "Google DeepMind y A24 anuncian una asociación de investigación pionera",
-    "summary": "Google DeepMind se ha asociado con A24 para explorar la intersección de la inteligencia artificial y la producción cinematográfica. Esta colaboración tiene como objetivo aprovechar la tecnología de IA para mejorar la narración y los procesos creativos en la industria del cine.",
-    "sourceName": "DeepMind",
-    "sourceIcon": "atom",
-    "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
-    "publishedAt": "2026-07-03T14:25:43+00:00",
-    "category": "research",
-    "relevanceScore": 51
+    "id": "3ecb788b7685a2a7",
+    "title": "¿Qué es Mistral AI? Todo lo que necesitas saber sobre el competidor de OpenAI",
+    "summary": "Mistral AI, fundada en 2023, se centra en proporcionar modelos de IA de código abierto y ha asegurado una financiación sustancial para apoyar su misión de hacer que la IA avanzada sea accesible para todos. La empresa se posiciona como un competidor de OpenAI en el paisaje de IA en rápida evolución.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "category": "industry",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "151809d8d6d43248",
+      "title": "La comunidad de fanfiction está en guerra con la IA — y consigo misma",
+      "summary": "Un nuevo movimiento dentro de la comunidad de fanfiction ha surgido, dirigido a autores que utilizan herramientas de IA generativa como Claude y ChatGPT. Los métodos para detectar contenido generado por IA son controvertidos, lo que genera preocupaciones sobre la posibilidad de identificar erróneamente y penalizar a escritores de fanfic inocentes.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "publishedAt": "2026-07-04T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5055d11adfa5dd46",
+      "title": "Midjourney quiere que los estudios de Hollywood revelen los detalles de su uso de IA",
+      "summary": "Midjourney está emprendiendo acciones legales contra tres estudios de Hollywood para obtener información sobre sus prácticas de uso de IA. La empresa busca obligar a los estudios a divulgar detalles relacionados con su implementación de tecnologías de inteligencia artificial.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "publishedAt": "2026-07-04T18:00:05+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "f54c603277b40db5",
+      "title": "Alibaba prohíbe a los empleados usar Claude Code",
+      "summary": "Alibaba ha prohibido a sus empleados usar Claude Code, clasificándolo como software de alto riesgo. Esta decisión refleja las crecientes preocupaciones de la empresa sobre la seguridad y las implicaciones de ciertas herramientas de IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "publishedAt": "2026-07-04T16:32:08+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "4e2b1466249cf48f",
+      "title": "Google DeepMind y A24 anuncian una asociación de investigación única",
+      "summary": "Google DeepMind y A24 han formado una asociación de investigación única destinada a explorar la intersección de la inteligencia artificial y las artes creativas. Esta colaboración se centrará en aprovechar las tecnologías de IA para mejorar la narración y la creación de contenido en cine y medios.",
+      "sourceName": "DeepMind",
+      "sourceIcon": "atom",
+      "articleURL": "https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/",
+      "publishedAt": "2026-07-03T14:25:43+00:00",
+      "category": "research",
+      "relevanceScore": 42
+    },
+    {
       "id": "7ed8945d37d5b37f",
       "title": "El único glosario de IA que necesitarás este año",
-      "summary": "Este artículo proporciona un glosario completo de la terminología esencial de IA, ayudando a los lectores a navegar por la creciente complejidad del lenguaje asociado con la inteligencia artificial. Incluye definiciones de términos y frases clave que han surgido junto con el crecimiento de la tecnología de IA.",
+      "summary": "Se ha publicado un nuevo glosario de IA para ayudar a los usuarios a navegar por el creciente número de términos y jerga asociados con la inteligencia artificial. El glosario proporciona definiciones claras para palabras y frases clave relevantes en el campo.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
       "publishedAt": "2026-07-03T21:20:00+00:00",
       "category": "industry",
-      "relevanceScore": 47
+      "relevanceScore": 39
     },
     {
       "id": "76b1b409171803e9",
-      "title": "Las guerras de navegadores ya no se centran en la búsqueda: aquí están las mejores alternativas a Chrome y Safari",
-      "summary": "El artículo ofrece una visión general de varios navegadores web alternativos que están surgiendo para competir con jugadores dominantes como Chrome y Safari. Destaca las características y beneficios de estas alternativas, enfatizando el paisaje en evolución de la navegación web.",
+      "title": "Las guerras de navegadores ya no se tratan de búsqueda — aquí están las mejores alternativas a Chrome y Safari",
+      "summary": "El artículo ofrece una visión general de varios navegadores web alternativos que están surgiendo para competir con jugadores dominantes como Chrome y Safari. Destaca las características y beneficios de estas alternativas, enfatizando su creciente importancia en el actual panorama de navegadores.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
       "publishedAt": "2026-07-03T18:43:00+00:00",
       "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 36
     },
     {
       "id": "935cc86f8f589e17",
       "title": "FDT pragmático y predictores como teoría de juegos",
-      "summary": "Un artículo reciente critica la Teoría de Decisión Funcional (FDT), destacando una división entre sus defensores y el escepticismo prevalente entre los teóricos de decisiones académicos. El autor menciona el argumento del Bulldog de Bentham que la aceptación limitada de FDT entre académicos subraya su estatus controvertido en el campo de la teoría de decisiones.",
+      "summary": "Un artículo reciente en Bentham's Bulldog critica la Teoría de Decisión Funcional (FDT), destacando la división entre sus defensores y el escepticismo de la comunidad académica de teoría de decisiones. El autor señala que el número de académicos que apoyan la FDT es extremadamente limitado, reflejando un debate más amplio sobre su validez y aplicación.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/SdGbWkCZgCN7EGBxM/pragmatic-fdt-and-predictors-as-game-theory-1",
       "publishedAt": "2026-07-03T13:22:38+00:00",
       "category": "policy",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "bb4458a89fcbd24b",
-      "title": "Una mirada detrás de cámaras al escáner médico de Midjourney deja muchas preguntas sin respuesta",
-      "summary": "Midjourney ha revelado un video detrás de cámaras de su escáner de ultrasonido tipo dunk-tank, que busca proporcionar imágenes médicas asequibles y detalladas sin radiación. Sin embargo, la empresa aún no ha proporcionado evidencia sustancial de la efectividad del escáner.",
+      "title": "Una mirada detrás de escena al escáner médico de Midjourney deja muchas preguntas sin respuesta",
+      "summary": "Midjourney ha revelado un video detrás de escena de su escáner de ultrasonido tipo dunk-tank, que busca proporcionar imágenes médicas asequibles, detalladas y libres de radiación. Sin embargo, la empresa aún no ha proporcionado evidencia sustancial de la efectividad del escáner.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
       "publishedAt": "2026-07-03T11:49:10+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 31
     },
     {
       "id": "603eeb4ef4f4d69f",
-      "title": "Las conversaciones sobre sindicalización en Google DeepMind comienzan de manera difícil",
-      "summary": "Los empleados de Google DeepMind expresaron insatisfacción durante las recientes negociaciones, citando una falta de compromiso significativo por parte de los ejecutivos respecto a los esfuerzos de sindicalización. Las conversaciones han enfrentado desafíos mientras los trabajadores buscan abordar sus preocupaciones sobre el proceso de sindicalización.",
+      "title": "Las conversaciones de sindicalización en Google DeepMind comienzan de manera difícil",
+      "summary": "Los empleados de Google DeepMind expresaron su insatisfacción durante las recientes negociaciones, citando una falta de compromiso significativo por parte de los ejecutivos respecto a los esfuerzos de sindicalización. Las conversaciones han encontrado desafíos significativos mientras los empleados buscan establecer un sindicato.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/google-deepmind-unionization-talks-are-off-to-a-rocky-start/",
       "publishedAt": "2026-07-03T16:30:00+00:00",
       "category": "news",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "c0c7da9f05458369",
       "title": "Anthropic quiere desarrollar sus propios medicamentos",
-      "summary": "Anthropic ha presentado Claude Science, un banco de trabajo de IA diseñado para científicos que integra diversas herramientas y conjuntos de datos en una sola plataforma mientras genera figuras y visuales. Este anuncio se realizó durante el evento \"The Briefing: AI for Science\", destacando los esfuerzos continuos de la empresa para expandir su influencia en la comunidad científica.",
+      "summary": "Anthropic ha presentado Claude Science, un banco de trabajo de IA diseñado para consolidar diversas herramientas científicas y conjuntos de datos en un solo entorno, facilitando la generación de figuras y visuales para investigadores. El anuncio se realizó en el evento \"IA para la Ciencia\", destacando el compromiso continuo de la empresa con el avance de las aplicaciones de IA en la investigación científica.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
       "publishedAt": "2026-07-03T13:56:52+00:00",
       "category": "news",
-      "relevanceScore": 36
-    },
-    {
-      "id": "933cf223cd309151",
-      "title": "Mark Zuckerberg dice al personal que los agentes de IA no han progresado tan rápido como esperaba",
-      "summary": "Durante una reunión interna, el CEO de Meta, Mark Zuckerberg, expresó su decepción porque el desarrollo de IA de la empresa no ha progresado tan rápidamente como esperaba. Enfatizó la necesidad de un enfoque y mejora continuos en los esfuerzos de IA.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
-      "publishedAt": "2026-07-02T23:38:10+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 27
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 8,
-    "articlesSelected": 8
+    "articlesProcessed": 11,
+    "articlesSelected": 11
   }
 }
