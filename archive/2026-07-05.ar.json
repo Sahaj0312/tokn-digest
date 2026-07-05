@@ -1,68 +1,90 @@
 {
   "digestDate": "2026-07-05",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-05T09:40:09.858914+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-05T20:11:34.862337+00:00",
   "headline": {
-    "id": "3ecb788b7685a2a7",
-    "title": "ما هو Mistral AI؟ كل ما تحتاج لمعرفته حول المنافس لـ OpenAI",
-    "summary": "تم تأسيس Mistral AI في عام 2023، وهو منافس ناشئ لـ OpenAI يركز على توفير نماذج ذكاء اصطناعي مفتوحة المصدر. وقد حصلت الشركة على تمويل كبير لدعم مهمتها في جعل الذكاء الاصطناعي المتقدم متاحًا لجمهور أوسع.",
+    "id": "b66497cfee16056b",
+    "title": "أمازون ستتوقف عن قبول عملاء جدد لمنصة Mechanical Turk",
+    "summary": "أعلنت أمازون أنها ستتوقف عن قبول عملاء جدد لمنصة Mechanical Turk، مما يشير إلى تغييرات محتملة في مستقبل الخدمة. سيتمكن العملاء الحاليون من استخدام المنصة، لكن القرار يثير تساؤلات حول جدوى الخدمة على المدى الطويل.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "publishedAt": "2026-07-05T17:43:36+00:00",
     "category": "industry",
-    "relevanceScore": 43
+    "relevanceScore": 50
   },
   "articles": [
     {
+      "id": "23a8033d568c7f50",
+      "title": "إعلان غوغل المثير للغضب يتخيل الآباء المؤسسين يتبنون الذكاء الاصطناعي",
+      "summary": "يصور إعلان جديد من غوغل وورك سبيس بشكل فكاهي الآباء المؤسسين وهم يستخدمون أدوات التعاون الحديثة والذكاء الاصطناعي لصياغة إعلان الاستقلال. يتضمن الإعلان تفاعلات بين شخصيات تاريخية مثل بن فرانكلين وتوماس جيفرسون، مما يبرز دمج التكنولوجيا في سياق تاريخي.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "3ecb788b7685a2a7",
+      "title": "ما هو Mistral AI؟ كل ما تحتاج لمعرفته حول المنافس لـ OpenAI",
+      "summary": "Mistral AI، التي تأسست في عام 2023، هي منافس ناشئ لـ OpenAI يركز على توفير نماذج ذكاء اصطناعي مفتوحة المصدر. حصلت الشركة على تمويل كبير لدعم مهمتها في جعل الذكاء الاصطناعي المتقدم متاحًا لجمهور أوسع.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "2026-07-04T15:51:32+00:00",
+      "category": "industry",
+      "relevanceScore": 34
+    },
+    {
       "id": "403186983ccd28ec",
-      "title": "إعلان جديد من جوجل يتخيل إعلان الاستقلال مكتوبًا بمساعدة الذكاء الاصطناعي",
-      "summary": "يتصور إعلان جديد من جوجل سيناريو حيث يستخدم الآباء المؤسسون Google Workspace لصياغة إعلان الاستقلال. ويعكس الإعلان التأثير المحتمل للذكاء الاصطناعي والتكنولوجيا الحديثة على الأحداث التاريخية.",
+      "title": "إعلان غوغل الجديد يتخيل إعلان الاستقلال مكتوبًا بمساعدة الذكاء الاصطناعي",
+      "summary": "يتصور إعلان جديد من غوغل سيناريو حيث يستخدم الآباء المؤسسون غوغل وورك سبيس لصياغة إعلان الاستقلال، مما يبرز التأثير المحتمل للذكاء الاصطناعي على الأحداث التاريخية. يعكس الإعلان التقدم في التكنولوجيا وأدوات التعاون على مدار الـ 250 عامًا الماضية.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "publishedAt": "2026-07-04T20:55:25+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 33
     },
     {
       "id": "151809d8d6d43248",
       "title": "مجتمع الفانفيكشن في حرب مع الذكاء الاصطناعي — ومع نفسه",
-      "summary": "ظهر حركة جديدة داخل مجتمع الفانفيكشن لتحديد واستبعاد المؤلفين الذين يستخدمون أدوات الذكاء الاصطناعي التوليدية مثل Claude وChatGPT. ومع ذلك، فإن طرق الكشف المستخدمة مثيرة للجدل وتعرض مجموعة واسعة من كتّاب الفانفيكشن للاستهداف غير العادل.",
+      "summary": "تهدف حركة جديدة داخل مجتمع الفانفيكشن إلى تحديد واستبعاد المؤلفين الذين يستخدمون أدوات الذكاء الاصطناعي التوليدية مثل Claude وChatGPT. ومع ذلك، فإن طرق الكشف المستخدمة مثيرة للجدل، مما يثير القلق من أن العديد من الكتاب قد يتعرضون للاستهداف بشكل غير عادل.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "publishedAt": "2026-07-04T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "5055d11adfa5dd46",
       "title": "Midjourney تريد من استوديوهات هوليوود الكشف عن تفاصيل استخدامهم للذكاء الاصطناعي",
-      "summary": "تسعى Midjourney لاتخاذ إجراءات قانونية ضد ثلاثة استوديوهات هوليوود للحصول على معلومات بشأن استخدامهم للذكاء الاصطناعي. تهدف الشركة إلى إجبار الاستوديوهات على الكشف عن تفاصيل محددة حول ممارساتهم في مجال الذكاء الاصطناعي وسط نزاع مستمر.",
+      "summary": "تسعى Midjourney لاتخاذ إجراءات قانونية ضد ثلاثة استوديوهات هوليوود للحصول على معلومات حول ممارسات استخدامهم للذكاء الاصطناعي. الطلب هو جزء من نزاع مستمر يهدف إلى زيادة الشفافية في تطبيق الصناعة للذكاء الاصطناعي.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "2026-07-04T18:00:05+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "f54c603277b40db5",
-      "title": "علي بابا تحظر على موظفيها استخدام Claude Code",
-      "summary": "حظرت علي بابا على موظفيها استخدام Claude Code، واعتبرته برنامجًا عالي المخاطر. تعكس هذه القرار مخاوف الشركة بشأن الآثار المحتملة لاستخدام مثل هذه التكنولوجيا في عملياتها.",
+      "title": "Alibaba تحظر على الموظفين استخدام Claude Code",
+      "summary": "حظرت Alibaba على الموظفين استخدام Claude Code، مصنفة إياه كبرنامج عالي المخاطر. يعكس هذا القرار نهج الشركة الحذر في إدارة القضايا المحتملة المتعلقة بالأمان والامتثال المرتبطة بأدوات الذكاء الاصطناعي.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "publishedAt": "2026-07-04T16:32:08+00:00",
       "category": "policy",
-      "relevanceScore": 38
+      "relevanceScore": 29
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }

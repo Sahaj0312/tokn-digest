@@ -1,68 +1,90 @@
 {
   "digestDate": "2026-07-05",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-05T09:40:09.858914+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-05T20:11:34.862337+00:00",
   "headline": {
-    "id": "3ecb788b7685a2a7",
-    "title": "मिस्ट्रल एआई क्या है? ओपनएआई प्रतियोगी के बारे में सब कुछ जानें",
-    "summary": "मिस्ट्रल एआई, जिसकी स्थापना 2023 में हुई, ओपनएआई का एक उभरता हुआ प्रतियोगी है जो ओपन-सोर्स एआई मॉडल प्रदान करने पर ध्यान केंद्रित करता है। कंपनी ने उन्नत एआई को व्यापक दर्शकों के लिए सुलभ बनाने के अपने मिशन का समर्थन करने के लिए पर्याप्त फंडिंग प्राप्त की है।",
+    "id": "b66497cfee16056b",
+    "title": "Amazon नए ग्राहकों को Mechanical Turk के लिए स्वीकार करना बंद करेगा",
+    "summary": "Amazon ने घोषणा की है कि वह अपने Mechanical Turk प्लेटफॉर्म के लिए नए ग्राहकों को स्वीकार करना बंद कर देगा, जो सेवा के भविष्य में संभावित परिवर्तनों का संकेत देता है। मौजूदा ग्राहक अभी भी प्लेटफॉर्म का उपयोग कर सकेंगे, लेकिन यह निर्णय सेवा की दीर्घकालिक स्थिरता के बारे में प्रश्न उठाता है।",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "publishedAt": "2026-07-05T17:43:36+00:00",
     "category": "industry",
-    "relevanceScore": 43
+    "relevanceScore": 50
   },
   "articles": [
     {
+      "id": "23a8033d568c7f50",
+      "title": "गूगल के विज्ञापन में गुस्से में फाउंडिंग फादर्स AI को अपनाते हुए दिखाए गए हैं",
+      "summary": "एक नए Google Workspace विज्ञापन में हास्यपूर्ण तरीके से फाउंडिंग फादर्स को आधुनिक सहयोग उपकरणों और AI का उपयोग करते हुए स्वतंत्रता की घोषणा का मसौदा तैयार करते हुए दिखाया गया है। इस विज्ञापन में ऐतिहासिक व्यक्तियों जैसे बेन फ्रैंकलिन और थॉमस जेफरसन के बीच बातचीत को दर्शाया गया है, जो ऐतिहासिक संदर्भ में प्रौद्योगिकी के एकीकरण को प्रदर्शित करता है।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "3ecb788b7685a2a7",
+      "title": "Mistral AI क्या है? OpenAI प्रतियोगी के बारे में सब कुछ जानें",
+      "summary": "Mistral AI, जिसकी स्थापना 2023 में हुई, OpenAI का एक उभरता हुआ प्रतियोगी है जो ओपन-सोर्स AI मॉडल प्रदान करने पर ध्यान केंद्रित करता है। कंपनी ने उन्नत AI को व्यापक दर्शकों के लिए सुलभ बनाने के अपने मिशन का समर्थन करने के लिए पर्याप्त फंडिंग प्राप्त की है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "2026-07-04T15:51:32+00:00",
+      "category": "industry",
+      "relevanceScore": 34
+    },
+    {
       "id": "403186983ccd28ec",
-      "title": "नया गूगल विज्ञापन एआई की मदद से लिखी गई स्वतंत्रता की घोषणा की कल्पना करता है",
-      "summary": "एक नया गूगल विज्ञापन एक ऐसे परिदृश्य की कल्पना करता है जहां संस्थापक पिता स्वतंत्रता की घोषणा को तैयार करने के लिए गूगल वर्कस्पेस का उपयोग करते हैं। यह विज्ञापन ऐतिहासिक घटनाओं पर एआई और आधुनिक तकनीक के संभावित प्रभाव पर विचार करता है।",
+      "title": "नया Google विज्ञापन AI की मदद से लिखी गई स्वतंत्रता की घोषणा की कल्पना करता है",
+      "summary": "एक नए Google विज्ञापन में एक परिदृश्य की कल्पना की गई है जहां फाउंडिंग फादर्स स्वतंत्रता की घोषणा का मसौदा तैयार करने के लिए Google Workspace का उपयोग करते हैं, जो ऐतिहासिक घटनाओं पर AI के संभावित प्रभाव को उजागर करता है। यह विज्ञापन पिछले 250 वर्षों में प्रौद्योगिकी और सहयोग उपकरणों में हुए विकास पर विचार करता है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "publishedAt": "2026-07-04T20:55:25+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 33
     },
     {
       "id": "151809d8d6d43248",
-      "title": "फैनफिक्शन समुदाय एआई और अपने आप से युद्ध में है",
-      "summary": "फैनफिक्शन समुदाय के भीतर एक नया आंदोलन उभरा है जो उन लेखकों की पहचान और बहिष्कार करने का प्रयास कर रहा है जो क्लॉड और चैटजीपीटी जैसे जनरेटिव एआई टूल का उपयोग करते हैं। हालांकि, उपयोग किए जा रहे पहचान विधियाँ विवादास्पद हैं और व्यापक रूप से फैनफिक लेखकों को अनुचित रूप से लक्षित करने का जोखिम उठाती हैं।",
+      "title": "फैनफिक्शन समुदाय AI — और अपने आप से युद्ध में है",
+      "summary": "फैनफिक्शन समुदाय के भीतर एक नया आंदोलन उन लेखकों की पहचान करने और उन्हें बाहर करने का प्रयास कर रहा है जो Claude और ChatGPT जैसे जनरेटिव AI उपकरणों का उपयोग कर रहे हैं। हालांकि, उपयोग किए जा रहे पहचान विधियाँ विवादास्पद हैं, जिससे चिंता बढ़ रही है कि कई लेखकों को अनुचित रूप से लक्षित किया जा सकता है।",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "publishedAt": "2026-07-04T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "5055d11adfa5dd46",
-      "title": "मिडजर्नी चाहता है कि हॉलीवुड स्टूडियोज अपने एआई उपयोग के विवरण का खुलासा करें",
-      "summary": "मिडजर्नी तीन हॉलीवुड स्टूडियोज के खिलाफ कानूनी कार्रवाई कर रहा है ताकि उनके कृत्रिम बुद्धिमत्ता के उपयोग के बारे में जानकारी प्राप्त की जा सके। कंपनी का उद्देश्य स्टूडियोज को उनके एआई प्रथाओं के बारे में विशिष्ट विवरण प्रकट करने के लिए मजबूर करना है।",
+      "title": "Midjourney चाहता है कि हॉलीवुड स्टूडियोज अपने AI उपयोग के विवरण का खुलासा करें",
+      "summary": "Midjourney तीन हॉलीवुड स्टूडियोज के खिलाफ कानूनी कार्रवाई कर रहा है ताकि उनके AI उपयोग प्रथाओं के बारे में जानकारी प्राप्त की जा सके। यह अनुरोध एक चल रहे विवाद का हिस्सा है जिसका उद्देश्य उद्योग में कृत्रिम बुद्धिमत्ता के अनुप्रयोग में पारदर्शिता बढ़ाना है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "2026-07-04T18:00:05+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "f54c603277b40db5",
-      "title": "अलीबाबा ने reportedly कर्मचारियों को क्लॉड कोड का उपयोग करने से रोका",
-      "summary": "अलीबाबा ने अपने कर्मचारियों को क्लॉड कोड का उपयोग करने से रोक दिया है, इसे उच्च जोखिम सॉफ़्टवेयर के रूप में नामित किया है। यह निर्णय कंपनी की इस तकनीक के उपयोग के संभावित प्रभावों के बारे में चिंताओं को दर्शाता है।",
+      "title": "Alibaba ने reportedly कर्मचारियों को Claude Code का उपयोग करने से प्रतिबंधित किया है",
+      "summary": "Alibaba ने reportedly कर्मचारियों को Claude Code का उपयोग करने से प्रतिबंधित किया है, इसे उच्च-जोखिम सॉफ़्टवेयर के रूप में वर्गीकृत किया है। यह निर्णय कंपनी के AI उपकरणों से संबंधित संभावित सुरक्षा और अनुपालन मुद्दों को प्रबंधित करने के लिए सतर्क दृष्टिकोण को दर्शाता है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "publishedAt": "2026-07-04T16:32:08+00:00",
       "category": "policy",
-      "relevanceScore": 38
+      "relevanceScore": 29
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }

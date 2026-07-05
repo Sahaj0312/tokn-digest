@@ -1,68 +1,90 @@
 {
   "digestDate": "2026-07-05",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-05T09:40:09.858914+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-05T20:11:34.862337+00:00",
   "headline": {
-    "id": "3ecb788b7685a2a7",
-    "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
-    "summary": "Mistral AI, founded in 2023, is an emerging competitor to OpenAI that focuses on providing open-source AI models. The company has secured substantial funding to support its mission of making advanced AI accessible to a wider audience.",
+    "id": "b66497cfee16056b",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "summary": "Amazon has announced it will cease accepting new customers for its Mechanical Turk platform, signaling potential changes to the service's future. Existing customers will still be able to use the platform, but the decision raises questions about the long-term viability of the service.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "publishedAt": "2026-07-05T17:43:36+00:00",
     "category": "industry",
-    "relevanceScore": 43
+    "relevanceScore": 50
   },
   "articles": [
     {
+      "id": "23a8033d568c7f50",
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "summary": "A new Google Workspace commercial humorously depicts the founding fathers using modern collaboration tools and AI to draft the Declaration of Independence. The ad features interactions between historical figures like Ben Franklin and Thomas Jefferson, showcasing the integration of technology in a historical context.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "3ecb788b7685a2a7",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "summary": "Mistral AI, founded in 2023, is an emerging competitor to OpenAI that focuses on providing open-source AI models. The company has secured substantial funding to support its mission of making advanced AI accessible to a wider audience.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "2026-07-04T15:51:32+00:00",
+      "category": "industry",
+      "relevanceScore": 34
+    },
+    {
       "id": "403186983ccd28ec",
       "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
-      "summary": "A new Google commercial envisions a scenario where the Founding Fathers utilize Google Workspace to draft the Declaration of Independence. The ad reflects on the potential impact of AI and modern technology on historical events.",
+      "summary": "A new Google commercial envisions a scenario where the Founding Fathers utilize Google Workspace to draft the Declaration of Independence, highlighting the potential impact of AI on historical events. The ad reflects on the advancements in technology and collaboration tools over the past 250 years.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "publishedAt": "2026-07-04T20:55:25+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 33
     },
     {
       "id": "151809d8d6d43248",
       "title": "The fanfiction community is at war with AI — and itself",
-      "summary": "A new movement within the fanfiction community has emerged to identify and exclude authors who utilize generative AI tools like Claude and ChatGPT. However, the detection methods being employed are controversial and risk unfairly targeting a wide range of fanfic writers.",
+      "summary": "A new movement within the fanfiction community aims to identify and exclude authors using generative AI tools like Claude and ChatGPT. However, the detection methods being employed are controversial, raising concerns that many writers could be unfairly targeted.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "publishedAt": "2026-07-04T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "5055d11adfa5dd46",
       "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
-      "summary": "Midjourney is pursuing legal action against three Hollywood studios to obtain information regarding their use of artificial intelligence. The company aims to compel the studios to disclose specific details about their AI practices amid an ongoing dispute.",
+      "summary": "Midjourney is pursuing legal action against three Hollywood studios to obtain information about their AI usage practices. The request is part of an ongoing dispute aimed at increasing transparency in the industry's application of artificial intelligence.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "2026-07-04T18:00:05+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "f54c603277b40db5",
       "title": "Alibaba reportedly bans employees from using Claude Code",
-      "summary": "Alibaba has banned its employees from using Claude Code, designating it as high-risk software. This decision reflects the company's concerns regarding the potential implications of using such technology within its operations.",
+      "summary": "Alibaba has reportedly banned employees from using Claude Code, categorizing it as high-risk software. This decision reflects the company's cautious approach to managing potential security and compliance issues associated with AI tools.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "publishedAt": "2026-07-04T16:32:08+00:00",
       "category": "policy",
-      "relevanceScore": 38
+      "relevanceScore": 29
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }

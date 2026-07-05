@@ -1,68 +1,90 @@
 {
   "digestDate": "2026-07-05",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-05T09:40:09.858914+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-05T20:11:34.862337+00:00",
   "headline": {
-    "id": "3ecb788b7685a2a7",
-    "title": "Was ist Mistral AI? Alles, was man über den OpenAI-Konkurrenten wissen muss",
-    "summary": "Mistral AI, gegründet im Jahr 2023, ist ein aufstrebender Konkurrent von OpenAI, der sich auf die Bereitstellung von Open-Source-KI-Modellen konzentriert. Das Unternehmen hat erhebliche Mittel gesichert, um seine Mission zu unterstützen, fortschrittliche KI einem breiteren Publikum zugänglich zu machen.",
+    "id": "b66497cfee16056b",
+    "title": "Amazon wird keine neuen Kunden für Mechanical Turk akzeptieren",
+    "summary": "Amazon hat angekündigt, keine neuen Kunden mehr für seine Mechanical Turk-Plattform zu akzeptieren, was auf mögliche Veränderungen in der Zukunft des Dienstes hindeutet. Bestehende Kunden können die Plattform weiterhin nutzen, aber die Entscheidung wirft Fragen zur langfristigen Lebensfähigkeit des Dienstes auf.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "publishedAt": "2026-07-05T17:43:36+00:00",
     "category": "industry",
-    "relevanceScore": 43
+    "relevanceScore": 50
   },
   "articles": [
     {
+      "id": "23a8033d568c7f50",
+      "title": "Ärgerlicher Google-Werbespot stellt sich vor, wie die Gründerväter KI umarmen",
+      "summary": "Ein neuer Google Workspace-Werbespot zeigt humorvoll, wie die Gründerväter moderne Kollaborationstools und KI nutzen, um die Unabhängigkeitserklärung zu entwerfen. Die Werbung zeigt Interaktionen zwischen historischen Figuren wie Ben Franklin und Thomas Jefferson und verdeutlicht die Integration von Technologie in einem historischen Kontext.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "3ecb788b7685a2a7",
+      "title": "Was ist Mistral AI? Alles, was man über den OpenAI-Konkurrenten wissen muss",
+      "summary": "Mistral AI, gegründet im Jahr 2023, ist ein aufstrebender Konkurrent von OpenAI, der sich auf die Bereitstellung von Open-Source-KI-Modellen konzentriert. Das Unternehmen hat erhebliche Mittel gesichert, um seine Mission zu unterstützen, fortschrittliche KI einem breiteren Publikum zugänglich zu machen.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "2026-07-04T15:51:32+00:00",
+      "category": "industry",
+      "relevanceScore": 34
+    },
+    {
       "id": "403186983ccd28ec",
       "title": "Neuer Google-Werbespot stellt sich eine Unabhängigkeitserklärung vor, die mit Hilfe von KI geschrieben wurde",
-      "summary": "Ein neuer Google-Werbespot stellt sich ein Szenario vor, in dem die Gründerväter Google Workspace nutzen, um die Unabhängigkeitserklärung zu entwerfen. Die Werbung reflektiert über die potenziellen Auswirkungen von KI und moderner Technologie auf historische Ereignisse.",
+      "summary": "Ein neuer Google-Werbespot stellt sich ein Szenario vor, in dem die Gründerväter Google Workspace nutzen, um die Unabhängigkeitserklärung zu entwerfen, und hebt die potenziellen Auswirkungen von KI auf historische Ereignisse hervor. Die Werbung reflektiert die Fortschritte in Technologie und Kollaborationstools in den letzten 250 Jahren.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "publishedAt": "2026-07-04T20:55:25+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 33
     },
     {
       "id": "151809d8d6d43248",
       "title": "Die Fanfiction-Community ist im Krieg mit KI – und mit sich selbst",
-      "summary": "Eine neue Bewegung innerhalb der Fanfiction-Community ist entstanden, um Autoren zu identifizieren und auszuschließen, die generative KI-Tools wie Claude und ChatGPT nutzen. Die verwendeten Erkennungsmethoden sind jedoch umstritten und riskieren, eine breite Palette von Fanfic-Autoren unfair zu treffen.",
+      "summary": "Eine neue Bewegung innerhalb der Fanfiction-Community zielt darauf ab, Autoren, die generative KI-Tools wie Claude und ChatGPT verwenden, zu identifizieren und auszuschließen. Die verwendeten Erkennungsmethoden sind jedoch umstritten und werfen Bedenken auf, dass viele Schriftsteller unfair ins Visier genommen werden könnten.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "publishedAt": "2026-07-04T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "5055d11adfa5dd46",
       "title": "Midjourney will, dass Hollywood-Studios die Details ihrer KI-Nutzung offenlegen",
-      "summary": "Midjourney verfolgt rechtliche Schritte gegen drei Hollywood-Studios, um Informationen über deren Einsatz von künstlicher Intelligenz zu erhalten. Das Unternehmen möchte die Studios zwingen, spezifische Details über ihre KI-Praktiken im Zuge eines laufenden Streits offenzulegen.",
+      "summary": "Midjourney verfolgt rechtliche Schritte gegen drei Hollywood-Studios, um Informationen über deren KI-Nutzungspraktiken zu erhalten. Die Anfrage ist Teil eines laufenden Streits, der darauf abzielt, die Transparenz in der Anwendung von künstlicher Intelligenz in der Branche zu erhöhen.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "2026-07-04T18:00:05+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "f54c603277b40db5",
-      "title": "Alibaba verbietet Berichten zufolge Mitarbeitern die Nutzung von Claude Code",
-      "summary": "Alibaba hat seinen Mitarbeitern die Nutzung von Claude Code untersagt und es als Software mit hohem Risiko eingestuft. Diese Entscheidung spiegelt die Bedenken des Unternehmens hinsichtlich der potenziellen Auswirkungen der Nutzung solcher Technologie in seinen Abläufen wider.",
+      "title": "Alibaba soll Mitarbeitern die Nutzung von Claude Code verboten haben",
+      "summary": "Alibaba hat Berichten zufolge Mitarbeitern die Nutzung von Claude Code untersagt und es als risikobehaftete Software eingestuft. Diese Entscheidung spiegelt den vorsichtigen Ansatz des Unternehmens wider, potenzielle Sicherheits- und Compliance-Probleme im Zusammenhang mit KI-Tools zu managen.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "publishedAt": "2026-07-04T16:32:08+00:00",
       "category": "policy",
-      "relevanceScore": 38
+      "relevanceScore": 29
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }

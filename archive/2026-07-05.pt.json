@@ -1,68 +1,90 @@
 {
   "digestDate": "2026-07-05",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-05T09:40:09.858914+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-05T20:11:34.862337+00:00",
   "headline": {
-    "id": "3ecb788b7685a2a7",
-    "title": "O que é Mistral AI? Tudo o que você precisa saber sobre o concorrente da OpenAI",
-    "summary": "A Mistral AI, fundada em 2023, é um concorrente emergente da OpenAI que se concentra em fornecer modelos de IA de código aberto. A empresa garantiu um financiamento substancial para apoiar sua missão de tornar a IA avançada acessível a um público mais amplo.",
+    "id": "b66497cfee16056b",
+    "title": "Amazon vai parar de aceitar novos clientes para o Mechanical Turk",
+    "summary": "A Amazon anunciou que deixará de aceitar novos clientes para sua plataforma Mechanical Turk, sinalizando possíveis mudanças no futuro do serviço. Clientes existentes ainda poderão usar a plataforma, mas a decisão levanta questões sobre a viabilidade a longo prazo do serviço.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
-    "publishedAt": "2026-07-04T15:51:32+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "publishedAt": "2026-07-05T17:43:36+00:00",
     "category": "industry",
-    "relevanceScore": 43
+    "relevanceScore": 50
   },
   "articles": [
     {
+      "id": "23a8033d568c7f50",
+      "title": "Comercial irritante do Google imagina os pais fundadores abraçando a IA",
+      "summary": "Um novo comercial do Google Workspace retrata de forma humorística os pais fundadores usando ferramentas modernas de colaboração e IA para redigir a Declaração de Independência. O anúncio apresenta interações entre figuras históricas como Ben Franklin e Thomas Jefferson, mostrando a integração da tecnologia em um contexto histórico.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "category": "news",
+      "relevanceScore": 48
+    },
+    {
+      "id": "3ecb788b7685a2a7",
+      "title": "O que é Mistral AI? Tudo o que você precisa saber sobre o concorrente da OpenAI",
+      "summary": "A Mistral AI, fundada em 2023, é um concorrente emergente da OpenAI que se concentra em fornecer modelos de IA de código aberto. A empresa garantiu um financiamento substancial para apoiar sua missão de tornar a IA avançada acessível a um público mais amplo.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "publishedAt": "2026-07-04T15:51:32+00:00",
+      "category": "industry",
+      "relevanceScore": 34
+    },
+    {
       "id": "403186983ccd28ec",
       "title": "Novo comercial do Google imagina uma Declaração de Independência escrita com ajuda da IA",
-      "summary": "Um novo comercial do Google imagina um cenário onde os Pais Fundadores utilizam o Google Workspace para redigir a Declaração de Independência. O anúncio reflete sobre o impacto potencial da IA e da tecnologia moderna em eventos históricos.",
+      "summary": "Um novo comercial do Google imagina um cenário onde os Pais Fundadores utilizam o Google Workspace para redigir a Declaração de Independência, destacando o impacto potencial da IA em eventos históricos. O anúncio reflete sobre os avanços em tecnologia e ferramentas de colaboração nos últimos 250 anos.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
       "publishedAt": "2026-07-04T20:55:25+00:00",
       "category": "industry",
-      "relevanceScore": 42
+      "relevanceScore": 33
     },
     {
       "id": "151809d8d6d43248",
       "title": "A comunidade de fanfiction está em guerra com a IA — e consigo mesma",
-      "summary": "Um novo movimento dentro da comunidade de fanfiction surgiu para identificar e excluir autores que utilizam ferramentas de IA generativa como Claude e ChatGPT. No entanto, os métodos de detecção empregados são controversos e correm o risco de atingir injustamente uma ampla gama de escritores de fanfic.",
+      "summary": "Um novo movimento dentro da comunidade de fanfiction visa identificar e excluir autores que usam ferramentas de IA generativa como Claude e ChatGPT. No entanto, os métodos de detecção empregados são controversos, levantando preocupações de que muitos escritores possam ser injustamente alvo.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
       "publishedAt": "2026-07-04T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "5055d11adfa5dd46",
-      "title": "Midjourney quer que estúdios de Hollywood revelem detalhes sobre o uso de IA",
-      "summary": "A Midjourney está buscando ação legal contra três estúdios de Hollywood para obter informações sobre seu uso de inteligência artificial. A empresa pretende obrigar os estúdios a divulgar detalhes específicos sobre suas práticas de IA em meio a uma disputa em andamento.",
+      "title": "Midjourney quer que estúdios de Hollywood revelem detalhes sobre seu uso de IA",
+      "summary": "A Midjourney está buscando ação legal contra três estúdios de Hollywood para obter informações sobre suas práticas de uso de IA. O pedido faz parte de uma disputa em andamento visando aumentar a transparência na aplicação de inteligência artificial na indústria.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
       "publishedAt": "2026-07-04T18:00:05+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 31
     },
     {
       "id": "f54c603277b40db5",
-      "title": "Alibaba proíbe funcionários de usar Claude Code",
-      "summary": "A Alibaba proibiu seus funcionários de usar o Claude Code, designando-o como software de alto risco. Essa decisão reflete as preocupações da empresa em relação às potenciais implicações do uso dessa tecnologia em suas operações.",
+      "title": "Alibaba supostamente proíbe funcionários de usar Claude Code",
+      "summary": "A Alibaba supostamente proibiu funcionários de usar o Claude Code, categorizando-o como software de alto risco. Essa decisão reflete a abordagem cautelosa da empresa em gerenciar potenciais problemas de segurança e conformidade associados a ferramentas de IA.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
       "publishedAt": "2026-07-04T16:32:08+00:00",
       "category": "policy",
-      "relevanceScore": 38
+      "relevanceScore": 29
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }
