@@ -1,68 +1,145 @@
 {
   "digestDate": "2026-07-06",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-06T11:25:38.800853+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-06T20:51:07.756387+00:00",
   "headline": {
     "id": "bf55a61637b6dda9",
     "title": "LeRobot v0.6.0: Vorstellen, Bewerten, Verbessern",
-    "summary": "LeRobot v0.6.0 wurde veröffentlicht und bringt neue Funktionen mit, die darauf abzielen, die Fähigkeiten von KI beim Vorstellen, Bewerten und Verbessern verschiedener Aufgaben zu erweitern. Das Update konzentriert sich auf die Verfeinerung der Benutzerinteraktion und die Verbesserung der Modellleistung in verschiedenen Anwendungen.",
+    "summary": "LeRobot v0.6.0 wurde veröffentlicht und führt neue Funktionen ein, die darauf abzielen, die Fähigkeiten von KI bei der Erstellung und Bewertung kreativer Inhalte zu verbessern. Das Update konzentriert sich darauf, die Benutzererfahrung zu verbessern, indem effizientere Interaktionen und eine bessere Leistung bei kreativen Aufgaben ermöglicht werden.",
     "sourceName": "Hugging Face",
     "sourceIcon": "face.smiling",
     "articleURL": "https://huggingface.co/blog/lerobot-release-v060",
     "publishedAt": "2026-07-07T00:00:00+00:00",
     "category": "research",
-    "relevanceScore": 71
+    "relevanceScore": 63
   },
   "articles": [
     {
-      "id": "e998906a376bd21c",
-      "title": "🤗 Kernels: Wichtige Updates",
-      "summary": "Das neueste Update von Hugging Faces Kernels führt verbesserte Funktionen für kollaboratives Programmieren und Modelltraining ein, einschließlich besserer Integration mit beliebten Bibliotheken und optimierten Benutzeroberflächen. Diese Updates sollen einen effizienteren Arbeitsablauf für Datenwissenschaftler und Praktiker des maschinellen Lernens ermöglichen.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/revamped-kernels",
-      "publishedAt": "2026-07-06T00:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "be6f6ea69f48f609",
-      "title": "Einige der Reichen des Landes lassen ihre Kinder von KI unterrichten",
-      "summary": "Reiche Amerikaner entscheiden sich zunehmend für KI-basierte Bildung für ihre Kinder und nutzen Dienste von Unternehmen wie Forge Prep und Alpha, trotz weit verbreiteter Skepsis gegenüber KI in der allgemeinen Öffentlichkeit. Dieser Trend spiegelt eine wachsende Akzeptanz von KI im Bildungsbereich wider, auch wenn Bedenken hinsichtlich ihrer Zuverlässigkeit bestehen bleiben.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "publishedAt": "2026-07-05T22:30:54+00:00",
+      "id": "ee44615275592a88",
+      "title": "Der $300 Einsatz Ihrer Familie in OpenAI",
+      "summary": "OpenAI-CEO Sam Altman hat sein Engagement bekräftigt, sicherzustellen, dass Amerikaner von dem durch KI generierten Wohlstand profitieren, wie im Financial Times berichtet. Die Diskussion dreht sich um eine potenzielle Initiative, die es Familien ermöglichen würde, in OpenAI zu investieren, mit einem vorgeschlagenen Einsatz von 300 US-Dollar.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
       "category": "news",
-      "relevanceScore": 47
+      "relevanceScore": 62
     },
     {
-      "id": "b66497cfee16056b",
-      "title": "Amazon wird keine neuen Kunden für Mechanical Turk mehr akzeptieren",
-      "summary": "Amazon hat angekündigt, dass es keine neuen Kunden mehr für seine Mechanical Turk-Plattform akzeptieren wird, die Unternehmen mit einer Arbeitskraft für Mikrotasks verbindet. Diese Entscheidung deutet auf eine mögliche Einstellung des Dienstes hin, der seit über einem Jahrzehnt in Betrieb ist.",
+      "id": "0b68c393aaeac99e",
+      "title": "Sie können jetzt den Rhythmus und die Ausdrucksweise von Siri in der neuesten iOS 27 Beta anpassen",
+      "summary": "Die neueste iOS 27 Beta von Apple ermöglicht es den Nutzern, den Rhythmus und die Ausdrucksweise von Siri anzupassen, was die Natürlichkeit und Personalisierung des Assistenten verbessert. Dieses Update ist Teil von Apples Initiative, generative KI in die Funktionalität von Siri zu integrieren.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36+00:00",
-      "category": "industry",
-      "relevanceScore": 38
+      "articleURL": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59+00:00",
+      "category": "product",
+      "relevanceScore": 59
     },
     {
-      "id": "23a8033d568c7f50",
-      "title": "Ärgerliche Google-Werbung stellt sich vor, wie die Gründerväter KI umarmen",
-      "summary": "Ein neuer Google Workspace-Werbespot stellt sich vor, wie die Gründerväter moderne Kollaborationstools, einschließlich KI, nutzen, um die Unabhängigkeitserklärung zu entwerfen. Die Werbung zeigt historische Figuren wie Ben Franklin und Thomas Jefferson, die zeitgenössische Kommunikationsmethoden verwenden, was gemischte Reaktionen ausgelöst hat.",
+      "id": "f52c1e5bc5cdbb01",
+      "title": "Jede große Tech-Kündigung im Jahr 2026, die KI erwähnt hat",
+      "summary": "Im Jahr 2026 haben mehrere große Tech-Unternehmen bedeutende Entlassungen angekündigt und KI als einen mitwirkenden Faktor genannt. Dieser Artikel bietet einen chronologischen Überblick über diese Entlassungen und hebt die Auswirkungen von KI auf die Beschäftigung in der Branche hervor.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00+00:00",
+      "category": "industry",
+      "relevanceScore": 59
+    },
+    {
+      "id": "1ac652cb55a9c0e8",
+      "title": "Microsoft entlässt fast 5.000 Mitarbeiter in den Bereichen Xbox und kommerzielle Verkäufe",
+      "summary": "Microsoft hat etwa 4.800 Mitarbeiter entlassen, was 2,1 % seiner globalen Belegschaft entspricht, mit erheblichen Auswirkungen auf die Bereiche Xbox und kommerzielle Verkäufe. Dieser Schritt ist Teil laufender Entlassungen aufgrund von Bedenken über Arbeitsplatzverluste durch Fortschritte in der KI.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "2026-07-06T15:32:43+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "1dc5824027254506",
+      "title": "PRX Teil 4: Unsere Datenstrategie",
+      "summary": "Der Artikel beschreibt die Datenstrategie von PRX und konzentriert sich darauf, wie die Organisation plant, Daten zu nutzen, um ihre Abläufe und Entscheidungsprozesse zu verbessern. Er betont die Bedeutung datengestützter Erkenntnisse zur Verbesserung des Publikumsengagements und der Inhaltsbereitstellung.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "publishedAt": "2026-07-06T15:30:55+00:00",
+      "category": "research",
+      "relevanceScore": 56
+    },
+    {
+      "id": "18f400d81fe059a8",
+      "title": "Microsoft entlässt 4.800 Mitarbeiter",
+      "summary": "Microsoft entlässt etwa 4.800 Mitarbeiter, was etwa 2,1 Prozent seiner Belegschaft entspricht, während es sein neues Geschäftsjahr beginnt. Die meisten Entlassungen erfolgen im Bereich der kommerziellen Verkäufe und der Xbox-Abteilung, nach einer vorherigen Reduzierung von etwa 9.100 Mitarbeitern im letzten Jahr.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "articleURL": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "publishedAt": "2026-07-06T13:30:00+00:00",
       "category": "news",
-      "relevanceScore": 35
+      "relevanceScore": 54
+    },
+    {
+      "id": "8eb80eb97d43ae53",
+      "title": "Wenn Sie Google verwenden, trainieren Sie dessen KI. So können Sie sich abmelden.",
+      "summary": "Google hat seine Datenschutzeinstellungen aktualisiert, die es dem Unternehmen ermöglichen, mehr Nutzerdaten für das Training seiner KI-Systeme zu verwenden. Nutzer können sich von dieser Datensammlung abmelden, indem sie ihre Datenschutzeinstellungen anpassen.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "2026-07-06T17:04:58+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "9c8cc755dd557390",
+      "title": "Ich spioniere",
+      "summary": "Der Artikel diskutiert, wie Hollywoods Darstellung von Smart Glasses, insbesondere in Netflix' \"A Man on the Inside\", die kulturellen Herausforderungen und unrealistischen Erwartungen an die Technologie hervorhebt. Es wird argumentiert, dass die Unterhaltungsindustrie zwar die Wahrnehmung von Smart Glasses beeinflusst hat, aber auch zu Missverständnissen über deren praktische Anwendungen beigetragen hat.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "publishedAt": "2026-07-06T16:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "0c2385307e7bcb13",
+      "title": "Vercel-CEO Guillermo Rauch über den Kampf, Modelle von Agenten zu trennen",
+      "summary": "Vercel-CEO Guillermo Rauch diskutiert die Bedeutung der Trennung von Modellen und Agenten in der Produktionsoptimierung und betont die Notwendigkeit, Preis und Leistung zu berücksichtigen. Er teilte seine Erkenntnisse in einem Interview mit TechCrunch.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "54a9a335e51e2138",
+      "title": "Station F wird zur Startrampe für Europas heißeste KI-Startups",
+      "summary": "Station F, das in Paris ansässige Startup-Hub, das von Xavier Niel gegründet wurde, startet eine neue Ausgabe seines F/ai-Beschleunigungsprogramms, um die Unterstützung für aufstrebende KI-Startups in Europa zu verbessern. Die Initiative zielt darauf ab, die Rolle von Station F als wichtige Startrampe für innovative Unternehmen im KI-Sektor zu festigen.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "publishedAt": "2026-07-06T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "560afa2924d6c4f9",
+      "title": "Reddit nutzt LLMs, um ein Problem zu lösen, das LLMs weitgehend verursacht haben",
+      "summary": "Reddit implementiert große Sprachmodelle (LLMs), um dem Anstieg von Spam-Inhalten entgegenzuwirken, der mit dem Aufstieg von KI-Technologien entstanden ist. Die Plattform zielt darauf ab, diese Werkzeuge zu nutzen, um die Moderation zu verbessern und die Qualität der von Nutzern generierten Inhalte aufrechtzuerhalten.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08+00:00",
+      "category": "industry",
+      "relevanceScore": 48
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 18,
+    "articlesSelected": 12
   }
 }

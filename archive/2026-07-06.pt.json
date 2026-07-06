@@ -1,68 +1,145 @@
 {
   "digestDate": "2026-07-06",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-06T11:25:38.800853+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-06T20:51:07.756387+00:00",
   "headline": {
     "id": "bf55a61637b6dda9",
     "title": "LeRobot v0.6.0: Imagine, Avalie, Melhore",
-    "summary": "O LeRobot v0.6.0 foi lançado, introduzindo novos recursos voltados para aprimorar as capacidades da IA em imaginar, avaliar e melhorar diversas tarefas. A atualização foca em refinar a interação do usuário e expandir o desempenho do modelo em diferentes aplicações.",
+    "summary": "LeRobot v0.6.0 foi lançado, introduzindo novos recursos voltados para aprimorar as capacidades da IA na geração e avaliação de conteúdo criativo. A atualização foca em melhorar a experiência do usuário, permitindo interações mais eficientes e melhor desempenho em tarefas criativas.",
     "sourceName": "Hugging Face",
     "sourceIcon": "face.smiling",
     "articleURL": "https://huggingface.co/blog/lerobot-release-v060",
     "publishedAt": "2026-07-07T00:00:00+00:00",
     "category": "research",
-    "relevanceScore": 71
+    "relevanceScore": 63
   },
   "articles": [
     {
-      "id": "e998906a376bd21c",
-      "title": "🤗 Kernels: Atualizações Importantes",
-      "summary": "A atualização mais recente dos Kernels da Hugging Face introduz recursos aprimorados para codificação colaborativa e treinamento de modelos, incluindo melhor integração com bibliotecas populares e interfaces de usuário simplificadas. Essas atualizações visam facilitar um fluxo de trabalho mais eficiente para cientistas de dados e profissionais de aprendizado de máquina.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/revamped-kernels",
-      "publishedAt": "2026-07-06T00:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "be6f6ea69f48f609",
-      "title": "Alguns dos ricos da nação estão deixando a IA ensinar seus filhos",
-      "summary": "Americanos ricos estão optando cada vez mais pela educação baseada em IA para seus filhos, utilizando serviços de empresas como Forge Prep e Alpha, apesar da desconfiança generalizada em relação à IA entre o público em geral. Essa tendência reflete uma aceitação crescente da IA em ambientes educacionais, mesmo com preocupações sobre sua confiabilidade.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "publishedAt": "2026-07-05T22:30:54+00:00",
+      "id": "ee44615275592a88",
+      "title": "O investimento de $300 da sua família na OpenAI",
+      "summary": "O CEO da OpenAI, Sam Altman, reiterou seu compromisso em garantir que os americanos se beneficiem da riqueza gerada pela IA, conforme relatado pelo Financial Times. A discussão gira em torno de uma possível iniciativa que permitiria que famílias investissem na OpenAI, com um investimento sugerido de $300.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
       "category": "news",
-      "relevanceScore": 47
+      "relevanceScore": 62
     },
     {
-      "id": "b66497cfee16056b",
-      "title": "Amazon vai parar de aceitar novos clientes para o Mechanical Turk",
-      "summary": "A Amazon anunciou que não aceitará mais novos clientes para sua plataforma Mechanical Turk, que conecta empresas a uma força de trabalho para microtarefas. Essa decisão sinaliza um possível encerramento do serviço, que está em operação há mais de uma década.",
+      "id": "0b68c393aaeac99e",
+      "title": "Agora você pode personalizar o ritmo e a expressividade da Siri na mais recente beta do iOS 27",
+      "summary": "A mais recente beta do iOS 27 da Apple permite que os usuários personalizem o ritmo e a expressividade da Siri, aprimorando a naturalidade e a personalização do assistente. Esta atualização faz parte da iniciativa da Apple de integrar IA generativa na funcionalidade da Siri.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36+00:00",
-      "category": "industry",
-      "relevanceScore": 38
+      "articleURL": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59+00:00",
+      "category": "product",
+      "relevanceScore": 59
     },
     {
-      "id": "23a8033d568c7f50",
-      "title": "Comercial irritante do Google imagina os pais fundadores abraçando a IA",
-      "summary": "Um novo comercial do Google Workspace imagina os pais fundadores usando ferramentas modernas de colaboração, incluindo IA, para redigir a Declaração de Independência. O anúncio apresenta figuras históricas como Ben Franklin e Thomas Jefferson engajando em métodos de comunicação contemporâneos, o que gerou reações mistas.",
+      "id": "f52c1e5bc5cdbb01",
+      "title": "Cada demissão importante na tecnologia em 2026 que mencionou a IA",
+      "summary": "Em 2026, várias grandes empresas de tecnologia anunciaram demissões significativas, citando a IA como um fator contribuinte. Este artigo fornece uma visão cronológica dessas demissões, destacando o impacto da IA no emprego dentro da indústria.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00+00:00",
+      "category": "industry",
+      "relevanceScore": 59
+    },
+    {
+      "id": "1ac652cb55a9c0e8",
+      "title": "Microsoft demite quase 5.000 funcionários em Xbox e vendas comerciais",
+      "summary": "A Microsoft demitiu aproximadamente 4.800 funcionários, representando 2,1% de sua força de trabalho global, com impactos significativos em suas divisões de Xbox e vendas comerciais. Essa medida faz parte de demissões contínuas em meio a preocupações sobre deslocamento de empregos devido aos avanços da IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "2026-07-06T15:32:43+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "1dc5824027254506",
+      "title": "PRX Parte 4: Nossa Estratégia de Dados",
+      "summary": "O artigo descreve a estratégia de dados da PRX, focando em como a organização planeja aproveitar os dados para melhorar suas operações e processos de tomada de decisão. Enfatiza a importância de insights baseados em dados para melhorar o engajamento do público e a entrega de conteúdo.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "publishedAt": "2026-07-06T15:30:55+00:00",
+      "category": "research",
+      "relevanceScore": 56
+    },
+    {
+      "id": "18f400d81fe059a8",
+      "title": "Microsoft está demitindo 4.800 funcionários",
+      "summary": "A Microsoft está demitindo aproximadamente 4.800 funcionários, representando cerca de 2,1% de sua força de trabalho, enquanto inicia seu novo ano fiscal. A maioria das demissões está ocorrendo no setor de vendas comerciais e na divisão Xbox, após uma redução anterior de cerca de 9.100 funcionários no ano passado.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "articleURL": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "publishedAt": "2026-07-06T13:30:00+00:00",
       "category": "news",
-      "relevanceScore": 35
+      "relevanceScore": 54
+    },
+    {
+      "id": "8eb80eb97d43ae53",
+      "title": "Se você usa o Google, está treinando sua IA. Veja como optar por não participar.",
+      "summary": "O Google atualizou suas configurações de privacidade, permitindo que a empresa use mais dados dos usuários para treinar seus sistemas de IA. Os usuários podem optar por não participar dessa coleta de dados ajustando suas configurações de privacidade.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "2026-07-06T17:04:58+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "9c8cc755dd557390",
+      "title": "Eu espio",
+      "summary": "O artigo discute como a representação de óculos inteligentes em Hollywood, particularmente no filme da Netflix \"Um Homem por Dentro\", destaca os desafios culturais e as expectativas irreais em torno da tecnologia. Argumenta que, enquanto a indústria do entretenimento influenciou as percepções sobre óculos inteligentes, também contribuiu para mal-entendidos sobre suas aplicações práticas.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "publishedAt": "2026-07-06T16:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "0c2385307e7bcb13",
+      "title": "O CEO da Vercel, Guillermo Rauch, sobre a luta para separar modelos de agentes",
+      "summary": "O CEO da Vercel, Guillermo Rauch, discute a importância de separar modelos de agentes na otimização da produção, enfatizando a necessidade de considerar preço e desempenho. Ele compartilhou suas percepções durante uma entrevista com a TechCrunch.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "54a9a335e51e2138",
+      "title": "Station F se destaca como um trampolim para as startups de IA mais promissoras da Europa",
+      "summary": "A Station F, o hub de startups baseado em Paris fundado por Xavier Niel, está lançando uma nova edição de seu programa de aceleração F/ai para aumentar o apoio a startups emergentes de IA na Europa. A iniciativa visa solidificar o papel da Station F como um trampolim chave para empresas inovadoras no setor de IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "publishedAt": "2026-07-06T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "560afa2924d6c4f9",
+      "title": "Reddit está usando LLMs para resolver um problema que LLMs em grande parte criaram",
+      "summary": "O Reddit está implementando grandes modelos de linguagem (LLMs) para combater o aumento de conteúdo de spam que surgiu com o crescimento das tecnologias de IA. A plataforma pretende aproveitar essas ferramentas para melhorar a moderação e manter a qualidade do conteúdo gerado pelos usuários.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08+00:00",
+      "category": "industry",
+      "relevanceScore": 48
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 18,
+    "articlesSelected": 12
   }
 }

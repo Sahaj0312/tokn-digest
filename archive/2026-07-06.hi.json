@@ -1,68 +1,145 @@
 {
   "digestDate": "2026-07-06",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-06T11:25:38.800853+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-06T20:51:07.756387+00:00",
   "headline": {
     "id": "bf55a61637b6dda9",
     "title": "LeRobot v0.6.0: कल्पना करें, मूल्यांकन करें, सुधारें",
-    "summary": "LeRobot v0.6.0 जारी किया गया है, जिसमें विभिन्न कार्यों में AI की क्षमताओं को बढ़ाने के लिए नए फीचर्स शामिल हैं। अपडेट का ध्यान उपयोगकर्ता इंटरैक्शन को सुधारने और विभिन्न अनुप्रयोगों में मॉडल के प्रदर्शन को बढ़ाने पर है।",
+    "summary": "LeRobot v0.6.0 जारी किया गया है, जिसमें नए फीचर्स शामिल हैं जो रचनात्मक सामग्री उत्पन्न करने और मूल्यांकन करने में AI की क्षमताओं को बढ़ाने के लिए लक्षित हैं। यह अपडेट उपयोगकर्ता अनुभव को बेहतर बनाने पर केंद्रित है, जिससे अधिक कुशल इंटरैक्शन और रचनात्मक कार्यों में बेहतर प्रदर्शन संभव हो सके।",
     "sourceName": "Hugging Face",
     "sourceIcon": "face.smiling",
     "articleURL": "https://huggingface.co/blog/lerobot-release-v060",
     "publishedAt": "2026-07-07T00:00:00+00:00",
     "category": "research",
-    "relevanceScore": 71
+    "relevanceScore": 63
   },
   "articles": [
     {
-      "id": "e998906a376bd21c",
-      "title": "🤗 Kernels: प्रमुख अपडेट",
-      "summary": "Hugging Face के Kernels के नवीनतम अपडेट में सहयोगात्मक कोडिंग और मॉडल प्रशिक्षण के लिए बेहतर सुविधाएँ शामिल हैं, जिसमें लोकप्रिय लाइब्रेरी के साथ बेहतर एकीकरण और सरल उपयोगकर्ता इंटरफेस शामिल हैं। ये अपडेट डेटा वैज्ञानिकों और मशीन लर्निंग प्रैक्टिशनर्स के लिए एक अधिक कुशल कार्यप्रवाह को सुविधाजनक बनाने का लक्ष्य रखते हैं।",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/revamped-kernels",
-      "publishedAt": "2026-07-06T00:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "be6f6ea69f48f609",
-      "title": "देश के कुछ अमीर अपने बच्चों को AI से पढ़ा रहे हैं",
-      "summary": "अमीर अमेरिकियों ने अपने बच्चों के लिए AI-आधारित शिक्षा का विकल्प चुनना शुरू कर दिया है, Forge Prep और Alpha जैसी कंपनियों की सेवाओं का उपयोग करते हुए, जबकि आम जनता में AI के प्रति व्यापक अविश्वास है। यह प्रवृत्ति शैक्षिक सेटिंग्स में AI की बढ़ती स्वीकृति को दर्शाती है, जबकि इसकी विश्वसनीयता के बारे में चिंताएँ बनी हुई हैं।",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "publishedAt": "2026-07-05T22:30:54+00:00",
+      "id": "ee44615275592a88",
+      "title": "आपके परिवार का OpenAI में $300 का निवेश",
+      "summary": "OpenAI के CEO सैम ऑल्टमैन ने अमेरिकियों को AI द्वारा उत्पन्न धन से लाभान्वित करने के लिए अपनी प्रतिबद्धता दोहराई है, जैसा कि Financial Times द्वारा रिपोर्ट किया गया है। चर्चा एक संभावित पहल के चारों ओर केंद्रित है जो परिवारों को OpenAI में निवेश करने की अनुमति देगी, जिसमें $300 का निवेश सुझाया गया है।",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
       "category": "news",
-      "relevanceScore": 47
+      "relevanceScore": 62
     },
     {
-      "id": "b66497cfee16056b",
-      "title": "Amazon Mechanical Turk के लिए नए ग्राहकों को स्वीकार करना बंद करेगा",
-      "summary": "Amazon ने घोषणा की है कि वह अपने Mechanical Turk प्लेटफॉर्म के लिए नए ग्राहकों को स्वीकार नहीं करेगा, जो व्यवसायों को माइक्रोटास्क के लिए कार्यबल से जोड़ता है। यह निर्णय सेवा के संभावित समापन का संकेत देता है, जो एक दशक से अधिक समय से संचालित हो रही है।",
+      "id": "0b68c393aaeac99e",
+      "title": "आप अब नवीनतम iOS 27 बीटा में Siri की गति और अभिव्यक्ति को अनुकूलित कर सकते हैं",
+      "summary": "Apple के नवीनतम iOS 27 बीटा में उपयोगकर्ताओं को Siri की गति और अभिव्यक्ति को अनुकूलित करने की अनुमति दी गई है, जिससे सहायक की स्वाभाविकता और व्यक्तिगतकरण में सुधार होता है। यह अपडेट Apple की पहल का हिस्सा है जो Siri की कार्यक्षमता में जनरेटिव AI को एकीकृत करने के लिए है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36+00:00",
-      "category": "industry",
-      "relevanceScore": 38
+      "articleURL": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59+00:00",
+      "category": "product",
+      "relevanceScore": 59
     },
     {
-      "id": "23a8033d568c7f50",
-      "title": "गूगल का चिढ़ाने वाला विज्ञापन कल्पना करता है कि संस्थापक पिता AI को अपनाते हैं",
-      "summary": "एक नए Google Workspace विज्ञापन में संस्थापक पिता को आधुनिक सहयोगात्मक उपकरणों, जिसमें AI शामिल है, का उपयोग करते हुए स्वतंत्रता की घोषणा का मसौदा तैयार करते हुए दर्शाया गया है। विज्ञापन में ऐतिहासिक व्यक्तित्व जैसे बेन फ्रैंकलिन और थॉमस जेफरसन समकालीन संचार विधियों में संलग्न हैं, जिसने मिश्रित प्रतिक्रियाएँ उत्पन्न की हैं।",
+      "id": "f52c1e5bc5cdbb01",
+      "title": "2026 में हर प्रमुख तकनीकी छंटनी जिसने AI का उल्लेख किया",
+      "summary": "2026 में, कई प्रमुख तकनीकी कंपनियों ने महत्वपूर्ण छंटनियों की घोषणा की है, जिसमें AI को एक योगदान कारक के रूप में बताया गया है। यह लेख इन छंटनियों का कालानुक्रमिक अवलोकन प्रदान करता है, जो उद्योग में रोजगार पर AI के प्रभाव को उजागर करता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00+00:00",
+      "category": "industry",
+      "relevanceScore": 59
+    },
+    {
+      "id": "1ac652cb55a9c0e8",
+      "title": "Microsoft ने Xbox, वाणिज्यिक बिक्री में लगभग 5,000 कर्मचारियों की छंटनी की",
+      "summary": "Microsoft ने लगभग 4,800 कर्मचारियों की छंटनी की है, जो इसके वैश्विक कार्यबल का 2.1% है, जिसमें Xbox और वाणिज्यिक बिक्री विभागों पर महत्वपूर्ण प्रभाव पड़ा है। यह कदम AI प्रगति के कारण नौकरी के विस्थापन के बारे में चिंताओं के बीच चल रही छंटनियों का हिस्सा है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "2026-07-06T15:32:43+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "1dc5824027254506",
+      "title": "PRX भाग 4: हमारी डेटा रणनीति",
+      "summary": "लेख PRX की डेटा रणनीति को रेखांकित करता है, जिसमें यह बताया गया है कि संगठन अपने संचालन और निर्णय लेने की प्रक्रियाओं को सुधारने के लिए डेटा का उपयोग कैसे करेगा। यह दर्शाता है कि दर्शक सहभागिता और सामग्री वितरण में सुधार के लिए डेटा-आधारित अंतर्दृष्टियों का महत्व है।",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "publishedAt": "2026-07-06T15:30:55+00:00",
+      "category": "research",
+      "relevanceScore": 56
+    },
+    {
+      "id": "18f400d81fe059a8",
+      "title": "Microsoft 4,800 कर्मचारियों की छंटनी कर रहा है",
+      "summary": "Microsoft लगभग 4,800 कर्मचारियों की छंटनी कर रहा है, जो इसके कार्यबल का लगभग 2.1 प्रतिशत है, क्योंकि यह अपने नए वित्तीय वर्ष की शुरुआत कर रहा है। अधिकांश छंटनियाँ वाणिज्यिक बिक्री व्यवसाय और Xbox विभाग में हो रही हैं, पिछले वर्ष लगभग 9,100 कर्मचारियों की छंटनी के बाद।",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "articleURL": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "publishedAt": "2026-07-06T13:30:00+00:00",
       "category": "news",
-      "relevanceScore": 35
+      "relevanceScore": 54
+    },
+    {
+      "id": "8eb80eb97d43ae53",
+      "title": "यदि आप Google का उपयोग करते हैं, तो आप इसके AI को प्रशिक्षित कर रहे हैं। यहाँ बाहर निकलने का तरीका है।",
+      "summary": "Google ने अपनी गोपनीयता सेटिंग्स को अपडेट किया है, जिससे कंपनी अपने AI सिस्टम को प्रशिक्षित करने के लिए अधिक उपयोगकर्ता डेटा का उपयोग कर सके। उपयोगकर्ता अपनी गोपनीयता सेटिंग्स को समायोजित करके इस डेटा संग्रह से बाहर निकल सकते हैं।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "2026-07-06T17:04:58+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "9c8cc755dd557390",
+      "title": "मैं जासूसी करता हूँ",
+      "summary": "लेख चर्चा करता है कि हॉलीवुड में स्मार्ट चश्मों का चित्रण, विशेष रूप से नेटफ्लिक्स के \"A Man on the Inside\" में, प्रौद्योगिकी के चारों ओर सांस्कृतिक चुनौतियों और अवास्तविक अपेक्षाओं को उजागर करता है। यह तर्क करता है कि जबकि मनोरंजन उद्योग ने स्मार्ट चश्मों के प्रति धारणाओं को प्रभावित किया है, इसने उनकी व्यावहारिक अनुप्रयोगों के बारे में गलतफहमियों में भी योगदान दिया है।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "publishedAt": "2026-07-06T16:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "0c2385307e7bcb13",
+      "title": "Vercel के CEO गुइलेर्मो राउच एजेंटों से मॉडलों को अलग करने की लड़ाई पर",
+      "summary": "Vercel के CEO गुइलेर्मो राउच उत्पादन अनुकूलन में मॉडलों को एजेंटों से अलग करने के महत्व पर चर्चा करते हैं, मूल्य और प्रदर्शन पर विचार करने की आवश्यकता पर जोर देते हैं। उन्होंने TechCrunch के साथ एक साक्षात्कार के दौरान अपने विचार साझा किए।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "54a9a335e51e2138",
+      "title": "स्टेशन F यूरोप के सबसे गर्म AI स्टार्टअप्स के लिए लॉन्चपैड के रूप में बढ़ रहा है",
+      "summary": "स्टेशन F, जो पेरिस में स्थित स्टार्टअप हब है जिसे ज़ेवियर नील ने स्थापित किया है, यूरोप में उभरते AI स्टार्टअप्स के लिए समर्थन बढ़ाने के लिए अपने F/ai एक्सेलेरेटर कार्यक्रम का एक नया संस्करण लॉन्च कर रहा है। यह पहल स्टेशन F की भूमिका को AI क्षेत्र में नवोन्मेषी कंपनियों के लिए एक प्रमुख लॉन्चपैड के रूप में मजबूत करने का लक्ष्य रखती है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "publishedAt": "2026-07-06T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "560afa2924d6c4f9",
+      "title": "Reddit एक समस्या को हल करने के लिए LLMs का उपयोग कर रहा है जो LLMs ने बड़े पैमाने पर बनाई है",
+      "summary": "Reddit स्पैम सामग्री में वृद्धि से निपटने के लिए बड़े भाषा मॉडल (LLMs) को लागू कर रहा है जो AI प्रौद्योगिकियों के उदय के साथ उत्पन्न हुई है। प्लेटफ़ॉर्म का लक्ष्य इन उपकरणों का उपयोग करके मॉडरेशन को बढ़ाना और उपयोगकर्ता-जनित सामग्री की गुणवत्ता बनाए रखना है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08+00:00",
+      "category": "industry",
+      "relevanceScore": 48
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 18,
+    "articlesSelected": 12
   }
 }

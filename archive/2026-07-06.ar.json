@@ -1,68 +1,145 @@
 {
   "digestDate": "2026-07-06",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-06T11:25:38.800853+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-06T20:51:07.756387+00:00",
   "headline": {
     "id": "bf55a61637b6dda9",
     "title": "LeRobot v0.6.0: تخيل، تقييم، تحسين",
-    "summary": "تم إصدار LeRobot v0.6.0، حيث يقدم ميزات جديدة تهدف إلى تعزيز قدرات الذكاء الاصطناعي في تخيل وتقييم وتحسين المهام المختلفة. يركز التحديث على تحسين تفاعل المستخدم وتوسيع أداء النموذج عبر تطبيقات مختلفة.",
+    "summary": "تم إصدار LeRobot v0.6.0، حيث يقدم ميزات جديدة تهدف إلى تعزيز قدرات الذكاء الاصطناعي في إنشاء وتقييم المحتوى الإبداعي. تركز التحديثات على تحسين تجربة المستخدم من خلال السماح بتفاعلات أكثر كفاءة وأداء أفضل في المهام الإبداعية.",
     "sourceName": "Hugging Face",
     "sourceIcon": "face.smiling",
     "articleURL": "https://huggingface.co/blog/lerobot-release-v060",
     "publishedAt": "2026-07-07T00:00:00+00:00",
     "category": "research",
-    "relevanceScore": 71
+    "relevanceScore": 63
   },
   "articles": [
     {
-      "id": "e998906a376bd21c",
-      "title": "🤗 Kernels: تحديثات رئيسية",
-      "summary": "يقدم التحديث الأخير لـ Hugging Face's Kernels ميزات محسّنة للتشفير التعاوني وتدريب النماذج، بما في ذلك تحسين التكامل مع المكتبات الشهيرة وواجهات المستخدم المبسطة. تهدف هذه التحديثات إلى تسهيل سير العمل بشكل أكثر كفاءة لعلماء البيانات وممارسي التعلم الآلي.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/revamped-kernels",
-      "publishedAt": "2026-07-06T00:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "be6f6ea69f48f609",
-      "title": "بعض الأثرياء في البلاد يتركون الذكاء الاصطناعي يعلم أطفالهم",
-      "summary": "يختار الأمريكيون الأثرياء بشكل متزايد التعليم القائم على الذكاء الاصطناعي لأطفالهم، مستفيدين من خدمات شركات مثل Forge Prep وAlpha، على الرغم من عدم الثقة الواسعة في الذكاء الاصطناعي بين الجمهور العام. تعكس هذه الظاهرة قبولًا متزايدًا للذكاء الاصطناعي في البيئات التعليمية، حتى مع استمرار المخاوف بشأن موثوقيته.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "publishedAt": "2026-07-05T22:30:54+00:00",
+      "id": "ee44615275592a88",
+      "title": "استثمار عائلتك بقيمة 300 دولار في OpenAI",
+      "summary": "أعاد الرئيس التنفيذي لشركة OpenAI، سام ألتمان، التأكيد على التزامه بضمان استفادة الأمريكيين من الثروة التي تولدها الذكاء الاصطناعي، وفقًا لما ذكرته صحيفة Financial Times. تدور المناقشة حول مبادرة محتملة تسمح للعائلات بالاستثمار في OpenAI، مع اقتراح استثمار بقيمة 300 دولار.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
       "category": "news",
-      "relevanceScore": 47
+      "relevanceScore": 62
     },
     {
-      "id": "b66497cfee16056b",
-      "title": "أمازون ستتوقف عن قبول عملاء جدد لـ Mechanical Turk",
-      "summary": "أعلنت أمازون أنها لن تقبل عملاء جدد على منصتها Mechanical Turk، التي تربط الشركات بقوة عاملة للمهام الصغيرة. تشير هذه القرار إلى احتمال إنهاء الخدمة، التي كانت تعمل لأكثر من عقد.",
+      "id": "0b68c393aaeac99e",
+      "title": "يمكنك الآن تخصيص سرعة Siri وتعبيرها في أحدث إصدار تجريبي من iOS 27",
+      "summary": "يتيح أحدث إصدار تجريبي من iOS 27 للمستخدمين تخصيص سرعة Siri وتعبيرها، مما يعزز طبيعة المساعد وتخصيصه. هذا التحديث هو جزء من مبادرة Apple لدمج الذكاء الاصطناعي التوليدي في وظائف Siri.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36+00:00",
-      "category": "industry",
-      "relevanceScore": 38
+      "articleURL": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59+00:00",
+      "category": "product",
+      "relevanceScore": 59
     },
     {
-      "id": "23a8033d568c7f50",
-      "title": "إعلان محبط من جوجل يتخيل الآباء المؤسسين يحتضنون الذكاء الاصطناعي",
-      "summary": "يتخيل إعلان جديد من Google Workspace الآباء المؤسسين وهم يستخدمون أدوات التعاون الحديثة، بما في ذلك الذكاء الاصطناعي، لصياغة إعلان الاستقلال. يظهر الإعلان شخصيات تاريخية مثل بن فرانكلين وتوماس جيفرسون وهم يتواصلون بطرق معاصرة، مما أثار ردود فعل مختلطة.",
+      "id": "f52c1e5bc5cdbb01",
+      "title": "كل تسريح كبير للموظفين في مجال التكنولوجيا في 2026 الذي ذكر الذكاء الاصطناعي",
+      "summary": "في عام 2026، أعلنت عدة شركات تكنولوجيا كبرى عن تسريحات كبيرة، مشيرة إلى أن الذكاء الاصطناعي كان عاملاً مساهماً. تقدم هذه المقالة نظرة شاملة زمنية على هذه التسريحات، مع تسليط الضوء على تأثير الذكاء الاصطناعي على التوظيف في الصناعة.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00+00:00",
+      "category": "industry",
+      "relevanceScore": 59
+    },
+    {
+      "id": "1ac652cb55a9c0e8",
+      "title": "مايكروسوفت تسريح حوالي 5000 موظف عبر Xbox والمبيعات التجارية",
+      "summary": "قامت مايكروسوفت بتسريح حوالي 4800 موظف، مما يمثل 2.1% من قوتها العاملة العالمية، مع تأثيرات كبيرة على أقسام Xbox والمبيعات التجارية. تأتي هذه الخطوة في إطار تسريحات مستمرة وسط مخاوف بشأن فقدان الوظائف بسبب تقدم الذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "2026-07-06T15:32:43+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "1dc5824027254506",
+      "title": "PRX الجزء 4: استراتيجيتنا للبيانات",
+      "summary": "تستعرض المقالة استراتيجية البيانات الخاصة بـ PRX، مع التركيز على كيفية تخطيط المنظمة للاستفادة من البيانات لتعزيز عملياتها وعمليات اتخاذ القرار. تؤكد على أهمية الرؤى المستندة إلى البيانات في تحسين تفاعل الجمهور وتقديم المحتوى.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "publishedAt": "2026-07-06T15:30:55+00:00",
+      "category": "research",
+      "relevanceScore": 56
+    },
+    {
+      "id": "18f400d81fe059a8",
+      "title": "مايكروسوفت تقوم بتسريح 4800 موظف",
+      "summary": "تقوم مايكروسوفت بتسريح حوالي 4800 موظف، مما يمثل حوالي 2.1% من قوتها العاملة، حيث تبدأ سنتها المالية الجديدة. تحدث معظم التسريحات في قسم المبيعات التجارية وقسم Xbox، بعد تقليص سابق لحوالي 9100 موظف العام الماضي.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "articleURL": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "publishedAt": "2026-07-06T13:30:00+00:00",
       "category": "news",
-      "relevanceScore": 35
+      "relevanceScore": 54
+    },
+    {
+      "id": "8eb80eb97d43ae53",
+      "title": "إذا كنت تستخدم Google، فأنت تدرب ذكاءه الاصطناعي. إليك كيفية الانسحاب.",
+      "summary": "قامت Google بتحديث إعدادات الخصوصية الخاصة بها، مما يسمح للشركة باستخدام المزيد من بيانات المستخدمين لتدريب أنظمة الذكاء الاصطناعي الخاصة بها. يمكن للمستخدمين الانسحاب من جمع هذه البيانات عن طريق ضبط إعدادات الخصوصية الخاصة بهم.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "2026-07-06T17:04:58+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "9c8cc755dd557390",
+      "title": "أنا أتجسس",
+      "summary": "تناقش المقالة كيف أن تصوير هوليوود للنظارات الذكية، خاصة في فيلم \"رجل من الداخل\" على نتفليكس، يبرز التحديات الثقافية والتوقعات غير الواقعية المحيطة بالتكنولوجيا. تجادل بأن صناعة الترفيه قد أثرت على تصورات النظارات الذكية، لكنها ساهمت أيضًا في سوء الفهم حول تطبيقاتها العملية.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "publishedAt": "2026-07-06T16:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "0c2385307e7bcb13",
+      "title": "الرئيس التنفيذي لشركة Vercel غييرمو راوش يتحدث عن الصراع لفصل النماذج عن الوكلاء",
+      "summary": "يتحدث الرئيس التنفيذي لشركة Vercel غييرمو راوش عن أهمية فصل النماذج عن الوكلاء في تحسين الإنتاج، مؤكدًا على الحاجة إلى مراعاة السعر والأداء. شارك رؤاه خلال مقابلة مع TechCrunch.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "54a9a335e51e2138",
+      "title": "Station F تتصاعد كمنصة انطلاق لأكثر الشركات الناشئة في الذكاء الاصطناعي حيوية في أوروبا",
+      "summary": "تطلق Station F، مركز الشركات الناشئة في باريس الذي أسسه زافييه نيل، إصدارًا جديدًا من برنامج تسريع F/ai لتعزيز الدعم للشركات الناشئة في مجال الذكاء الاصطناعي في أوروبا. تهدف المبادرة إلى تعزيز دور Station F كمنصة انطلاق رئيسية للشركات المبتكرة في قطاع الذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "publishedAt": "2026-07-06T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "560afa2924d6c4f9",
+      "title": "Reddit تستخدم نماذج اللغة الكبيرة لحل مشكلة أنشأتها هذه النماذج إلى حد كبير",
+      "summary": "تقوم Reddit بتنفيذ نماذج اللغة الكبيرة (LLMs) لمكافحة الزيادة في محتوى البريد العشوائي الذي نشأ مع صعود تقنيات الذكاء الاصطناعي. تهدف المنصة إلى الاستفادة من هذه الأدوات لتعزيز الاعتدال والحفاظ على جودة المحتوى الذي ينشئه المستخدمون.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08+00:00",
+      "category": "industry",
+      "relevanceScore": 48
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 18,
+    "articlesSelected": 12
   }
 }

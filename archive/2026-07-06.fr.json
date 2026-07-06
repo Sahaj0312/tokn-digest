@@ -1,68 +1,145 @@
 {
   "digestDate": "2026-07-06",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-06T11:25:38.800853+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-06T20:51:07.756387+00:00",
   "headline": {
     "id": "bf55a61637b6dda9",
     "title": "LeRobot v0.6.0 : Imaginer, Évaluer, Améliorer",
-    "summary": "LeRobot v0.6.0 a été publié, introduisant de nouvelles fonctionnalités visant à améliorer les capacités de l'IA dans l'imagination, l'évaluation et l'amélioration de diverses tâches. La mise à jour se concentre sur le raffinement de l'interaction utilisateur et l'expansion des performances du modèle dans différentes applications.",
+    "summary": "LeRobot v0.6.0 a été publié, introduisant de nouvelles fonctionnalités visant à améliorer les capacités de l'IA dans la génération et l'évaluation de contenu créatif. La mise à jour se concentre sur l'amélioration de l'expérience utilisateur en permettant des interactions plus efficaces et une meilleure performance dans les tâches créatives.",
     "sourceName": "Hugging Face",
     "sourceIcon": "face.smiling",
     "articleURL": "https://huggingface.co/blog/lerobot-release-v060",
     "publishedAt": "2026-07-07T00:00:00+00:00",
     "category": "research",
-    "relevanceScore": 71
+    "relevanceScore": 63
   },
   "articles": [
     {
-      "id": "e998906a376bd21c",
-      "title": "🤗 Kernels : Mises à jour majeures",
-      "summary": "La dernière mise à jour des Kernels de Hugging Face introduit des fonctionnalités améliorées pour le codage collaboratif et l'entraînement de modèles, y compris une meilleure intégration avec des bibliothèques populaires et des interfaces utilisateur simplifiées. Ces mises à jour visent à faciliter un flux de travail plus efficace pour les scientifiques des données et les praticiens de l'apprentissage automatique.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/revamped-kernels",
-      "publishedAt": "2026-07-06T00:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 48
-    },
-    {
-      "id": "be6f6ea69f48f609",
-      "title": "Certains des riches du pays laissent l'IA enseigner à leurs enfants",
-      "summary": "Des Américains riches optent de plus en plus pour l'éducation basée sur l'IA pour leurs enfants, utilisant des services d'entreprises comme Forge Prep et Alpha, malgré une méfiance généralisée envers l'IA parmi le grand public. Cette tendance reflète une acceptation croissante de l'IA dans les milieux éducatifs, même si des préoccupations concernant sa fiabilité persistent.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961505/wealthy-ai-schools-alpha-forge-prep",
-      "publishedAt": "2026-07-05T22:30:54+00:00",
+      "id": "ee44615275592a88",
+      "title": "L'investissement de 300 $ de votre famille dans OpenAI",
+      "summary": "Le PDG d'OpenAI, Sam Altman, a réaffirmé son engagement à garantir que les Américains bénéficient de la richesse générée par l'IA, comme l'a rapporté le Financial Times. La discussion porte sur une initiative potentielle qui permettrait aux familles d'investir dans OpenAI, avec une mise suggérée de 300 $.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/06/1140176/your-familys-300-stake-in-openai/",
+      "publishedAt": "2026-07-06T18:00:00+00:00",
       "category": "news",
-      "relevanceScore": 47
+      "relevanceScore": 62
     },
     {
-      "id": "b66497cfee16056b",
-      "title": "Amazon cessera d'accepter de nouveaux clients pour Mechanical Turk",
-      "summary": "Amazon a annoncé qu'il n'acceptera plus de nouveaux clients pour sa plateforme Mechanical Turk, qui connecte les entreprises avec une main-d'œuvre pour des microtâches. Cette décision signale une éventuelle cessation du service, qui est en opération depuis plus d'une décennie.",
+      "id": "0b68c393aaeac99e",
+      "title": "Vous pouvez désormais personnaliser le rythme et l'expressivité de Siri dans la dernière bêta d'iOS 27",
+      "summary": "La dernière bêta d'iOS 27 d'Apple permet aux utilisateurs de personnaliser le rythme et l'expressivité de Siri, améliorant ainsi le naturel et la personnalisation de l'assistant. Cette mise à jour fait partie de l'initiative d'Apple d'intégrer l'IA générative dans les fonctionnalités de Siri.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-      "publishedAt": "2026-07-05T17:43:36+00:00",
-      "category": "industry",
-      "relevanceScore": 38
+      "articleURL": "https://techcrunch.com/2026/07/06/you-can-now-customize-siris-pace-and-expressivity-in-the-latest-ios-27-beta/",
+      "publishedAt": "2026-07-06T19:01:59+00:00",
+      "category": "product",
+      "relevanceScore": 59
     },
     {
-      "id": "23a8033d568c7f50",
-      "title": "Une publicité Google frustrante imagine les pères fondateurs adoptant l'IA",
-      "summary": "Une nouvelle publicité de Google Workspace envisage les pères fondateurs utilisant des outils de collaboration modernes, y compris l'IA, pour rédiger la Déclaration d'Indépendance. L'annonce présente des figures historiques comme Ben Franklin et Thomas Jefferson s'engageant dans des méthodes de communication contemporaines, ce qui a suscité des réactions mitigées.",
+      "id": "f52c1e5bc5cdbb01",
+      "title": "Chaque licenciement majeur dans la tech en 2026 mentionnant l'IA",
+      "summary": "En 2026, plusieurs grandes entreprises technologiques ont annoncé des licenciements significatifs, citant l'IA comme un facteur contributif. Cet article fournit un aperçu chronologique de ces licenciements, soulignant l'impact de l'IA sur l'emploi dans l'industrie.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-06T18:35:00+00:00",
+      "category": "industry",
+      "relevanceScore": 59
+    },
+    {
+      "id": "1ac652cb55a9c0e8",
+      "title": "Microsoft licencie près de 5 000 employés dans Xbox et les ventes commerciales",
+      "summary": "Microsoft a licencié environ 4 800 employés, représentant 2,1 % de sa main-d'œuvre mondiale, avec des impacts significatifs sur ses divisions Xbox et ventes commerciales. Cette décision s'inscrit dans le cadre de licenciements continus en raison des préoccupations concernant le déplacement d'emplois dû aux avancées de l'IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/microsoft-lays-off-nearly-5000-employees-across-xbox-commercial-sales/",
+      "publishedAt": "2026-07-06T15:32:43+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "1dc5824027254506",
+      "title": "PRX Partie 4 : Notre stratégie de données",
+      "summary": "L'article décrit la stratégie de données de PRX, en se concentrant sur la manière dont l'organisation prévoit d'exploiter les données pour améliorer ses opérations et ses processus de prise de décision. Il souligne l'importance des insights basés sur les données pour améliorer l'engagement du public et la livraison de contenu.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/Photoroom/prx-part4-data",
+      "publishedAt": "2026-07-06T15:30:55+00:00",
+      "category": "research",
+      "relevanceScore": 56
+    },
+    {
+      "id": "18f400d81fe059a8",
+      "title": "Microsoft licencie 4 800 employés",
+      "summary": "Microsoft licencie environ 4 800 employés, représentant environ 2,1 % de sa main-d'œuvre, alors qu'il commence son nouvel exercice financier. La majorité des licenciements se produisent dans le secteur des ventes commerciales et la division Xbox, après une réduction précédente d'environ 9 100 employés l'année dernière.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
-      "publishedAt": "2026-07-05T14:23:11+00:00",
+      "articleURL": "https://www.theverge.com/news/961528/microsoft-layoffs-july-2026-sales-xbox",
+      "publishedAt": "2026-07-06T13:30:00+00:00",
       "category": "news",
-      "relevanceScore": 35
+      "relevanceScore": 54
+    },
+    {
+      "id": "8eb80eb97d43ae53",
+      "title": "Si vous utilisez Google, vous formez son IA. Voici comment vous désinscrire.",
+      "summary": "Google a mis à jour ses paramètres de confidentialité, permettant à l'entreprise d'utiliser davantage de données utilisateur pour former ses systèmes d'IA. Les utilisateurs peuvent se désinscrire de cette collecte de données en ajustant leurs paramètres de confidentialité.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/if-you-use-google-youre-training-its-ai-heres-how-to-opt-out/",
+      "publishedAt": "2026-07-06T17:04:58+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "9c8cc755dd557390",
+      "title": "Je surveille",
+      "summary": "L'article discute de la manière dont la représentation des lunettes intelligentes à Hollywood, en particulier dans \"A Man on the Inside\" de Netflix, met en lumière les défis culturels et les attentes irréalistes entourant la technologie. Il soutient que bien que l'industrie du divertissement ait influencé les perceptions des lunettes intelligentes, elle a également contribué à des malentendus sur leurs applications pratiques.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/961707/smart-glasses-ai-wearables-meta-surveillance-privacy",
+      "publishedAt": "2026-07-06T16:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "0c2385307e7bcb13",
+      "title": "Le PDG de Vercel, Guillermo Rauch, sur la lutte pour séparer les modèles des agents",
+      "summary": "Le PDG de Vercel, Guillermo Rauch, discute de l'importance de séparer les modèles des agents dans l'optimisation de la production, soulignant la nécessité de prendre en compte le prix et la performance. Il a partagé ses réflexions lors d'une interview avec TechCrunch.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/vercel-ceo-guillermo-rauch-on-the-fight-to-split-off-models-from-agents/",
+      "publishedAt": "2026-07-06T19:49:10+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "54a9a335e51e2138",
+      "title": "Station F se renforce en tant que tremplin pour les startups IA les plus prometteuses d'Europe",
+      "summary": "Station F, le hub de startups basé à Paris fondé par Xavier Niel, lance une nouvelle édition de son programme d'accélérateur F/ai pour renforcer le soutien aux startups IA émergentes en Europe. L'initiative vise à consolider le rôle de Station F en tant que tremplin clé pour les entreprises innovantes dans le secteur de l'IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/station-f-ramps-up-as-a-launchpad-for-europes-hottest-ai-startups/",
+      "publishedAt": "2026-07-06T13:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "560afa2924d6c4f9",
+      "title": "Reddit utilise des LLM pour résoudre un problème en grande partie créé par les LLM",
+      "summary": "Reddit met en œuvre des modèles de langage de grande taille (LLM) pour lutter contre l'augmentation du contenu indésirable qui a surgi avec l'essor des technologies IA. La plateforme vise à tirer parti de ces outils pour améliorer la modération et maintenir la qualité du contenu généré par les utilisateurs.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/06/reddit-is-using-llms-to-solve-a-problem-llms-largely-created/",
+      "publishedAt": "2026-07-06T15:22:08+00:00",
+      "category": "industry",
+      "relevanceScore": 48
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 5,
-    "articlesSelected": 5
+    "articlesProcessed": 18,
+    "articlesSelected": 12
   }
 }
