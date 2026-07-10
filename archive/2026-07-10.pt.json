@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-10",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-10T10:21:25.062863+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-10T20:20:34.528063+00:00",
   "headline": {
-    "id": "521cb8f5727237af",
-    "title": "Como a Deutsche Telekom está reestruturando as telecomunicações com IA",
-    "summary": "A Deutsche Telekom está integrando tecnologias de IA para melhorar o atendimento ao cliente, otimizar fluxos de trabalho dos funcionários e aprimorar operações de rede. A empresa pretende se tornar um provedor de telecomunicações nativo em IA, aproveitando inovações da OpenAI para transformar seus serviços.",
-    "sourceName": "OpenAI",
-    "sourceIcon": "sparkles",
-    "articleURL": "https://openai.com/index/deutsche-telekom",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "b43e71378e705f60",
+    "title": "SK Hynix levanta US$ 26,5 bilhões na maior IPO estrangeira da história dos EUA, é incentivada a construir novas fábricas nos EUA",
+    "summary": "A SK Hynix levantou US$ 26,5 bilhões na maior IPO estrangeira da história dos EUA, destacando a crescente demanda por chips de IA. Após esse marco, há apelos para que a SK Hynix e a Samsung estabeleçam novas instalações de fabricação de semicondutores nos Estados Unidos.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "publishedAt": "2026-07-10T17:17:12+00:00",
+    "category": "industry",
+    "relevanceScore": 58
   },
   "articles": [
     {
+      "id": "fc328e44cfd52e9f",
+      "title": "A IA de código aberto é mais importante do que nunca, segundo Clem Delangue da Hugging Face",
+      "summary": "O CEO da Hugging Face, Clem Delangue, enfatiza a crescente importância da IA de código aberto, destacando o papel da empresa como uma plataforma para compartilhar e acessar modelos e conjuntos de dados de IA. A plataforma é agora utilizada por aproximadamente metade das empresas da Fortune 500, refletindo uma tendência significativa na indústria.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "publishedAt": "2026-07-10T19:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "4241b326ef15aaef",
+      "title": "Adam Mosseri do Instagram: Se você não gosta de IA, ‘então você não deveria tê-la no seu feed’",
+      "summary": "O chefe do Instagram, Adam Mosseri, afirmou que a plataforma não filtrará conteúdo gerado por IA, sugerindo que os usuários que não gostam disso devem ajustar suas preferências de feed. Ele enfatizou a importância da escolha do usuário na gestão da visibilidade do conteúdo de IA na plataforma durante uma recente entrevista em podcast.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "publishedAt": "2026-07-10T13:45:02+00:00",
+      "category": "opinion",
+      "relevanceScore": 52
+    },
+    {
+      "id": "ce6dcb7b2e6bd319",
+      "title": "Você hospedaria parte de um centro de dados de IA em sua casa?",
+      "summary": "A Sunrun está lançando um programa piloto que permite aos clientes hospedar unidades de computação de centros de dados de IA em suas casas, oferecendo incentivos financeiros pela participação. A iniciativa visa criar uma rede de computação de IA distribuída utilizando espaços residenciais para aumentar o poder de processamento.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "publishedAt": "2026-07-10T13:20:25+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "3003240fd4d5e4fa",
+      "title": "O CEO da Hugging Face sobre por que as empresas não estão mais alugando sua IA",
+      "summary": "O CEO da Hugging Face, Clem Delangue, destaca a crescente tendência das empresas se afastarem do aluguel de soluções de IA em favor de modelos de código aberto, que estão sendo cada vez mais adotados por grandes corporações. A plataforma se tornou um recurso chave para desenvolvedores de IA, semelhante ao GitHub, facilitando o compartilhamento e download de modelos e conjuntos de dados usados por aproximadamente metade da Fortune 500.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "publishedAt": "2026-07-10T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "521cb8f5727237af",
+      "title": "Como a Deutsche Telekom está reestruturando as telecomunicações com IA",
+      "summary": "A Deutsche Telekom está integrando tecnologias de IA para melhorar o atendimento ao cliente, otimizar fluxos de trabalho dos funcionários e aprimorar operações de rede. A empresa visa se estabelecer como um provedor de telecomunicações nativo de IA, aproveitando os avanços em IA, incluindo os da OpenAI.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/deutsche-telekom",
+      "publishedAt": "2026-07-10T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "834e60d7639d6fed",
       "title": "Generalização de valor: correção de valor",
-      "summary": "O artigo discute o conceito de generalização de valor na alinhamento de IA, enfatizando sua importância para garantir que os sistemas de IA possam corrigir suas funções de recompensa quando consideradas incorretas. Apresenta um exemplo específico de aprendizado por reforço onde um agente reconhece e ajusta sua compreensão da verdadeira recompensa com base em demonstrações humanas.",
+      "summary": "O artigo discute o conceito de generalização de valor na alinhamento de IA, enfatizando sua importância e potencial suficiência para alcançar o alinhamento. Apresenta um exemplo específico de um agente de aprendizado por reforço que reconhece e corrige sua função de recompensa potencialmente falha com base em demonstrações humanas.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction",
       "publishedAt": "2026-07-10T07:56:04+00:00",
       "category": "tutorial",
-      "relevanceScore": 55
+      "relevanceScore": 47
     },
     {
       "id": "458e6f7f3d7b154f",
-      "title": "Cães-robôs, Teslas e Helicópteros de Resgate: A Cúpula da ONU sobre IA foi intensa",
-      "summary": "A cúpula da ONU sobre IA para o Bem abordou os desafios da governança global diante do avanço rápido das tecnologias de IA, com discussões sobre várias aplicações, incluindo cães-robôs e helicópteros de resgate. Especialistas enfatizaram a necessidade de estruturas regulatórias que acompanhem os desenvolvimentos em IA para garantir segurança e uso ético.",
+      "title": "Cães-robôs, Teslas e helicópteros de resgate: a Cúpula da IA da ONU foi intensa",
+      "summary": "A cúpula da ONU sobre IA para o bem abordou os desafios da governança global em relação às tecnologias de IA em rápida evolução, apresentando discussões sobre várias aplicações, incluindo cães-robôs e helicópteros de resgate. Os participantes se envolveram em sessões de codificação ao vivo enquanto exploravam a necessidade urgente de estruturas regulatórias para acompanhar o desenvolvimento da IA.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "publishedAt": "2026-07-10T06:00:00+00:00",
       "category": "news",
-      "relevanceScore": 54
+      "relevanceScore": 46
     },
     {
       "id": "2d71d412d8cd3912",
       "title": "As emissões de carbono da Microsoft aumentaram 25% no ano passado",
-      "summary": "As emissões de carbono da Microsoft subiram 25% em 2025, totalizando 34 milhões de toneladas métricas, de acordo com seu relatório de sustentabilidade de 2026. O aumento foi atribuído principalmente aos esforços de expansão da empresa, que dificultaram sua capacidade de cumprir as metas climáticas.",
+      "summary": "As emissões de carbono da Microsoft aumentaram 25% em 2025, totalizando 34 milhões de toneladas métricas, conforme observado em seu relatório de sustentabilidade de 2026. O aumento foi atribuído principalmente aos esforços de expansão da empresa, que impactaram sua capacidade de cumprir metas climáticas.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "publishedAt": "2026-07-10T00:04:13+00:00",
       "category": "news",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
       "id": "54505b08791b1185",
       "title": "OpenAI diz que o GPT 5.6 é o ‘modelo preferido’ para o Microsoft Copilot 365 em meio a rumores de separação",
-      "summary": "A OpenAI anunciou que o GPT 5.6 será o modelo preferido para o Microsoft Copilot 365, garantindo sua integração na suíte de aplicativos de trabalho e produtividade da Microsoft. Esse desenvolvimento ocorre em meio a discussões sobre o futuro da parceria entre a OpenAI e a Microsoft.",
+      "summary": "A OpenAI anunciou que seu modelo GPT 5.6 servirá como o modelo preferido para o Microsoft Copilot 365, garantindo a continuidade da integração com os aplicativos de produtividade da Microsoft. Esse desenvolvimento ocorre em meio a discussões em andamento sobre o futuro da parceria entre a OpenAI e a Microsoft.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "publishedAt": "2026-07-10T00:16:54+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
-      "id": "52f9a2ef1f05bcb4",
-      "title": "Fidji Simo deixa o cargo de número 2 da OpenAI",
-      "summary": "Fidji Simo renunciou ao seu cargo como executiva número 2 da OpenAI após uma longa licença médica. Sua saída cria uma lacuna de liderança para a empresa enquanto se prepara para um potencial IPO e compete com a Anthropic no setor empresarial.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "publishedAt": "2026-07-09T23:38:00+00:00",
-      "category": "industry",
-      "relevanceScore": 52
+      "id": "f06606d313a66d0f",
+      "title": "Uma nova galeria experiencial pode mudar sua opinião sobre a arte de IA",
+      "summary": "A Dataland, descrita como o \"primeiro museu de artes de IA do mundo\", combina wearables e extensos materiais amazônicos para criar uma experiência imersiva que integra natureza, biometria e arte. A galeria visa remodelar as percepções sobre obras de arte geradas por IA por meio de exposições interativas.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "publishedAt": "2026-07-10T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 44
     },
     {
       "id": "9dd06ff2acc7e68a",
-      "title": "Profiling em PyTorch (Parte 3): Atenção é tudo que você perfila",
-      "summary": "O artigo discute a importância de perfilar mecanismos de atenção em PyTorch para otimizar o desempenho em modelos de aprendizado profundo. Fornece insights sobre várias técnicas e ferramentas de perfilagem que podem ajudar os desenvolvedores a identificar gargalos e melhorar a eficiência de seu código.",
+      "title": "Profiling no PyTorch (Parte 3): A atenção é tudo o que você perfila",
+      "summary": "O artigo discute a importância do profiling no PyTorch, focando em como analisar e otimizar mecanismos de atenção dentro de redes neurais. Ele fornece orientações práticas sobre como usar ferramentas de profiling para identificar gargalos de desempenho e melhorar a eficiência do modelo.",
       "sourceName": "Hugging Face",
       "sourceIcon": "face.smiling",
       "articleURL": "https://huggingface.co/blog/torch-attention-profile",
       "publishedAt": "2026-07-10T00:00:00+00:00",
       "category": "research",
-      "relevanceScore": 52
-    },
-    {
-      "id": "3019de4a13a89e32",
-      "title": "OpenAI lança sua nova família de modelos com GPT-5.6",
-      "summary": "A OpenAI lançou sua nova família de modelos, apresentando o GPT-5.6, que inclui melhorias voltadas para várias aplicações, especialmente em cibersegurança. As atualizações são projetadas para melhorar o desempenho e a funcionalidade em múltiplos domínios.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "publishedAt": "2026-07-09T22:24:24+00:00",
-      "category": "industry",
-      "relevanceScore": 51
-    },
-    {
-      "id": "e9036cc9df8797f1",
-      "title": "Uma startup de agentes de IA deixou seu agente conduzir sua captação de $100 milhões",
-      "summary": "A Lyzr, uma startup especializada em agentes de IA para empresas, utilizou com sucesso seu próprio agente de IA para garantir uma rodada de captação de $100 milhões. Essa conquista demonstra a eficácia de seu produto em aplicações do mundo real.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "publishedAt": "2026-07-09T22:08:58+00:00",
-      "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6d793524fc05ed21",
-      "title": "A IA pode responder à pergunta de $3 trilhões?",
-      "summary": "O artigo discute o debate em andamento sobre o retorno sobre investimento (ROI) da inteligência artificial, destacando o impacto econômico potencial estimado em $3 trilhões. Examina as implicações da adoção de IA e os desafios em quantificar seus benefícios financeiros.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "publishedAt": "2026-07-09T21:47:50+00:00",
-      "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "b98a594ec40e8f26",
-      "title": "GPT-5.6 agora é o modelo preferido no Microsoft 365 Copilot",
-      "summary": "A Microsoft integrou o GPT-5.6 em seu 365 Copilot, aprimorando as capacidades de IA em aplicativos como Word, Excel e PowerPoint. Essa atualização visa melhorar a eficiência e a qualidade da produção para os usuários.",
-      "sourceName": "OpenAI",
-      "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "publishedAt": "2026-07-09T13:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 49
-    },
-    {
-      "id": "d42e66b7339a8003",
-      "title": "Correção para vulnerabilidade 0-day do Windows Defender pode permitir que atacantes preencham o disco rígido",
-      "summary": "Uma correção foi lançada para uma vulnerabilidade 0-day do Windows Defender que poderia permitir que atacantes preenchessem um disco rígido. O conflito contínuo entre o pesquisador de segurança NightmareEclipse e a Microsoft persiste, pois a questão permanece sem resolução.",
-      "sourceName": "Ars Technica",
-      "sourceIcon": "desktopcomputer",
-      "articleURL": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "publishedAt": "2026-07-09T20:52:55+00:00",
-      "category": "news",
-      "relevanceScore": 49
+      "relevanceScore": 44
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 282,
+    "articlesProcessed": 59,
     "articlesSelected": 12
   }
 }

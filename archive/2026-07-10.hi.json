@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-10",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-10T10:21:25.062863+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-10T20:20:34.528063+00:00",
   "headline": {
-    "id": "521cb8f5727237af",
-    "title": "कैसे Deutsche Telekom एआई के साथ दूरसंचार को फिर से संरेखित कर रहा है",
-    "summary": "Deutsche Telekom ग्राहक सेवा को बढ़ाने, कर्मचारियों के कार्यप्रवाह को सुव्यवस्थित करने और नेटवर्क संचालन को अनुकूलित करने के लिए एआई तकनीकों को एकीकृत कर रहा है। कंपनी एआई-नेटिव दूरसंचार प्रदाता बनने का लक्ष्य रखती है, OpenAI के नवाचारों का लाभ उठाकर अपनी सेवाओं को बदलने के लिए।",
-    "sourceName": "OpenAI",
-    "sourceIcon": "sparkles",
-    "articleURL": "https://openai.com/index/deutsche-telekom",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "b43e71378e705f60",
+    "title": "SK Hynix ने अमेरिका के इतिहास में सबसे बड़े विदेशी IPO में $26.5B जुटाए, नए अमेरिकी फैब बनाने के लिए कहा गया",
+    "summary": "SK Hynix ने अमेरिका के इतिहास में सबसे बड़े विदेशी IPO में $26.5 बिलियन जुटाए हैं, जो AI चिप्स की बढ़ती मांग को दर्शाता है। इस मील के पत्थर के बाद, SK Hynix और Samsung से अमेरिका में नए सेमीकंडक्टर निर्माण सुविधाएं स्थापित करने की मांग की जा रही है।",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "publishedAt": "2026-07-10T17:17:12+00:00",
+    "category": "industry",
+    "relevanceScore": 58
   },
   "articles": [
     {
+      "id": "fc328e44cfd52e9f",
+      "title": "Hugging Face के Clem Delangue के अनुसार ओपन सोर्स AI पहले से कहीं अधिक महत्वपूर्ण है",
+      "summary": "Hugging Face के CEO Clem Delangue ने ओपन सोर्स AI के बढ़ते महत्व पर जोर दिया, कंपनी की भूमिका को AI मॉडल और डेटासेट साझा करने और एक्सेस करने के प्लेटफॉर्म के रूप में उजागर किया। यह प्लेटफॉर्म अब लगभग आधे Fortune 500 कंपनियों द्वारा उपयोग किया जा रहा है, जो उद्योग में एक महत्वपूर्ण प्रवृत्ति को दर्शाता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "publishedAt": "2026-07-10T19:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "4241b326ef15aaef",
+      "title": "Instagram के Adam Mosseri: अगर आपको AI पसंद नहीं है, 'तो आपको इसे अपने फीड में नहीं होना चाहिए'",
+      "summary": "Instagram के प्रमुख Adam Mosseri ने कहा कि प्लेटफॉर्म AI-जनित सामग्री को फ़िल्टर नहीं करेगा, यह सुझाव देते हुए कि जो उपयोगकर्ता इसे पसंद नहीं करते हैं, उन्हें अपने फीड की प्राथमिकताओं को समायोजित करना चाहिए। उन्होंने हाल ही में एक पॉडकास्ट साक्षात्कार के दौरान प्लेटफॉर्म पर AI सामग्री की दृश्यता प्रबंधित करने में उपयोगकर्ता के विकल्प के महत्व पर जोर दिया।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "publishedAt": "2026-07-10T13:45:02+00:00",
+      "category": "opinion",
+      "relevanceScore": 52
+    },
+    {
+      "id": "ce6dcb7b2e6bd319",
+      "title": "क्या आप अपने घर में AI डेटा सेंटर का एक हिस्सा होस्ट करेंगे?",
+      "summary": "Sunrun एक पायलट कार्यक्रम शुरू कर रहा है जो ग्राहकों को अपने घरों में AI डेटा सेंटर कंप्यूट यूनिट्स होस्ट करने की अनुमति देता है, भागीदारी के लिए वित्तीय प्रोत्साहन प्रदान करता है। इस पहल का उद्देश्य अतिरिक्त प्रोसेसिंग पावर के लिए आवासीय स्थानों का उपयोग करके एक वितरित AI कंप्यूट नेटवर्क बनाना है।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "publishedAt": "2026-07-10T13:20:25+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "3003240fd4d5e4fa",
+      "title": "Hugging Face के CEO ने बताया कि कंपनियां अपने AI को किराए पर लेना क्यों बंद कर रही हैं",
+      "summary": "Hugging Face के CEO Clem Delangue ने कंपनियों के ओपन-सोर्स मॉडल की ओर बढ़ने के बढ़ते रुझान पर जोर दिया, जिन्हें प्रमुख कंपनियों द्वारा तेजी से अपनाया जा रहा है। यह प्लेटफॉर्म AI डेवलपर्स के लिए एक प्रमुख संसाधन बन गया है, जो GitHub के समान है, जो लगभग आधे Fortune 500 द्वारा उपयोग किए जाने वाले मॉडल और डेटासेट को साझा करने और डाउनलोड करने की सुविधा प्रदान करता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "publishedAt": "2026-07-10T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "521cb8f5727237af",
+      "title": "Deutsche Telekom AI के साथ दूरसंचार को फिर से कैसे वायर कर रहा है",
+      "summary": "Deutsche Telekom ग्राहक सेवा को बढ़ाने, कर्मचारी कार्यप्रवाह को सुव्यवस्थित करने और नेटवर्क संचालन को अनुकूलित करने के लिए AI तकनीकों को एकीकृत कर रहा है। कंपनी का लक्ष्य AI में प्रगति का लाभ उठाकर एक AI-नैटिव दूरसंचार प्रदाता के रूप में स्थापित होना है, जिसमें OpenAI से तकनीक भी शामिल है।",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/deutsche-telekom",
+      "publishedAt": "2026-07-10T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "834e60d7639d6fed",
       "title": "मूल्य सामान्यीकरण: मूल्य सुधार",
-      "summary": "यह लेख एआई संरेखण में मूल्य सामान्यीकरण की अवधारणा पर चर्चा करता है, यह बताते हुए कि एआई सिस्टम को अपनी पुरस्कार कार्यों को सुधारने की क्षमता सुनिश्चित करने के लिए यह कितना महत्वपूर्ण है। यह एक विशिष्ट सुदृढीकरण शिक्षण उदाहरण प्रस्तुत करता है जहां एक एजेंट मानव प्रदर्शनों के आधार पर सच्चे पुरस्कार की अपनी समझ को पहचानता और समायोजित करता है।",
+      "summary": "यह लेख AI संरेखण में मूल्य सामान्यीकरण की अवधारणा पर चर्चा करता है, इसके महत्व और संरेखण प्राप्त करने के लिए संभावित पर्याप्तता पर जोर देता है। यह एक विशेष उदाहरण प्रस्तुत करता है जिसमें एक सुदृढीकरण सीखने वाला एजेंट मानव प्रदर्शनों के आधार पर अपनी संभावित दोषपूर्ण पुरस्कार कार्य को पहचानता और सुधारता है।",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction",
       "publishedAt": "2026-07-10T07:56:04+00:00",
       "category": "tutorial",
-      "relevanceScore": 55
+      "relevanceScore": 47
     },
     {
       "id": "458e6f7f3d7b154f",
-      "title": "रोबोट कुत्ते, टेस्ला, और बचाव हेलीकॉप्टर: संयुक्त राष्ट्र एआई शिखर सम्मेलन बहुत कुछ था",
-      "summary": "संयुक्त राष्ट्र का एआई फॉर गुड शिखर सम्मेलन तेजी से उन्नत एआई तकनीकों के सामने वैश्विक शासन की चुनौतियों को संबोधित करता है, जिसमें रोबोट कुत्तों और बचाव हेलीकॉप्टरों सहित विभिन्न अनुप्रयोगों पर चर्चा की गई। विशेषज्ञों ने सुरक्षा और नैतिक उपयोग सुनिश्चित करने के लिए एआई विकास के साथ तालमेल रखने के लिए नियामक ढांचे की आवश्यकता पर जोर दिया।",
+      "title": "रोबोट कुत्ते, टेस्ला, और बचाव हेलीकॉप्टर: UN AI शिखर सम्मेलन बहुत कुछ था",
+      "summary": "UN के AI for Good शिखर सम्मेलन ने तेजी से विकसित हो रहे AI तकनीकों के संबंध में वैश्विक शासन की चुनौतियों को संबोधित किया, जिसमें रोबोट कुत्तों और बचाव हेलीकॉप्टरों सहित विभिन्न अनुप्रयोगों पर चर्चा की गई। प्रतिभागियों ने AI विकास के साथ तालमेल रखने के लिए नियामक ढांचे की तत्काल आवश्यकता की खोज करते हुए लाइव कोडिंग सत्रों में भाग लिया।",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "publishedAt": "2026-07-10T06:00:00+00:00",
       "category": "news",
-      "relevanceScore": 54
+      "relevanceScore": 46
     },
     {
       "id": "2d71d412d8cd3912",
       "title": "Microsoft के कार्बन उत्सर्जन पिछले वर्ष 25 प्रतिशत बढ़ गए",
-      "summary": "Microsoft के कार्बन उत्सर्जन 2025 में 25 प्रतिशत बढ़कर 34 मिलियन मीट्रिक टन हो गए, इसके 2026 स्थिरता रिपोर्ट के अनुसार। इस वृद्धि का मुख्य कारण कंपनी के विस्तार प्रयासों को बताया गया, जिसने इसके जलवायु लक्ष्यों को पूरा करने की क्षमता को बाधित किया।",
+      "summary": "Microsoft के कार्बन उत्सर्जन 2025 में 25 प्रतिशत बढ़कर 34 मिलियन मीट्रिक टन हो गए, जैसा कि इसके 2026 स्थिरता रिपोर्ट में उल्लेख किया गया है। इस वृद्धि का मुख्य रूप से कंपनी के विस्तार प्रयासों से संबंधित है, जिसने इसके जलवायु लक्ष्यों को पूरा करने की क्षमता को प्रभावित किया है।",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "publishedAt": "2026-07-10T00:04:13+00:00",
       "category": "news",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
       "id": "54505b08791b1185",
-      "title": "OpenAI ने कहा कि GPT 5.6 Microsoft Copilot 365 के लिए 'पसंदीदा मॉडल' है",
-      "summary": "OpenAI ने घोषणा की है कि GPT 5.6 Microsoft Copilot 365 के लिए पसंदीदा मॉडल होगा, जो Microsoft के कार्यस्थल और उत्पादकता अनुप्रयोगों के सूट में इसके एकीकरण को सुनिश्चित करता है। यह विकास OpenAI और Microsoft के बीच साझेदारी के भविष्य के बारे में चल रही चर्चाओं के बीच आया है।",
+      "title": "OpenAI ने कहा कि GPT 5.6 Microsoft Copilot 365 के लिए 'पसंदीदा मॉडल' है, जबकि ब्रेकअप की चर्चा चल रही है",
+      "summary": "OpenAI ने घोषणा की है कि इसका GPT 5.6 मॉडल Microsoft Copilot 365 के लिए पसंदीदा मॉडल के रूप में कार्य करेगा, Microsoft के उत्पादकता अनुप्रयोगों के साथ निरंतर एकीकरण सुनिश्चित करेगा। यह विकास OpenAI और Microsoft के बीच साझेदारी के भविष्य के बारे में चल रही चर्चाओं के बीच आया है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "publishedAt": "2026-07-10T00:16:54+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
-      "id": "52f9a2ef1f05bcb4",
-      "title": "Fidji Simo ने OpenAI के नंबर 2 पद से इस्तीफा दिया",
-      "summary": "Fidji Simo ने एक विस्तारित चिकित्सा अवकाश के बाद OpenAI के नंबर 2 कार्यकारी के पद से इस्तीफा दे दिया है। उनकी departure कंपनी के लिए एक नेतृत्व की कमी पैदा करती है क्योंकि यह संभावित आईपीओ के लिए तैयारी कर रही है और एंथ्रोपिक के साथ प्रतिस्पर्धा कर रही है।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "publishedAt": "2026-07-09T23:38:00+00:00",
-      "category": "industry",
-      "relevanceScore": 52
+      "id": "f06606d313a66d0f",
+      "title": "एक नया अनुभवात्मक गैलरी शायद आपको AI कला के बारे में अपना मन बदलने पर मजबूर कर दे",
+      "summary": "Dataland, जिसे 'AI कला का दुनिया का पहला संग्रहालय' कहा जाता है, पहनने योग्य और व्यापक अमेज़नियन सामग्रियों को मिलाकर एक इमर्सिव अनुभव बनाता है जो प्रकृति, बायोमेट्रिक्स और कला को एकीकृत करता है। गैलरी का उद्देश्य इंटरैक्टिव प्रदर्शनों के माध्यम से AI-जनित कला के प्रति धारणाओं को फिर से आकार देना है।",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "publishedAt": "2026-07-10T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 44
     },
     {
       "id": "9dd06ff2acc7e68a",
-      "title": "PyTorch में प्रोफाइलिंग (भाग 3): ध्यान ही सब कुछ है",
-      "summary": "यह लेख PyTorch में ध्यान तंत्र की प्रोफाइलिंग के महत्व पर चर्चा करता है ताकि गहरे शिक्षण मॉडलों में प्रदर्शन को अनुकूलित किया जा सके। यह विभिन्न प्रोफाइलिंग तकनीकों और उपकरणों की जानकारी प्रदान करता है जो डेवलपर्स को बाधाओं की पहचान करने और उनके कोड की दक्षता में सुधार करने में मदद कर सकते हैं।",
+      "title": "PyTorch में प्रोफाइलिंग (भाग 3): ध्यान ही आपकी प्रोफाइल है",
+      "summary": "यह लेख PyTorch में प्रोफाइलिंग के महत्व पर चर्चा करता है, यह बताते हुए कि कैसे न्यूरल नेटवर्क के भीतर ध्यान तंत्र का विश्लेषण और अनुकूलन किया जाए। यह प्रदर्शन बाधाओं की पहचान करने और मॉडल की दक्षता में सुधार करने के लिए प्रोफाइलिंग उपकरणों का उपयोग करने पर व्यावहारिक मार्गदर्शन प्रदान करता है।",
       "sourceName": "Hugging Face",
       "sourceIcon": "face.smiling",
       "articleURL": "https://huggingface.co/blog/torch-attention-profile",
       "publishedAt": "2026-07-10T00:00:00+00:00",
       "category": "research",
-      "relevanceScore": 52
-    },
-    {
-      "id": "3019de4a13a89e32",
-      "title": "OpenAI ने GPT-5.6 के साथ अपने नए मॉडल परिवार की शुरुआत की",
-      "summary": "OpenAI ने अपने नए मॉडल परिवार की शुरुआत की है, जिसमें GPT-5.6 शामिल है, जो विभिन्न अनुप्रयोगों, विशेष रूप से साइबर सुरक्षा में सुधार के लिए लक्षित है। ये अपडेट विभिन्न क्षेत्रों में प्रदर्शन और कार्यक्षमता में सुधार के लिए डिज़ाइन किए गए हैं।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "publishedAt": "2026-07-09T22:24:24+00:00",
-      "category": "industry",
-      "relevanceScore": 51
-    },
-    {
-      "id": "e9036cc9df8797f1",
-      "title": "एक एआई एजेंट स्टार्टअप ने अपने एजेंट को $100M फंडरेज़ चलाने दिया",
-      "summary": "Lyzr, एक स्टार्टअप जो उद्यमों के लिए एआई एजेंटों में विशेषज्ञता रखता है, ने सफलतापूर्वक अपने स्वयं के एआई एजेंट का उपयोग करके $100 मिलियन की फंडरेज़िंग राउंड सुरक्षित की। यह उपलब्धि इसके उत्पाद की वास्तविक दुनिया में प्रभावशीलता को दर्शाती है।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "publishedAt": "2026-07-09T22:08:58+00:00",
-      "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6d793524fc05ed21",
-      "title": "क्या एआई $3 ट्रिलियन के सवाल का जवाब दे सकता है?",
-      "summary": "यह लेख कृत्रिम बुद्धिमत्ता (एआई) के निवेश पर वापसी (ROI) के चारों ओर चल रही बहस पर चर्चा करता है, जिसमें संभावित आर्थिक प्रभाव का अनुमान $3 ट्रिलियन है। यह एआई अपनाने के प्रभावों और इसके वित्तीय लाभों को मापने में चुनौतियों की जांच करता है।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "publishedAt": "2026-07-09T21:47:50+00:00",
-      "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "b98a594ec40e8f26",
-      "title": "GPT-5.6 अब Microsoft 365 Copilot में पसंदीदा मॉडल है",
-      "summary": "Microsoft ने GPT-5.6 को अपने 365 Copilot में एकीकृत किया है, जो Word, Excel और PowerPoint जैसे अनुप्रयोगों में एआई क्षमताओं को बढ़ाता है। यह अपडेट उपयोगकर्ताओं के लिए दक्षता और आउटपुट गुणवत्ता में सुधार करने का लक्ष्य रखता है।",
-      "sourceName": "OpenAI",
-      "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "publishedAt": "2026-07-09T13:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 49
-    },
-    {
-      "id": "d42e66b7339a8003",
-      "title": "Windows Defender 0-day के लिए पैच हमलावरों को हार्ड डिस्क भरने की अनुमति दे सकता है",
-      "summary": "एक पैच जारी किया गया है जो Windows Defender 0-day भेद्यता के लिए है, जो हमलावरों को हार्ड डिस्क भरने की अनुमति दे सकता है। सुरक्षा शोधकर्ता NightmareEclipse और Microsoft के बीच चल रहा संघर्ष जारी है क्योंकि यह मुद्दा अनसुलझा है।",
-      "sourceName": "Ars Technica",
-      "sourceIcon": "desktopcomputer",
-      "articleURL": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "publishedAt": "2026-07-09T20:52:55+00:00",
-      "category": "news",
-      "relevanceScore": 49
+      "relevanceScore": 44
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 282,
+    "articlesProcessed": 59,
     "articlesSelected": 12
   }
 }

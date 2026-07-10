@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-10",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-10T10:21:25.062863+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-10T20:20:34.528063+00:00",
   "headline": {
-    "id": "521cb8f5727237af",
-    "title": "Comment Deutsche Telekom réinvente les télécommunications avec l'IA",
-    "summary": "Deutsche Telekom intègre des technologies d'IA pour améliorer le service client, rationaliser les flux de travail des employés et optimiser les opérations réseau. L'entreprise vise à devenir un fournisseur de télécommunications natif de l'IA, en s'appuyant sur les innovations d'OpenAI pour transformer ses services.",
-    "sourceName": "OpenAI",
-    "sourceIcon": "sparkles",
-    "articleURL": "https://openai.com/index/deutsche-telekom",
-    "publishedAt": "2026-07-10T07:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "b43e71378e705f60",
+    "title": "SK Hynix lève 26,5 milliards de dollars lors de la plus grande introduction en bourse étrangère de l'histoire des États-Unis, pressé de construire de nouvelles usines aux États-Unis",
+    "summary": "SK Hynix a levé 26,5 milliards de dollars lors de la plus grande introduction en bourse étrangère de l'histoire des États-Unis, soulignant la demande croissante pour les puces AI. Suite à cette étape, des appels sont lancés pour que SK Hynix et Samsung établissent de nouvelles installations de fabrication de semi-conducteurs aux États-Unis.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/10/sk-hynix-raises-26-5b-in-the-biggest-foreign-ipo-in-us-history-is-urged-to-build-new-us-fabs/",
+    "publishedAt": "2026-07-10T17:17:12+00:00",
+    "category": "industry",
+    "relevanceScore": 58
   },
   "articles": [
     {
+      "id": "fc328e44cfd52e9f",
+      "title": "L'IA open source est plus importante que jamais, selon Clem Delangue de Hugging Face",
+      "summary": "Le PDG de Hugging Face, Clem Delangue, souligne l'importance croissante de l'IA open source, mettant en avant le rôle de l'entreprise en tant que plateforme de partage et d'accès aux modèles et ensembles de données AI. La plateforme est désormais utilisée par environ la moitié des entreprises du Fortune 500, reflétant une tendance significative dans l'industrie.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+      "publishedAt": "2026-07-10T19:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "4241b326ef15aaef",
+      "title": "Adam Mosseri d'Instagram : Si vous n'aimez pas l'IA, « alors vous ne devriez pas l'avoir dans votre fil »",
+      "summary": "Le responsable d'Instagram, Adam Mosseri, a déclaré que la plateforme ne filtrera pas le contenu généré par l'IA, suggérant que les utilisateurs qui n'aiment pas cela devraient ajuster leurs préférences de fil. Il a souligné l'importance du choix des utilisateurs dans la gestion de la visibilité du contenu AI sur la plateforme lors d'une récente interview de podcast.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+      "publishedAt": "2026-07-10T13:45:02+00:00",
+      "category": "opinion",
+      "relevanceScore": 52
+    },
+    {
+      "id": "ce6dcb7b2e6bd319",
+      "title": "Seriez-vous prêt à héberger une partie d'un centre de données AI chez vous ?",
+      "summary": "Sunrun lance un programme pilote permettant aux clients d'héberger des unités de calcul de centre de données AI chez eux, offrant des incitations financières pour la participation. L'initiative vise à créer un réseau de calcul AI distribué en utilisant des espaces résidentiels pour un pouvoir de traitement supplémentaire.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
+      "publishedAt": "2026-07-10T13:20:25+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "3003240fd4d5e4fa",
+      "title": "Le PDG de Hugging Face sur pourquoi les entreprises en ont fini de louer leur IA",
+      "summary": "Le PDG de Hugging Face, Clem Delangue, met en avant la tendance croissante des entreprises à s'éloigner de la location de solutions AI au profit de modèles open source, qui sont de plus en plus adoptés par de grandes entreprises. La plateforme est devenue une ressource clé pour les développeurs AI, semblable à GitHub, facilitant le partage et le téléchargement de modèles et d'ensembles de données utilisés par environ la moitié des entreprises du Fortune 500.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/10/hugging-faces-ceo-on-why-companies-are-done-renting-their-ai/",
+      "publishedAt": "2026-07-10T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "521cb8f5727237af",
+      "title": "Comment Deutsche Telekom réinvente les télécommunications avec l'IA",
+      "summary": "Deutsche Telekom intègre des technologies AI pour améliorer le service client, rationaliser les flux de travail des employés et optimiser les opérations réseau. L'entreprise vise à se positionner comme un fournisseur de télécommunications natif de l'IA en tirant parti des avancées en IA, y compris celles d'OpenAI.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/deutsche-telekom",
+      "publishedAt": "2026-07-10T07:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "834e60d7639d6fed",
-      "title": "Généralisation de la valeur : correction de valeur",
-      "summary": "L'article aborde le concept de généralisation de la valeur dans l'alignement de l'IA, soulignant son importance pour garantir que les systèmes d'IA peuvent corriger leurs fonctions de récompense lorsqu'elles sont jugées incorrectes. Il présente un exemple spécifique d'apprentissage par renforcement où un agent reconnaît et ajuste sa compréhension de la véritable récompense en fonction des démonstrations humaines.",
+      "title": "Généralisation des valeurs : correction des valeurs",
+      "summary": "L'article aborde le concept de généralisation des valeurs dans l'alignement de l'IA, soulignant son importance et son potentiel de suffisance pour atteindre l'alignement. Il présente un exemple spécifique d'un agent d'apprentissage par renforcement qui reconnaît et corrige sa fonction de récompense potentiellement défaillante sur la base de démonstrations humaines.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/iPyJfD9Jyxj6Jfdws/value-generalisation-value-correction",
       "publishedAt": "2026-07-10T07:56:04+00:00",
       "category": "tutorial",
-      "relevanceScore": 55
+      "relevanceScore": 47
     },
     {
       "id": "458e6f7f3d7b154f",
       "title": "Chiens robots, Teslas et hélicoptères de sauvetage : le sommet de l'IA de l'ONU était riche en contenu",
-      "summary": "Le sommet de l'ONU sur l'IA pour le bien a abordé les défis de la gouvernance mondiale face à l'avancement rapide des technologies d'IA, avec des discussions sur diverses applications, y compris les chiens robots et les hélicoptères de sauvetage. Les experts ont souligné la nécessité de cadres réglementaires pour suivre le rythme des développements de l'IA afin d'assurer la sécurité et l'utilisation éthique.",
+      "summary": "Le sommet de l'ONU sur l'IA pour le bien a abordé les défis de la gouvernance mondiale en relation avec les technologies AI en rapide évolution, avec des discussions sur diverses applications, y compris les chiens robots et les hélicoptères de sauvetage. Les participants ont participé à des sessions de codage en direct tout en explorant le besoin urgent de cadres réglementaires pour suivre le développement de l'IA.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/robot-dogs-teslas-and-rescue-helicopters-the-un-ai-summit-was-alot/",
       "publishedAt": "2026-07-10T06:00:00+00:00",
       "category": "news",
-      "relevanceScore": 54
+      "relevanceScore": 46
     },
     {
       "id": "2d71d412d8cd3912",
       "title": "Les émissions de carbone de Microsoft ont augmenté de 25 % l'année dernière",
-      "summary": "Les émissions de carbone de Microsoft ont augmenté de 25 % en 2025, atteignant un total de 34 millions de tonnes métriques, selon son rapport de durabilité 2026. Cette augmentation a été principalement attribuée aux efforts d'expansion de l'entreprise, qui ont entravé sa capacité à atteindre ses objectifs climatiques.",
+      "summary": "Les émissions de carbone de Microsoft ont augmenté de 25 % en 2025, totalisant 34 millions de tonnes métriques, comme indiqué dans son rapport de durabilité 2026. Cette augmentation a été attribuée principalement aux efforts d'expansion de l'entreprise, qui ont impacté sa capacité à atteindre ses objectifs climatiques.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/963728/microsoft-sustainability-report-2026",
       "publishedAt": "2026-07-10T00:04:13+00:00",
       "category": "news",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
       "id": "54505b08791b1185",
-      "title": "OpenAI annonce que GPT 5.6 est le ‘modèle préféré’ pour Microsoft Copilot 365 au milieu des rumeurs de séparation",
-      "summary": "OpenAI a annoncé que GPT 5.6 sera le modèle préféré pour Microsoft Copilot 365, garantissant son intégration dans la suite d'applications de travail et de productivité de Microsoft. Ce développement intervient dans un contexte de discussions en cours sur l'avenir du partenariat entre OpenAI et Microsoft.",
+      "title": "OpenAI déclare que GPT 5.6 est le « modèle préféré » pour Microsoft Copilot 365 au milieu des rumeurs de séparation",
+      "summary": "OpenAI a annoncé que son modèle GPT 5.6 servira de modèle préféré pour Microsoft Copilot 365, assurant une intégration continue avec les applications de productivité de Microsoft. Ce développement intervient dans un contexte de discussions en cours concernant l'avenir du partenariat entre OpenAI et Microsoft.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/09/openai-says-gpt-5-6-is-the-preferred-model-for-microsoft-copilot-amid-breakup-chatter/",
       "publishedAt": "2026-07-10T00:16:54+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 44
     },
     {
-      "id": "52f9a2ef1f05bcb4",
-      "title": "Fidji Simo démissionne de son poste de numéro 2 chez OpenAI",
-      "summary": "Fidji Simo a démissionné de son poste de numéro 2 chez OpenAI après un congé médical prolongé. Son départ crée un vide de leadership pour l'entreprise alors qu'elle se prépare à une éventuelle introduction en bourse et concurrence avec Anthropic dans le secteur des entreprises.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/fidji-simo-steps-down-from-openais-no-2-role/",
-      "publishedAt": "2026-07-09T23:38:00+00:00",
-      "category": "industry",
-      "relevanceScore": 52
+      "id": "f06606d313a66d0f",
+      "title": "Une nouvelle galerie expérientielle pourrait bien changer votre avis sur l'art AI",
+      "summary": "Dataland, décrit comme le « premier musée d'art AI au monde », combine des dispositifs portables et des matériaux amazonien extensifs pour créer une expérience immersive qui intègre nature, biométrie et art. La galerie vise à remodeler les perceptions de l'art généré par l'IA à travers des expositions interactives.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "publishedAt": "2026-07-10T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 44
     },
     {
       "id": "9dd06ff2acc7e68a",
       "title": "Profilage dans PyTorch (Partie 3) : L'attention est tout ce que vous profilez",
-      "summary": "L'article discute de l'importance du profilage des mécanismes d'attention dans PyTorch pour optimiser les performances des modèles d'apprentissage profond. Il fournit des informations sur diverses techniques et outils de profilage qui peuvent aider les développeurs à identifier les goulets d'étranglement et à améliorer l'efficacité de leur code.",
+      "summary": "L'article discute de l'importance du profilage dans PyTorch, en se concentrant sur la manière d'analyser et d'optimiser les mécanismes d'attention au sein des réseaux de neurones. Il fournit des conseils pratiques sur l'utilisation des outils de profilage pour identifier les goulets d'étranglement de performance et améliorer l'efficacité des modèles.",
       "sourceName": "Hugging Face",
       "sourceIcon": "face.smiling",
       "articleURL": "https://huggingface.co/blog/torch-attention-profile",
       "publishedAt": "2026-07-10T00:00:00+00:00",
       "category": "research",
-      "relevanceScore": 52
-    },
-    {
-      "id": "3019de4a13a89e32",
-      "title": "OpenAI lance sa nouvelle famille de modèles avec GPT-5.6",
-      "summary": "OpenAI a lancé sa nouvelle famille de modèles, avec GPT-5.6, qui comprend des améliorations destinées à diverses applications, notamment en cybersécurité. Les mises à jour sont conçues pour améliorer les performances et la fonctionnalité dans plusieurs domaines.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/openai-launches-its-new-family-of-models-with-gpt-5-6/",
-      "publishedAt": "2026-07-09T22:24:24+00:00",
-      "category": "industry",
-      "relevanceScore": 51
-    },
-    {
-      "id": "e9036cc9df8797f1",
-      "title": "Une startup d'agents IA vient de laisser son agent gérer sa levée de fonds de 100 millions de dollars",
-      "summary": "Lyzr, une startup spécialisée dans les agents IA pour les entreprises, a réussi à utiliser son propre agent IA pour sécuriser un tour de financement de 100 millions de dollars. Cet exploit démontre l'efficacité de son produit dans des applications réelles.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/an-ai-agent-startup-just-let-its-agent-run-its-100-million-fundraise/",
-      "publishedAt": "2026-07-09T22:08:58+00:00",
-      "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6d793524fc05ed21",
-      "title": "L'IA peut-elle répondre à la question de 3 trillions de dollars ?",
-      "summary": "L'article aborde le débat en cours concernant le retour sur investissement (ROI) de l'intelligence artificielle, soulignant l'impact économique potentiel estimé à 3 trillions de dollars. Il examine les implications de l'adoption de l'IA et les défis liés à la quantification de ses avantages financiers.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/09/can-ai-answer-the-3-trillion-question/",
-      "publishedAt": "2026-07-09T21:47:50+00:00",
-      "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "b98a594ec40e8f26",
-      "title": "GPT-5.6 est désormais le modèle préféré dans Microsoft 365 Copilot",
-      "summary": "Microsoft a intégré GPT-5.6 dans son 365 Copilot, améliorant les capacités d'IA dans des applications comme Word, Excel et PowerPoint. Cette mise à jour vise à améliorer l'efficacité et la qualité de production pour les utilisateurs.",
-      "sourceName": "OpenAI",
-      "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
-      "publishedAt": "2026-07-09T13:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 49
-    },
-    {
-      "id": "d42e66b7339a8003",
-      "title": "Patch pour une vulnérabilité 0-day de Windows Defender pourrait permettre aux attaquants de remplir le disque dur",
-      "summary": "Un patch a été publié pour une vulnérabilité 0-day de Windows Defender qui pourrait permettre aux attaquants de remplir un disque dur. Le conflit entre le chercheur en sécurité NightmareEclipse et Microsoft se poursuit alors que le problème reste non résolu.",
-      "sourceName": "Ars Technica",
-      "sourceIcon": "desktopcomputer",
-      "articleURL": "https://arstechnica.com/security/2026/07/patch-for-windows-defender-0-day-could-allow-attackers-to-fill-hard-disk/",
-      "publishedAt": "2026-07-09T20:52:55+00:00",
-      "category": "news",
-      "relevanceScore": 49
+      "relevanceScore": 44
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 282,
+    "articlesProcessed": 59,
     "articlesSelected": 12
   }
 }
