@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-11",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-11T08:44:39.368658+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-11T20:04:34.752452+00:00",
   "headline": {
-    "id": "2f740088b3181b63",
-    "title": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Hardware-Geheimnissen",
-    "summary": "Apple hat eine Klage gegen OpenAI eingereicht und behauptet, dass ehemalige Apple-Mitarbeiter Geschäftsgeheimnisse gestohlen haben, um OpenAIs Hardware-Entwicklung zu nutzen. Die Klage umfasst auch IO Products, das von Jony Ive gegründete Hardware-Startup, als Beklagten.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-    "publishedAt": "2026-07-10T21:36:51+00:00",
-    "category": "news",
-    "relevanceScore": 53
+    "id": "37c2103cb41f944f",
+    "title": "OpenAI setzt auf Familien, während ChatGPT tiefer in Haushalte eindringt",
+    "summary": "OpenAI sucht einen Produktmanager, um ChatGPT-Erlebnisse für Familien, Pflegekräfte und ältere Erwachsene zu entwickeln, wie eine aktuelle Stellenanzeige zeigt. Dieser Schritt spiegelt die Strategie des Unternehmens wider, seine KI-Angebote in Haushaltsumgebungen auszubauen.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "publishedAt": "2026-07-11T14:13:00+00:00",
+    "category": "industry",
+    "relevanceScore": 48
   },
   "articles": [
     {
+      "id": "2f740088b3181b63",
+      "title": "Apple verklagt OpenAI wegen angeblichen Diebstahls von Hardware-Geheimnissen",
+      "summary": "Apple hat eine Klage gegen OpenAI eingereicht und behauptet, dass ehemalige Apple-Mitarbeiter im KI-Startup Handelsgeheimnisse im Zusammenhang mit der Hardware-Entwicklung gestohlen haben. Die Klage umfasst auch IO Products, das von Jony Ive gegründete Hardware-Unternehmen, als Beklagten.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "publishedAt": "2026-07-10T21:36:51+00:00",
+      "category": "news",
+      "relevanceScore": 44
+    },
+    {
       "id": "462eb2a3daa1bec0",
       "title": "OpenAIs Sicherheitschef verlässt das Unternehmen",
-      "summary": "Der Sicherheitschef von OpenAI, Johannes Heidecke, verlässt das Unternehmen, während es versucht, seine Forschungs- und Sicherheitsteams besser zu integrieren. Sein Weggang markiert einen bedeutenden Wandel in einer Phase der organisatorischen Umstrukturierung innerhalb des Unternehmens.",
+      "summary": "Der Sicherheitschef von OpenAI, Johannes Heidecke, verlässt das Unternehmen im Zuge von Bemühungen, die Forschungs- und Sicherheitsteams besser zu integrieren. Sein Weggang markiert einen bedeutenden Wandel, während OpenAI weiterhin darauf abzielt, seine Sicherheitsprotokolle zu verbessern.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/openai-head-of-safety-leaving/",
       "publishedAt": "2026-07-11T01:07:26+00:00",
       "category": "news",
-      "relevanceScore": 51
+      "relevanceScore": 42
     },
     {
       "id": "c0d2b9d91b618ee7",
       "title": "Infinity-Parser2 Technischer Bericht",
-      "summary": "Infinity-Parser2 ist ein großes multimodales Modell, das für die End-to-End-Dokumentenverarbeitung entwickelt wurde und eine steuerbare Datensynthese-Pipeline sowie Multi-Task-Verstärkungslernen nutzt, um den Mangel an annotierten Parsing-Korpora zu mildern. Das Modell verfügt über eine skalierbare Synthese-Engine, die ein steuerbares Rendering-Framework mit einem iterativen Verfeinerungsprozess kombiniert, und die Autoren haben das System als Open Source bereitgestellt.",
+      "summary": "Infinity-Parser2 ist ein neues großes multimodales Modell, das für die End-to-End-Dokumentenparsing entwickelt wurde und eine steuerbare Daten-Synthese-Pipeline mit Multi-Task-Verstärkungslernen integriert. Das Modell zielt darauf ab, den Mangel an genau annotierten Parsing-Korpora zu beheben, indem es eine skalierbare Synthese-Engine und einen iterativen Verfeinerungsprozess nutzt.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.07836",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "d7f8691699b84be1",
-      "title": "Verschiedene Lehrer, verschiedene Fähigkeiten: Sub-1B On-Device-Destillation zur strukturierten Textanreicherung",
-      "summary": "Der Artikel diskutiert eine Methode zur Destillation eines großen Modells mit 8 Milliarden Parametern in ein kleineres Modell mit 0,6 Milliarden Parametern zur strukturierten Textextraktion, mit dem Ziel, Latenz und Kosten zu reduzieren und gleichzeitig eine vergleichbare Ausgabequalität aufrechtzuerhalten. Die Studie bewertet die Leistung des destillierten Modells in verschiedenen Unteraufgaben und demonstriert dessen Effektivität bei der Generierung von JSON-Objekten mit Zusammenfassungen und kategorischen Labels aus Nachrichtenartikeln.",
+      "title": "Verschiedene Lehrer, verschiedene Fähigkeiten: Sub-1B On-Device-Destillation zur Anreicherung strukturierter Texte",
+      "summary": "Der Artikel diskutiert eine Methode zur On-Device-Destillation der strukturierten Textextraktion, die die Größe eines großen 8B-Modells auf ein kleineres 0,6B-Modell reduziert, während die vergleichbare Ausgabequalität erhalten bleibt. Die Studie bewertet die Leistung dieses destillierten Modells über verschiedene Unteraufgaben und zeigt seine Effizienz bei der Generierung von JSON-Objekten mit Zusammenfassungen und kategorischen Labels.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.08268",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "26db6a7b0798ce50",
       "title": "Anwendung von JEPA-Stil prädiktivem Lernen auf JA4-abgeleitete Netzwerkfingerabdrücke",
-      "summary": "Forscher haben JA4-JEPA entwickelt, ein auf Transformer basierendes Modell, das prädiktives Lernen im JEPA-Stil auf kompakte Netzwerkfingerabdrücke anwendet und Daten aus JA4DB und CIC-IDS-2017 nutzt. Das Modell wird mit etwa 397.000 Proben aus verschiedenen Teilbereichen trainiert, um die Effektivität dieses Ansatzes in der Netzwerk-Analyse zu bewerten.",
+      "summary": "Forscher haben ein auf Transformer basierendes Modell namens JA4-JEPA entwickelt, das prädiktives Lernen im JEPA-Stil auf kompakte Netzwerkfingerabdrücke anwendet, die aus JA4-Unterfeldern abgeleitet sind. Das Modell wird mit etwa 397.000 Proben aus den JA4DB- und CIC-IDS-2017-Datensätzen trainiert, um die Wirksamkeit dieses Ansatzes in der Netzwerk-Analyse zu bewerten.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.08465",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "cc2f86ec0838ab3a",
       "title": "DreamCharacter-1: Von 3D-generativen Grundmodellen zur produktionsbereiten Charaktergenerierung",
-      "summary": "DreamCharacter-1 ist ein neues Framework, das entwickelt wurde, um vortrainierte 3D-Grundmodelle für die hochauflösende Charaktergenerierung in Produktionsumgebungen zu verfeinern. Es umfasst drei Hauptkomponenten: Geometrie-Nachtraining für verbesserte Oberflächendetails, Textur-Nachtraining für hochauflösende Textursynthese und ein Charakter-Rigging-Modul für verbesserte Animationsfähigkeiten.",
+      "summary": "DreamCharacter-1 ist ein neues Framework, das entwickelt wurde, um vortrainierte 3D-Grundmodelle für die hochwertige Charaktergenerierung zu verfeinern und Verbesserungen in Geometrie und Textur zu bieten. Das System umfasst drei Komponenten, die sich auf die Optimierung von Oberflächendetails und die Synthese hochauflösender Texturen konzentrieren, um produktionsbereite 3D-Charaktere zu erzeugen.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.07817",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "baf224e0b4cc52a2",
-      "title": "3100 Meinungen zur Code-Überprüfung in einer KI-Welt: Kausale Theorie aus dem Diskurs von Praktikern aufbauen",
-      "summary": "Der Artikel untersucht die Auswirkungen von KI-Coding-Agenten auf den Code-Überprüfungsprozess und hebt unterschiedliche Meinungen unter Praktikern bezüglich der Notwendigkeit menschlicher Überprüfung und deren Auswirkungen auf das Verständnis von Code hervor. Er kritisiert bestehende Repository-Mining-Studien, da ihnen die Tiefe fehlt, um die zugrunde liegenden Mechanismen der beobachteten Trends in den Praktiken der Code-Überprüfung zu erklären.",
+      "title": "3100 Meinungen zur Code-Überprüfung in einer KI-Welt: Aufbau einer kausalen Theorie aus dem Diskurs von Praktikern",
+      "summary": "Der Artikel untersucht die Auswirkungen von KI-Coding-Agenten auf die Praktiken der Code-Überprüfung und hebt eine Kluft unter den Praktikern hinsichtlich der Notwendigkeit menschlicher Überprüfung und des potenziellen Verlusts des Verständnisses im Prozess hervor. Er kritisiert bestehende Repository-Mining-Studien aufgrund ihres Mangels an Tiefe bei der Erklärung der zugrunde liegenden Mechanismen beobachteter Trends in der Dynamik der Code-Überprüfung.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.07980",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "50b9664f214f939d",
-      "title": "SpO$_2$ Prädiktor-gesteuerte stufenweise Zeit-Frequenz-Rekonstruktion von niederqualitativem Dual-Wellenlängen-PPG zur Schätzung der Sauerstoffsättigung",
-      "summary": "Der Artikel präsentiert einen neuartigen Ansatz zur Schätzung der Sauerstoffsättigung (SpO$_2$) unter Verwendung von niederqualitativem Dual-Wellenlängen-Photoplethysmographie (PPG) durch Anwendung einer prädiktor-gesteuerten stufenweisen Zeit-Frequenz-Rekonstruktionsmethode. Diese Technik zielt darauf ab, die Genauigkeit der SpO$_2$-Vorhersage zu verbessern, indem sie die Einschränkungen bestehender Rauschunterdrückungs- und Rekonstruktionsmethoden adressiert, die oft die Wellenformtreue beeinträchtigen.",
+      "title": "SpO$_2$ Prädiktor-gesteuerte stufenweise Zeit-Frequenz-Rekonstruktion von niederqualitativen Dual-Wellenlängen-PPG zur Schätzung der Sauerstoffsättigung",
+      "summary": "Der Artikel präsentiert eine neuartige Methode zur Schätzung der Sauerstoffsättigung (SpO$_2$) aus niederqualitativen Dual-Wellenlängen-Photoplethysmographie (PPG)-Signalen unter Verwendung eines stufenweisen Zeit-Frequenz-Rekonstruktionsansatzes. Diese Technik zielt darauf ab, die Vorhersagegenauigkeit von SpO$_2$ zu verbessern, indem sie die Einschränkungen bestehender Rauschunterdrückungsmethoden adressiert, die sich hauptsächlich auf die Wellenformtreue oder Herzfrequenzeigenschaften konzentrieren.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.07996",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "83391fe6c34da927",
-      "title": "PS4: Proxy-überwachtes gemeinsames Training zur Extraktion von Zielsprechern in realen Gesprächsmischungen",
-      "summary": "Der Artikel stellt PS4 vor, ein proxy-überwachtes Trainingsframework, das für die Extraktion von Zielsprechern (TSE) in realen Gesprächsmischungen entwickelt wurde und die Herausforderungen adressiert, die durch den Mangel an großflächigen Trainingsdaten und sauberen Zielsprechern entstehen. Das Framework umfasst ein neu konstruiertes Korpus von 71.771 Trainingsproben, die aus vier öffentlichen Datensätzen stammen und sowohl Chinesisch als auch Englisch umfassen.",
+      "title": "PS4: Proxy-überwachtes gemeinsames Training zur Extraktion des Zielsprechers in realen Gesprächen",
+      "summary": "Der Artikel stellt PS4 vor, ein proxy-überwachtes Trainingsframework, das entwickelt wurde, um die Extraktion des Zielsprechers (TSE) in realen Gesprächsmischungen zu verbessern und die Herausforderungen zu adressieren, die durch den Mangel an großflächigen Trainingsdaten und sauberem Zielgespräch entstehen. Das Framework basiert auf einem großflächigen Korpus von 71.771 Trainingsproben, die aus vier öffentlichen Datensätzen stammen und sowohl Chinesisch als auch Englisch umfassen.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.08111",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "912cdd3cd71d858d",
-      "title": "ICDAR 2026 HIPE-OCRepair-Wettbewerb zur LLM-unterstützten OCR-Nachkorrektur für historische Dokumente",
-      "summary": "Der ICDAR 2026 HIPE-OCRepair-Wettbewerb konzentrierte sich auf die Nutzung großer Sprachmodelle (LLMs) zur Nachkorrektur von OCR-Fehlern in historischen Dokumenten. Der Wettbewerb hebt die anhaltenden Herausforderungen bei der digitalen Erhaltung des Erbes hervor, insbesondere bei der Behebung von Legacy-OCR-Unzulänglichkeiten, ohne umfangreiche Sammlungen erneut zu digitalisieren.",
+      "title": "ICDAR 2026 HIPE-OCRepair Wettbewerb zur LLM-unterstützten OCR-Nachkorrektur für historische Dokumente",
+      "summary": "Der ICDAR 2026 HIPE-OCRepair-Wettbewerb konzentrierte sich auf die Nutzung großer Sprachmodelle (LLMs) zur OCR-Nachkorrektur historischer Dokumente und adressierte das anhaltende Problem von Legacy-OCR-Fehlern in digitalisierten Sammlungen. Der Wettbewerb hebt das Potenzial von LLMs hervor, die Genauigkeit bei der Transkription historischer Texte zu verbessern, ohne umfangreiche Neudigitalisierungsmaßnahmen zu erfordern.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.08143",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "4e03aaec2d5c265d",
-      "title": "DrugGen 2: Ein krankheitsbewusster Sprachmodell zur Verbesserung der Arzneimittelforschung",
-      "summary": "DrugGen-2 ist ein neues generatives Modell, das entwickelt wurde, um die Arzneimittelforschung zu verbessern, indem es kleine Moleküle basierend auf dem Krankheitskontext und Zielproteinsequenzen erstellt. Dieser Ansatz zielt darauf ab, therapeutische Ergebnisse zu verbessern, indem die Krankheitsontologie in den Arzneimittelgestaltungsprozess integriert wird.",
+      "title": "DrugGen 2: Ein krankheitsbewusster Sprachmodell zur Verbesserung der Arzneimittelentdeckung",
+      "summary": "DrugGen-2 ist ein neues generatives Modell, das entwickelt wurde, um die Arzneimittelentdeckung zu verbessern, indem kleine Moleküle basierend auf dem Krankheitskontext und den Zielproteinsequenzen erstellt werden. Dieser Ansatz zielt darauf ab, therapeutische Ergebnisse zu verbessern, indem die Krankheitsontologie in den Arzneimittelentwurfsprozess integriert wird, um die Einschränkungen aktueller rechnergestützter Methoden zu adressieren.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.08404",
       "publishedAt": "2026-07-11T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6a853c49a0aa0c7b",
-      "title": "Track2Map: Online deformierbares SLAM mit bewegungsbewusster Pose-Optimierung in der robotergestützten Chirurgie",
-      "summary": "Track2Map ist eine neuartige Online-3D-Gaussian-Splatting-Pipeline, die für die robotergestützte Chirurgie entwickelt wurde und die Einschränkungen bestehender Offline-Methoden adressiert, die auf genauen Kameratrajektorien basieren. Dieser Ansatz ermöglicht die Echtzeit-Rekonstruktion deformierbarer 3D-Anatomien durch die Einbeziehung bewegungsbewusster Pose-Optimierung, was die Anwendbarkeit in Szenarien mit rauschhaften oder fehlenden Daten verbessert.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.08408",
-      "publishedAt": "2026-07-11T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 41
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 280,
+    "articlesProcessed": 265,
     "articlesSelected": 12
   }
 }
