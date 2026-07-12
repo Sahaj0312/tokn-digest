@@ -1,79 +1,90 @@
 {
   "digestDate": "2026-07-12",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-12T09:00:47.543448+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-12T20:05:06.917143+00:00",
   "headline": {
-    "id": "736d386214c39381",
-    "title": "The current bottleneck is political will, not research",
-    "summary": "The article argues that the primary obstacle to AI safety is not a lack of research but rather insufficient political will to implement existing best practices and regulatory frameworks. It highlights that awareness of AI risks is low among policymakers, hindering the enforcement of necessary safety measures.",
-    "sourceName": "AI Alignment Forum",
-    "sourceIcon": "lock.shield",
-    "articleURL": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
-    "publishedAt": "2026-07-11T21:56:26+00:00",
-    "category": "policy",
-    "relevanceScore": 48
+    "id": "819d4a258440bf99",
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "summary": "Apple's self-driving car program did not reach completion, but it significantly contributed to the development of the company's advanced AI chips. The need for robust on-device AI processing during the program's early stages laid the groundwork for Apple's current chip technology.",
+    "sourceName": "The Verge",
+    "sourceIcon": "globe",
+    "articleURL": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "publishedAt": "2026-07-12T16:27:06+00:00",
+    "category": "news",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "f9bf5bb9eafd1e75",
+      "title": "Independent alignment of language models",
+      "summary": "The article discusses the potential for users to contribute feedback on the metaethical arguments related to AI alignment to Anthropic, emphasizing that while individual submissions may have a low probability of influencing training decisions, the overall expected value of such contributions could be significant. It highlights Anthropic's commitment to revising and improving its constitutional approach to AI alignment and values over time.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models",
+      "publishedAt": "2026-07-12T17:32:31+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "8a8cae49ac48f261",
+      "title": "From wantons to moral agents",
+      "summary": "The article discusses the potential for artificial agents to evolve from mere wantons to moral agents by acquiring knowledge and engaging in reasoning that aligns their principles with ethical considerations. It emphasizes the importance of understanding how these agents can be designed to prioritize good actions over harmful ones.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents",
+      "publishedAt": "2026-07-12T17:30:31+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "8f4665429c3b1c54",
+      "title": "Scientists’ Side Hustle? Using AI and Quantum Computing to Generate New Peptides",
+      "summary": "Researchers are exploring the potential of quantum computing in drug development by generating new peptides, aiming to address the needs of underserved populations and combat rare diseases. This initiative highlights the intersection of AI and quantum technology in advancing biomedical research.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "publishedAt": "2026-07-12T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "2023fe29621e6af7",
+      "title": "The fight against AI data centers is just beginning",
+      "summary": "The article discusses the ongoing challenges and opposition to the expansion of AI data centers, highlighting concerns over their impact on local power resources and infrastructure. It emphasizes that the fight against these developments is just beginning, as communities grapple with the implications of increased energy demands.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "publishedAt": "2026-07-12T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 46
+    },
+    {
+      "id": "736d386214c39381",
+      "title": "The current bottleneck is political will, not research",
+      "summary": "The article argues that the primary obstacle to AI safety is a lack of political will rather than insufficient research, as effective policies and best practices are already available but not implemented. It highlights that low awareness and disbelief among policymakers contribute to the ongoing risks associated with AI.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
+      "publishedAt": "2026-07-11T21:56:26+00:00",
+      "category": "policy",
+      "relevanceScore": 39
+    },
+    {
       "id": "37c2103cb41f944f",
       "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-      "summary": "OpenAI is seeking a product manager to develop ChatGPT features tailored for families, caregivers, and older adults, as indicated by a recent job posting. This move reflects the company's strategy to enhance its AI offerings for household use.",
+      "summary": "OpenAI is seeking a product manager to develop ChatGPT features specifically tailored for families, caregivers, and older adults, as indicated by a recent job posting. This move signifies the company's intent to expand its AI offerings into household settings.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "publishedAt": "2026-07-11T14:13:00+00:00",
       "category": "industry",
-      "relevanceScore": 37
-    },
-    {
-      "id": "462eb2a3daa1bec0",
-      "title": "OpenAI’s Head of Safety Is Leaving the Company",
-      "summary": "OpenAI's Head of Safety, Johannes Heidecke, is leaving the company amid efforts to better integrate its research and safety teams. His departure marks a significant change as OpenAI continues to focus on enhancing safety protocols within its operations.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "publishedAt": "2026-07-11T01:07:26+00:00",
-      "category": "news",
-      "relevanceScore": 31
-    },
-    {
-      "id": "ee0ceebd51d6c73e",
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "summary": "Meta has disabled a recently announced Instagram feature that allowed users to create AI-generated images using content from public accounts by tagging them, following backlash regarding privacy concerns. The feature had raised issues as it permitted the use of public account content for AI creations without the owner's consent.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "publishedAt": "2026-07-10T23:49:50+00:00",
-      "category": "news",
-      "relevanceScore": 25
-    },
-    {
-      "id": "99dacfa6946195ec",
-      "title": "Meta removes controversial AI feature on Instagram after backlash",
-      "summary": "Meta has removed a controversial AI feature on Instagram following user backlash, stating that the tool did not meet expectations. The company acknowledged the feedback and emphasized its intent to provide a useful creative resource.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "publishedAt": "2026-07-10T23:55:07+00:00",
-      "category": "product",
-      "relevanceScore": 25
-    },
-    {
-      "id": "2f740088b3181b63",
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "summary": "Apple has filed a lawsuit against OpenAI, claiming that former Apple employees at the AI startup stole trade secrets related to hardware development. The complaint also includes IO Products, the hardware company founded by Jony Ive, as a defendant in the case.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "publishedAt": "2026-07-10T21:36:51+00:00",
-      "category": "news",
-      "relevanceScore": 23
+      "relevanceScore": 28
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 6,
-    "articlesSelected": 6
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }

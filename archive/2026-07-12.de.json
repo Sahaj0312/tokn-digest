@@ -1,79 +1,90 @@
 {
   "digestDate": "2026-07-12",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-12T09:00:47.543448+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-12T20:05:06.917143+00:00",
   "headline": {
-    "id": "736d386214c39381",
-    "title": "Der aktuelle Engpass ist der politische Wille, nicht die Forschung",
-    "summary": "Der Artikel argumentiert, dass das Hauptproblem für die Sicherheit von KI nicht ein Mangel an Forschung, sondern vielmehr unzureichender politischer Wille ist, um bestehende Best Practices und Regulierungsrahmen umzusetzen. Er hebt hervor, dass das Bewusstsein für KI-Risiken unter den politischen Entscheidungsträgern gering ist, was die Durchsetzung notwendiger Sicherheitsmaßnahmen behindert.",
-    "sourceName": "AI Alignment Forum",
-    "sourceIcon": "lock.shield",
-    "articleURL": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
-    "publishedAt": "2026-07-11T21:56:26+00:00",
-    "category": "policy",
-    "relevanceScore": 48
+    "id": "819d4a258440bf99",
+    "title": "Apples gescheitertes autonomes Fahrzeugprogramm hinterließ ein Erbe leistungsstarker KI-Chips",
+    "summary": "Apples autonomes Fahrzeugprogramm wurde nicht abgeschlossen, trug jedoch erheblich zur Entwicklung der fortschrittlichen KI-Chips des Unternehmens bei. Der Bedarf an robuster KI-Verarbeitung auf dem Gerät in den frühen Phasen des Programms legte den Grundstein für die aktuelle Chip-Technologie von Apple.",
+    "sourceName": "The Verge",
+    "sourceIcon": "globe",
+    "articleURL": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "publishedAt": "2026-07-12T16:27:06+00:00",
+    "category": "news",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "f9bf5bb9eafd1e75",
+      "title": "Unabhängige Ausrichtung von Sprachmodellen",
+      "summary": "Der Artikel diskutiert das Potenzial für Nutzer, Feedback zu den metaethischen Argumenten im Zusammenhang mit der KI-Ausrichtung an Anthropic zu geben, und betont, dass individuelle Einreichungen zwar eine geringe Wahrscheinlichkeit haben, die Trainingsentscheidungen zu beeinflussen, der Gesamtnutzen solcher Beiträge jedoch erheblich sein könnte. Er hebt Anthropics Engagement hervor, seinen verfassungsrechtlichen Ansatz zur KI-Ausrichtung und zu Werten im Laufe der Zeit zu überarbeiten und zu verbessern.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/vPaXtarnJ37kGfPdJ/independent-alignment-of-language-models",
+      "publishedAt": "2026-07-12T17:32:31+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "8a8cae49ac48f261",
+      "title": "Von Widerspenstigen zu moralischen Akteuren",
+      "summary": "Der Artikel erörtert das Potenzial künstlicher Agenten, sich von bloßen Widerspenstigen zu moralischen Akteuren zu entwickeln, indem sie Wissen erwerben und über Prinzipien nachdenken, die mit ethischen Überlegungen übereinstimmen. Er betont die Bedeutung des Verständnisses, wie diese Agenten so gestaltet werden können, dass sie gute Handlungen über schädliche priorisieren.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/Z8kLbceGBMWB5HGfn/from-wantons-to-moral-agents",
+      "publishedAt": "2026-07-12T17:30:31+00:00",
+      "category": "policy",
+      "relevanceScore": 50
+    },
+    {
+      "id": "8f4665429c3b1c54",
+      "title": "Wissenschaftler als Nebenjob? KI und Quantencomputing zur Generierung neuer Peptide nutzen",
+      "summary": "Forscher erkunden das Potenzial von Quantencomputing in der Arzneimittelentwicklung, indem sie neue Peptide generieren, um die Bedürfnisse unterversorgter Bevölkerungsgruppen zu adressieren und seltene Krankheiten zu bekämpfen. Diese Initiative hebt die Schnittstelle von KI und Quantechnologie zur Förderung der biomedizinischen Forschung hervor.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/scientists-using-ai-and-quantum-computing-to-generate-new-peptides/",
+      "publishedAt": "2026-07-12T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "2023fe29621e6af7",
+      "title": "Der Kampf gegen KI-Rechenzentren hat gerade erst begonnen",
+      "summary": "Der Artikel diskutiert die anhaltenden Herausforderungen und den Widerstand gegen die Expansion von KI-Rechenzentren und hebt Bedenken hinsichtlich ihrer Auswirkungen auf lokale Energiequellen und Infrastruktur hervor. Er betont, dass der Kampf gegen diese Entwicklungen gerade erst beginnt, während die Gemeinschaften mit den Auswirkungen des erhöhten Energiebedarfs kämpfen.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/column/963346/ai-data-centers-fight",
+      "publishedAt": "2026-07-12T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 46
+    },
+    {
+      "id": "736d386214c39381",
+      "title": "Der aktuelle Engpass ist der politische Wille, nicht die Forschung",
+      "summary": "Der Artikel argumentiert, dass das Hauptproblem für die KI-Sicherheit ein Mangel an politischem Willen und nicht unzureichende Forschung ist, da effektive Richtlinien und bewährte Praktiken bereits verfügbar, aber nicht umgesetzt sind. Er hebt hervor, dass mangelndes Bewusstsein und Unglauben unter den politischen Entscheidungsträgern zu den anhaltenden Risiken im Zusammenhang mit KI beitragen.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/EexsebbYhbe2gXkPP/the-current-bottleneck-is-political-will-not-research",
+      "publishedAt": "2026-07-11T21:56:26+00:00",
+      "category": "policy",
+      "relevanceScore": 39
+    },
+    {
       "id": "37c2103cb41f944f",
       "title": "OpenAI setzt auf Familien, während ChatGPT tiefer in Haushalte eindringt",
-      "summary": "OpenAI sucht einen Produktmanager, um ChatGPT-Funktionen zu entwickeln, die auf Familien, Betreuer und ältere Erwachsene zugeschnitten sind, wie aus einer aktuellen Stellenanzeige hervorgeht. Dieser Schritt spiegelt die Strategie des Unternehmens wider, seine KI-Angebote für den Haushaltsgebrauch zu verbessern.",
+      "summary": "OpenAI sucht einen Produktmanager, um ChatGPT-Funktionen speziell für Familien, Pflegekräfte und ältere Erwachsene zu entwickeln, wie eine aktuelle Stellenanzeige zeigt. Dieser Schritt signalisiert die Absicht des Unternehmens, seine KI-Angebote in Haushaltsumgebungen auszubauen.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
       "publishedAt": "2026-07-11T14:13:00+00:00",
       "category": "industry",
-      "relevanceScore": 37
-    },
-    {
-      "id": "462eb2a3daa1bec0",
-      "title": "OpenAIs Sicherheitschef verlässt das Unternehmen",
-      "summary": "Der Sicherheitschef von OpenAI, Johannes Heidecke, verlässt das Unternehmen im Zuge von Bemühungen, die Forschungs- und Sicherheitsteams besser zu integrieren. Sein Weggang markiert einen bedeutenden Wandel, während OpenAI weiterhin darauf abzielt, die Sicherheitsprotokolle innerhalb seiner Abläufe zu verbessern.",
-      "sourceName": "Wired",
-      "sourceIcon": "antenna.radiowaves.left.and.right",
-      "articleURL": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-      "publishedAt": "2026-07-11T01:07:26+00:00",
-      "category": "news",
-      "relevanceScore": 31
-    },
-    {
-      "id": "ee0ceebd51d6c73e",
-      "title": "Meta schaltet die Instagram-Funktion ab, die es Nutzern ermöglichte, KI-Deepfakes von öffentlichen Konten zu erstellen",
-      "summary": "Meta hat eine kürzlich angekündigte Instagram-Funktion deaktiviert, die es Nutzern ermöglichte, KI-generierte Bilder mit Inhalten von öffentlichen Konten durch Tagging zu erstellen, nachdem es Rückmeldungen zu Datenschutzbedenken gab. Die Funktion hatte Probleme aufgeworfen, da sie die Verwendung von Inhalten öffentlicher Konten für KI-Kreationen ohne Zustimmung des Eigentümers erlaubte.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "publishedAt": "2026-07-10T23:49:50+00:00",
-      "category": "news",
-      "relevanceScore": 25
-    },
-    {
-      "id": "99dacfa6946195ec",
-      "title": "Meta entfernt umstrittene KI-Funktion auf Instagram nach Rückmeldungen",
-      "summary": "Meta hat eine umstrittene KI-Funktion auf Instagram nach Nutzer-Rückmeldungen entfernt und erklärt, dass das Tool nicht den Erwartungen entsprach. Das Unternehmen erkannte das Feedback an und betonte seine Absicht, eine nützliche kreative Ressource bereitzustellen.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/10/meta-removes-controversial-ai-feature-on-instagram-after-backlash/",
-      "publishedAt": "2026-07-10T23:55:07+00:00",
-      "category": "product",
-      "relevanceScore": 25
-    },
-    {
-      "id": "2f740088b3181b63",
-      "title": "Apple verklagt OpenAI wegen angeblichem Diebstahl von Hardware-Geheimnissen",
-      "summary": "Apple hat eine Klage gegen OpenAI eingereicht und behauptet, dass ehemalige Apple-Mitarbeiter im KI-Startup Handelsgeheimnisse im Zusammenhang mit der Hardwareentwicklung gestohlen haben. Die Klage umfasst auch IO Products, das Hardwareunternehmen, das von Jony Ive gegründet wurde, als Beklagten im Fall.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-      "publishedAt": "2026-07-10T21:36:51+00:00",
-      "category": "news",
-      "relevanceScore": 23
+      "relevanceScore": 28
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 6,
-    "articlesSelected": 6
+    "articlesProcessed": 7,
+    "articlesSelected": 7
   }
 }
