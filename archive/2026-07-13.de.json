@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-13",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-13T10:23:08.222783+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-13T20:12:46.248467+00:00",
   "headline": {
-    "id": "d9d64b0e93335c92",
-    "title": "Waze erhält eine Reihe neuer KI-gestützter Funktionen",
-    "summary": "Waze führt neue KI-gestützte Funktionen ein, darunter die Integration von Googles KI-Assistenten Gemini, um die Personalisierung für Nutzer während der Fahrten zu verbessern. Zu den Updates gehören auch Verbesserungen der Gesprächsberichterstattungsfunktion ab 2024.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "publishedAt": "2026-07-13T09:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "62a8fcb87a708cdd",
+    "title": "Was Anthropics neueste KI-Entdeckung zeigt – und was nicht",
+    "summary": "Anthropic, ein führendes KI-Unternehmen mit einem Wert von fast 1 Billion Dollar, untersucht das Konzept, ob KI-Modelle Schmerz empfinden können, im Rahmen seiner laufenden Forschungsbemühungen. Der Artikel diskutiert die Implikationen dieser Anfrage und was sie über die Fähigkeiten und Grenzen von KI-Systemen offenbart.",
+    "sourceName": "MIT Tech Review",
+    "sourceIcon": "newspaper",
+    "articleURL": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "publishedAt": "2026-07-13T18:00:00+00:00",
+    "category": "news",
+    "relevanceScore": 60
   },
   "articles": [
     {
+      "id": "d1f059da6e7c5ff5",
+      "title": "Die 6 verrücktesten Behauptungen in Apples Klage gegen OpenAI",
+      "summary": "Apple hat eine Klage gegen OpenAI eingereicht und behauptet, das KI-Startup habe Unternehmensspionage betrieben, indem es vertrauliche Dokumente und unveröffentlichte Produktmuster von Apple-Mitarbeitern während Vorstellungsgesprächen angefordert hat. Die Klage behauptet, dass OpenAIs Handlungen das Ausspionieren von Hardware-Prototypen und täuschende Praktiken zur Erlangung von proprietären Informationen umfassten.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "publishedAt": "2026-07-13T17:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 58
+    },
+    {
+      "id": "efd50876aa14ca89",
+      "title": "Die verrücktesten Vorwürfe in Apples Klage wegen Geschäftsgeheimnissen gegen OpenAI",
+      "summary": "Apples Klage wegen Geschäftsgeheimnissen gegen OpenAI enthält Vorwürfe, dass Mitarbeiter Witze über unbefugten Zugriff auf Apples Systeme gemacht haben und dass Bewerber aufgefordert wurden, Apple-Hardware zu Vorstellungsgesprächen mitzubringen. Die Klage hebt verschiedene auffällige Behauptungen über mögliche Verstöße gegen Vertraulichkeit und geistiges Eigentum hervor.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "publishedAt": "2026-07-13T18:22:10+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "64facdf1c9c2c5dd",
+      "title": "Sam Altmans Trash Talk über Raumdatenzentren entspricht dem, was die meisten Experten bereits glauben",
+      "summary": "Sam Altman verteidigte sich gegen Elon Musks Anschuldigungen, indem er Musks Fokus auf kurzfristige Raumdatenzentren kritisierte. Altmans Kommentare spiegeln einen breiteren Konsens unter Experten über die Nachhaltigkeit und Lebensfähigkeit solcher Unternehmungen wider.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "publishedAt": "2026-07-13T17:28:37+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "587cf500513e2b2d",
+      "title": "Sollte KI Ihnen helfen, mit dem Mord an Ihrem Ehepartner davonzukommen?",
+      "summary": "Der Artikel untersucht die Implikationen von benutzerorientierter KI in Szenarien mit moralischen und ethischen Dilemmata und stellt speziell die Frage, ob KI Einzelpersonen bei schädlichen Handlungen, wie dem Mord an einem Ehepartner, unterstützen sollte. Es werden die potenziellen Konsequenzen und gesellschaftlichen Auswirkungen der Integration von KI in persönliche Entscheidungsprozesse untersucht.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "publishedAt": "2026-07-13T16:31:23+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "1c5be8b9d274b770",
+      "title": "Anthropic beginnt mit der Lokalisierung der Claude-Preise für Indien, seinen größten Markt nach den USA",
+      "summary": "Anthropic hat begonnen, Abonnements für sein KI-Modell Claude in indischen Rupien anzubieten, um seiner wachsenden Nutzerbasis in Indien gerecht zu werden, die nach den Vereinigten Staaten zum größten Markt geworden ist. Diese Lokalisierungsanstrengung zielt darauf ab, den Dienst für indische Nutzer zugänglicher zu machen.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "publishedAt": "2026-07-13T15:34:59+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "5e6ad395ce2b1ce9",
+      "title": "Prism: Automatisierung der Forschung zur Wissenschaft der Bewertungen",
+      "summary": "Prism ist ein neues Framework, das entwickelt wurde, um die Forschung in der Wissenschaft der Bewertungen zu automatisieren und sich auf die Dynamik des Verhaltens von Modellen zu konzentrieren. Das Framework nutzt Claude Code mit Unteragenten, um wissenschaftlich rigorose Untersuchungen durchzuführen, wie in einem autonomen Lauf demonstriert, der die Auswirkungen von Variationen der Eingabeaufforderungen auf die Antworten von GPT-4.1 untersucht.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research",
+      "publishedAt": "2026-07-13T16:30:21+00:00",
+      "category": "policy",
+      "relevanceScore": 54
+    },
+    {
+      "id": "192b5c5f06f75b71",
+      "title": "Jetzt nutzen auch Verteidiger die Prompt-Injection",
+      "summary": "Verteidiger setzen jetzt \"Context Bombing\" ein, eine Technik der Prompt-Injection, die Hackeragenten irreführt, sodass sie sich abschalten, bevor sie schädliche Aktionen ausführen können. Diese Strategie zielt darauf ab, die Cybersicherheitsmaßnahmen gegen KI-gesteuerte Angriffe zu verbessern.",
+      "sourceName": "Ars Technica",
+      "sourceIcon": "desktopcomputer",
+      "articleURL": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "publishedAt": "2026-07-13T15:06:34+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "20bba9adba7e65ee",
+      "title": "Waze fügt neue KI-gestützte Funktionen und Anpassungsupdates hinzu",
+      "summary": "Waze hat neue KI-gestützte Funktionen und Anpassungsoptionen eingeführt und nutzt den Google Gemini KI-Assistenten, um die Funktionalität zu verbessern. Dieses Update zielt darauf ab, Wazes Wettbewerbsfähigkeit gegenüber rivalisierenden Navigationsdiensten wie Apple Maps zu stärken.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "2026-07-13T14:18:16+00:00",
+      "category": "product",
+      "relevanceScore": 53
+    },
+    {
+      "id": "d9d64b0e93335c92",
+      "title": "Waze erhält eine Reihe neuer KI-gestützter Funktionen",
+      "summary": "Waze führt neue KI-gestützte Funktionen ein, darunter die Integration des Google KI-Assistenten Gemini, um die Personalisierung von Reisen zu verbessern. Zu den Updates gehören auch Verbesserungen der Funktion zur Gesprächsberichterstattung.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "publishedAt": "2026-07-13T09:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "0932bbf7534c3919",
-      "title": "ARCANA: Ein reflektierendes Multi-Agenten-Programmier-Synthese-Framework für ARC-AGI-2-Argumentation",
-      "summary": "ARCANA ist ein neues Multi-Agenten-Framework, das für die Lösung von ARC AGI 2-Aufgaben entwickelt wurde und strengen Zeit- und Hardwareanforderungen entspricht. Das Framework nutzt einen strukturierten Ansatz, der Wahrnehmung, Hypothesenbildung, symbolische Ausführung und reflektierende Verfeinerung umfasst, um die Aufgabenleistung zu verbessern.",
+      "title": "ARCANA: Ein reflektierendes Multi-Agenten-Programmierframework für ARC-AGI-2-Argumentation",
+      "summary": "ARCANA ist ein Multi-Agenten-Framework, das entwickelt wurde, um ARC AGI 2-Aufgaben zu lösen und dabei strengen Zeit- und Hardwarebeschränkungen zu entsprechen. Das Framework nutzt einen Prozess, der Wahrnehmung, Hypothesenbildung, symbolische Ausführung und reflektierende Verfeinerung umfasst, um komplexe Aufgaben effizient zu bewältigen.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09059",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "e87e484082d4c2a6",
-      "title": "OpenProver: Agentisches und interaktives Theorembeweisen mit Lean 4",
-      "summary": "OpenProver ist ein Open-Source-System, das für die automatisierte Theorembeweisführung mit LLMs entwickelt wurde und Lean 4 für die formale Verifikation nutzt. Es verfügt über eine Planner-Worker-Verifier-Architektur, die eine effiziente Zerlegung mathematischer Aufgaben in parallele Prozesse ermöglicht.",
+      "title": "OpenProver: Agentische und interaktive Theorembeweise mit Lean 4",
+      "summary": "OpenProver ist ein Open-Source-System, das für die automatisierte Theorembeweisführung mit LLM entwickelt wurde und Lean 4 für die formale Verifikation nutzt. Es verfügt über eine Planner-Worker-Verifier-Architektur, die die Effizienz erhöht, indem mathematische Aufgaben in parallele Prozesse zerlegt werden.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09217",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "8f690683fc9d2bf1",
-      "title": "Aufgabenspezifische multimodale Frage-Antwort-Agenten durch Vertrauenskalibrierung und inkrementelles Schließen für QANTA 2026",
-      "summary": "Der Artikel behandelt einen Beitrag zur QANTA 2026 Shared Challenge, der sich auf multimodale Frage-Antwort-Systeme konzentriert, die auf pyramidenartige Fragen mit schrittweise enthülltem Text und Bildern reagieren. Die Herausforderung umfasst zwei Aufgaben, darunter Tossup-Fragen, die die Fähigkeit des Systems testen, den optimalen Zeitpunkt für eine Antwort basierend auf unvollständigen Informationen zu bestimmen.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09623",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "32fe9faceba1ac9d",
-      "title": "4DR360: Zustandsargumentation für gemeinsame 3D-Erkennung und Belegungsprognose in 4D Radar-Kamera-Vollszene-Wahrnehmung",
-      "summary": "Der Artikel präsentiert einen neuartigen Ansatz namens 4DR360, der die gemeinsame 3D-Erkennung und Belegungsprognose verbessert, indem 4D-Radar- und Kameradaten für eine verbesserte Vollszene-Wahrnehmung im autonomen Fahren integriert werden. Diese Methode adressiert die Einschränkungen bestehender Radar-Kamera-Fusionstechniken, indem sie eine bessere Interaktion zwischen Objekterkennung und semantischem Layoutverständnis ermöglicht.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09629",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "38a0e2c9770c5927",
-      "title": "PACE: Eine personalisierte adaptive Lehrplan-Engine für die Ausbildung von 9-1-1-Call-Takern",
-      "summary": "Der Artikel behandelt die Entwicklung von PACE, einer personalisierten adaptiven Lehrplan-Engine, die darauf abzielt, die Ausbildung von 9-1-1-Call-Takern zu verbessern, indem die Ziele an die sich entwickelnden Kompetenzen der einzelnen Auszubildenden angepasst werden. Diese Initiative zielt darauf ab, die Herausforderungen zu bewältigen, die durch einen landesweiten Arbeitskräftemangel und die Komplexität der Ausbildungsanforderungen im Notfallmanagement entstehen.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2603.05361",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "b5b42202c7d31510",
-      "title": "M4V: Multimodales Mamba für effiziente Text-zu-Video-Generierung",
-      "summary": "Der Artikel behandelt M4V, ein neues Framework für die effiziente Text-zu-Video-Generierung, das die rechnerischen Herausforderungen traditioneller Transformer-Modelle angeht. Durch die Nutzung von Fortschritten im Bereich der sequenziellen Modellierung in linearer Zeit zielt M4V darauf ab, die Praktikabilität der Erstellung dynamischer Videoinhalte aus textuellen Beschreibungen zu verbessern.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2506.10915",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "bcd80173e9eeb074",
-      "title": "H3Former: Hypergraph-basierte semantisch bewusste Aggregation über hyperbolische hierarchische kontrastive Verluste für feinkörnige visuelle Klassifikation",
-      "summary": "Der Artikel präsentiert H3Former, einen neuartigen Ansatz für die feinkörnige visuelle Klassifikation (FGVC), der hypergraph-basierte semantisch bewusste Aggregation und hyperbolische hierarchische kontrastive Verluste nutzt. Diese Methode zielt darauf ab, die Identifizierung subtiler interklasslicher Unterschiede zu verbessern und die kategorieagnostische Redundanz in bestehenden FGVC-Techniken zu reduzieren.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2511.10260",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5f32342fb9d2b98b",
-      "title": "Die Ausbildung von 9-1-1-Call-Takern mit generativer KI stärken: Erfahrungen und Erkenntnisse",
-      "summary": "Eine aktuelle Studie untersucht den Einsatz von generativer KI zur Verbesserung der Ausbildung von 9-1-1-Call-Takern, um signifikante Personalengpässe und die umfangreiche Zeit, die für die Einarbeitung neuer Mitarbeiter erforderlich ist, anzugehen. Die Ergebnisse heben das Potenzial von KI-gesteuerten Lösungen zur Verbesserung der Ausbildungseffizienz und -wirksamkeit in Notfallzentren hervor.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.13241",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5a806bd91eb70cc9",
-      "title": "GAP-GDRNet: Geometriebewusste monokulare 6D-Pose-Schätzung für Raumfahrzeuge unter Verwendung synthetischer geometrischer Aufsicht",
-      "summary": "Der Artikel stellt GAP-GDRNet vor, ein geometriebewusstes RGB-Framework, das für die monokulare 6D-Pose-Schätzung von Raumfahrzeugen entwickelt wurde und Herausforderungen wie schwache Textur und Okklusion angeht. Die Methode verbessert die geometriegeleitete Regressionspipeline, indem sie globale strukturelle Aufmerksamkeit vor der dichten geometrischen Vorhersage einbezieht.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.02360",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "4922dcd04a8b45c0",
-      "title": "Lorde sagt, Ray-Ban Meta AI-Brillen seien ‚nicht sexy‘",
-      "summary": "Während ihres Auftritts beim Real Cool Festival in Madrid kritisierte Lorde KI-Brillen und implizierte, dass sie keinen Reiz haben, wahrscheinlich in Bezug auf die Ray-Ban Meta AI-Smartglasses. Ihre Kommentare heben die laufenden Diskussionen über die Ästhetik und Akzeptanz tragbarer KI-Technologie hervor.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "publishedAt": "2026-07-12T20:10:19+00:00",
-      "category": "news",
-      "relevanceScore": 46
-    },
-    {
-      "id": "2b8a3969fdcf3211",
-      "title": "CogniConsole: Externes Inferenzzeit-Management als formale Abstraktion für zuverlässige LLM-Interaktionen",
-      "summary": "Der Artikel stellt CogniConsole vor, ein neues architektonisches Framework, das das Inferenzzeit-Management externalisiert, um die Zuverlässigkeit von Interaktionen mit großen Sprachmodellen (LLMs) zu verbessern. Es wird argumentiert, dass die Zuverlässigkeit mehr von den Mechanismen der Aufgabenformulierung und der Kontextauswahl beeinflusst wird als von der Modellfähigkeit allein.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.08774",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 46
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 184,
+    "articlesProcessed": 193,
     "articlesSelected": 12
   }
 }

@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-13",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-13T10:23:08.222783+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-13T20:12:46.248467+00:00",
   "headline": {
-    "id": "d9d64b0e93335c92",
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "summary": "Waze is introducing new AI-powered features, including the integration of Google's AI assistant, Gemini, to enhance user personalization during trips. Among the updates, improvements to the conversation reporting feature from 2024 are also being implemented.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "publishedAt": "2026-07-13T09:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "62a8fcb87a708cdd",
+    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
+    "summary": "Anthropic, a leading AI company valued at nearly $1 trillion, is exploring the concept of whether AI models can experience pain, as part of its ongoing research efforts. The article discusses the implications of this inquiry and what it reveals about the capabilities and limitations of AI systems.",
+    "sourceName": "MIT Tech Review",
+    "sourceIcon": "newspaper",
+    "articleURL": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "publishedAt": "2026-07-13T18:00:00+00:00",
+    "category": "news",
+    "relevanceScore": 60
   },
   "articles": [
     {
+      "id": "d1f059da6e7c5ff5",
+      "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+      "summary": "Apple has filed a lawsuit against OpenAI, alleging that the AI startup engaged in corporate espionage by soliciting confidential documents and unreleased product samples from Apple employees during job interviews. The lawsuit claims OpenAI's actions included spying on hardware prototypes and deceptive practices to obtain proprietary information.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "publishedAt": "2026-07-13T17:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 58
+    },
+    {
+      "id": "efd50876aa14ca89",
+      "title": "The wildest allegations in Apple’s trade secrets lawsuit against OpenAI",
+      "summary": "Apple's trade secrets lawsuit against OpenAI includes allegations of employees joking about unauthorized access to Apple's systems and claims that job candidates were asked to bring Apple hardware to interviews. The lawsuit highlights various eye-catching claims regarding potential breaches of confidentiality and intellectual property.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "publishedAt": "2026-07-13T18:22:10+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "64facdf1c9c2c5dd",
+      "title": "Sam Altman’s space data center trash talk is what most experts already believe",
+      "summary": "Sam Altman defended himself against Elon Musk's accusations by criticizing Musk's focus on short-term space data centers. Altman's comments reflect a broader consensus among experts regarding the sustainability and viability of such ventures.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "publishedAt": "2026-07-13T17:28:37+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "587cf500513e2b2d",
+      "title": "Should AI help you get away with killing your spouse?",
+      "summary": "The article explores the implications of user-aligned AI in scenarios involving moral and ethical dilemmas, specifically questioning whether AI should assist individuals in committing harmful acts, such as killing a spouse. It examines the potential consequences and societal impacts of integrating AI into personal decision-making processes.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "publishedAt": "2026-07-13T16:31:23+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "1c5be8b9d274b770",
+      "title": "Anthropic starts localizing Claude pricing for India, its biggest market after the US",
+      "summary": "Anthropic has begun offering subscription plans for its AI model Claude in Indian rupees, catering to its growing user base in India, which has become its largest market after the United States. This localization effort aims to make the service more accessible to Indian users.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "publishedAt": "2026-07-13T15:34:59+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "5e6ad395ce2b1ce9",
+      "title": "Prism: Automating Science-of-Evals Research",
+      "summary": "Prism is a new framework designed to automate research in the science of evaluations, focusing on the dynamics of model behaviors. The framework utilizes Claude Code with sub-agents to conduct scientifically rigorous investigations, as demonstrated in an autonomous run exploring the effects of prompt variations on GPT-4.1's responses.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research",
+      "publishedAt": "2026-07-13T16:30:21+00:00",
+      "category": "policy",
+      "relevanceScore": 54
+    },
+    {
+      "id": "192b5c5f06f75b71",
+      "title": "Now, defenders are embracing the prompt injection, too",
+      "summary": "Defenders are now employing \"context bombing,\" a prompt injection technique that misleads hacking agents into shutting down before they can execute harmful actions. This strategy aims to enhance cybersecurity measures against AI-driven attacks.",
+      "sourceName": "Ars Technica",
+      "sourceIcon": "desktopcomputer",
+      "articleURL": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "publishedAt": "2026-07-13T15:06:34+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "20bba9adba7e65ee",
+      "title": "Waze adds new AI-powered features and customization updates",
+      "summary": "Waze has introduced new AI-powered features and customization options, utilizing Google's Gemini AI assistant to enhance its functionality. This update aims to strengthen Waze's competitive edge against rival navigation services like Apple Maps.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "2026-07-13T14:18:16+00:00",
+      "category": "product",
+      "relevanceScore": 53
+    },
+    {
+      "id": "d9d64b0e93335c92",
+      "title": "Waze is getting a bunch of new AI-powered features",
+      "summary": "Waze is introducing new AI-powered features, including the integration of Google's AI assistant, Gemini, to enhance trip personalization. Among the updates, improvements to the conversation reporting feature are also being implemented.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "publishedAt": "2026-07-13T09:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "0932bbf7534c3919",
       "title": "ARCANA: A Reflective Multi-Agent Program Synthesis Framework for ARC-AGI-2 Reasoning",
-      "summary": "ARCANA is a new multi-agent framework designed for solving ARC AGI 2 tasks while adhering to strict time and hardware constraints. The framework utilizes a structured approach that includes perception, hypothesis generation, symbolic execution, and reflective refinement to enhance task performance.",
+      "summary": "ARCANA is a multi-agent framework designed for solving ARC AGI 2 tasks while adhering to strict time and hardware constraints. The framework utilizes a process that includes perception, hypothesis generation, symbolic execution, and reflective refinement to efficiently tackle complex tasks.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09059",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "e87e484082d4c2a6",
       "title": "OpenProver: Agentic and Interactive Theorem Proving with Lean 4",
-      "summary": "OpenProver is an open-source system designed for LLM-driven automated theorem proving, utilizing Lean 4 for formal verification. It features a Planner-Worker-Verifier architecture that allows for efficient decomposition of mathematical tasks into parallel processes.",
+      "summary": "OpenProver is an open-source system designed for LLM-driven automated theorem proving, utilizing Lean 4 for formal verification. It features a Planner-Worker-Verifier architecture that enhances efficiency by decomposing mathematical tasks into parallel processes.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09217",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "8f690683fc9d2bf1",
-      "title": "Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026",
-      "summary": "The article discusses a submission for the QANTA 2026 shared challenge, focusing on multimodal question answering systems that respond to pyramid-style questions using incrementally revealed text and images. The challenge involves two tasks, including Tossup questions that test the system's ability to determine the optimal moment to answer based on incomplete information.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09623",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "32fe9faceba1ac9d",
-      "title": "4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception",
-      "summary": "The article presents a novel approach called 4DR360, which enhances joint 3D detection and occupancy prediction by integrating 4D radar and camera data for improved full-scene perception in autonomous driving. This method addresses the limitations of existing radar-camera fusion techniques by enabling better interaction between object detection and semantic layout understanding.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09629",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "38a0e2c9770c5927",
-      "title": "PACE: A Personalized Adaptive Curriculum Engine for 9-1-1 Call-taker Training",
-      "summary": "The article discusses the development of PACE, a Personalized Adaptive Curriculum Engine designed to enhance 9-1-1 call-taker training by tailoring objectives to individual trainees' evolving competencies. This initiative aims to address the challenges posed by a nationwide labor shortage and the complexity of training requirements in emergency response.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2603.05361",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "b5b42202c7d31510",
-      "title": "M4V: Multimodal Mamba for Efficient Text-to-Video Generation",
-      "summary": "The article discusses M4V, a new framework for efficient text-to-video generation that addresses the computational challenges associated with traditional Transformer models. By utilizing advancements in linear-time sequence modeling, M4V aims to enhance the practicality of creating dynamic video content from textual descriptions.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2506.10915",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "bcd80173e9eeb074",
-      "title": "H3Former: Hypergraph-based Semantic-Aware Aggregation via Hyperbolic Hierarchical Contrastive Loss for Fine-Grained Visual Classification",
-      "summary": "The article presents H3Former, a novel approach for Fine-Grained Visual Classification (FGVC) that utilizes hypergraph-based semantic-aware aggregation and hyperbolic hierarchical contrastive loss. This method aims to improve the identification of subtle inter-class differences and reduce category-agnostic redundancy in existing FGVC techniques.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2511.10260",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5f32342fb9d2b98b",
-      "title": "Empowering 9-1-1 Calltaking Training with Generative AI: Experiences and Lessons Learned",
-      "summary": "A recent study explores the use of generative AI to enhance training for 9-1-1 call-takers, addressing significant staffing shortages and the extensive time required for onboarding new hires. The findings highlight the potential for AI-driven solutions to improve training efficiency and effectiveness in emergency response centers.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.13241",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5a806bd91eb70cc9",
-      "title": "GAP-GDRNet: Geometry-aware monocular 6D pose estimation for spacecraft using synthetic geometric supervision",
-      "summary": "The article introduces GAP-GDRNet, a geometry-aware RGB framework designed for monocular 6D pose estimation of spacecraft, addressing challenges such as weak texture and occlusion. The method enhances the geometry-guided regression pipeline by incorporating global structural attention before dense geometric prediction.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.02360",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "4922dcd04a8b45c0",
-      "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
-      "summary": "During her performance at the Real Cool Festival in Madrid, Lorde criticized AI glasses, implying they lack appeal, likely referencing the Ray-Ban Meta AI smartglasses. Her comments highlight ongoing discussions about the aesthetics and acceptance of wearable AI technology.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "publishedAt": "2026-07-12T20:10:19+00:00",
-      "category": "news",
-      "relevanceScore": 46
-    },
-    {
-      "id": "2b8a3969fdcf3211",
-      "title": "CogniConsole: Externalizing Inference-Time Control as a Formal Abstraction for Reliable LLM Interactions",
-      "summary": "The article introduces CogniConsole, a new architectural framework that externalizes inference-time control to enhance the reliability of large language model (LLM) interactions. It argues that reliability is more influenced by the mechanisms of task framing and context selection than by model capability alone.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.08774",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 46
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 184,
+    "articlesProcessed": 193,
     "articlesSelected": 12
   }
 }

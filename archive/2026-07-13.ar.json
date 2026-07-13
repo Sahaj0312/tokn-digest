@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-13",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-13T10:23:08.222783+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-13T20:12:46.248467+00:00",
   "headline": {
-    "id": "d9d64b0e93335c92",
-    "title": "ويز يحصل على مجموعة من الميزات الجديدة المدعومة بالذكاء الاصطناعي",
-    "summary": "تقدم ويز ميزات جديدة مدعومة بالذكاء الاصطناعي، بما في ذلك دمج مساعد جوجل الذكي، جيميني، لتعزيز تخصيص المستخدم أثناء الرحلات. من بين التحديثات، يتم أيضًا تنفيذ تحسينات على ميزة الإبلاغ عن المحادثات بدءًا من عام 2024.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "publishedAt": "2026-07-13T09:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "62a8fcb87a708cdd",
+    "title": "ما تفعله أحدث اكتشافات Anthropic في الذكاء الاصطناعي - وما لا تفعله",
+    "summary": "تستكشف Anthropic، الشركة الرائدة في مجال الذكاء الاصطناعي والتي تُقدّر قيمتها بنحو تريليون دولار، مفهوم ما إذا كانت نماذج الذكاء الاصطناعي يمكن أن تشعر بالألم، كجزء من جهودها البحثية المستمرة. يناقش المقال تداعيات هذا الاستفسار وما يكشفه عن قدرات وقيود أنظمة الذكاء الاصطناعي.",
+    "sourceName": "MIT Tech Review",
+    "sourceIcon": "newspaper",
+    "articleURL": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "publishedAt": "2026-07-13T18:00:00+00:00",
+    "category": "news",
+    "relevanceScore": 60
   },
   "articles": [
     {
+      "id": "d1f059da6e7c5ff5",
+      "title": "أغرب 6 ادعاءات في دعوى آبل ضد OpenAI",
+      "summary": "قدمت آبل دعوى قضائية ضد OpenAI، متهمةً الشركة الناشئة في مجال الذكاء الاصطناعي بالتجسس الصناعي من خلال طلب مستندات سرية وعينات منتجات غير مُصدرة من موظفي آبل خلال مقابلات العمل. تدعي الدعوى أن تصرفات OpenAI شملت التجسس على نماذج الأجهزة وممارسات خادعة للحصول على معلومات ملكية.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "publishedAt": "2026-07-13T17:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 58
+    },
+    {
+      "id": "efd50876aa14ca89",
+      "title": "أغرب الادعاءات في دعوى أسرار التجارة من آبل ضد OpenAI",
+      "summary": "تشمل دعوى آبل ضد OpenAI ادعاءات بأن الموظفين كانوا يمزحون حول الوصول غير المصرح به إلى أنظمة آبل وادعاءات بأن المرشحين للوظائف طُلب منهم إحضار أجهزة آبل إلى المقابلات. تسلط الدعوى الضوء على مجموعة من الادعاءات المثيرة حول انتهاكات محتملة للسرية وحقوق الملكية الفكرية.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "publishedAt": "2026-07-13T18:22:10+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "64facdf1c9c2c5dd",
+      "title": "حديث سام ألتمان عن مركز البيانات الفضائية هو ما يعتقده معظم الخبراء بالفعل",
+      "summary": "دافع سام ألتمان عن نفسه ضد اتهامات إيلون ماسك من خلال انتقاد تركيز ماسك على مراكز البيانات الفضائية قصيرة الأمد. تعكس تعليقات ألتمان توافقًا أوسع بين الخبراء بشأن استدامة وقابلية مثل هذه المشاريع.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "publishedAt": "2026-07-13T17:28:37+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "587cf500513e2b2d",
+      "title": "هل يجب أن يساعدك الذكاء الاصطناعي في الهروب من قتل زوجك؟",
+      "summary": "يستكشف المقال تداعيات الذكاء الاصطناعي المتوافق مع المستخدم في السيناريوهات التي تتضمن معضلات أخلاقية، متسائلًا عما إذا كان يجب على الذكاء الاصطناعي مساعدة الأفراد في ارتكاب أفعال ضارة، مثل قتل الزوج. يفحص العواقب المحتملة والتأثيرات الاجتماعية لدمج الذكاء الاصطناعي في عمليات اتخاذ القرار الشخصية.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "publishedAt": "2026-07-13T16:31:23+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "1c5be8b9d274b770",
+      "title": "Anthropic تبدأ بتحديد أسعار Claude للسوق الهندية، أكبر سوق لها بعد الولايات المتحدة",
+      "summary": "بدأت Anthropic بتقديم خطط اشتراك لنموذج الذكاء الاصطناعي Claude بالروبية الهندية، لتلبية قاعدة مستخدميها المتزايدة في الهند، التي أصبحت أكبر سوق لها بعد الولايات المتحدة. تهدف هذه الجهود المحلية إلى جعل الخدمة أكثر سهولة للمستخدمين الهنود.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "publishedAt": "2026-07-13T15:34:59+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "5e6ad395ce2b1ce9",
+      "title": "Prism: أتمتة أبحاث علم التقييمات",
+      "summary": "Prism هو إطار عمل جديد مصمم لأتمتة الأبحاث في علم التقييمات، مع التركيز على ديناميكيات سلوكيات النماذج. يستخدم الإطار Claude Code مع وكلاء فرعيين لإجراء تحقيقات علمية دقيقة، كما تم توضيحه في تشغيل مستقل يستكشف تأثيرات تغييرات المحفزات على استجابات GPT-4.1.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research",
+      "publishedAt": "2026-07-13T16:30:21+00:00",
+      "category": "policy",
+      "relevanceScore": 54
+    },
+    {
+      "id": "192b5c5f06f75b71",
+      "title": "الآن، المدافعون يتبنون تقنية حقن المحفزات أيضًا",
+      "summary": "يستخدم المدافعون الآن \"قصف السياق\"، وهي تقنية حقن محفزات تُضلل الوكلاء المخترقين لإيقافهم قبل أن يتمكنوا من تنفيذ أفعال ضارة. تهدف هذه الاستراتيجية إلى تعزيز تدابير الأمن السيبراني ضد الهجمات المدفوعة بالذكاء الاصطناعي.",
+      "sourceName": "Ars Technica",
+      "sourceIcon": "desktopcomputer",
+      "articleURL": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "publishedAt": "2026-07-13T15:06:34+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "20bba9adba7e65ee",
+      "title": "Waze تضيف ميزات جديدة مدعومة بالذكاء الاصطناعي وتحديثات تخصيص",
+      "summary": "قدمت Waze ميزات جديدة مدعومة بالذكاء الاصطناعي وخيارات تخصيص، مستفيدةً من مساعد Google Gemini لتعزيز وظائفها. تهدف هذه التحديثات إلى تعزيز الميزة التنافسية لـ Waze ضد خدمات الملاحة المنافسة مثل Apple Maps.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "2026-07-13T14:18:16+00:00",
+      "category": "product",
+      "relevanceScore": 53
+    },
+    {
+      "id": "d9d64b0e93335c92",
+      "title": "Waze يحصل على مجموعة من الميزات الجديدة المدعومة بالذكاء الاصطناعي",
+      "summary": "تقدم Waze ميزات جديدة مدعومة بالذكاء الاصطناعي، بما في ذلك دمج مساعد Google AI، Gemini، لتعزيز تخصيص الرحلات. من بين التحديثات، يتم أيضًا تنفيذ تحسينات على ميزة الإبلاغ عن المحادثات.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "publishedAt": "2026-07-13T09:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "0932bbf7534c3919",
-      "title": "ARCANA: إطار عمل لتوليد البرامج متعددة الوكلاء للتفكير في ARC-AGI-2",
-      "summary": "ARCANA هو إطار عمل جديد متعدد الوكلاء مصمم لحل مهام ARC AGI 2 مع الالتزام بقيود صارمة على الوقت والأجهزة. يستخدم الإطار نهجًا منظمًا يتضمن الإدراك، وتوليد الفرضيات، والتنفيذ الرمزي، والتنقيح الانعكاسي لتحسين أداء المهام.",
+      "title": "ARCANA: إطار عمل لتوليف برامج متعددة الوكلاء للتفكير في ARC-AGI-2",
+      "summary": "ARCANA هو إطار عمل متعدد الوكلاء مصمم لحل مهام ARC AGI 2 مع الالتزام بحدود صارمة من الوقت والعتاد. يستخدم الإطار عملية تشمل الإدراك، وتوليد الفرضيات، والتنفيذ الرمزي، والتنقيح العاكس لمعالجة المهام المعقدة بكفاءة.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09059",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "e87e484082d4c2a6",
-      "title": "OpenProver: إثبات النظريات التفاعلية والوكيلية باستخدام Lean 4",
-      "summary": "OpenProver هو نظام مفتوح المصدر مصمم لإثبات النظريات بشكل آلي مدفوع بنماذج اللغة الكبيرة، باستخدام Lean 4 للتحقق الرسمي. يتميز بهندسة تخطيط-عامل-مدقق تسمح بتفكيك المهام الرياضية بكفاءة إلى عمليات متوازية.",
+      "title": "OpenProver: إثبات النظريات بطريقة وكيلية وتفاعلية باستخدام Lean 4",
+      "summary": "OpenProver هو نظام مفتوح المصدر مصمم لإثبات النظريات بشكل آلي مدفوع بنماذج اللغة الكبيرة، باستخدام Lean 4 للتحقق الرسمي. يتميز بنظام تخطيط-عامل-مدقق يعزز الكفاءة من خلال تقسيم المهام الرياضية إلى عمليات متوازية.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09217",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "8f690683fc9d2bf1",
-      "title": "وكلاء الإجابة على الأسئلة متعددة الأنماط المحددة بالمهام عبر ضبط الثقة والتفكير التدريجي لـ QANTA 2026",
-      "summary": "تناقش المقالة تقديمًا لتحدي QANTA 2026 المشترك، مع التركيز على أنظمة الإجابة على الأسئلة متعددة الأنماط التي تستجيب لأسئلة على نمط الهرم باستخدام نصوص وصور مكشوفة تدريجيًا. يتضمن التحدي مهمتين، بما في ذلك أسئلة Tossup التي تختبر قدرة النظام على تحديد اللحظة المثلى للإجابة بناءً على معلومات غير مكتملة.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09623",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "32fe9faceba1ac9d",
-      "title": "4DR360: التفكير في الحالة للكشف ثلاثي الأبعاد المشترك وتوقع الإشغال في إدراك المشهد الكامل باستخدام رادار وكاميرا 4D",
-      "summary": "تقدم المقالة نهجًا جديدًا يسمى 4DR360، الذي يعزز الكشف ثلاثي الأبعاد المشترك وتوقع الإشغال من خلال دمج بيانات الرادار والكاميرا 4D لتحسين إدراك المشهد الكامل في القيادة الذاتية. يعالج هذا الأسلوب قيود تقنيات دمج الرادار والكاميرا الحالية من خلال تمكين تفاعل أفضل بين كشف الكائنات وفهم التخطيط الدلالي.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09629",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "38a0e2c9770c5927",
-      "title": "PACE: محرك منهج دراسي شخصي تكيفي لتدريب متلقي مكالمات 9-1-1",
-      "summary": "تناقش المقالة تطوير PACE، محرك منهج دراسي شخصي تكيفي مصمم لتعزيز تدريب متلقي مكالمات 9-1-1 من خلال تخصيص الأهداف وفقًا لكفاءات المتدربين الفردية المتطورة. تهدف هذه المبادرة إلى معالجة التحديات التي تطرحها نقص العمالة على مستوى البلاد وتعقيد متطلبات التدريب في الاستجابة للطوارئ.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2603.05361",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "b5b42202c7d31510",
-      "title": "M4V: ماما متعددة الأنماط لتوليد الفيديو من النص بكفاءة",
-      "summary": "تناقش المقالة M4V، إطار عمل جديد لتوليد الفيديو من النص بكفاءة يتناول التحديات الحاسوبية المرتبطة بنماذج Transformer التقليدية. من خلال الاستفادة من التقدم في نمذجة التسلسل الزمني الخطي، تهدف M4V إلى تعزيز جدوى إنشاء محتوى فيديو ديناميكي من أوصاف نصية.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2506.10915",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "bcd80173e9eeb074",
-      "title": "H3Former: تجميع واعٍ دلاليًا قائم على الهيبرغراف عبر خسارة تباينية هرمية غير خطية لتصنيف بصري دقيق",
-      "summary": "تقدم المقالة H3Former، نهجًا جديدًا لتصنيف بصري دقيق (FGVC) يستخدم تجميعًا واعيًا دلاليًا قائمًا على الهيبرغراف وخسارة تباينية هرمية غير خطية. يهدف هذا الأسلوب إلى تحسين تحديد الفروق الدقيقة بين الفئات وتقليل التكرار غير المعتمد على الفئة في تقنيات FGVC الحالية.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2511.10260",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5f32342fb9d2b98b",
-      "title": "تمكين تدريب متلقي مكالمات 9-1-1 باستخدام الذكاء الاصطناعي التوليدي: التجارب والدروس المستفادة",
-      "summary": "تستكشف دراسة حديثة استخدام الذكاء الاصطناعي التوليدي لتعزيز التدريب لمتلقي مكالمات 9-1-1، مع معالجة نقص الموظفين الكبير والوقت الطويل المطلوب لتدريب الموظفين الجدد. تسلط النتائج الضوء على الإمكانيات التي توفرها الحلول المدفوعة بالذكاء الاصطناعي لتحسين كفاءة وفعالية التدريب في مراكز الاستجابة للطوارئ.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.13241",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5a806bd91eb70cc9",
-      "title": "GAP-GDRNet: تقدير وضعية 6D أحادي العين مدرك للهندسة للمركبات الفضائية باستخدام إشراف هندسي اصطناعي",
-      "summary": "تقدم المقالة GAP-GDRNet، إطار عمل مدرك للهندسة مصمم لتقدير وضعية 6D أحادي العين للمركبات الفضائية، مع معالجة تحديات مثل ضعف الملمس والاعتراض. يعزز الأسلوب خط أنابيب الانحدار المدعوم بالهندسة من خلال دمج الانتباه الهيكلي العالمي قبل التنبؤ الهندسي الكثيف.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.02360",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "4922dcd04a8b45c0",
-      "title": "لورد تقول إن نظارات Ray-Ban Meta AI 'ليست جذابة'",
-      "summary": "خلال أدائها في مهرجان Real Cool في مدريد، انتقدت لورد نظارات الذكاء الاصطناعي، مشيرة إلى أنها تفتقر إلى الجاذبية، على الأرجح في إشارة إلى نظارات Ray-Ban Meta AI الذكية. تسلط تعليقاتها الضوء على المناقشات المستمرة حول جمالية وقبول تكنولوجيا الذكاء الاصطناعي القابلة للارتداء.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "publishedAt": "2026-07-12T20:10:19+00:00",
-      "category": "news",
-      "relevanceScore": 46
-    },
-    {
-      "id": "2b8a3969fdcf3211",
-      "title": "CogniConsole: تحويل التحكم في وقت الاستدلال إلى تجريد رسمي لتفاعلات موثوقة مع نماذج اللغة الكبيرة",
-      "summary": "تقدم المقالة CogniConsole، إطار عمل معماري جديد يقوم بتحويل التحكم في وقت الاستدلال لتعزيز موثوقية تفاعلات نماذج اللغة الكبيرة (LLM). يجادل بأن الموثوقية تتأثر أكثر بآليات تأطير المهام واختيار السياق بدلاً من قدرة النموذج وحده.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.08774",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 46
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 184,
+    "articlesProcessed": 193,
     "articlesSelected": 12
   }
 }

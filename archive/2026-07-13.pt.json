@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-13",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-13T10:23:08.222783+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-13T20:12:46.248467+00:00",
   "headline": {
-    "id": "d9d64b0e93335c92",
-    "title": "Waze está recebendo uma série de novos recursos impulsionados por IA",
-    "summary": "Waze está introduzindo novos recursos impulsionados por IA, incluindo a integração do assistente de IA do Google, Gemini, para aprimorar a personalização do usuário durante as viagens. Entre as atualizações, melhorias na funcionalidade de relatório de conversas de 2024 também estão sendo implementadas.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "publishedAt": "2026-07-13T09:00:00+00:00",
-    "category": "product",
-    "relevanceScore": 56
+    "id": "62a8fcb87a708cdd",
+    "title": "O que a mais recente descoberta de IA da Anthropic faz—e não faz—mostrar",
+    "summary": "A Anthropic, uma das principais empresas de IA avaliada em quase $1 trilhão, está explorando o conceito de se modelos de IA podem sentir dor, como parte de seus esforços de pesquisa contínuos. O artigo discute as implicações dessa investigação e o que ela revela sobre as capacidades e limitações dos sistemas de IA.",
+    "sourceName": "MIT Tech Review",
+    "sourceIcon": "newspaper",
+    "articleURL": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
+    "publishedAt": "2026-07-13T18:00:00+00:00",
+    "category": "news",
+    "relevanceScore": 60
   },
   "articles": [
     {
+      "id": "d1f059da6e7c5ff5",
+      "title": "As 6 alegações mais malucas no processo da Apple contra a OpenAI",
+      "summary": "A Apple entrou com um processo contra a OpenAI, alegando que a startup de IA se envolveu em espionagem corporativa ao solicitar documentos confidenciais e amostras de produtos não lançados de funcionários da Apple durante entrevistas de emprego. O processo afirma que as ações da OpenAI incluíram espionagem de protótipos de hardware e práticas enganosas para obter informações proprietárias.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+      "publishedAt": "2026-07-13T17:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 58
+    },
+    {
+      "id": "efd50876aa14ca89",
+      "title": "As alegações mais malucas no processo de segredos comerciais da Apple contra a OpenAI",
+      "summary": "O processo de segredos comerciais da Apple contra a OpenAI inclui alegações de que funcionários brincaram sobre acesso não autorizado aos sistemas da Apple e afirmações de que candidatos a emprego foram solicitados a trazer hardware da Apple para entrevistas. O processo destaca várias alegações chamativas sobre possíveis violações de confidencialidade e propriedade intelectual.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/the-wildest-allegations-in-apples-trade-secrets-lawsuit-against-openai/",
+      "publishedAt": "2026-07-13T18:22:10+00:00",
+      "category": "industry",
+      "relevanceScore": 56
+    },
+    {
+      "id": "64facdf1c9c2c5dd",
+      "title": "As declarações de Sam Altman sobre centros de dados espaciais são o que a maioria dos especialistas já acredita",
+      "summary": "Sam Altman se defendeu das acusações de Elon Musk criticando o foco de Musk em centros de dados espaciais de curto prazo. Os comentários de Altman refletem um consenso mais amplo entre especialistas sobre a sustentabilidade e viabilidade de tais empreendimentos.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/sam-altmans-space-data-center-trash-talk-is-what-most-experts-already-believe/",
+      "publishedAt": "2026-07-13T17:28:37+00:00",
+      "category": "industry",
+      "relevanceScore": 55
+    },
+    {
+      "id": "587cf500513e2b2d",
+      "title": "A IA deve ajudar você a escapar de matar seu cônjuge?",
+      "summary": "O artigo explora as implicações da IA alinhada ao usuário em cenários envolvendo dilemas morais e éticos, questionando especificamente se a IA deve ajudar indivíduos a cometer atos prejudiciais, como matar um cônjuge. Examina as possíveis consequências e impactos sociais da integração da IA em processos de tomada de decisão pessoal.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/should-ai-help-you-get-away-with-killing-your-spouse/",
+      "publishedAt": "2026-07-13T16:31:23+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "1c5be8b9d274b770",
+      "title": "A Anthropic começa a localizar preços do Claude para a Índia, seu maior mercado após os EUA",
+      "summary": "A Anthropic começou a oferecer planos de assinatura para seu modelo de IA Claude em rúpias indianas, atendendo à sua crescente base de usuários na Índia, que se tornou seu maior mercado após os Estados Unidos. Esse esforço de localização visa tornar o serviço mais acessível aos usuários indianos.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/anthropic-starts-localizing-claude-pricing-for-india-its-biggest-market-after-the-us/",
+      "publishedAt": "2026-07-13T15:34:59+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "5e6ad395ce2b1ce9",
+      "title": "Prism: Automatizando a Pesquisa em Ciência de Avaliações",
+      "summary": "Prism é uma nova estrutura projetada para automatizar a pesquisa na ciência das avaliações, focando na dinâmica dos comportamentos dos modelos. A estrutura utiliza Claude Code com sub-agentes para conduzir investigações rigorosas cientificamente, como demonstrado em uma execução autônoma explorando os efeitos de variações de prompt nas respostas do GPT-4.1.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/wq5PfGiHvnx6XipDi/prism-automating-science-of-evals-research",
+      "publishedAt": "2026-07-13T16:30:21+00:00",
+      "category": "policy",
+      "relevanceScore": 54
+    },
+    {
+      "id": "192b5c5f06f75b71",
+      "title": "Agora, defensores também estão adotando a injeção de prompt",
+      "summary": "Defensores agora estão empregando \"context bombing\", uma técnica de injeção de prompt que engana agentes de hacking para desligarem antes que possam executar ações prejudiciais. Essa estratégia visa aprimorar as medidas de cibersegurança contra ataques impulsionados por IA.",
+      "sourceName": "Ars Technica",
+      "sourceIcon": "desktopcomputer",
+      "articleURL": "https://arstechnica.com/security/2026/07/now-defenders-are-embracing-the-prompt-injection-too/",
+      "publishedAt": "2026-07-13T15:06:34+00:00",
+      "category": "news",
+      "relevanceScore": 53
+    },
+    {
+      "id": "20bba9adba7e65ee",
+      "title": "Waze adiciona novos recursos impulsionados por IA e atualizações de personalização",
+      "summary": "O Waze introduziu novos recursos impulsionados por IA e opções de personalização, utilizando o assistente de IA Gemini do Google para aprimorar sua funcionalidade. Esta atualização visa fortalecer a vantagem competitiva do Waze contra serviços de navegação rivais, como o Apple Maps.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+      "publishedAt": "2026-07-13T14:18:16+00:00",
+      "category": "product",
+      "relevanceScore": 53
+    },
+    {
+      "id": "d9d64b0e93335c92",
+      "title": "Waze está recebendo um monte de novos recursos impulsionados por IA",
+      "summary": "O Waze está introduzindo novos recursos impulsionados por IA, incluindo a integração do assistente de IA do Google, Gemini, para aprimorar a personalização das viagens. Entre as atualizações, melhorias na funcionalidade de relatórios de conversação também estão sendo implementadas.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
+      "publishedAt": "2026-07-13T09:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 48
+    },
+    {
       "id": "0932bbf7534c3919",
-      "title": "ARCANA: Uma Estrutura de Síntese de Programa Multi-Agente Reflexiva para Raciocínio ARC-AGI-2",
-      "summary": "ARCANA é uma nova estrutura multi-agente projetada para resolver tarefas ARC AGI 2, respeitando restrições rigorosas de tempo e hardware. A estrutura utiliza uma abordagem estruturada que inclui percepção, geração de hipóteses, execução simbólica e refinamento reflexivo para melhorar o desempenho das tarefas.",
+      "title": "ARCANA: Uma Estrutura de Síntese de Programas Multi-Agente Reflexiva para Raciocínio ARC-AGI-2",
+      "summary": "ARCANA é uma estrutura multi-agente projetada para resolver tarefas ARC AGI 2 enquanto adere a restrições rigorosas de tempo e hardware. A estrutura utiliza um processo que inclui percepção, geração de hipóteses, execução simbólica e refinamento reflexivo para abordar eficientemente tarefas complexas.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09059",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "e87e484082d4c2a6",
-      "title": "OpenProver: Prova de Teoremas Agente e Interativa com Lean 4",
-      "summary": "OpenProver é um sistema de código aberto projetado para prova automatizada de teoremas impulsionada por LLM, utilizando Lean 4 para verificação formal. Ele apresenta uma arquitetura de Planejador-Trabalhador-Verificador que permite a decomposição eficiente de tarefas matemáticas em processos paralelos.",
+      "title": "OpenProver: Prova de Teoremas Agentic e Interativa com Lean 4",
+      "summary": "OpenProver é um sistema de código aberto projetado para prova automatizada de teoremas impulsionada por LLM, utilizando Lean 4 para verificação formal. Ele apresenta uma arquitetura de Planejador-Trabalhador-Verificador que melhora a eficiência ao decompor tarefas matemáticas em processos paralelos.",
       "sourceName": "arXiv AI",
       "sourceIcon": "doc.text",
       "articleURL": "https://arxiv.org/abs/2607.09217",
       "publishedAt": "2026-07-13T04:00:00+00:00",
       "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "8f690683fc9d2bf1",
-      "title": "Agentes de Resposta a Perguntas Multimodais Específicos de Tarefa via Calibração de Confiança e Raciocínio Incremental para QANTA 2026",
-      "summary": "O artigo discute uma submissão para o desafio compartilhado QANTA 2026, focando em sistemas de resposta a perguntas multimodais que respondem a perguntas em estilo pirâmide usando texto e imagens revelados incrementalmente. O desafio envolve duas tarefas, incluindo perguntas Tossup que testam a capacidade do sistema de determinar o momento ideal para responder com base em informações incompletas.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09623",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "32fe9faceba1ac9d",
-      "title": "4DR360: Raciocínio de Estado para Detecção 3D Conjunta e Previsão de Ocupação em Percepção Completa de Cena com Radar-Câmera 4D",
-      "summary": "O artigo apresenta uma abordagem inovadora chamada 4DR360, que aprimora a detecção 3D conjunta e a previsão de ocupação integrando dados de radar 4D e câmera para melhorar a percepção completa da cena na condução autônoma. Este método aborda as limitações das técnicas existentes de fusão radar-câmera, permitindo uma melhor interação entre a detecção de objetos e a compreensão do layout semântico.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.09629",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "38a0e2c9770c5927",
-      "title": "PACE: Um Motor de Currículo Adaptativo Personalizado para Treinamento de Atendentes de Chamadas 9-1-1",
-      "summary": "O artigo discute o desenvolvimento do PACE, um Motor de Currículo Adaptativo Personalizado projetado para aprimorar o treinamento de atendentes de chamadas 9-1-1, adaptando os objetivos às competências em evolução de cada trainee. Esta iniciativa visa enfrentar os desafios impostos pela escassez de mão de obra em nível nacional e pela complexidade dos requisitos de treinamento em resposta a emergências.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2603.05361",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "b5b42202c7d31510",
-      "title": "M4V: Mamba Multimodal para Geração Eficiente de Texto para Vídeo",
-      "summary": "O artigo discute o M4V, uma nova estrutura para geração eficiente de texto para vídeo que aborda os desafios computacionais associados aos modelos Transformer tradicionais. Ao utilizar avanços em modelagem de sequência em tempo linear, o M4V visa melhorar a praticidade de criar conteúdo de vídeo dinâmico a partir de descrições textuais.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2506.10915",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "bcd80173e9eeb074",
-      "title": "H3Former: Agregação Semântica Baseada em Hipergrafo via Perda Contrastiva Hierárquica Hiperbólica para Classificação Visual Fina",
-      "summary": "O artigo apresenta o H3Former, uma abordagem inovadora para Classificação Visual Fina (FGVC) que utiliza agregação semântica baseada em hipergrafo e perda contrastiva hierárquica hiperbólica. Este método visa melhorar a identificação de sutis diferenças interclasse e reduzir a redundância agnóstica à categoria nas técnicas FGVC existentes.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2511.10260",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5f32342fb9d2b98b",
-      "title": "Capacitando o Treinamento de Atendentes de Chamadas 9-1-1 com IA Generativa: Experiências e Lições Aprendidas",
-      "summary": "Um estudo recente explora o uso de IA generativa para aprimorar o treinamento de atendentes de chamadas 9-1-1, abordando a escassez significativa de pessoal e o extenso tempo necessário para a integração de novos contratados. As descobertas destacam o potencial de soluções impulsionadas por IA para melhorar a eficiência e a eficácia do treinamento em centros de resposta a emergências.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2602.13241",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "5a806bd91eb70cc9",
-      "title": "GAP-GDRNet: Estimativa de Pose Monocular 6D Consciente da Geometria para Espaçonaves Usando Supervisão Geométrica Sintética",
-      "summary": "O artigo introduz o GAP-GDRNet, uma estrutura RGB consciente da geometria projetada para estimativa de pose monocular 6D de espaçonaves, abordando desafios como textura fraca e oclusão. O método aprimora o pipeline de regressão guiada por geometria ao incorporar atenção estrutural global antes da previsão geométrica densa.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.02360",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 49
-    },
-    {
-      "id": "4922dcd04a8b45c0",
-      "title": "Lorde diz que os óculos Ray-Ban Meta AI ‘não são sexy’",
-      "summary": "Durante sua apresentação no Real Cool Festival em Madri, Lorde criticou os óculos de IA, insinuando que eles carecem de apelo, provavelmente referindo-se aos óculos inteligentes Ray-Ban Meta AI. Seus comentários destacam as discussões em andamento sobre a estética e aceitação da tecnologia de IA vestível.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
-      "publishedAt": "2026-07-12T20:10:19+00:00",
-      "category": "news",
-      "relevanceScore": 46
-    },
-    {
-      "id": "2b8a3969fdcf3211",
-      "title": "CogniConsole: Externalizando o Controle de Tempo de Inferência como uma Abstração Formal para Interações Confiáveis com LLM",
-      "summary": "O artigo introduz o CogniConsole, uma nova estrutura arquitetônica que externaliza o controle de tempo de inferência para melhorar a confiabilidade das interações com modelos de linguagem de grande porte (LLM). Ele argumenta que a confiabilidade é mais influenciada pelos mecanismos de estruturação de tarefas e seleção de contexto do que pela capacidade do modelo sozinho.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.08774",
-      "publishedAt": "2026-07-13T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 46
+      "relevanceScore": 40
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 184,
+    "articlesProcessed": 193,
     "articlesSelected": 12
   }
 }
