@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-17",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-17T09:06:32.297454+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-17T20:03:48.698542+00:00",
   "headline": {
-    "id": "4115f9e06b558964",
-    "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
-    "summary": "Foundation Future Industries, backed by Eric Trump, is developing humanoid robots with potential military applications, as stated by the company's CEO. The firm is reportedly exploring \"kinetic things\" in its robotics initiatives.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-    "publishedAt": "2026-07-17T09:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 52
+    "id": "ea4719dcf6f16314",
+    "title": "How Apple’s big lawsuit could disrupt OpenAI’s IPO plans",
+    "summary": "Apple has filed a trade secrets lawsuit against OpenAI, alleging misconduct involving the company's chief hardware officer and claiming that over 400 former Apple employees are now with OpenAI. This legal challenge could potentially disrupt OpenAI's plans for an initial public offering (IPO).",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "publishedAt": "2026-07-17T17:45:46+00:00",
+    "category": "industry",
+    "relevanceScore": 56
   },
   "articles": [
     {
+      "id": "320385b77c9ce0e9",
+      "title": "Patreon stops asking AI bots not to scrape — and starts blocking them",
+      "summary": "Patreon is collaborating with Cloudflare to implement measures that block AI bots from scraping creators' content without permission. This change signifies a transition from merely requesting compliance through robots.txt to actively preventing unauthorized AI training.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "publishedAt": "2026-07-17T15:21:17+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "7bd993bc94138880",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "summary": "A $400 million loan backed by chips signals a shift among GPU financiers towards investing in inference chips, highlighting a growing trend in AI infrastructure financing. This move reflects the increasing demand for advanced AI capabilities and the evolving landscape of chip technology.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "publishedAt": "2026-07-17T12:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "d9b2b6a45e1f9f2c",
+      "title": "Fine-tune video and image models at scale with NVIDIA NeMo Automodel and 🤗 Diffusers",
+      "summary": "NVIDIA has introduced NeMo Automodel, a tool designed to facilitate the fine-tuning of video and image models at scale, enhancing the efficiency of model training. This development is complemented by the integration of 🤗 Diffusers, which streamlines the process for users in the AI community.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "publishedAt": "2026-07-17T15:57:54+00:00",
+      "category": "research",
+      "relevanceScore": 54
+    },
+    {
+      "id": "6b81cde1f856badc",
+      "title": "Apple’s lawsuit couldn’t come at a worse time for OpenAI",
+      "summary": "Apple has filed a trade secrets lawsuit against OpenAI, alleging misconduct involving OpenAI's chief hardware officer and claiming that over 400 former Apple employees are now at the company. The lawsuit comes at a critical time for OpenAI, as it is reportedly preparing for an initial public offering (IPO).",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "publishedAt": "2026-07-17T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "c5c5248230951857",
+      "title": "A scorecard for the AI age",
+      "summary": "Sarah Friar, CFO of OpenAI, has introduced a practical AI scorecard designed to evaluate return on investment (ROI) by assessing factors such as useful work, cost per successful task, dependability, and return on compute. This tool aims to provide organizations with a structured approach to measure the effectiveness of their AI implementations.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "publishedAt": "2026-07-17T10:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 51
+    },
+    {
+      "id": "90fec1482e6a8e5a",
+      "title": "NVIDIA Vera Rubin Maximizes Intelligence per Dollar for Post-Training Workloads — a Key Metric for Agentic AI",
+      "summary": "NVIDIA's Vera Rubin architecture optimizes cost efficiency for post-training workloads by achieving the lowest cost per token through extreme codesign. This advancement is positioned as a crucial metric for enhancing agentic AI capabilities.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "publishedAt": "2026-07-17T15:00:14+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "33d0a43631a90aa9",
+      "title": "Announcing the Corrigibility Research Fund",
+      "summary": "The Corrigibility Research Fund, managed by Lightcone Infrastructure, will allocate at least $200,000 in grants and prizes for research on AI corrigibility in 2026, with the first application deadline set for August 23rd. The fund aims to support both traditional grants and recognize outstanding work completed this year in the field.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund",
+      "publishedAt": "2026-07-17T18:06:32+00:00",
+      "category": "policy",
+      "relevanceScore": 51
+    },
+    {
+      "id": "e7aae44f448c5474",
+      "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
+      "summary": "San Francisco's City Attorney's Office has issued cease-and-desist letters to Apple and Google, demanding the removal of 13 \"face-swap\" apps that are primarily used to create non-consensual nude images of women and girls. The city argues that these apps contribute to harassment and exploitation, prompting the call for their deletion from app stores.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "publishedAt": "2026-07-17T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "0cc7d0d7a561d7a2",
+      "title": "The risk of weather data sabotage is rising",
+      "summary": "The article discusses the increasing risk of sabotage to weather data, which is critical for decision-making in various industries such as aviation, agriculture, and energy. As reliance on weather forecasts grows, the potential for malicious manipulation poses significant threats to economic stability and safety.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "publishedAt": "2026-07-17T08:57:32+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "4115f9e06b558964",
+      "title": "A Humanoid Company Backed by Eric Trump Is Preparing Its Robots for War",
+      "summary": "Foundation Future Industries, a humanoid robotics company with Eric Trump as chief strategy adviser, is developing robots for potential military applications. The CEO revealed that the company is investigating \"kinetic things\" as part of its technological advancements.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "publishedAt": "2026-07-17T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "5febebe33e2983c8",
       "title": "HP fined 1.4 billion rupees for “cartelization” of ink cartridges, toner, PCs",
-      "summary": "HP has been fined 1.4 billion rupees for engaging in \"cartelization\" related to the sale of ink cartridges, toner, and PCs. The penalty follows allegations that resellers were pressured to abandon HP's printing supplies in favor of counterfeit products.",
+      "summary": "HP has been fined 1.4 billion rupees for engaging in \"cartelization\" related to its ink cartridges, toner, and PCs, following allegations that resellers were pressured to avoid counterfeit products. The ruling highlights concerns over anti-competitive practices in the printing supplies market.",
       "sourceName": "Ars Technica",
       "sourceIcon": "desktopcomputer",
       "articleURL": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
       "publishedAt": "2026-07-16T22:02:31+00:00",
       "category": "news",
-      "relevanceScore": 51
-    },
-    {
-      "id": "0560403cacf5a7a1",
-      "title": "Create, edit and star in videos with two Google Vids updates",
-      "summary": "Google has introduced two updates to Google Vids: Gemini Omni, which enhances video creation and editing capabilities, and Personal Avatars, allowing users to star in their own videos. These features aim to improve user engagement and personalization in video content.",
-      "sourceName": "Google AI",
-      "sourceIcon": "magnifyingglass",
-      "articleURL": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d2a11ec91f81f1cd",
-      "title": "EZSMT Version 3, Matured",
-      "summary": "The article introduces EZSMTV3, an advanced framework for Constraint Answer Set Programming (CASP) that integrates Answer Set Programming with Constraint Processing and Satisfiability Modulo Theories. This new version enhances the translational approach to solving complex combinatorial search problems through its extensible design and implementation.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13344",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "9624dee1caedeb03",
-      "title": "Do Agent Optimizers Compound? A Continual-Learning Evaluation on Terminal-Bench 2.0",
-      "summary": "The article investigates whether gains from agent optimization methods compound over time in a continual learning context, using the Terminal-Bench 2.0 framework. It highlights that most previous evaluations have focused on one-time optimizations, which may not reflect the performance of agents in real-world scenarios where they face new challenges continuously.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.14004",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "f6b8c3ada1d7ad95",
-      "title": "LessonBench-V1: A Benchmark Dataset for Evaluating AI Lesson Generation Agents",
-      "summary": "The article introduces LessonBench-V1, a new benchmark dataset designed to evaluate AI lesson generation agents, consisting of 647 human-written lessons and LLM-generated lesson plans across 240 STEM topics. This dataset aims to provide a standardized method for assessing the effectiveness of AI educational content generation systems.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13041",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "a93d54a815755e88",
-      "title": "Full-Pipeline Inference Optimization for MiMo-V2.5 Series: Pushing Hybrid SWA Efficiency to the Limit",
-      "summary": "The article discusses a full-pipeline inference optimization for the MiMo-V2.5 model series, integrating Hybrid Sliding Window Attention, sparse Mixture-of-Experts, and multimodal encoders. The optimization aims to enhance efficiency in production by improving the KVCache system, thereby reducing compute and storage requirements.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13095",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d6b84905643bd456",
-      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
-      "summary": "Boogu-Image-0.1 is a new open-source model family designed for unified multimodal understanding and generation, featuring variants such as Base, Turbo, Edit, and Edit-Turbo. It excels in text-to-image generation, fast inference, instruction-based editing, and bilingual text rendering in Chinese and English.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13125",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "27310a1f36809a95",
-      "title": "RAGthoven at SemEval-2026 Task 1: A Multi-Stage Pipeline Walks Into a Benchmark and Barely Clears the Bar",
-      "summary": "The article introduces RAGthoven, a system developed for the SemEval-2026 Task 1 focused on multilingual constrained humor generation in English, Spanish, and Chinese. RAGthoven employs a multi-stage pipeline of large language models, incorporating humor theories to enhance the creative text generation process.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13189",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6656db808e8cda4f",
-      "title": "Audited Selective Verification for Risk-Controlled N-1 Thermal Contingency Screening under Deployment Shift",
-      "summary": "The paper presents Audited Selective Verification, a method for risk-controlled N-1 thermal contingency screening in energy management systems. This approach balances the need for assurance against cost by providing a statistical guarantee while avoiding the pitfalls of traditional verification methods that may overlook unsafe operating conditions.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13221",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "028e4d8f80a8a08d",
-      "title": "GeoAnchor: Collaborative Reasoning via Latent Decomposition for 3D Spatial Understanding",
-      "summary": "The article presents GeoAnchor, a novel approach for enhancing 3D spatial understanding by utilizing collaborative reasoning through latent decomposition. This method addresses the limitations of existing multimodal large language models in accurately interpreting 3D spatial relationships from 2D images by employing multiple latent representations to better capture continuous geometric information.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13454",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d5da8731c2b0ef26",
-      "title": "UTS at ELOQUENT 2026 Voight-Kampff: structural shifts in AI writing bypass state-of-the-art detectors",
-      "summary": "A recent study presented at ELOQUENT 2026 reveals that certain language model evasion attacks can successfully bypass state-of-the-art AI writing detectors, even after adversarial fine-tuning. The research highlights a critical vulnerability in detection systems, indicating that shifting generated text outside the detector's training distribution can effectively evade detection.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13565",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 42
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 268,
+    "articlesProcessed": 269,
     "articlesSelected": 12
   }
 }

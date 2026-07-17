@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-17",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-17T09:06:32.297454+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-17T20:03:48.698542+00:00",
   "headline": {
-    "id": "4115f9e06b558964",
-    "title": "شركة إنسانية مدعومة من إريك ترامب تستعد لروبوتاتها للحرب",
-    "summary": "تقوم مؤسسة Future Industries، المدعومة من إريك ترامب، بتطوير روبوتات إنسانية ذات تطبيقات عسكرية محتملة، وفقًا لما صرح به الرئيس التنفيذي للشركة. وتستكشف الشركة \"أشياء حركية\" في مبادراتها الروبوتية.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-    "publishedAt": "2026-07-17T09:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 52
+    "id": "ea4719dcf6f16314",
+    "title": "كيف يمكن أن disrupt دعوى أبل الكبيرة خطط الطرح العام الأولي لـ OpenAI",
+    "summary": "رفعت أبل دعوى تجارية ضد OpenAI، متهمةً misconduct involving المسؤول الرئيسي عن الأجهزة في الشركة، وادعت أن أكثر من 400 موظف سابق في أبل يعملون الآن في OpenAI. قد disrupt هذه التحديات القانونية خطط OpenAI للطرح العام الأولي.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "publishedAt": "2026-07-17T17:45:46+00:00",
+    "category": "industry",
+    "relevanceScore": 56
   },
   "articles": [
     {
+      "id": "320385b77c9ce0e9",
+      "title": "باتريون تتوقف عن طلب عدم سحب الروبوتات الذكية - وتبدأ في حظرها",
+      "summary": "تتعاون باتريون مع Cloudflare لتنفيذ تدابير تمنع الروبوتات الذكية من سحب محتوى المبدعين دون إذن. تشير هذه التغييرات إلى انتقال من مجرد طلب الامتثال عبر robots.txt إلى منع التدريب غير المصرح به للذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "publishedAt": "2026-07-17T15:21:17+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "7bd993bc94138880",
+      "title": "لماذا يتحول الممولون الأوائل لوحدات معالجة الرسوميات إلى شرائح الاستدلال في صفقة بقيمة 400 مليون دولار",
+      "summary": "تشير قرض بقيمة 400 مليون دولار مدعوم بشرائح إلى تحول بين الممولين لوحدات معالجة الرسوميات نحو الاستثمار في شرائح الاستدلال، مما يبرز اتجاهًا متزايدًا في تمويل بنية الذكاء الاصطناعي التحتية. تعكس هذه الخطوة الطلب المتزايد على قدرات الذكاء الاصطناعي المتقدمة وتطور تكنولوجيا الشرائح.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "publishedAt": "2026-07-17T12:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "d9b2b6a45e1f9f2c",
+      "title": "تحسين نماذج الفيديو والصورة على نطاق واسع مع NVIDIA NeMo Automodel و 🤗 Diffusers",
+      "summary": "قدمت NVIDIA NeMo Automodel، أداة مصممة لتسهيل تحسين نماذج الفيديو والصورة على نطاق واسع، مما يعزز كفاءة تدريب النماذج. يتكامل هذا التطور مع 🤗 Diffusers، الذي يبسط العملية للمستخدمين في مجتمع الذكاء الاصطناعي.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "publishedAt": "2026-07-17T15:57:54+00:00",
+      "category": "research",
+      "relevanceScore": 54
+    },
+    {
+      "id": "6b81cde1f856badc",
+      "title": "دعوى أبل لم تكن لتأتي في وقت أسوأ لـ OpenAI",
+      "summary": "رفعت أبل دعوى تجارية ضد OpenAI، متهمةً misconduct involving المسؤول الرئيسي عن الأجهزة في OpenAI، وادعت أن أكثر من 400 موظف سابق في أبل يعملون الآن في الشركة. تأتي الدعوى في وقت حرج لـ OpenAI، حيث يُقال إنها تستعد للطرح العام الأولي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "publishedAt": "2026-07-17T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "c5c5248230951857",
+      "title": "بطاقة تقييم لعصر الذكاء الاصطناعي",
+      "summary": "قدمت سارة فريار، المديرة المالية لـ OpenAI، بطاقة تقييم عملية للذكاء الاصطناعي تهدف إلى تقييم العائد على الاستثمار من خلال تقييم عوامل مثل العمل المفيد، التكلفة لكل مهمة ناجحة، الاعتمادية، والعائد على الحوسبة. تهدف هذه الأداة إلى تزويد المنظمات بنهج منظم لقياس فعالية تطبيقات الذكاء الاصطناعي.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "publishedAt": "2026-07-17T10:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 51
+    },
+    {
+      "id": "90fec1482e6a8e5a",
+      "title": "NVIDIA Vera Rubin تعظم الذكاء لكل دولار لأعباء العمل بعد التدريب - مقياس رئيسي للذكاء الاصطناعي الوكالي",
+      "summary": "تحسن بنية NVIDIA Vera Rubin كفاءة التكلفة لأعباء العمل بعد التدريب من خلال تحقيق أقل تكلفة لكل توكن عبر التصميم المشترك المتطرف. يُعتبر هذا التقدم مقياسًا حاسمًا لتعزيز قدرات الذكاء الاصطناعي الوكالي.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "publishedAt": "2026-07-17T15:00:14+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "33d0a43631a90aa9",
+      "title": "إعلان عن صندوق أبحاث القابلية للتصحيح",
+      "summary": "سيخصص صندوق أبحاث القابلية للتصحيح، الذي تديره Lightcone Infrastructure، ما لا يقل عن 200,000 دولار كمنح وجوائز لأبحاث حول القابلية للتصحيح في الذكاء الاصطناعي في عام 2026، مع تحديد موعد تقديم الطلبات الأولية في 23 أغسطس. يهدف الصندوق إلى دعم كل من المنح التقليدية والاعتراف بالعمل المتميز الذي تم إنجازه هذا العام في هذا المجال.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund",
+      "publishedAt": "2026-07-17T18:06:32+00:00",
+      "category": "policy",
+      "relevanceScore": 51
+    },
+    {
+      "id": "e7aae44f448c5474",
+      "title": "سان فرانسيسكو تطالب أبل وجوجل بحذف تطبيقات الذكاء الاصطناعي 'Nudify' من متاجر التطبيقات",
+      "summary": "أصدرت مكتب المدعي العام لمدينة سان فرانسيسكو رسائل توقف وامتناع إلى أبل وجوجل، تطالب بإزالة 13 تطبيقًا \"لتبديل الوجوه\" تُستخدم بشكل أساسي لإنشاء صور عارية غير consensual للنساء والفتيات. تجادل المدينة بأن هذه التطبيقات تساهم في التحرش والاستغلال، مما يدفع إلى الدعوة لحذفها من متاجر التطبيقات.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "publishedAt": "2026-07-17T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "0cc7d0d7a561d7a2",
+      "title": "تزايد خطر تخريب بيانات الطقس",
+      "summary": "تناقش المقالة تزايد خطر التخريب لبيانات الطقس، التي تعتبر حيوية لاتخاذ القرارات في صناعات مختلفة مثل الطيران والزراعة والطاقة. مع تزايد الاعتماد على توقعات الطقس، يشكل احتمال التلاعب الخبيث تهديدات كبيرة للاستقرار الاقتصادي والسلامة.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "publishedAt": "2026-07-17T08:57:32+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "4115f9e06b558964",
+      "title": "شركة إنسان آلي مدعومة من إريك ترامب تستعد لروبوتاتها للحرب",
+      "summary": "تقوم Foundation Future Industries، وهي شركة روبوتات إنسانية مع إريك ترامب كمستشار استراتيجي رئيسي، بتطوير روبوتات لتطبيقات عسكرية محتملة. كشف الرئيس التنفيذي أن الشركة تحقق في \"أشياء حركية\" كجزء من تقدمها التكنولوجي.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "publishedAt": "2026-07-17T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "5febebe33e2983c8",
-      "title": "HP تُغرّم 1.4 مليار روبية بسبب \"الكارتل\" لخرطوشات الحبر، وال toner، وأجهزة الكمبيوتر",
-      "summary": "تم تغريم HP بمبلغ 1.4 مليار روبية بسبب الانخراط في \"الكارتل\" المتعلق ببيع خرطوشات الحبر، وال toner، وأجهزة الكمبيوتر. تأتي العقوبة بعد مزاعم بأن البائعين تعرضوا لضغوط للتخلي عن مستلزمات الطباعة الخاصة بـ HP لصالح منتجات مزيفة.",
+      "title": "HP تُغرم 1.4 مليار روبية بسبب \"التكتل\" في خراطيش الحبر، وال toner، وأجهزة الكمبيوتر",
+      "summary": "تم تغريم HP بمبلغ 1.4 مليار روبية بسبب الانخراط في \"التكتل\" المتعلق بخراطيش الحبر، وال toner، وأجهزة الكمبيوتر، بعد مزاعم بأن البائعين تعرضوا لضغوط لتجنب المنتجات المقلدة. تسلط هذه الحكم الضوء على المخاوف بشأن الممارسات المناهضة للمنافسة في سوق مستلزمات الطباعة.",
       "sourceName": "Ars Technica",
       "sourceIcon": "desktopcomputer",
       "articleURL": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
       "publishedAt": "2026-07-16T22:02:31+00:00",
       "category": "news",
-      "relevanceScore": 51
-    },
-    {
-      "id": "0560403cacf5a7a1",
-      "title": "إنشاء وتحرير والظهور في مقاطع الفيديو مع تحديثين من Google Vids",
-      "summary": "قدمت Google تحديثين جديدين لـ Google Vids: Gemini Omni، الذي يعزز قدرات إنشاء وتحرير الفيديو، وPersonal Avatars، مما يسمح للمستخدمين بالظهور في مقاطع الفيديو الخاصة بهم. تهدف هذه الميزات إلى تحسين تفاعل المستخدمين وتخصيص المحتوى الفيديوي.",
-      "sourceName": "Google AI",
-      "sourceIcon": "magnifyingglass",
-      "articleURL": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d2a11ec91f81f1cd",
-      "title": "EZSMT الإصدار 3، نضج",
-      "summary": "يقدم المقال EZSMTV3، وهو إطار متقدم لبرمجة مجموعة الإجابات المقيدة (CASP) الذي يدمج برمجة مجموعة الإجابات مع معالجة القيود وقابلية الإرضاء وفقًا للنظريات. يعزز هذا الإصدار الجديد النهج التحويلي لحل مشكلات البحث التوافقي المعقدة من خلال تصميمه القابل للتوسيع وتنفيذه.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13344",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "9624dee1caedeb03",
-      "title": "هل تتراكم تحسينات الوكلاء؟ تقييم التعلم المستمر على Terminal-Bench 2.0",
-      "summary": "يستكشف المقال ما إذا كانت المكاسب من طرق تحسين الوكلاء تتراكم بمرور الوقت في سياق التعلم المستمر، باستخدام إطار Terminal-Bench 2.0. ويبرز أن معظم التقييمات السابقة قد ركزت على تحسينات لمرة واحدة، والتي قد لا تعكس أداء الوكلاء في السيناريوهات الواقعية حيث يواجهون تحديات جديدة باستمرار.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.14004",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "f6b8c3ada1d7ad95",
-      "title": "LessonBench-V1: مجموعة بيانات معيارية لتقييم وكلاء توليد الدروس بالذكاء الاصطناعي",
-      "summary": "يقدم المقال LessonBench-V1، وهي مجموعة بيانات معيارية جديدة مصممة لتقييم وكلاء توليد الدروس بالذكاء الاصطناعي، وتتكون من 647 درسًا مكتوبًا بواسطة البشر وخطط دروس تم إنشاؤها بواسطة LLM عبر 240 موضوعًا في STEM. تهدف هذه المجموعة إلى توفير طريقة موحدة لتقييم فعالية أنظمة توليد المحتوى التعليمي بالذكاء الاصطناعي.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13041",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "a93d54a815755e88",
-      "title": "تحسين استدلال كامل للخط الأنبوبي لسلسلة MiMo-V2.5: دفع كفاءة Hybrid SWA إلى الحد الأقصى",
-      "summary": "يناقش المقال تحسين استدلال كامل للخط الأنبوبي لسلسلة نموذج MiMo-V2.5، والذي يدمج Hybrid Sliding Window Attention، وMixture-of-Experts النادرة، والترميزات متعددة الوسائط. يهدف التحسين إلى تعزيز الكفاءة في الإنتاج من خلال تحسين نظام KVCache، مما يقلل من متطلبات الحوسبة والتخزين.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13095",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d6b84905643bd456",
-      "title": "Boogu-Image-0.1: تعزيز الفهم والتوليد المتعدد الوسائط الموحد مفتوح المصدر",
-      "summary": "Boogu-Image-0.1 هو عائلة نماذج جديدة مفتوحة المصدر مصممة لفهم وتوليد متعدد الوسائط الموحد، مع ميزات مثل Base وTurbo وEdit وEdit-Turbo. يتفوق في توليد النص إلى صورة، والاستدلال السريع، والتحرير القائم على التعليمات، وعرض النص ثنائي اللغة باللغتين الصينية والإنجليزية.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13125",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "27310a1f36809a95",
-      "title": "RAGthoven في SemEval-2026 المهمة 1: خط أنبوبي متعدد المراحل يدخل معيارًا ويكاد يتجاوز الحد الأدنى",
-      "summary": "يقدم المقال RAGthoven، وهو نظام تم تطويره لمهمة SemEval-2026 1 التي تركز على توليد الفكاهة المقيدة متعددة اللغات بالإنجليزية والإسبانية والصينية. يستخدم RAGthoven خط أنبوبي متعدد المراحل من نماذج اللغة الكبيرة، ويعتمد على نظريات الفكاهة لتعزيز عملية توليد النص الإبداعي.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13189",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6656db808e8cda4f",
-      "title": "التحقق الانتقائي المدقق لفرز الطوارئ الحرارية N-1 تحت تغيير النشر",
-      "summary": "يقدم البحث التحقق الانتقائي المدقق، وهي طريقة لفرز الطوارئ الحرارية N-1 تحت السيطرة على المخاطر في أنظمة إدارة الطاقة. يوازن هذا النهج بين الحاجة إلى الضمان مقابل التكلفة من خلال توفير ضمان إحصائي مع تجنب عيوب طرق التحقق التقليدية التي قد تتجاهل ظروف التشغيل غير الآمنة.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13221",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "028e4d8f80a8a08d",
-      "title": "GeoAnchor: التفكير التعاوني عبر التحلل الكامن لفهم الفضاء ثلاثي الأبعاد",
-      "summary": "يقدم المقال GeoAnchor، وهو نهج جديد لتعزيز الفهم المكاني ثلاثي الأبعاد من خلال استخدام التفكير التعاوني عبر التحلل الكامن. يعالج هذا الأسلوب قيود نماذج اللغة الكبيرة متعددة الوسائط الحالية في تفسير العلاقات المكانية ثلاثية الأبعاد بدقة من الصور ثنائية الأبعاد من خلال استخدام تمثيلات كامنة متعددة لالتقاط المعلومات الهندسية المستمرة بشكل أفضل.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13454",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d5da8731c2b0ef26",
-      "title": "UTS في ELOQUENT 2026 Voight-Kampff: تحولات هيكلية في كتابة الذكاء الاصطناعي تتجاوز أجهزة الكشف المتطورة",
-      "summary": "تكشف دراسة حديثة قدمت في ELOQUENT 2026 أن بعض هجمات التهرب من نماذج اللغة يمكن أن تتجاوز بنجاح أجهزة الكشف المتطورة لكتابة الذكاء الاصطناعي، حتى بعد التعديل العدائي. يسلط البحث الضوء على ثغرة حرجة في أنظمة الكشف، مما يشير إلى أن تحويل النص الناتج خارج توزيع تدريب جهاز الكشف يمكن أن يتجنب الكشف بشكل فعال.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13565",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 42
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 268,
+    "articlesProcessed": 269,
     "articlesSelected": 12
   }
 }

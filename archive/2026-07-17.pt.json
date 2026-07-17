@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-17",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-17T09:06:32.297454+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-17T20:03:48.698542+00:00",
   "headline": {
-    "id": "4115f9e06b558964",
-    "title": "Uma Empresa Humanoide Apoiada por Eric Trump Está Preparando Seus Robôs para a Guerra",
-    "summary": "A Foundation Future Industries, apoiada por Eric Trump, está desenvolvendo robôs humanoides com potenciais aplicações militares, conforme declarado pelo CEO da empresa. A firma está supostamente explorando \"coisas cinéticas\" em suas iniciativas de robótica.",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
-    "publishedAt": "2026-07-17T09:00:00+00:00",
-    "category": "news",
-    "relevanceScore": 52
+    "id": "ea4719dcf6f16314",
+    "title": "Como o grande processo da Apple pode desestabilizar os planos de IPO da OpenAI",
+    "summary": "A Apple entrou com um processo por segredos comerciais contra a OpenAI, alegando má conduta envolvendo o diretor de hardware da empresa e afirmando que mais de 400 ex-funcionários da Apple estão agora na OpenAI. Esse desafio legal pode potencialmente desestabilizar os planos da OpenAI para uma oferta pública inicial (IPO).",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
+    "publishedAt": "2026-07-17T17:45:46+00:00",
+    "category": "industry",
+    "relevanceScore": 56
   },
   "articles": [
     {
+      "id": "320385b77c9ce0e9",
+      "title": "Patreon para de pedir que bots de IA não façam scraping — e começa a bloqueá-los",
+      "summary": "O Patreon está colaborando com a Cloudflare para implementar medidas que bloqueiem bots de IA de fazer scraping do conteúdo dos criadores sem permissão. Essa mudança sinaliza uma transição de meramente solicitar conformidade através do robots.txt para ativamente prevenir o treinamento não autorizado de IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
+      "publishedAt": "2026-07-17T15:21:17+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "7bd993bc94138880",
+      "title": "Por que os primeiros financiadores de GPU estão se voltando para chips de inferência em um acordo de 400 milhões de dólares",
+      "summary": "Um empréstimo de 400 milhões de dólares respaldado por chips sinaliza uma mudança entre os financiadores de GPU em direção ao investimento em chips de inferência, destacando uma tendência crescente no financiamento de infraestrutura de IA. Esse movimento reflete a demanda crescente por capacidades avançadas de IA e o cenário em evolução da tecnologia de chips.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
+      "publishedAt": "2026-07-17T12:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 54
+    },
+    {
+      "id": "d9b2b6a45e1f9f2c",
+      "title": "Ajuste fino de modelos de vídeo e imagem em escala com NVIDIA NeMo Automodel e 🤗 Diffusers",
+      "summary": "A NVIDIA apresentou o NeMo Automodel, uma ferramenta projetada para facilitar o ajuste fino de modelos de vídeo e imagem em escala, aumentando a eficiência do treinamento de modelos. Esse desenvolvimento é complementado pela integração do 🤗 Diffusers, que simplifica o processo para os usuários da comunidade de IA.",
+      "sourceName": "Hugging Face",
+      "sourceIcon": "face.smiling",
+      "articleURL": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
+      "publishedAt": "2026-07-17T15:57:54+00:00",
+      "category": "research",
+      "relevanceScore": 54
+    },
+    {
+      "id": "6b81cde1f856badc",
+      "title": "O processo da Apple não poderia vir em um pior momento para a OpenAI",
+      "summary": "A Apple entrou com um processo por segredos comerciais contra a OpenAI, alegando má conduta envolvendo o diretor de hardware da OpenAI e afirmando que mais de 400 ex-funcionários da Apple estão agora na empresa. O processo surge em um momento crítico para a OpenAI, que está supostamente se preparando para uma oferta pública inicial (IPO).",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/podcast/apples-lawsuit-couldnt-come-at-a-worse-time-for-openai/",
+      "publishedAt": "2026-07-17T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "c5c5248230951857",
+      "title": "Um placar para a era da IA",
+      "summary": "Sarah Friar, CFO da OpenAI, apresentou um placar prático de IA projetado para avaliar o retorno sobre investimento (ROI) ao avaliar fatores como trabalho útil, custo por tarefa bem-sucedida, confiabilidade e retorno sobre computação. Essa ferramenta visa fornecer às organizações uma abordagem estruturada para medir a eficácia de suas implementações de IA.",
+      "sourceName": "OpenAI",
+      "sourceIcon": "sparkles",
+      "articleURL": "https://openai.com/index/a-scorecard-for-the-ai-age",
+      "publishedAt": "2026-07-17T10:00:00+00:00",
+      "category": "product",
+      "relevanceScore": 51
+    },
+    {
+      "id": "90fec1482e6a8e5a",
+      "title": "NVIDIA Vera Rubin Maximiza a Inteligência por Dólar para Cargas de Trabalho Pós-Treinamento — uma Métrica Chave para IA Agente",
+      "summary": "A arquitetura Vera Rubin da NVIDIA otimiza a eficiência de custo para cargas de trabalho pós-treinamento ao alcançar o menor custo por token através de co-design extremo. Esse avanço é posicionado como uma métrica crucial para aprimorar as capacidades de IA agente.",
+      "sourceName": "NVIDIA AI",
+      "sourceIcon": "gamecontroller",
+      "articleURL": "https://blogs.nvidia.com/blog/nvidia-vera-rubin-post-training-intelligence-per-dollar/",
+      "publishedAt": "2026-07-17T15:00:14+00:00",
+      "category": "industry",
+      "relevanceScore": 51
+    },
+    {
+      "id": "33d0a43631a90aa9",
+      "title": "Anunciando o Fundo de Pesquisa em Corrigibilidade",
+      "summary": "O Fundo de Pesquisa em Corrigibilidade, gerido pela Lightcone Infrastructure, alocará pelo menos 200.000 dólares em subsídios e prêmios para pesquisa sobre corrigibilidade em IA em 2026, com o primeiro prazo de inscrição definido para 23 de agosto. O fundo visa apoiar tanto subsídios tradicionais quanto reconhecer trabalhos excepcionais concluídos este ano na área.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/FBqe5dt8ZjaHN4Xj9/announcing-the-corrigibility-research-fund",
+      "publishedAt": "2026-07-17T18:06:32+00:00",
+      "category": "policy",
+      "relevanceScore": 51
+    },
+    {
+      "id": "e7aae44f448c5474",
+      "title": "São Francisco exige que Apple e Google removam aplicativos de IA ‘Nudify’ das lojas de aplicativos",
+      "summary": "O Escritório do Procurador da Cidade de São Francisco enviou cartas de cessar e desistir para a Apple e Google, exigindo a remoção de 13 aplicativos de \"troca de rosto\" que são usados principalmente para criar imagens nuas não consensuais de mulheres e meninas. A cidade argumenta que esses aplicativos contribuem para assédio e exploração, levando à solicitação de sua exclusão das lojas de aplicativos.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
+      "publishedAt": "2026-07-17T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "0cc7d0d7a561d7a2",
+      "title": "O risco de sabotagem de dados meteorológicos está aumentando",
+      "summary": "O artigo discute o crescente risco de sabotagem de dados meteorológicos, que são críticos para a tomada de decisões em várias indústrias, como aviação, agricultura e energia. À medida que a dependência das previsões meteorológicas cresce, o potencial de manipulação maliciosa representa ameaças significativas à estabilidade econômica e à segurança.",
+      "sourceName": "MIT Tech Review",
+      "sourceIcon": "newspaper",
+      "articleURL": "https://www.technologyreview.com/2026/07/17/1140622/weather-data-sabotage/",
+      "publishedAt": "2026-07-17T08:57:32+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
+      "id": "4115f9e06b558964",
+      "title": "Uma empresa de robótica humanoide apoiada por Eric Trump está preparando seus robôs para a guerra",
+      "summary": "A Foundation Future Industries, uma empresa de robótica humanoide com Eric Trump como conselheiro estratégico, está desenvolvendo robôs para possíveis aplicações militares. O CEO revelou que a empresa está investigando \"coisas cinéticas\" como parte de seus avanços tecnológicos.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/humanoid-robot-soldier-eric-trump-foundation-future-industries/",
+      "publishedAt": "2026-07-17T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "5febebe33e2983c8",
       "title": "HP multada em 1,4 bilhão de rúpias por “cartelização” de cartuchos de tinta, toners e PCs",
-      "summary": "A HP foi multada em 1,4 bilhão de rúpias por se envolver em \"cartelização\" relacionada à venda de cartuchos de tinta, toners e PCs. A penalidade segue alegações de que revendedores foram pressionados a abandonar os suprimentos de impressão da HP em favor de produtos falsificados.",
+      "summary": "A HP foi multada em 1,4 bilhão de rúpias por se envolver em \"cartelização\" relacionada a seus cartuchos de tinta, toners e PCs, após alegações de que revendedores foram pressionados a evitar produtos falsificados. A decisão destaca preocupações sobre práticas anticompetitivas no mercado de suprimentos de impressão.",
       "sourceName": "Ars Technica",
       "sourceIcon": "desktopcomputer",
       "articleURL": "https://arstechnica.com/gadgets/2026/07/hp-fined-1-4-billion-rupees-for-cartelization-of-ink-cartridges-toner-pcs/",
       "publishedAt": "2026-07-16T22:02:31+00:00",
       "category": "news",
-      "relevanceScore": 51
-    },
-    {
-      "id": "0560403cacf5a7a1",
-      "title": "Crie, edite e atue em vídeos com duas atualizações do Google Vids",
-      "summary": "O Google introduziu duas atualizações no Google Vids: Gemini Omni, que aprimora as capacidades de criação e edição de vídeos, e Avatares Pessoais, permitindo que os usuários atuem em seus próprios vídeos. Esses recursos visam melhorar o engajamento do usuário e a personalização no conteúdo de vídeo.",
-      "sourceName": "Google AI",
-      "sourceIcon": "magnifyingglass",
-      "articleURL": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars/",
-      "publishedAt": "2026-07-16T16:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d2a11ec91f81f1cd",
-      "title": "EZSMT Versão 3, Madura",
-      "summary": "O artigo apresenta o EZSMTV3, uma estrutura avançada para Programação de Conjuntos de Respostas com Restrições (CASP) que integra Programação de Conjuntos de Respostas com Processamento de Restrições e Satisfatibilidade Módulo Teorias. Esta nova versão aprimora a abordagem de tradução para resolver problemas complexos de busca combinatória por meio de seu design e implementação extensíveis.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13344",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "9624dee1caedeb03",
-      "title": "Os Otimizadores de Agentes se Compõem? Uma Avaliação de Aprendizado Contínuo no Terminal-Bench 2.0",
-      "summary": "O artigo investiga se os ganhos de métodos de otimização de agentes se acumulam ao longo do tempo em um contexto de aprendizado contínuo, utilizando a estrutura Terminal-Bench 2.0. Destaca que a maioria das avaliações anteriores se concentrou em otimizações pontuais, que podem não refletir o desempenho dos agentes em cenários do mundo real onde enfrentam novos desafios continuamente.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.14004",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "f6b8c3ada1d7ad95",
-      "title": "LessonBench-V1: Um Conjunto de Dados de Referência para Avaliar Agentes de Geração de Aulas de IA",
-      "summary": "O artigo apresenta o LessonBench-V1, um novo conjunto de dados de referência projetado para avaliar agentes de geração de aulas de IA, consistindo em 647 aulas escritas por humanos e planos de aula gerados por LLM em 240 tópicos de STEM. Este conjunto de dados visa fornecer um método padronizado para avaliar a eficácia dos sistemas de geração de conteúdo educacional de IA.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13041",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "a93d54a815755e88",
-      "title": "Otimização de Inferência de Pipeline Completo para a Série MiMo-V2.5: Levando a Eficiência do SWA Híbrido ao Limite",
-      "summary": "O artigo discute uma otimização de inferência de pipeline completo para a série de modelos MiMo-V2.5, integrando Atenção Híbrida de Janela Deslizante, Mixture-of-Experts esparsa e codificadores multimodais. A otimização visa aumentar a eficiência em produção melhorando o sistema KVCache, reduzindo assim os requisitos de computação e armazenamento.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13095",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d6b84905643bd456",
-      "title": "Boogu-Image-0.1: Impulsionando a Compreensão e Geração Multimodal Unificada de Código Aberto",
-      "summary": "Boogu-Image-0.1 é uma nova família de modelos de código aberto projetada para compreensão e geração multimodal unificada, apresentando variantes como Base, Turbo, Edit e Edit-Turbo. Destaca-se na geração de texto para imagem, inferência rápida, edição baseada em instruções e renderização de texto bilíngue em chinês e inglês.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13125",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "27310a1f36809a95",
-      "title": "RAGthoven no SemEval-2026 Tarefa 1: Um Pipeline de Múltiplas Etapas Entra em um Benchmark e Mal Atinge a Meta",
-      "summary": "O artigo apresenta o RAGthoven, um sistema desenvolvido para a Tarefa 1 do SemEval-2026 focado na geração de humor multilingue restrito em inglês, espanhol e chinês. O RAGthoven emprega um pipeline de múltiplas etapas de grandes modelos de linguagem, incorporando teorias do humor para aprimorar o processo de geração criativa de texto.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13189",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "6656db808e8cda4f",
-      "title": "Verificação Seletiva Auditada para Triagem de Contingência Térmica N-1 Controlada por Risco sob Mudança de Implantação",
-      "summary": "O artigo apresenta a Verificação Seletiva Auditada, um método para triagem de contingência térmica N-1 controlada por risco em sistemas de gerenciamento de energia. Esta abordagem equilibra a necessidade de garantia contra custo, fornecendo uma garantia estatística enquanto evita as armadilhas dos métodos de verificação tradicionais que podem ignorar condições operacionais inseguras.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13221",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "028e4d8f80a8a08d",
-      "title": "GeoAnchor: Raciocínio Colaborativo via Decomposição Latente para Compreensão Espacial 3D",
-      "summary": "O artigo apresenta o GeoAnchor, uma nova abordagem para aprimorar a compreensão espacial 3D utilizando raciocínio colaborativo por meio de decomposição latente. Este método aborda as limitações dos modelos de linguagem multimodal existentes na interpretação precisa de relações espaciais 3D a partir de imagens 2D, empregando múltiplas representações latentes para capturar melhor informações geométricas contínuas.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13454",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
-    },
-    {
-      "id": "d5da8731c2b0ef26",
-      "title": "UTS no ELOQUENT 2026 Voight-Kampff: mudanças estruturais na escrita de IA contornam detectores de última geração",
-      "summary": "Um estudo recente apresentado no ELOQUENT 2026 revela que certos ataques de evasão de modelos de linguagem podem contornar com sucesso detectores de escrita de IA de última geração, mesmo após ajuste adversarial. A pesquisa destaca uma vulnerabilidade crítica nos sistemas de detecção, indicando que deslocar o texto gerado para fora da distribuição de treinamento do detector pode efetivamente evitar a detecção.",
-      "sourceName": "arXiv AI",
-      "sourceIcon": "doc.text",
-      "articleURL": "https://arxiv.org/abs/2607.13565",
-      "publishedAt": "2026-07-17T04:00:00+00:00",
-      "category": "research",
-      "relevanceScore": 50
+      "relevanceScore": 42
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 268,
+    "articlesProcessed": 269,
     "articlesSelected": 12
   }
 }
