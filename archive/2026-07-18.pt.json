@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-18",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-18T08:46:46.249185+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-18T20:02:23.682887+00:00",
   "headline": {
-    "id": "941aa740e8a393c3",
-    "title": "Vertu quer que executivos paguem $6.880 por um agente de IA — veja como ele realmente se desempenha",
-    "summary": "O smartphone dobrável de luxo da Vertu, com preço de $6.880, apresenta um agente de IA projetado para melhorar a experiência do usuário por meio de fluxos de trabalho, gerenciamento de bateria e segurança. O artigo avalia o desempenho do dispositivo nessas áreas, fornecendo insights sobre o uso diário.",
+    "id": "6f9fe39d0267e42f",
+    "title": "Kimi: Ameaça ou perigo?",
+    "summary": "A Moonshot AI lançou uma versão atualizada de seu modelo Kimi, levantando alarmes sobre as potenciais implicações para o \"comunismo total de IA\". O lançamento gerou discussões sobre os impactos éticos e sociais das tecnologias avançadas de IA.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "publishedAt": "2026-07-17T22:55:09+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "publishedAt": "2026-07-18T18:51:07+00:00",
     "category": "industry",
-    "relevanceScore": 52
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "75dbc68a0b212a09",
+      "title": "Os aplicativos, gadgets e ferramentas que todo leitor precisa",
+      "summary": "O artigo destaca aplicativos, gadgets e ferramentas essenciais para leitores, oferecendo uma seleção curada destinada a melhorar a experiência de leitura. Faz parte da série Installer, que oferece recomendações sobre vários tópicos relacionados à tecnologia.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "publishedAt": "2026-07-18T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5040579a4caaec26",
+      "title": "Seu rastreador de ciclo está (provavelmente) espionando você",
+      "summary": "Um relatório recente destaca preocupações de privacidade em torno de aplicativos de rastreamento de ciclo, sugerindo que muitos podem coletar e compartilhar dados sensíveis dos usuários sem consentimento adequado. O artigo também discute várias questões de cibersegurança, incluindo ciberespionagem russa visando infraestrutura e uma violação envolvendo um gerador de música com IA.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "publishedAt": "2026-07-18T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "d6ab7848b7a921c0",
+      "title": "Como funcionam as novas taxas do Gemini do Google e como rastrear seu uso",
+      "summary": "O Google atualizou suas cotas de uso do Gemini, o que pode resultar em usuários recebendo menos respostas de IA do que antes. O artigo fornece orientações sobre como rastrear seu uso sob o novo sistema de classificação.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "publishedAt": "2026-07-18T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "515afa8bff953216",
+      "title": "Alinhamento Endógeno",
+      "summary": "O artigo discute como os adultos começam a alinhar os comportamentos das crianças com os valores sociais por volta do primeiro ano de vida, principalmente por meio de métodos exógenos, como recompensas e punições. Enfatiza a eficácia do condicionamento operante em moldar os comportamentos instintivos das crianças para incentivar ações positivas e desencorajar as negativas.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
+      "publishedAt": "2026-07-18T14:10:37+00:00",
+      "category": "policy",
+      "relevanceScore": 48
+    },
+    {
+      "id": "941aa740e8a393c3",
+      "title": "Vertu quer que executivos paguem $6,880 por um agente de IA — veja como ele realmente se sai",
+      "summary": "O smartphone dobrável de luxo da Vertu, com preço de $6,880, integra um agente de IA projetado para melhorar fluxos de trabalho, duração da bateria e segurança do usuário. Uma avaliação detalhada revela o desempenho prático e a usabilidade diária do dispositivo.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "publishedAt": "2026-07-17T22:55:09+00:00",
+      "category": "industry",
+      "relevanceScore": 43
+    },
+    {
+      "id": "309bbef6c2635fa9",
+      "title": "Ataques de Injeção de Prompt estão frustrando agentes de hacking de IA",
+      "summary": "Pesquisadores desenvolveram uma técnica chamada \"context bombing\" que efetivamente impede agentes de IA maliciosos de executar ações prejudiciais, enganando-os para que desliguem. Este método aborda a crescente preocupação com ataques de injeção de prompt direcionados a sistemas de IA.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "publishedAt": "2026-07-18T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "4f2f10efb22c92e2",
-      "title": "Databricks atinge avaliação de $188 bilhões, estendendo sua trajetória como o segundo ato favorito da IA",
-      "summary": "A Databricks alcançou uma avaliação de $188 bilhões ao se posicionar como líder no setor de IA, focando em modelos de IA de código aberto para programação. A empresa também publicou uma pesquisa destacando as economias de custo associadas a esses modelos.",
+      "title": "Databricks atinge avaliação de $188 bilhões, ampliando sua trajetória como o segundo ato favorito da IA",
+      "summary": "A Databricks alcançou uma avaliação de $188 bilhões enquanto se posiciona como líder no setor de IA, focando nos benefícios dos modelos de IA de peso aberto para codificação. A empresa mudou sua marca para enfatizar seu compromisso com tecnologias de inteligência artificial.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "publishedAt": "2026-07-17T22:12:56+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 42
     },
     {
       "id": "5725f5b543795915",
       "title": "Devemos avaliar capacidades conceituais usando tarefas de previsão de julgamento?",
-      "summary": "O artigo discute os desafios de usar tarefas de previsão de julgamento subjetivas para avaliar as capacidades da IA, sugerindo que tais tarefas podem não medir efetivamente o desempenho da IA. Propõe uma abordagem alternativa onde as IAs são instruídas explicitamente a prever os julgamentos de indivíduos específicos sobre questões complexas, como a probabilidade de uma tomada de controle pela IA.",
+      "summary": "O artigo discute os desafios de usar tarefas de previsão de julgamento subjetivas para avaliar capacidades de IA, sugerindo que tais tarefas podem não medir efetivamente o desempenho da IA. Propõe uma abordagem mais estruturada, onde as IAs são instruídas explicitamente a prever os julgamentos de indivíduos específicos sobre questões complexas, para melhorar o processo de avaliação.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
       "publishedAt": "2026-07-17T23:42:45+00:00",
       "category": "policy",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "8308ffb7b073405a",
       "title": "Neil Rimer acredita que o dinheiro da IA está voltando",
-      "summary": "O capitalista de risco Neil Rimer, cofundador da Index Ventures, prevê que a significativa riqueza gerada pela IA no Vale do Silício precisará ser redistribuída, seja voluntariamente ou involuntariamente. Seus comentários destacam as implicações econômicas contínuas dos avanços da IA na indústria de tecnologia.",
+      "summary": "O capitalista de risco Neil Rimer, cofundador da Index Ventures, prevê que a significativa riqueza gerada pela IA no Vale do Silício precisará ser redistribuída, voluntária ou involuntariamente. Seus comentários destacam o impacto econômico contínuo dos avanços da IA na indústria de tecnologia.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "publishedAt": "2026-07-18T04:47:25+00:00",
       "category": "industry",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "3325984ca7c60b9a",
-      "title": "O hack do Zoom que diz: ‘Não me grave’",
-      "summary": "Um artigo recente discute as implicações da transcrição e sumarização automáticas de reuniões e conversas, levantando preocupações sobre privacidade e uso de dados. Destaca a necessidade de limites claros sobre quem tem acesso a esses registros e como eles são utilizados.",
+      "title": "O hack do Zoom que diz: 'Não me grave'",
+      "summary": "Um novo recurso do Zoom permite que os usuários impeçam a gravação e transcrição automáticas de reuniões, abordando preocupações de privacidade sobre o manuseio de conversas sensíveis. Esse desenvolvimento destaca o debate contínuo sobre privacidade de dados e as implicações dos serviços de transcrição impulsionados por IA.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "publishedAt": "2026-07-17T21:20:47+00:00",
       "category": "industry",
-      "relevanceScore": 48
+      "relevanceScore": 39
     },
     {
       "id": "43b0d6e630fbb82e",
       "title": "Agility Robotics planta sua bandeira no quintal da Tesla",
-      "summary": "A Agility Robotics está estabelecendo um novo centro de treinamento para seus robôs Digit em Fremont, Califórnia, posicionando-se perto da sede da Tesla. Esta instalação visa aprimorar o desenvolvimento e as capacidades de sua tecnologia robótica.",
+      "summary": "A Agility Robotics anunciou a abertura de um novo centro de treinamento para seus robôs Digit em Fremont, Califórnia. Esta localização está estrategicamente situada perto da sede da Tesla, destacando o foco da empresa em avançar sua tecnologia robótica.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "publishedAt": "2026-07-17T20:19:49+00:00",
       "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "ea601434edca21f9",
-      "title": "A pressão da memória impulsionada por IA choca o mercado de smartphones da Índia",
-      "summary": "O mercado de smartphones da Índia está passando por uma desaceleração à medida que o aumento da tecnologia de IA influencia as preferências dos consumidores e as estratégias corporativas. Essa mudança está afetando a dinâmica de preços e demanda dentro da indústria.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "publishedAt": "2026-07-17T20:09:27+00:00",
-      "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "eb0cf49bd2422f79",
-      "title": "O plano da Apple para esmagar a OpenAI",
-      "summary": "A Apple processou a OpenAI, levantando alegações que muitos especialistas acreditam refletir práticas padrão da indústria. As motivações por trás da decisão da Apple de confrontar publicamente a OpenAI permanecem obscuras.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "publishedAt": "2026-07-17T17:41:32+00:00",
-      "category": "opinion",
-      "relevanceScore": 45
-    },
-    {
-      "id": "ea4719dcf6f16314",
-      "title": "Como o grande processo da Apple pode interromper os planos de IPO da OpenAI",
-      "summary": "A Apple entrou com um processo por segredos comerciais contra a OpenAI, alegando má conduta envolvendo seu diretor de hardware e afirmando que mais de 400 ex-funcionários da Apple estão agora na OpenAI. Essa ação legal pode potencialmente interromper os planos da OpenAI para uma oferta pública inicial (IPO).",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "publishedAt": "2026-07-17T17:45:46+00:00",
-      "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "320385b77c9ce0e9",
-      "title": "Patreon para de pedir que bots de IA não façam scraping — e começa a bloqueá-los",
-      "summary": "A Patreon está aprimorando sua proteção contra scraping de IA ao colaborar com a Cloudflare para bloquear bots que usam ilegalmente o conteúdo dos criadores para treinamento de modelos de IA. Essa mudança significa uma transição de depender apenas de arquivos robots.txt para implementar medidas mais robustas contra a coleta não autorizada de dados.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "publishedAt": "2026-07-17T15:21:17+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "7bd993bc94138880",
-      "title": "Por que os primeiros financiadores de GPU estão se voltando para chips de inferência em um acordo de $400 milhões",
-      "summary": "Um empréstimo de $400 milhões respaldado por chips sinaliza uma mudança de foco de GPUs para chips de inferência entre os primeiros financiadores de GPU, destacando o cenário em evolução da infraestrutura de IA. Este acordo sublinha a crescente demanda por hardware especializado para suportar aplicações de IA.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "publishedAt": "2026-07-17T12:00:00+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "d9b2b6a45e1f9f2c",
-      "title": "Aprimore modelos de vídeo e imagem em escala com NVIDIA NeMo Automodel e 🤗 Diffusers",
-      "summary": "A NVIDIA apresentou o NeMo Automodel, uma ferramenta projetada para facilitar o ajuste fino de modelos de vídeo e imagem em escala, aumentando a eficiência do treinamento de modelos. Esta nova oferta se integra com os 🤗 Diffusers da Hugging Face, permitindo que os usuários aproveitem modelos de difusão avançados para melhorar o desempenho em tarefas visuais.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "publishedAt": "2026-07-17T15:57:54+00:00",
-      "category": "research",
-      "relevanceScore": 43
+      "relevanceScore": 38
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 22,
+    "articlesProcessed": 26,
     "articlesSelected": 12
   }
 }

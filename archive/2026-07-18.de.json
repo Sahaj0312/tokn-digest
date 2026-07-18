@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-18",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-18T08:46:46.249185+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-18T20:02:23.682887+00:00",
   "headline": {
-    "id": "941aa740e8a393c3",
-    "title": "Vertu möchte, dass Führungskräfte 6.880 $ für einen KI-Agenten zahlen – so funktioniert er tatsächlich",
-    "summary": "Das luxuriöse faltbare Smartphone von Vertu, das 6.880 $ kostet, verfügt über einen KI-Agenten, der darauf ausgelegt ist, die Benutzererfahrung durch Workflows, Batteriemanagement und Sicherheit zu verbessern. Der Artikel bewertet die Leistung des Geräts in diesen Bereichen und bietet Einblicke in die tägliche Nutzung.",
+    "id": "6f9fe39d0267e42f",
+    "title": "Kimi: Bedrohung oder Gefahr?",
+    "summary": "Moonshot AI hat eine aktualisierte Version seines Kimi-Modells veröffentlicht, was Bedenken hinsichtlich möglicher Implikationen für \"vollständigen KI-Kommunismus\" aufwirft. Die Veröffentlichung hat Diskussionen über die ethischen und gesellschaftlichen Auswirkungen fortschrittlicher KI-Technologien ausgelöst.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "publishedAt": "2026-07-17T22:55:09+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "publishedAt": "2026-07-18T18:51:07+00:00",
     "category": "industry",
-    "relevanceScore": 52
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "75dbc68a0b212a09",
+      "title": "Die Apps, Gadgets und Tools, die jeder Leser braucht",
+      "summary": "Der Artikel hebt essentielle Apps, Gadgets und Tools für Leser hervor und bietet eine kuratierte Auswahl, die darauf abzielt, das Leseerlebnis zu verbessern. Er ist Teil der Installer-Serie, die Empfehlungen zu verschiedenen technologiebezogenen Themen bietet.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "publishedAt": "2026-07-18T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5040579a4caaec26",
+      "title": "Ihr Perioden-Tracker spioniert (wahrscheinlich) Sie aus",
+      "summary": "Ein aktueller Bericht hebt Datenschutzbedenken im Zusammenhang mit Perioden-Tracking-Apps hervor und legt nahe, dass viele sensible Benutzerdaten ohne angemessene Zustimmung sammeln und teilen. Der Artikel behandelt auch verschiedene Cybersecurity-Probleme, einschließlich russischer Cyber-Spione, die Infrastruktur ins Visier nehmen, und einen Vorfall mit einem KI-Musikgenerator.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "publishedAt": "2026-07-18T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "d6ab7848b7a921c0",
+      "title": "Wie die neuen Gemini-Ratings von Google funktionieren und wie Sie Ihre Nutzung verfolgen können",
+      "summary": "Google hat seine Nutzungskontingente für Gemini aktualisiert, was dazu führen kann, dass Benutzer weniger KI-Antworten erhalten als zuvor. Der Artikel bietet Anleitungen, wie Sie Ihre Nutzung unter dem neuen Bewertungssystem verfolgen können.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "publishedAt": "2026-07-18T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "515afa8bff953216",
+      "title": "Endogene Ausrichtung",
+      "summary": "Der Artikel diskutiert, wie Erwachsene beginnen, das Verhalten von Kindern ab dem Alter von einem Jahr an gesellschaftliche Werte anzupassen, hauptsächlich durch exogene Methoden wie Belohnungen und Bestrafungen. Er betont die Wirksamkeit der operanten Konditionierung bei der Formung instinktiver Verhaltensweisen von Kindern, um positives Verhalten zu fördern und negatives zu entmutigen.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
+      "publishedAt": "2026-07-18T14:10:37+00:00",
+      "category": "policy",
+      "relevanceScore": 48
+    },
+    {
+      "id": "941aa740e8a393c3",
+      "title": "Vertu möchte, dass Führungskräfte 6.880 $ für einen KI-Agenten zahlen – so funktioniert er tatsächlich",
+      "summary": "Das Luxus-Falt-Smartphone von Vertu, das 6.880 $ kostet, integriert einen KI-Agenten, der darauf ausgelegt ist, die Arbeitsabläufe, die Akkulaufzeit und die Sicherheit der Benutzer zu verbessern. Eine detaillierte Bewertung zeigt die praktische Leistung und tägliche Benutzerfreundlichkeit des Geräts.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "publishedAt": "2026-07-17T22:55:09+00:00",
+      "category": "industry",
+      "relevanceScore": 43
+    },
+    {
+      "id": "309bbef6c2635fa9",
+      "title": "Prompt-Injection-Angriffe behindern KI-Hacking-Agenten",
+      "summary": "Forscher haben eine Technik namens \"Kontextbombardierung\" entwickelt, die effektiv verhindert, dass bösartige KI-Agenten schädliche Aktionen ausführen, indem sie sie dazu bringen, sich selbst abzuschalten. Diese Methode adressiert die wachsenden Bedenken hinsichtlich von Prompt-Injection-Angriffen auf KI-Systeme.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "publishedAt": "2026-07-18T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "4f2f10efb22c92e2",
-      "title": "Databricks erreicht eine Bewertung von 188 Milliarden $, und festigt damit seine Rolle als beliebter Akteur im KI-Bereich",
-      "summary": "Databricks hat eine Bewertung von 188 Milliarden $ erreicht und positioniert sich als führendes Unternehmen im KI-Sektor, mit einem Fokus auf offene KI-Modelle für das Programmieren. Das Unternehmen hat auch Forschung veröffentlicht, die die Kosteneinsparungen im Zusammenhang mit diesen Modellen hervorhebt.",
+      "title": "Databricks erreicht eine Bewertung von 188 Milliarden $, und festigt seine Rolle als AI’s Lieblingszweiter Akt",
+      "summary": "Databricks hat eine Bewertung von 188 Milliarden $ erreicht, während es sich als führend im KI-Sektor positioniert und sich auf die Vorteile offener KI-Modelle für das Programmieren konzentriert. Das Unternehmen hat sein Branding geändert, um sein Engagement für Technologien der künstlichen Intelligenz zu betonen.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "publishedAt": "2026-07-17T22:12:56+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 42
     },
     {
       "id": "5725f5b543795915",
-      "title": "Sollten wir konzeptionelle Fähigkeiten mit Hilfe von Urteilsprognoseaufgaben bewerten?",
-      "summary": "Der Artikel diskutiert die Herausforderungen bei der Verwendung subjektiver Urteilsprognoseaufgaben zur Bewertung von KI-Fähigkeiten und schlägt vor, dass solche Aufgaben möglicherweise nicht effektiv die KI-Leistung messen. Er schlägt einen alternativen Ansatz vor, bei dem KIs ausdrücklich angewiesen werden, die Urteile spezifischer Personen zu komplexen Themen, wie der Wahrscheinlichkeit einer KI-Übernahme, vorherzusagen.",
+      "title": "Sollten wir konzeptionelle Fähigkeiten mit Urteilsvorhersageaufgaben bewerten?",
+      "summary": "Der Artikel diskutiert die Herausforderungen bei der Verwendung subjektiver Urteilsvorhersageaufgaben zur Bewertung von KI-Fähigkeiten und legt nahe, dass solche Aufgaben möglicherweise die KI-Leistung nicht effektiv messen. Er schlägt einen strukturierten Ansatz vor, bei dem KIs ausdrücklich angewiesen werden, die Urteile bestimmter Personen zu komplexen Themen vorherzusagen, um den Bewertungsprozess zu verbessern.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
       "publishedAt": "2026-07-17T23:42:45+00:00",
       "category": "policy",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "8308ffb7b073405a",
-      "title": "Neil Rimer glaubt, dass das Geld für KI zurückkommt",
+      "title": "Neil Rimer glaubt, dass das KI-Geld zurückkommt",
       "summary": "Der Risikokapitalgeber Neil Rimer, Mitbegründer von Index Ventures, prognostiziert, dass der erhebliche Reichtum, der durch KI im Silicon Valley generiert wurde, entweder freiwillig oder unfreiwillig umverteilt werden muss. Seine Kommentare heben die anhaltenden wirtschaftlichen Auswirkungen der KI-Fortschritte in der Technologiebranche hervor.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "publishedAt": "2026-07-18T04:47:25+00:00",
       "category": "industry",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "3325984ca7c60b9a",
-      "title": "Der Zoom-Hack, der sagt: ‚Nehmt mich nicht auf‘",
-      "summary": "Ein kürzlich erschienener Artikel diskutiert die Auswirkungen der automatischen Transkription und Zusammenfassung von Besprechungen und Gesprächen und äußert Bedenken hinsichtlich der Privatsphäre und der Datennutzung. Er hebt die Notwendigkeit klarer Grenzen hervor, wer Zugang zu diesen Aufzeichnungen hat und wie sie genutzt werden.",
+      "title": "Der Zoom-Hack, der sagt: ‚Nehmen Sie mich nicht auf‘",
+      "summary": "Eine neue Zoom-Funktion ermöglicht es Benutzern, die automatische Aufnahme und Transkription von Meetings zu verhindern, und adressiert Datenschutzbedenken hinsichtlich der Handhabung sensibler Gespräche. Diese Entwicklung hebt die laufende Debatte über Datenschutz und die Implikationen von KI-gesteuerten Transkriptionsdiensten hervor.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "publishedAt": "2026-07-17T21:20:47+00:00",
       "category": "industry",
-      "relevanceScore": 48
+      "relevanceScore": 39
     },
     {
       "id": "43b0d6e630fbb82e",
       "title": "Agility Robotics setzt Flagge im Hinterhof von Tesla",
-      "summary": "Agility Robotics eröffnet ein neues Trainingszentrum für seine Digit-Roboter in Fremont, Kalifornien, und positioniert sich nahe dem Hauptsitz von Tesla. Diese Einrichtung zielt darauf ab, die Entwicklung und Fähigkeiten seiner Robotertechnologie zu verbessern.",
+      "summary": "Agility Robotics hat die Eröffnung eines neuen Trainingszentrums für seine Digit-Roboter in Fremont, Kalifornien, angekündigt. Dieser Standort befindet sich strategisch in der Nähe des Hauptsitzes von Tesla und hebt den Fokus des Unternehmens auf die Weiterentwicklung seiner Robotertechnologie hervor.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "publishedAt": "2026-07-17T20:19:49+00:00",
       "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "ea601434edca21f9",
-      "title": "KI-gesteuerte Speicherkrise erschüttert Indiens Smartphone-Markt",
-      "summary": "Der Smartphone-Markt in Indien erlebt eine Verlangsamung, da der Aufstieg der KI-Technologie die Verbraucherpräferenzen und Unternehmensstrategien beeinflusst. Dieser Wandel wirkt sich auf die Preis- und Nachfragedynamik innerhalb der Branche aus.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "publishedAt": "2026-07-17T20:09:27+00:00",
-      "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "eb0cf49bd2422f79",
-      "title": "Apples Plan, OpenAI zu zerschlagen",
-      "summary": "Apple hat eine Klage gegen OpenAI eingereicht und erhebt Vorwürfe, die viele Experten als Standardpraktiken der Branche ansehen. Die Beweggründe hinter Apples Entscheidung, OpenAI öffentlich zu konfrontieren, bleiben unklar.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "publishedAt": "2026-07-17T17:41:32+00:00",
-      "category": "opinion",
-      "relevanceScore": 45
-    },
-    {
-      "id": "ea4719dcf6f16314",
-      "title": "Wie Apples große Klage die IPO-Pläne von OpenAI stören könnte",
-      "summary": "Apple hat eine Klage wegen Geschäftsgeheimnissen gegen OpenAI eingereicht und behauptet, dass es Fehlverhalten im Zusammenhang mit seinem Chief Hardware Officer gegeben hat und dass über 400 ehemalige Apple-Mitarbeiter jetzt bei OpenAI sind. Diese rechtlichen Schritte könnten potenziell die Pläne von OpenAI für einen Börsengang (IPO) stören.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "publishedAt": "2026-07-17T17:45:46+00:00",
-      "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "320385b77c9ce0e9",
-      "title": "Patreon hört auf, KI-Bots zu bitten, nicht zu scrapen – und beginnt, sie zu blockieren",
-      "summary": "Patreon verbessert seinen Schutz gegen KI-Scraping, indem es mit Cloudflare zusammenarbeitet, um Bots zu blockieren, die unrechtmäßig Inhalte von Kreativen für das Training von KI-Modellen nutzen. Diese Änderung bedeutet einen Übergang von der bloßen Abhängigkeit von robots.txt-Dateien zu robusteren Maßnahmen gegen unbefugte Datensammlung.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "publishedAt": "2026-07-17T15:21:17+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "7bd993bc94138880",
-      "title": "Warum die ersten GPU-Finanziers sich in einem 400-Millionen-Dollar-Deal auf Inferenz-Chips konzentrieren",
-      "summary": "Ein 400-Millionen-Dollar-Darlehen, das durch Chips abgesichert ist, signalisiert einen Fokuswechsel von GPUs zu Inferenz-Chips unter frühen GPU-Finanziers und hebt die sich entwickelnde Landschaft der KI-Infrastruktur hervor. Dieses Geschäft unterstreicht die wachsende Nachfrage nach spezialisierten Hardwarelösungen zur Unterstützung von KI-Anwendungen.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "publishedAt": "2026-07-17T12:00:00+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "d9b2b6a45e1f9f2c",
-      "title": "Feinabstimmung von Video- und Bildmodellen in großem Maßstab mit NVIDIA NeMo Automodel und 🤗 Diffusers",
-      "summary": "NVIDIA hat NeMo Automodel eingeführt, ein Tool, das die Feinabstimmung von Video- und Bildmodellen in großem Maßstab erleichtert und die Effizienz des Modelltrainings verbessert. Dieses neue Angebot integriert sich mit Hugging Face's 🤗 Diffusers und ermöglicht es den Nutzern, fortschrittliche Diffusionsmodelle für verbesserte Leistungen in visuellen Aufgaben zu nutzen.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "publishedAt": "2026-07-17T15:57:54+00:00",
-      "category": "research",
-      "relevanceScore": 43
+      "relevanceScore": 38
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 22,
+    "articlesProcessed": 26,
     "articlesSelected": 12
   }
 }

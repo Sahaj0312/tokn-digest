@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-18",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-18T08:46:46.249185+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-18T20:02:23.682887+00:00",
   "headline": {
-    "id": "941aa740e8a393c3",
-    "title": "فيرتو تريد من التنفيذيين دفع 6,880 دولار لوكيل ذكاء اصطناعي — إليك كيف يعمل فعليًا",
-    "summary": "يتميز هاتف فيرتو الذكي الفاخر القابل للطي، الذي يبلغ سعره 6,880 دولار، بوكلاء ذكاء اصطناعي مصممين لتعزيز تجربة المستخدم من خلال سير العمل وإدارة البطارية والأمان. يقيم المقال أداء الجهاز في هذه المجالات، موفرًا رؤى حول الاستخدام اليومي.",
+    "id": "6f9fe39d0267e42f",
+    "title": "كيمي: تهديد أم خطر؟",
+    "summary": "أطلقت Moonshot AI نسخة محدثة من نموذج كيمي، مما أثار القلق بشأن الآثار المحتملة لـ\"الشيوعية الكاملة للذكاء الاصطناعي\". وقد أثار الإصدار مناقشات حول التأثيرات الأخلاقية والاجتماعية لتقنيات الذكاء الاصطناعي المتقدمة.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-    "publishedAt": "2026-07-17T22:55:09+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
+    "publishedAt": "2026-07-18T18:51:07+00:00",
     "category": "industry",
-    "relevanceScore": 52
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "75dbc68a0b212a09",
+      "title": "التطبيقات والأجهزة والأدوات التي يحتاجها كل قارئ",
+      "summary": "يسلط المقال الضوء على التطبيقات والأجهزة والأدوات الأساسية للقراء، مقدماً مجموعة مختارة تهدف إلى تحسين تجربة القراءة. وهو جزء من سلسلة Installer، التي تقدم توصيات حول مواضيع تقنية متنوعة.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "publishedAt": "2026-07-18T12:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 51
+    },
+    {
+      "id": "5040579a4caaec26",
+      "title": "تتبع دورتك الشهرية (ربما) يتجسس عليك",
+      "summary": "يسلط تقرير حديث الضوء على مخاوف الخصوصية المتعلقة بتطبيقات تتبع الدورة الشهرية، مشيراً إلى أن العديد منها قد تجمع وتشارك بيانات حساسة للمستخدمين دون موافقة كافية. يناقش المقال أيضاً قضايا الأمن السيبراني المختلفة، بما في ذلك تجسس السيبرانيين الروس على البنية التحتية وانتهاك يتعلق بمولد موسيقى مدعوم بالذكاء الاصطناعي.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+      "publishedAt": "2026-07-18T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 50
+    },
+    {
+      "id": "d6ab7848b7a921c0",
+      "title": "كيف تعمل معدلات جوجل الجديدة لجمنيا وكيفية تتبع استخدامك",
+      "summary": "قامت جوجل بتحديث حصص استخدام جمنيا، مما قد يؤدي إلى تلقي المستخدمين لعدد أقل من ردود الذكاء الاصطناعي مقارنةً بما كانوا يختبرونه سابقاً. يقدم المقال إرشادات حول كيفية تتبع استخدامك بموجب نظام التصنيف الجديد.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
+      "publishedAt": "2026-07-18T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "515afa8bff953216",
+      "title": "التوافق الداخلي",
+      "summary": "يناقش المقال كيف يبدأ البالغون في مواءمة سلوكيات الأطفال مع القيم الاجتماعية حول سن السنة، بشكل أساسي من خلال طرق خارجية مثل المكافآت والعقوبات. ويؤكد على فعالية التعلم الشرطي في تشكيل سلوكيات الأطفال الغريزية لتشجيع الأفعال الإيجابية ورفض السلبية.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
+      "publishedAt": "2026-07-18T14:10:37+00:00",
+      "category": "policy",
+      "relevanceScore": 48
+    },
+    {
+      "id": "941aa740e8a393c3",
+      "title": "فيرتو تريد من التنفيذيين دفع 6880 دولاراً لوكيل ذكاء اصطناعي - إليك كيف يعمل فعلياً",
+      "summary": "يتميز الهاتف الذكي القابل للطي الفاخر من فيرتو، الذي يبلغ سعره 6880 دولاراً، بدمج وكيل ذكاء اصطناعي مصمم لتحسين سير العمل ومدة البطارية والأمان. تكشف التقييمات التفصيلية عن الأداء العملي وقابلية الاستخدام اليومية للجهاز.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
+      "publishedAt": "2026-07-17T22:55:09+00:00",
+      "category": "industry",
+      "relevanceScore": 43
+    },
+    {
+      "id": "309bbef6c2635fa9",
+      "title": "هجمات حقن الأوامر تعيق وكلاء القرصنة بالذكاء الاصطناعي",
+      "summary": "طور الباحثون تقنية تُسمى \"قصف السياق\" التي تمنع بفعالية الوكلاء الضارين بالذكاء الاصطناعي من تنفيذ أفعال ضارة عن طريق خداعهم لإيقاف التشغيل. تعالج هذه الطريقة القلق المتزايد بشأن هجمات حقن الأوامر التي تستهدف أنظمة الذكاء الاصطناعي.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+      "publishedAt": "2026-07-18T09:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 43
+    },
+    {
       "id": "4f2f10efb22c92e2",
-      "title": "داتابريكس تصل إلى تقييم 188 مليار دولار، موسعةً مسيرتها كأحد المفضلين في الذكاء الاصطناعي",
-      "summary": "حققت داتابريكس تقييمًا قدره 188 مليار دولار حيث تضع نفسها كقائد في قطاع الذكاء الاصطناعي، مع التركيز على نماذج الذكاء الاصطناعي المفتوحة للبرمجة. كما نشرت الشركة أبحاثًا تسلط الضوء على التوفير في التكاليف المرتبطة بهذه النماذج.",
+      "title": "Databricks تحقق تقييم 188 مليار دولار، موسعةً مسيرتها كالمفضل الثاني للذكاء الاصطناعي",
+      "summary": "حققت Databricks تقييمًا قدره 188 مليار دولار حيث تضع نفسها كقائد في قطاع الذكاء الاصطناعي، مع التركيز على فوائد نماذج الذكاء الاصطناعي ذات الوزن المفتوح للبرمجة. وقد غيرت الشركة علامتها التجارية لتؤكد التزامها بتقنيات الذكاء الاصطناعي.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
       "publishedAt": "2026-07-17T22:12:56+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 42
     },
     {
       "id": "5725f5b543795915",
-      "title": "هل يجب علينا تقييم القدرات المفاهيمية باستخدام مهام توقع الحكم؟",
-      "summary": "يناقش المقال التحديات المرتبطة باستخدام مهام توقع الحكم الذاتية لتقييم قدرات الذكاء الاصطناعي، مقترحًا أن هذه المهام قد لا تقيس أداء الذكاء الاصطناعي بشكل فعال. يقترح نهجًا بديلاً حيث يتم توجيه الذكاء الاصطناعي بشكل صريح لتوقع أحكام أفراد معينين حول قضايا معقدة، مثل احتمال استيلاء الذكاء الاصطناعي.",
+      "title": "هل ينبغي علينا قياس القدرات المفاهيمية باستخدام مهام توقع الحكم؟",
+      "summary": "يناقش المقال التحديات المرتبطة باستخدام مهام توقع الحكم الذاتية لقياس قدرات الذكاء الاصطناعي، مشيراً إلى أن مثل هذه المهام قد لا تقيس أداء الذكاء الاصطناعي بفعالية. يقترح نهجاً أكثر تنظيماً، حيث يتم توجيه الذكاء الاصطناعي بشكل صريح لتوقع أحكام أفراد معينين حول قضايا معقدة، لتحسين عملية القياس.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
       "publishedAt": "2026-07-17T23:42:45+00:00",
       "category": "policy",
-      "relevanceScore": 50
+      "relevanceScore": 41
     },
     {
       "id": "8308ffb7b073405a",
-      "title": "نييل رايمر يعتقد أن أموال الذكاء الاصطناعي ستعود للخارج",
-      "summary": "يتوقع المستثمر المغامر نييل رايمر، المؤسس المشارك لشركة إندكس فينتشرز، أن الثروة الكبيرة التي تم توليدها بواسطة الذكاء الاصطناعي في وادي السيليكون ستحتاج إلى إعادة توزيع، سواء طوعًا أو قسرًا. تسلط تعليقاته الضوء على الآثار الاقتصادية المستمرة لتقدمات الذكاء الاصطناعي في صناعة التكنولوجيا.",
+      "title": "نيال رايمر يعتقد أن أموال الذكاء الاصطناعي ستعود للخارج",
+      "summary": "يتوقع المستثمر المغامر نيال رايمر، المؤسس المشارك لشركة Index Ventures، أن الثروة الكبيرة التي تولدها الذكاء الاصطناعي في وادي السيليكون ستحتاج إلى إعادة توزيع، سواء طوعاً أو قسراً. تسلط تعليقاته الضوء على التأثير الاقتصادي المستمر لتقدمات الذكاء الاصطناعي في صناعة التكنولوجيا.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
       "publishedAt": "2026-07-18T04:47:25+00:00",
       "category": "industry",
-      "relevanceScore": 49
+      "relevanceScore": 40
     },
     {
       "id": "3325984ca7c60b9a",
-      "title": "اختراق زووم الذي يقول، 'لا تسجلني'",
-      "summary": "يناقش مقال حديث آثار النسخ التلقائي والتلخيص للاجتماعات والمحادثات، مما يثير مخاوف بشأن الخصوصية واستخدام البيانات. يبرز الحاجة إلى حدود واضحة بشأن من لديه حق الوصول إلى هذه السجلات وكيفية استخدامها.",
+      "title": "اختراق زووم الذي يقول: 'لا تسجلني'",
+      "summary": "تتيح ميزة جديدة في زووم للمستخدمين منع التسجيل التلقائي والنص التلقائي للاجتماعات، مما يعالج مخاوف الخصوصية بشأن التعامل مع المحادثات الحساسة. يبرز هذا التطور النقاش المستمر حول خصوصية البيانات وآثار خدمات النسخ المدفوعة بالذكاء الاصطناعي.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/the-zoom-hack-that-says-dont-record-me/",
       "publishedAt": "2026-07-17T21:20:47+00:00",
       "category": "industry",
-      "relevanceScore": 48
+      "relevanceScore": 39
     },
     {
       "id": "43b0d6e630fbb82e",
-      "title": "أجليتي روبوتيكس تضع علمها في فناء تسلا",
-      "summary": "تقوم أجليتي روبوتيكس بإنشاء مركز تدريب جديد لروبوتاتها Digit في فريمونت، كاليفورنيا، مما يضعها بالقرب من مقر تسلا. يهدف هذا المرفق إلى تعزيز تطوير وقدرات تقنيتها الروبوتية.",
+      "title": "Agility Robotics تزرع علمها في فناء تسلا",
+      "summary": "أعلنت Agility Robotics عن افتتاح مركز تدريب جديد لروبوتاتها Digit في فريمونت، كاليفورنيا. يقع هذا الموقع بشكل استراتيجي بالقرب من مقر تسلا، مما يبرز تركيز الشركة على تقدم تقنياتها الروبوتية.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/17/agility-robotics-plants-its-flag-in-teslas-backyard/",
       "publishedAt": "2026-07-17T20:19:49+00:00",
       "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "ea601434edca21f9",
-      "title": "الضغط الناتج عن الذكاء الاصطناعي يهز سوق الهواتف الذكية في الهند",
-      "summary": "يشهد سوق الهواتف الذكية في الهند تباطؤًا حيث يؤثر صعود تكنولوجيا الذكاء الاصطناعي على تفضيلات المستهلكين واستراتيجيات الشركات. يؤثر هذا التحول على ديناميكيات الأسعار والطلب داخل الصناعة.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/ai-driven-memory-crunch-jolts-indias-smartphone-market/",
-      "publishedAt": "2026-07-17T20:09:27+00:00",
-      "category": "industry",
-      "relevanceScore": 47
-    },
-    {
-      "id": "eb0cf49bd2422f79",
-      "title": "مخطط آبل لسحق OpenAI",
-      "summary": "قدمت آبل دعوى قضائية ضد OpenAI، مرفعةً اتهامات يعتقد العديد من الخبراء أنها تعكس ممارسات صناعية قياسية. تبقى دوافع آبل وراء قرارها مواجهة OpenAI علنًا غير واضحة.",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "publishedAt": "2026-07-17T17:41:32+00:00",
-      "category": "opinion",
-      "relevanceScore": 45
-    },
-    {
-      "id": "ea4719dcf6f16314",
-      "title": "كيف يمكن أن تعطل دعوى آبل الكبيرة خطط طرح OpenAI للاكتتاب العام",
-      "summary": "قدمت آبل دعوى تجارية ضد OpenAI، متهمةً بسوء السلوك الذي يشمل رئيسها التنفيذي للأجهزة، مدعيةً أن أكثر من 400 موظف سابق في آبل يعملون الآن في OpenAI. قد تؤثر هذه الإجراءات القانونية على خطط OpenAI للاكتتاب العام.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/video/how-apples-big-lawsuit-could-disrupt-openais-ipo-plans/",
-      "publishedAt": "2026-07-17T17:45:46+00:00",
-      "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "320385b77c9ce0e9",
-      "title": "باتريون تتوقف عن طلب عدم سحب بيانات الذكاء الاصطناعي — وتبدأ في حظرها",
-      "summary": "تعزز باتريون حمايتها ضد سحب بيانات الذكاء الاصطناعي من خلال التعاون مع كلاودفلير لحظر الروبوتات التي تستخدم محتوى المبدعين بشكل غير قانوني لتدريب نماذج الذكاء الاصطناعي. تشير هذه التغييرات إلى انتقال من الاعتماد فقط على ملفات robots.txt إلى تنفيذ تدابير أكثر صرامة ضد جمع البيانات غير المصرح به.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them/",
-      "publishedAt": "2026-07-17T15:21:17+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "7bd993bc94138880",
-      "title": "لماذا يتحول أول ممولي وحدات معالجة الرسوميات إلى شرائح الاستدلال في صفقة بقيمة 400 مليون دولار",
-      "summary": "تشير قرض بقيمة 400 مليون دولار مدعوم بشرائح إلى تحول في التركيز من وحدات معالجة الرسوميات إلى شرائح الاستدلال بين الممولين الأوائل لوحدات معالجة الرسوميات، مما يبرز المشهد المتطور للبنية التحتية للذكاء الاصطناعي. تؤكد هذه الصفقة على الطلب المتزايد على الأجهزة المتخصصة لدعم تطبيقات الذكاء الاصطناعي.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal/",
-      "publishedAt": "2026-07-17T12:00:00+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "d9b2b6a45e1f9f2c",
-      "title": "قم بضبط نماذج الفيديو والصورة على نطاق واسع مع NVIDIA NeMo Automodel و 🤗 Diffusers",
-      "summary": "قدمت NVIDIA NeMo Automodel، أداة مصممة لتسهيل ضبط نماذج الفيديو والصورة على نطاق واسع، مما يعزز كفاءة تدريب النماذج. يتكامل هذا العرض الجديد مع 🤗 Diffusers من Hugging Face، مما يمكّن المستخدمين من الاستفادة من نماذج الانتشار المتقدمة لتحسين الأداء في المهام البصرية.",
-      "sourceName": "Hugging Face",
-      "sourceIcon": "face.smiling",
-      "articleURL": "https://huggingface.co/blog/nvidia/scale-diffusers-finetuning-nemo-automodel",
-      "publishedAt": "2026-07-17T15:57:54+00:00",
-      "category": "research",
-      "relevanceScore": 43
+      "relevanceScore": 38
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 22,
+    "articlesProcessed": 26,
     "articlesSelected": 12
   }
 }
