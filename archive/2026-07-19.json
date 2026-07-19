@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-19",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-19T09:03:35.363224+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-19T20:05:36.692286+00:00",
   "headline": {
-    "id": "8e49d5b984ac952e",
-    "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
-    "summary": "Author Dave Eggers expressed concerns to OpenAI staff that ChatGPT could be \"silencing an entire generation\" during a talk last year. His remarks highlighted the potential impact of AI on creative expression and the arts.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "publishedAt": "2026-07-18T20:54:42+00:00",
-    "category": "news",
-    "relevanceScore": 47
+    "id": "85960e5448556cfc",
+    "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
+    "summary": "The latest episode of Equity discusses the potential impact of Apple's lawsuit on OpenAI's ambitions to enter the hardware market and pursue a public offering. The conversation explores the implications of the legal challenges for OpenAI's future plans.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "publishedAt": "2026-07-19T19:24:45+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "2ef5468a72e14c00",
+      "title": "I hate that I don’t hate this song made with Suno",
+      "summary": "The article discusses the author's mixed feelings about a song created using Suno, a generative AI tool, expressing a struggle to reconcile their general dislike for AI-generated music with their enjoyment of this particular track. Despite their usual skepticism towards AI in music, the author acknowledges that this song challenges their preconceived notions.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "publishedAt": "2026-07-19T17:35:54+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "f245af32041b5875",
+      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
+      "summary": "Christopher Nolan, director of \"Odyssey,\" has referred to artificial intelligence as an obvious \"Trojan horse,\" suggesting that its potential risks are well-understood. He emphasized that the implications of AI are widely recognized, akin to the ancient Greeks hidden within the wooden structure.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "publishedAt": "2026-07-19T14:52:08+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "deb4b35ccde9708e",
+      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
+      "summary": "Current AI, a nonprofit organization, is developing an inclusive AI platform aimed at creating a universally accessible \"World Wide Web of AI.\" The initiative focuses on ensuring that diverse cultures are represented and supported across various devices and AI applications.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "publishedAt": "2026-07-19T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "8e49d5b984ac952e",
+      "title": "Dave Eggers told OpenAI staff that ChatGPT was ‘silencing an entire generation’",
+      "summary": "Author Dave Eggers expressed concerns to OpenAI staff that ChatGPT could be \"silencing an entire generation\" during a talk last year. His remarks highlighted the potential impact of AI on creativity and the arts, reflecting his broader advocacy for supporting writers and artistic expression.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "publishedAt": "2026-07-18T20:54:42+00:00",
+      "category": "news",
+      "relevanceScore": 38
+    },
+    {
       "id": "6f9fe39d0267e42f",
       "title": "Kimi: Threat or menace?",
-      "summary": "Moonshot AI has launched an updated version of its Kimi model, raising alarms regarding potential implications for \"full AI communism.\" The release has sparked discussions about the ethical and societal impacts of advanced AI technologies.",
+      "summary": "Moonshot AI has launched a new version of its Kimi model, raising concerns among experts about the potential implications of \"full AI communism.\" The release has sparked discussions regarding the ethical and societal impacts of advanced AI technologies.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "publishedAt": "2026-07-18T18:51:07+00:00",
       "category": "industry",
-      "relevanceScore": 46
+      "relevanceScore": 36
     },
     {
       "id": "ad97b9f43a801234",
       "title": "A Red Line and Oversight Framework for Government AI Contracts",
-      "summary": "The article discusses the development of a framework for government AI contracts that establishes clear boundaries for acceptable use cases, such as prohibiting autonomous targeting without human oversight while permitting applications like missile defense. It emphasizes the importance of mechanism design and negotiation strategies to optimize the framework against organizational constraints.",
+      "summary": "The article discusses the development of a framework for government AI contracts that establishes clear red lines to prohibit questionable use cases, such as autonomous targeting without human oversight. It emphasizes the importance of balancing organizational constraints while allowing for trustworthy applications of AI, like missile defense.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai",
       "publishedAt": "2026-07-18T18:58:31+00:00",
       "category": "policy",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "75dbc68a0b212a09",
       "title": "The apps, gadgets, and tools every reader needs",
-      "summary": "The article provides a curated list of essential apps, gadgets, and tools for readers, highlighting the best options available in the current market. It serves as a resource for those looking to enhance their reading experience with technology.",
+      "summary": "The article highlights essential apps, gadgets, and tools for readers, providing a curated list to enhance their reading experience. It serves as a guide for those looking to discover new and useful resources in the world of technology and literature.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "publishedAt": "2026-07-18T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 31
     },
     {
       "id": "5040579a4caaec26",
       "title": "Your Period Tracker Is (Probably) Spying on You",
-      "summary": "A recent investigation reveals that many period tracking apps may be collecting and sharing sensitive user data without proper consent. The article also highlights other cybersecurity concerns, including Russian hackers targeting infrastructure and a breach involving an AI music generator.",
+      "summary": "A recent report highlights privacy concerns regarding period tracking apps, suggesting they may be collecting and sharing sensitive user data without adequate consent. The article also discusses various cybersecurity issues, including Russian hackers targeting infrastructure and a breach involving an AI music generator's data practices.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
       "publishedAt": "2026-07-18T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 30
     },
     {
       "id": "d6ab7848b7a921c0",
       "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-      "summary": "Google has updated its Gemini usage quotas, resulting in potentially fewer AI responses for users. The article explains the new rating system and provides guidance on how to monitor your usage effectively.",
+      "summary": "Google has updated its Gemini usage quotas, which may result in users receiving fewer AI responses than previously. The article provides guidance on how to track your usage under the new system.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "publishedAt": "2026-07-18T10:00:00+00:00",
       "category": "news",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "515afa8bff953216",
       "title": "Endogenous Alignment",
-      "summary": "The article discusses the process of aligning children's behavior to adult values, starting around the age of one, primarily through exogenous methods such as rewards and punishments. It highlights how operant conditioning leverages children's instinctive behaviors to encourage desirable actions and discourage undesirable ones.",
+      "summary": "The article discusses the process of aligning children's behaviors to adult values, starting around the age of one, primarily through exogenous methods such as rewards and punishments. It emphasizes that this operant conditioning is effective due to children's instinctive behaviors that can be shaped over time.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
       "publishedAt": "2026-07-18T14:10:37+00:00",
       "category": "policy",
-      "relevanceScore": 37
-    },
-    {
-      "id": "941aa740e8a393c3",
-      "title": "Vertu wants executives to pay $6,880 for an AI agent — here’s how it actually performs",
-      "summary": "Vertu is offering its luxury foldable smartphone equipped with an AI agent for $6,880, highlighting features such as AI workflows, battery life, and security. The article provides an in-depth look at the device's performance and user experience in daily use.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "publishedAt": "2026-07-17T22:55:09+00:00",
-      "category": "industry",
-      "relevanceScore": 32
+      "relevanceScore": 28
     },
     {
       "id": "309bbef6c2635fa9",
       "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-      "summary": "Researchers have developed a technique called \"context bombing\" to prevent malicious AI agents from executing harmful actions by tricking them into shutting down. This method addresses the rising threat of prompt injection attacks aimed at exploiting AI systems.",
+      "summary": "Researchers have developed a technique called \"context bombing\" to prevent malicious AI agents from executing harmful actions by tricking them into shutting down. This method aims to enhance the security of AI systems against prompt injection attacks.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
       "publishedAt": "2026-07-18T09:00:00+00:00",
       "category": "news",
-      "relevanceScore": 32
-    },
-    {
-      "id": "4f2f10efb22c92e2",
-      "title": "Databricks hits $188B valuation, extending its run as AI’s favorite second act",
-      "summary": "Databricks has achieved a valuation of $188 billion as it transforms into an AI-focused company, emphasizing the cost benefits of open weight AI models for coding in its recent research. The company's shift highlights its growing prominence in the AI sector.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "publishedAt": "2026-07-17T22:12:56+00:00",
-      "category": "industry",
-      "relevanceScore": 31
-    },
-    {
-      "id": "5725f5b543795915",
-      "title": "Should we benchmark conceptual capabilities using judgment prediction tasks?",
-      "summary": "The article discusses the challenges of using subjective judgment prediction tasks to benchmark AI capabilities, suggesting that these tasks may not effectively measure AI performance. It proposes an alternative approach where AIs are instructed to predict specific individuals' judgments on complex issues, such as the likelihood of an AI takeover.",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
-      "publishedAt": "2026-07-17T23:42:45+00:00",
-      "category": "policy",
-      "relevanceScore": 30
-    },
-    {
-      "id": "8308ffb7b073405a",
-      "title": "Neil Rimer thinks the AI money is coming back out",
-      "summary": "Venture capitalist Neil Rimer, co-founder of Index Ventures, forecasts that the wealth generated by AI in Silicon Valley will need to be redistributed, whether through voluntary means or otherwise. His comments reflect ongoing discussions about the economic impact of AI advancements.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "publishedAt": "2026-07-18T04:47:25+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 23
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 13,
+    "articlesProcessed": 12,
     "articlesSelected": 12
   }
 }

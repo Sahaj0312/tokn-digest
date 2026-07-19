@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-19",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-19T09:03:35.363224+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-19T20:05:36.692286+00:00",
   "headline": {
-    "id": "8e49d5b984ac952e",
-    "title": "Dave Eggers sagte den OpenAI-Mitarbeitern, dass ChatGPT ‚eine ganze Generation zum Schweigen bringt‘",
-    "summary": "Der Autor Dave Eggers äußerte Bedenken gegenüber OpenAI-Mitarbeitern, dass ChatGPT ‚eine ganze Generation zum Schweigen bringen‘ könnte, während eines Vortrags im letzten Jahr. Seine Bemerkungen hoben die potenziellen Auswirkungen von KI auf kreative Ausdrucksformen und die Künste hervor.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "publishedAt": "2026-07-18T20:54:42+00:00",
-    "category": "news",
-    "relevanceScore": 47
+    "id": "85960e5448556cfc",
+    "title": "Kann eine Klage von Apple OpenAIs Hardware-Pläne gefährden?",
+    "summary": "Die neueste Episode von Equity diskutiert die potenziellen Auswirkungen der Klage von Apple auf OpenAIs Ambitionen, in den Hardware-Markt einzutreten und einen Börsengang anzustreben. Das Gespräch beleuchtet die Implikationen der rechtlichen Herausforderungen für OpenAIs zukünftige Pläne.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "publishedAt": "2026-07-19T19:24:45+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "2ef5468a72e14c00",
+      "title": "Ich hasse es, dass ich dieses mit Suno erstellte Lied nicht hasse",
+      "summary": "Der Artikel behandelt die gemischten Gefühle des Autors zu einem mit Suno, einem generativen KI-Tool, erstellten Lied und beschreibt den Kampf, die allgemeine Abneigung gegen KI-generierte Musik mit der Freude an diesem speziellen Track in Einklang zu bringen. Trotz seiner üblichen Skepsis gegenüber KI in der Musik erkennt der Autor an, dass dieses Lied seine vorgefassten Meinungen herausfordert.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "publishedAt": "2026-07-19T17:35:54+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "f245af32041b5875",
+      "title": "‘Odyssey’-Regisseur Christopher Nolan bezeichnet KI als offensichtliches ‚Trojanisches Pferd‘",
+      "summary": "Christopher Nolan, Regisseur von \"Odyssey,\" hat künstliche Intelligenz als offensichtliches \"Trojanisches Pferd\" bezeichnet und angedeutet, dass ihre potenziellen Risiken gut verstanden werden. Er betonte, dass die Implikationen von KI allgemein anerkannt sind, ähnlich den alten Griechen, die in der hölzernen Struktur verborgen waren.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "publishedAt": "2026-07-19T14:52:08+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "deb4b35ccde9708e",
+      "title": "Die gemeinnützige Organisation Current AI arbeitet daran, das World Wide Web der KI zu schaffen, kostenlos für alle",
+      "summary": "Current AI, eine gemeinnützige Organisation, entwickelt eine inklusive KI-Plattform, die darauf abzielt, ein universell zugängliches \"World Wide Web der KI\" zu schaffen. Die Initiative konzentriert sich darauf, sicherzustellen, dass verschiedene Kulturen in verschiedenen Geräten und KI-Anwendungen vertreten und unterstützt werden.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "publishedAt": "2026-07-19T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "8e49d5b984ac952e",
+      "title": "Dave Eggers sagte OpenAI-Mitarbeitern, dass ChatGPT ‚eine ganze Generation zum Schweigen bringt‘",
+      "summary": "Autor Dave Eggers äußerte Bedenken gegenüber OpenAI-Mitarbeitern, dass ChatGPT ‚eine ganze Generation zum Schweigen bringen‘ könnte, während eines Vortrags im letzten Jahr. Seine Bemerkungen hoben die potenziellen Auswirkungen von KI auf Kreativität und Kunst hervor und spiegeln sein breiteres Eintreten für die Unterstützung von Schriftstellern und künstlerischem Ausdruck wider.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "publishedAt": "2026-07-18T20:54:42+00:00",
+      "category": "news",
+      "relevanceScore": 38
+    },
+    {
       "id": "6f9fe39d0267e42f",
       "title": "Kimi: Bedrohung oder Plage?",
-      "summary": "Moonshot AI hat eine aktualisierte Version seines Kimi-Modells veröffentlicht, was Bedenken hinsichtlich möglicher Implikationen für ‚vollständigen KI-Kommunismus‘ aufwirft. Die Veröffentlichung hat Diskussionen über die ethischen und gesellschaftlichen Auswirkungen fortschrittlicher KI-Technologien ausgelöst.",
+      "summary": "Moonshot AI hat eine neue Version seines Kimi-Modells veröffentlicht, was bei Experten Bedenken hinsichtlich der potenziellen Implikationen von ‚vollständigem KI-Kommunismus‘ aufwarf. Die Veröffentlichung hat Diskussionen über die ethischen und gesellschaftlichen Auswirkungen fortschrittlicher KI-Technologien angestoßen.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "publishedAt": "2026-07-18T18:51:07+00:00",
       "category": "industry",
-      "relevanceScore": 46
+      "relevanceScore": 36
     },
     {
       "id": "ad97b9f43a801234",
       "title": "Eine rote Linie und ein Aufsichtsrahmen für staatliche KI-Verträge",
-      "summary": "Der Artikel behandelt die Entwicklung eines Rahmens für staatliche KI-Verträge, der klare Grenzen für akzeptable Anwendungsfälle festlegt, wie das Verbot autonomer Zielverfolgung ohne menschliche Aufsicht, während Anwendungen wie Raketenabwehr erlaubt sind. Er betont die Bedeutung von Mechanismusdesign und Verhandlungsstrategien zur Optimierung des Rahmens gegen organisatorische Einschränkungen.",
+      "summary": "Der Artikel behandelt die Entwicklung eines Rahmens für staatliche KI-Verträge, der klare rote Linien festlegt, um fragwürdige Anwendungsfälle wie autonomes Zielen ohne menschliche Aufsicht zu verbieten. Er betont die Bedeutung eines Gleichgewichts zwischen organisatorischen Einschränkungen und der Ermöglichung vertrauenswürdiger Anwendungen von KI, wie z.B. der Raketenabwehr.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai",
       "publishedAt": "2026-07-18T18:58:31+00:00",
       "category": "policy",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "75dbc68a0b212a09",
       "title": "Die Apps, Gadgets und Tools, die jeder Leser braucht",
-      "summary": "Der Artikel bietet eine kuratierte Liste von wesentlichen Apps, Gadgets und Tools für Leser und hebt die besten verfügbaren Optionen auf dem aktuellen Markt hervor. Er dient als Ressource für diejenigen, die ihr Leseerlebnis mit Technologie verbessern möchten.",
+      "summary": "Der Artikel hebt essentielle Apps, Gadgets und Tools für Leser hervor und bietet eine kuratierte Liste zur Verbesserung ihres Leseerlebnisses. Er dient als Leitfaden für diejenigen, die neue und nützliche Ressourcen in der Welt der Technologie und Literatur entdecken möchten.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "publishedAt": "2026-07-18T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 31
     },
     {
       "id": "5040579a4caaec26",
       "title": "Ihr Perioden-Tracker spioniert (wahrscheinlich) Sie aus",
-      "summary": "Eine aktuelle Untersuchung zeigt, dass viele Perioden-Tracking-Apps möglicherweise sensible Benutzerdaten ohne ordnungsgemäße Zustimmung sammeln und teilen. Der Artikel hebt auch andere Cybersecurity-Bedenken hervor, darunter russische Hacker, die Infrastruktur ins Visier nehmen, und einen Datenvorfall mit einem KI-Musikgenerator.",
+      "summary": "Ein aktueller Bericht hebt Datenschutzbedenken bezüglich Perioden-Tracking-Apps hervor und legt nahe, dass sie möglicherweise sensible Nutzerdaten ohne angemessene Zustimmung sammeln und teilen. Der Artikel behandelt auch verschiedene Cybersecurity-Probleme, einschließlich russischer Hacker, die Infrastruktur angreifen, und einen Vorfall, der die Datenpraktiken eines KI-Musikgenerators betrifft.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
       "publishedAt": "2026-07-18T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 30
     },
     {
       "id": "d6ab7848b7a921c0",
-      "title": "Wie Googles neue Gemini-Ratings funktionieren und wie Sie Ihre Nutzung verfolgen können",
-      "summary": "Google hat seine Gemini-Nutzungsquoten aktualisiert, was zu potenziell weniger KI-Antworten für Benutzer führt. Der Artikel erklärt das neue Bewertungssystem und gibt Hinweise, wie Sie Ihre Nutzung effektiv überwachen können.",
+      "title": "Wie Googles neue Gemini-Raten funktionieren und wie Sie Ihre Nutzung verfolgen können",
+      "summary": "Google hat seine Nutzungskontingente für Gemini aktualisiert, was dazu führen kann, dass Nutzer weniger KI-Antworten erhalten als zuvor. Der Artikel bietet Anleitungen, wie Sie Ihre Nutzung unter dem neuen System verfolgen können.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "publishedAt": "2026-07-18T10:00:00+00:00",
       "category": "news",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "515afa8bff953216",
       "title": "Endogene Ausrichtung",
-      "summary": "Der Artikel behandelt den Prozess, das Verhalten von Kindern an die Werte von Erwachsenen anzupassen, der etwa im Alter von einem Jahr beginnt, hauptsächlich durch exogene Methoden wie Belohnungen und Bestrafungen. Er hebt hervor, wie operante Konditionierung die instinktiven Verhaltensweisen von Kindern nutzt, um wünschenswerte Handlungen zu fördern und unerwünschte zu entmutigen.",
+      "summary": "Der Artikel behandelt den Prozess, das Verhalten von Kindern an die Werte von Erwachsenen anzupassen, der etwa im Alter von einem Jahr beginnt, hauptsächlich durch exogene Methoden wie Belohnungen und Bestrafungen. Er betont, dass diese operante Konditionierung aufgrund der instinktiven Verhaltensweisen von Kindern, die im Laufe der Zeit geformt werden können, effektiv ist.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
       "publishedAt": "2026-07-18T14:10:37+00:00",
       "category": "policy",
-      "relevanceScore": 37
-    },
-    {
-      "id": "941aa740e8a393c3",
-      "title": "Vertu möchte, dass Führungskräfte 6.880 $ für einen KI-Agenten zahlen – so funktioniert er tatsächlich",
-      "summary": "Vertu bietet sein luxuriöses faltbares Smartphone mit einem KI-Agenten für 6.880 $ an und hebt Funktionen wie KI-Workflows, Akkulaufzeit und Sicherheit hervor. Der Artikel bietet einen detaillierten Blick auf die Leistung des Geräts und die Benutzererfahrung im täglichen Gebrauch.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "publishedAt": "2026-07-17T22:55:09+00:00",
-      "category": "industry",
-      "relevanceScore": 32
+      "relevanceScore": 28
     },
     {
       "id": "309bbef6c2635fa9",
-      "title": "Prompt-Injection-Angriffe behindern KI-Hacking-Agenten",
-      "summary": "Forscher haben eine Technik namens ‚Kontextbombardierung‘ entwickelt, um zu verhindern, dass bösartige KI-Agenten schädliche Aktionen ausführen, indem sie sie dazu bringen, sich selbst abzuschalten. Diese Methode geht auf die wachsende Bedrohung durch Prompt-Injection-Angriffe ein, die darauf abzielen, KI-Systeme auszunutzen.",
+      "title": "Prompt-Injection-Angriffe vereiteln KI-Hacking-Agenten",
+      "summary": "Forscher haben eine Technik namens ‚Context Bombing‘ entwickelt, um böswillige KI-Agenten daran zu hindern, schädliche Aktionen auszuführen, indem sie sie dazu bringen, sich selbst abzuschalten. Diese Methode zielt darauf ab, die Sicherheit von KI-Systemen gegen Prompt-Injection-Angriffe zu erhöhen.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
       "publishedAt": "2026-07-18T09:00:00+00:00",
       "category": "news",
-      "relevanceScore": 32
-    },
-    {
-      "id": "4f2f10efb22c92e2",
-      "title": "Databricks erreicht eine Bewertung von 188 Milliarden $, was seinen Lauf als Lieblingszweite von KI verlängert",
-      "summary": "Databricks hat eine Bewertung von 188 Milliarden $ erreicht, während es sich in ein KI-fokussiertes Unternehmen verwandelt und die Kostenvorteile offener KI-Modelle für das Programmieren in seiner aktuellen Forschung betont. Der Wandel des Unternehmens unterstreicht seine wachsende Bedeutung im KI-Sektor.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "publishedAt": "2026-07-17T22:12:56+00:00",
-      "category": "industry",
-      "relevanceScore": 31
-    },
-    {
-      "id": "5725f5b543795915",
-      "title": "Sollten wir konzeptionelle Fähigkeiten mit Urteilsprognoseaufgaben bewerten?",
-      "summary": "Der Artikel diskutiert die Herausforderungen bei der Verwendung subjektiver Urteilsprognoseaufgaben zur Bewertung von KI-Fähigkeiten und schlägt vor, dass diese Aufgaben möglicherweise die KI-Leistung nicht effektiv messen. Er schlägt einen alternativen Ansatz vor, bei dem KIs angewiesen werden, die Urteile bestimmter Personen zu komplexen Themen, wie der Wahrscheinlichkeit einer KI-Übernahme, vorherzusagen.",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
-      "publishedAt": "2026-07-17T23:42:45+00:00",
-      "category": "policy",
-      "relevanceScore": 30
-    },
-    {
-      "id": "8308ffb7b073405a",
-      "title": "Neil Rimer denkt, dass das KI-Geld zurückkommt",
-      "summary": "Der Risikokapitalgeber Neil Rimer, Mitbegründer von Index Ventures, prognostiziert, dass der durch KI in Silicon Valley generierte Reichtum umverteilt werden muss, sei es durch freiwillige Mittel oder anders. Seine Kommentare spiegeln die laufenden Diskussionen über die wirtschaftlichen Auswirkungen von KI-Fortschritten wider.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "publishedAt": "2026-07-18T04:47:25+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 23
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 13,
+    "articlesProcessed": 12,
     "articlesSelected": 12
   }
 }

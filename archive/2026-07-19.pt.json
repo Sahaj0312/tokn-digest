@@ -1,145 +1,145 @@
 {
   "digestDate": "2026-07-19",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-19T09:03:35.363224+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-19T20:05:36.692286+00:00",
   "headline": {
-    "id": "8e49d5b984ac952e",
-    "title": "Dave Eggers disse à equipe da OpenAI que o ChatGPT estava ‘silenciando uma geração inteira’",
-    "summary": "O autor Dave Eggers expressou preocupações à equipe da OpenAI de que o ChatGPT poderia estar \"silenciando uma geração inteira\" durante uma palestra no ano passado. Seus comentários destacaram o impacto potencial da IA na expressão criativa e nas artes.",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
-    "publishedAt": "2026-07-18T20:54:42+00:00",
-    "category": "news",
-    "relevanceScore": 47
+    "id": "85960e5448556cfc",
+    "title": "Um processo da Apple pode desviar os planos de hardware da OpenAI?",
+    "summary": "O último episódio do Equity discute o impacto potencial do processo da Apple nas ambições da OpenAI de entrar no mercado de hardware e buscar uma oferta pública. A conversa explora as implicações dos desafios legais para os planos futuros da OpenAI.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans/",
+    "publishedAt": "2026-07-19T19:24:45+00:00",
+    "category": "industry",
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "2ef5468a72e14c00",
+      "title": "Eu odeio não odiar essa música feita com Suno",
+      "summary": "O artigo discute os sentimentos mistos do autor sobre uma música criada usando Suno, uma ferramenta de IA generativa, expressando a luta para reconciliar sua aversão geral à música gerada por IA com seu prazer por essa faixa específica. Apesar de seu ceticismo habitual em relação à IA na música, o autor reconhece que essa canção desafia suas noções preconcebidas.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/entertainment/967678/1010benja-semiramis-dream-suno-ai-music",
+      "publishedAt": "2026-07-19T17:35:54+00:00",
+      "category": "news",
+      "relevanceScore": 55
+    },
+    {
+      "id": "f245af32041b5875",
+      "title": "O diretor de ‘Odyssey’, Christopher Nolan, chama a IA de óbvio ‘cavalo de Troia’",
+      "summary": "Christopher Nolan, diretor de \"Odyssey\", se referiu à inteligência artificial como um óbvio \"cavalo de Troia\", sugerindo que seus riscos potenciais são bem compreendidos. Ele enfatizou que as implicações da IA são amplamente reconhecidas, semelhantes aos antigos gregos escondidos dentro da estrutura de madeira.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse/",
+      "publishedAt": "2026-07-19T14:52:08+00:00",
+      "category": "industry",
+      "relevanceScore": 53
+    },
+    {
+      "id": "deb4b35ccde9708e",
+      "title": "A Current AI sem fins lucrativos está correndo para construir a Web Mundial da IA, gratuita para todos",
+      "summary": "A Current AI, uma organização sem fins lucrativos, está desenvolvendo uma plataforma de IA inclusiva com o objetivo de criar uma \"Web Mundial da IA\" acessível a todos. A iniciativa foca em garantir que diversas culturas sejam representadas e apoiadas em vários dispositivos e aplicações de IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all/",
+      "publishedAt": "2026-07-19T14:00:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "8e49d5b984ac952e",
+      "title": "Dave Eggers disse à equipe da OpenAI que o ChatGPT estava ‘silenciando uma geração inteira’",
+      "summary": "O autor Dave Eggers expressou preocupações à equipe da OpenAI de que o ChatGPT poderia estar ‘silenciando uma geração inteira’ durante uma palestra no ano passado. Seus comentários destacaram o impacto potencial da IA na criatividade e nas artes, refletindo sua defesa mais ampla pelo apoio a escritores e à expressão artística.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "publishedAt": "2026-07-18T20:54:42+00:00",
+      "category": "news",
+      "relevanceScore": 38
+    },
+    {
       "id": "6f9fe39d0267e42f",
       "title": "Kimi: Ameaça ou perigo?",
-      "summary": "A Moonshot AI lançou uma versão atualizada de seu modelo Kimi, levantando alarmes sobre as potenciais implicações para o \"comunismo total da IA\". O lançamento gerou discussões sobre os impactos éticos e sociais das tecnologias avançadas de IA.",
+      "summary": "A Moonshot AI lançou uma nova versão de seu modelo Kimi, levantando preocupações entre especialistas sobre as potenciais implicações do ‘comunismo total de IA’. O lançamento gerou discussões sobre os impactos éticos e sociais das tecnologias avançadas de IA.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace/",
       "publishedAt": "2026-07-18T18:51:07+00:00",
       "category": "industry",
-      "relevanceScore": 46
+      "relevanceScore": 36
     },
     {
       "id": "ad97b9f43a801234",
       "title": "Uma Linha Vermelha e um Quadro de Supervisão para Contratos de IA do Governo",
-      "summary": "O artigo discute o desenvolvimento de um quadro para contratos de IA do governo que estabelece limites claros para casos de uso aceitáveis, como proibir a mira autônoma sem supervisão humana, enquanto permite aplicações como defesa de mísseis. Enfatiza a importância do design de mecanismos e estratégias de negociação para otimizar o quadro contra restrições organizacionais.",
+      "summary": "O artigo discute o desenvolvimento de um quadro para contratos de IA do governo que estabelece linhas vermelhas claras para proibir casos de uso questionáveis, como o direcionamento autônomo sem supervisão humana. Enfatiza a importância de equilibrar as restrições organizacionais enquanto permite aplicações confiáveis de IA, como defesa de mísseis.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/CCt9oy8axcdvaGcPE/a-red-line-and-oversight-framework-for-government-ai",
       "publishedAt": "2026-07-18T18:58:31+00:00",
       "category": "policy",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "75dbc68a0b212a09",
       "title": "Os aplicativos, gadgets e ferramentas que todo leitor precisa",
-      "summary": "O artigo fornece uma lista selecionada de aplicativos, gadgets e ferramentas essenciais para leitores, destacando as melhores opções disponíveis no mercado atual. Serve como um recurso para aqueles que buscam aprimorar sua experiência de leitura com tecnologia.",
+      "summary": "O artigo destaca aplicativos, gadgets e ferramentas essenciais para leitores, fornecendo uma lista curada para aprimorar sua experiência de leitura. Serve como um guia para aqueles que buscam descobrir novos e úteis recursos no mundo da tecnologia e da literatura.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
       "publishedAt": "2026-07-18T12:00:00+00:00",
       "category": "news",
-      "relevanceScore": 40
+      "relevanceScore": 31
     },
     {
       "id": "5040579a4caaec26",
-      "title": "Seu Rastreador de Ciclo Menstrual Está (Provavelmente) Espionando Você",
-      "summary": "Uma investigação recente revela que muitos aplicativos de rastreamento de ciclo menstrual podem estar coletando e compartilhando dados sensíveis dos usuários sem o devido consentimento. O artigo também destaca outras preocupações de cibersegurança, incluindo hackers russos visando infraestrutura e uma violação envolvendo um gerador de música por IA.",
+      "title": "Seu rastreador de período está (provavelmente) espionando você",
+      "summary": "Um relatório recente destaca preocupações de privacidade em relação a aplicativos de rastreamento de período, sugerindo que eles podem estar coletando e compartilhando dados sensíveis dos usuários sem consentimento adequado. O artigo também discute várias questões de cibersegurança, incluindo hackers russos visando infraestrutura e uma violação envolvendo as práticas de dados de um gerador de música por IA.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
       "publishedAt": "2026-07-18T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
+      "relevanceScore": 30
     },
     {
       "id": "d6ab7848b7a921c0",
-      "title": "Como Funcionam as Novas Taxas do Gemini do Google e Como Rastrear Seu Uso",
-      "summary": "O Google atualizou suas cotas de uso do Gemini, resultando em potencialmente menos respostas de IA para os usuários. O artigo explica o novo sistema de classificação e fornece orientações sobre como monitorar seu uso de forma eficaz.",
+      "title": "Como funcionam as novas taxas do Gemini do Google e como rastrear seu uso",
+      "summary": "O Google atualizou suas cotas de uso do Gemini, o que pode resultar em usuários recebendo menos respostas de IA do que antes. O artigo fornece orientações sobre como rastrear seu uso sob o novo sistema.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
       "publishedAt": "2026-07-18T10:00:00+00:00",
       "category": "news",
-      "relevanceScore": 38
+      "relevanceScore": 29
     },
     {
       "id": "515afa8bff953216",
       "title": "Alinhamento Endógeno",
-      "summary": "O artigo discute o processo de alinhar o comportamento das crianças aos valores dos adultos, começando por volta do primeiro ano de idade, principalmente por meio de métodos exógenos, como recompensas e punições. Destaca como o condicionamento operante aproveita os comportamentos instintivos das crianças para incentivar ações desejáveis e desencorajar as indesejáveis.",
+      "summary": "O artigo discute o processo de alinhar os comportamentos das crianças aos valores dos adultos, começando por volta do primeiro ano de idade, principalmente por meio de métodos exógenos, como recompensas e punições. Enfatiza que esse condicionamento operante é eficaz devido aos comportamentos instintivos das crianças que podem ser moldados ao longo do tempo.",
       "sourceName": "AI Alignment Forum",
       "sourceIcon": "lock.shield",
       "articleURL": "https://www.alignmentforum.org/posts/xWZpwPPp5nR9rZq3x/endogenous-alignment",
       "publishedAt": "2026-07-18T14:10:37+00:00",
       "category": "policy",
-      "relevanceScore": 37
-    },
-    {
-      "id": "941aa740e8a393c3",
-      "title": "A Vertu quer que executivos paguem $6,880 por um agente de IA — veja como ele realmente se sai",
-      "summary": "A Vertu está oferecendo seu smartphone dobrável de luxo equipado com um agente de IA por $6,880, destacando recursos como fluxos de trabalho de IA, duração da bateria e segurança. O artigo fornece uma análise detalhada do desempenho do dispositivo e da experiência do usuário no uso diário.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/vertu-wants-executives-to-pay-6880-for-an-ai-agent-heres-how-it-actually-performs/",
-      "publishedAt": "2026-07-17T22:55:09+00:00",
-      "category": "industry",
-      "relevanceScore": 32
+      "relevanceScore": 28
     },
     {
       "id": "309bbef6c2635fa9",
       "title": "Ataques de Injeção de Prompt Estão Frustrando Agentes de Hacking de IA",
-      "summary": "Pesquisadores desenvolveram uma técnica chamada \"context bombing\" para impedir que agentes de IA maliciosos executem ações prejudiciais, enganando-os para que desliguem. Este método aborda a crescente ameaça de ataques de injeção de prompt destinados a explorar sistemas de IA.",
+      "summary": "Pesquisadores desenvolveram uma técnica chamada ‘context bombing’ para impedir que agentes de IA maliciosos executem ações prejudiciais, enganando-os para que desliguem. Este método visa aumentar a segurança dos sistemas de IA contra ataques de injeção de prompt.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
       "publishedAt": "2026-07-18T09:00:00+00:00",
       "category": "news",
-      "relevanceScore": 32
-    },
-    {
-      "id": "4f2f10efb22c92e2",
-      "title": "A Databricks atinge uma avaliação de $188 bilhões, estendendo sua trajetória como o segundo ato favorito da IA",
-      "summary": "A Databricks alcançou uma avaliação de $188 bilhões ao se transformar em uma empresa focada em IA, enfatizando os benefícios de custo dos modelos de IA de peso aberto para codificação em sua pesquisa recente. A mudança da empresa destaca sua crescente proeminência no setor de IA.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/databricks-hits-188b-valuation-extending-its-run-as-ais-favorite-second-act/",
-      "publishedAt": "2026-07-17T22:12:56+00:00",
-      "category": "industry",
-      "relevanceScore": 31
-    },
-    {
-      "id": "5725f5b543795915",
-      "title": "Devemos avaliar capacidades conceituais usando tarefas de previsão de julgamento?",
-      "summary": "O artigo discute os desafios de usar tarefas de previsão de julgamento subjetivas para avaliar as capacidades da IA, sugerindo que essas tarefas podem não medir efetivamente o desempenho da IA. Propõe uma abordagem alternativa onde as IAs são instruídas a prever os julgamentos de indivíduos específicos sobre questões complexas, como a probabilidade de uma tomada de controle pela IA.",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/5kEezahvkEiQuWEfx/should-we-benchmark-conceptual-capabilities-using-judgment",
-      "publishedAt": "2026-07-17T23:42:45+00:00",
-      "category": "policy",
-      "relevanceScore": 30
-    },
-    {
-      "id": "8308ffb7b073405a",
-      "title": "Neil Rimer acredita que o dinheiro da IA está voltando",
-      "summary": "O capitalista de risco Neil Rimer, cofundador da Index Ventures, prevê que a riqueza gerada pela IA no Vale do Silício precisará ser redistribuída, seja por meios voluntários ou não. Seus comentários refletem discussões em andamento sobre o impacto econômico dos avanços da IA.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out/",
-      "publishedAt": "2026-07-18T04:47:25+00:00",
-      "category": "industry",
-      "relevanceScore": 29
+      "relevanceScore": 23
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 13,
+    "articlesProcessed": 12,
     "articlesSelected": 12
   }
 }
