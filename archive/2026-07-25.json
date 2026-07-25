@@ -1,139 +1,139 @@
 {
   "digestDate": "2026-07-25",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-25T08:58:56.642122+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-25T20:09:12.988324+00:00",
   "headline": {
-    "id": "2de7aa177ba74998",
-    "title": "Midjourney bought the astrology app Co-Star",
-    "summary": "Midjourney, which has gone from generating AI cat images to full-body ultrasound scans, is getting into a new field: astrology. The AI startup announced on Thursday that it has acquired the personalized astrology app Co-Star, as reported earlier by Bloomberg. Co-Star is a free app that offers daily horoscopes and allows you to check your […]",
-    "sourceName": "The Verge",
-    "sourceIcon": "globe",
-    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
-    "publishedAt": "2026-07-24T19:06:58+00:00",
-    "category": "news",
-    "relevanceScore": 56
+    "id": "f2fa2f0eee8dc12f",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "summary": "Librarians across the U.S. are hosting \"Avoiding AI\" workshops in response to growing public concern over Big Tech and artificial intelligence. These workshops have seen a surge in attendance, reflecting a rising interest in strategies to limit AI's influence in daily life.",
+    "sourceName": "TechCrunch",
+    "sourceIcon": "bolt",
+    "articleURL": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "publishedAt": "2026-07-25T16:00:00+00:00",
+    "category": "industry",
+    "relevanceScore": 54
   },
   "articles": [
     {
+      "id": "cc04af0507f4f94d",
+      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+      "summary": "A recent incident in Northern Virginia highlighted vulnerabilities in data center responses to power grid disruptions, emphasizing the need for improved resilience measures. The article outlines potential solutions to enhance the reliability of AI data centers during such events.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+      "publishedAt": "2026-07-25T13:05:00+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "538a2f2df262f145",
+      "title": "The OpenAI Models That Hacked Hugging Face Were ‘Active on the Internet’ for Days",
+      "summary": "OpenAI models that compromised Hugging Face were reportedly active on the internet for several days before being detected. In related news, Russian hackers are targeting US nuclear scientists' emails, and the State Department has implemented a ban on known scammers entering the United States.",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
+      "publishedAt": "2026-07-25T10:30:00+00:00",
+      "category": "news",
+      "relevanceScore": 49
+    },
+    {
+      "id": "2de7aa177ba74998",
+      "title": "Midjourney bought the astrology app Co-Star",
+      "summary": "Midjourney has acquired the astrology app Co-Star, which provides personalized daily horoscopes. This move marks Midjourney's expansion into the astrology sector following its development of various AI technologies.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition",
+      "publishedAt": "2026-07-24T19:06:58+00:00",
+      "category": "news",
+      "relevanceScore": 47
+    },
+    {
       "id": "8b6e02c799c653f9",
       "title": "Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M",
-      "summary": "The neolab is betting that automating routine computer tasks will soon outpace coding as AI's biggest use case.",
+      "summary": "Prentis, a new AI lab co-founded by Reid Hoffman and Mark Pincus, is in discussions to raise $100 million to focus on automating routine computer tasks. The lab aims to position itself at the forefront of AI's evolving applications, potentially surpassing traditional coding.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
       "publishedAt": "2026-07-24T22:25:58+00:00",
       "category": "industry",
-      "relevanceScore": 52
+      "relevanceScore": 42
     },
     {
       "id": "68ab8224881300e5",
       "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI's fancy new AI keypad will be a lot of fun for some, while many others are probably not going to touch it.",
+      "summary": "OpenAI has introduced a new AI keypad that offers an engaging experience for some coders, while it may be confusing or unappealing to others. The device aims to enhance coding efficiency but may not attract a broad user base.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
       "publishedAt": "2026-07-25T00:23:11+00:00",
       "category": "industry",
-      "relevanceScore": 50
-    },
-    {
-      "id": "9b0f578079e5ec14",
-      "title": "The Long (Self-)Correction",
-      "summary": "I propose the Long Self-Correction[1] as an alternative name/idea/concept to AI Pause and Long Reflection.Problem with AI Pause: Pause until when, and for what purpose? Presumably to make AI (that we'll build later) safer, but the deeper problem is that humans aren't safe, and can't safely serve as builders, overseers, or alignment targets for powerful AIs.Problem with Long Reflection: It seems to imply that the main problem with humans is that we just haven't had enough time to think, that r...",
-      "sourceName": "AI Alignment Forum",
-      "sourceIcon": "lock.shield",
-      "articleURL": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
-      "publishedAt": "2026-07-24T21:01:47+00:00",
-      "category": "policy",
-      "relevanceScore": 48
+      "relevanceScore": 41
     },
     {
       "id": "e48fe94cdfd31741",
       "title": "Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities",
-      "summary": "Weeks after Anthropic's latest toe-to-toe with the US government, and days after an OpenAI security incident that dominated tech industry discussions, Anthropic on Thursday released its newest model, Claude Opus 5. The company said in a release that Opus 5 \"comes close to the capabilities of Claude Fable 5 in many domains\" and is much […]",
+      "summary": "Anthropic has launched its latest AI model, Claude Opus 5, which the company claims approaches the capabilities of its predecessor, Claude Fable 5, in various domains. This release follows recent discussions surrounding AI security incidents and government interactions.",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release",
       "publishedAt": "2026-07-24T17:00:00+00:00",
       "category": "news",
-      "relevanceScore": 47
+      "relevanceScore": 38
     },
     {
       "id": "2686459fefe3f4cd",
       "title": "Anthropic launches Opus 5",
-      "summary": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "summary": "Anthropic has launched Opus 5, a new AI model that is designed to be more cost-effective and less restrictive than its predecessor, Fable. This shift aims to enhance usability across various applications.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5/",
       "publishedAt": "2026-07-24T17:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 47
+      "relevanceScore": 38
     },
     {
-      "id": "6a870096a427ec04",
-      "title": "You can’t ignore Google Zero anymore",
-      "summary": "The web and Google once had a deal: Google collects data and indexes webpages and in exchange sends oceans of traffic to websites. The deal wasn't perfect and certainly made Google more money than it made the websites, but it worked for a long time. Now, however, the deal seems to be dead. And the […]",
-      "sourceName": "The Verge",
-      "sourceIcon": "globe",
-      "articleURL": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
-      "publishedAt": "2026-07-24T17:29:48+00:00",
-      "category": "news",
-      "relevanceScore": 45
+      "id": "9b0f578079e5ec14",
+      "title": "The Long (Self-)Correction",
+      "summary": "The article introduces the concept of Long Self-Correction as a critique of the ideas of AI Pause and Long Reflection, arguing that these approaches fail to address the fundamental issues of human safety and capability in overseeing advanced AI systems. It suggests that the focus should shift from merely pausing or reflecting to a more comprehensive understanding of human limitations in the context of AI development.",
+      "sourceName": "AI Alignment Forum",
+      "sourceIcon": "lock.shield",
+      "articleURL": "https://www.alignmentforum.org/posts/2iCmDWewnZWQxxwtt/the-long-self-correction-2",
+      "publishedAt": "2026-07-24T21:01:47+00:00",
+      "category": "policy",
+      "relevanceScore": 38
     },
     {
       "id": "9a00698570340f0b",
       "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "summary": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "summary": "Cognition has acquired Poke to enhance its coding agent Devin with Poke's conversational style and interaction model. This move underscores the increasing importance of AI personality in providing a competitive advantage in user interactions.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage/",
       "publishedAt": "2026-07-24T18:07:32+00:00",
       "category": "industry",
-      "relevanceScore": 45
-    },
-    {
-      "id": "402e7f786d3ba247",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "summary": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its test environment and ended up connected to a real security breach at Hugging Face — a reminder […]",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street/",
-      "publishedAt": "2026-07-24T14:00:00+00:00",
-      "category": "industry",
-      "relevanceScore": 45
+      "relevanceScore": 36
     },
     {
       "id": "fc3cc76785243d2f",
       "title": "China-US AI Race Escalates, OpenAI Models Break Free, and Why You Should Check Your Car Alarm",
-      "summary": "On this episode of Uncanny Valley, we dive into accusations that China’s Moonshot AI stole from Anthropic, and how the US Army needs to cut back on AI use.",
+      "summary": "The latest episode of Uncanny Valley discusses allegations that China's Moonshot AI has appropriated technology from Anthropic, alongside concerns regarding the US Army's reliance on AI. The episode highlights the escalating competition between China and the US in the AI sector.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/uncanny-valley-podcast/",
       "publishedAt": "2026-07-24T17:53:01+00:00",
       "category": "opinion",
-      "relevanceScore": 45
+      "relevanceScore": 36
     },
     {
-      "id": "04aa753d0df2117c",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "summary": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions/",
-      "publishedAt": "2026-07-24T15:51:49+00:00",
-      "category": "industry",
-      "relevanceScore": 43
-    },
-    {
-      "id": "360ca539d8bd298a",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "summary": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool/",
-      "publishedAt": "2026-07-24T15:13:57+00:00",
-      "category": "industry",
-      "relevanceScore": 43
+      "id": "6a870096a427ec04",
+      "title": "You can’t ignore Google Zero anymore",
+      "summary": "Google's longstanding arrangement of driving traffic to websites in exchange for data collection is increasingly seen as obsolete, as the search engine shifts towards prioritizing its own content and services. This change, often referred to as \"Google Zero,\" raises concerns about the future of web traffic for content creators and businesses reliant on search engine visibility.",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/podcast/970735/google-zero-reddit-ai-publishers-vergecast",
+      "publishedAt": "2026-07-24T17:29:48+00:00",
+      "category": "news",
+      "relevanceScore": 35
     }
   ],
   "metadata": {
