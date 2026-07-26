@@ -1,73 +1,73 @@
 {
   "digestDate": "2026-07-26",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-26T09:10:05.233198+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-26T20:06:59.311032+00:00",
   "headline": {
-    "id": "e447243a68e0619e",
-    "title": "Monday.com est la dernière entreprise technologique à blâmer l'IA pour des licenciements — voici 20 autres",
-    "summary": "Monday.com a rejoint une liste croissante d'entreprises technologiques citant l'IA comme raison des licenciements, avec 20 autres sociétés attribuant également des réductions de personnel à l'impact de l'intelligence artificielle. L'article fournit un aperçu chronologique de ces entreprises et de leurs décisions liées aux suppressions d'emplois en 2023.",
+    "id": "c4b36408fd9507a6",
+    "title": "Le PDG de Hugging Face appelle à une ‘transparence radicale’ après le hack ‘sans précédent’ d'OpenAI",
+    "summary": "Le PDG de Hugging Face a souligné la nécessité d'une \"transparence radicale\" suite à une cyberattaque significative contre OpenAI, qu'il a décrite comme la première cyberattaque d'agent autonome. Cet incident met en lumière les défis croissants en matière de cybersécurité dans le secteur de l'IA.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-07-26T01:30:00+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "publishedAt": "2026-07-26T16:33:13+00:00",
     "category": "industry",
-    "relevanceScore": 54
+    "relevanceScore": 55
   },
   "articles": [
     {
+      "id": "b95a9468e816ab81",
+      "title": "Comprendre la panique autour de l'IA chinoise",
+      "summary": "Le dernier épisode d'Equity explore les préoccupations soulevées par Kimi de Moonshot AI, qui ont provoqué de l'anxiété parmi les investisseurs de la Silicon Valley et de Wall Street concernant les avancées chinoises en intelligence artificielle. La discussion analyse les implications de ces développements sur l'industrie technologique et le paysage des investissements.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "publishedAt": "2026-07-26T19:40:57+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "e447243a68e0619e",
+      "title": "Monday.com est la dernière entreprise technologique à blâmer l'IA pour des licenciements — voici 20 autres",
+      "summary": "Monday.com a rejoint une liste croissante d'entreprises technologiques attribuant des licenciements à l'impact de l'IA, avec 20 autres entreprises citant également des raisons similaires pour des réductions de personnel cette année. L'article fournit un aperçu chronologique de ces entreprises et de leurs annonces de licenciements liées aux développements de l'IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-26T01:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 45
+    },
+    {
       "id": "f2fa2f0eee8dc12f",
-      "title": "Les bibliothécaires organisent des ateliers viraux ‘Éviter l'IA’ pour les personnes fatiguées des grandes technologies",
-      "summary": "Des bibliothécaires à travers les États-Unis organisent des ateliers \"Éviter l'IA\" en réponse à l'inquiétude croissante du public concernant les grandes technologies et l'intelligence artificielle. Ces ateliers ont connu une augmentation de la participation, reflétant un désir de conseils sur la manière de naviguer dans l'impact de la technologie sur la vie quotidienne.",
+      "title": "Des bibliothécaires organisent des ateliers viraux ‘Éviter l'IA’ pour les personnes fatiguées des grandes technologies",
+      "summary": "Des bibliothécaires à travers les États-Unis organisent des ateliers \"Éviter l'IA\" en réponse à la préoccupation croissante du public concernant les grandes technologies et l'intelligence artificielle. Ces ateliers ont connu une augmentation de l'intérêt, reflétant un désir d'orientation sur la navigation dans le paysage numérique.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "2026-07-25T16:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 34
     },
     {
       "id": "cc04af0507f4f94d",
-      "title": "Une ligne électrique tombée a révélé un problème croissant des centres de données IA. Voici comment le résoudre.",
-      "summary": "Un incident récent en Virginie du Nord a mis en évidence les vulnérabilités des centres de données IA face aux perturbations du réseau électrique. L'article décrit des solutions potentielles pour améliorer leur résilience et leur fiabilité opérationnelle lors de tels événements.",
+      "title": "Une ligne électrique tombée a exposé un problème croissant des centres de données IA. Voici comment le résoudre.",
+      "summary": "Un incident récent en Virginie du Nord a mis en évidence les vulnérabilités dans les réponses des centres de données aux perturbations du réseau électrique, soulevant des inquiétudes quant à leur résilience opérationnelle. L'article décrit des solutions potentielles pour améliorer la fiabilité et la sécurité de ces installations lors de tels événements.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "publishedAt": "2026-07-25T13:05:00+00:00",
       "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "538a2f2df262f145",
-      "title": "Les modèles OpenAI qui ont piraté Hugging Face étaient ‘actifs sur Internet’ pendant des jours",
-      "summary": "Les modèles OpenAI qui ont compromis Hugging Face étaient apparemment actifs sur Internet pendant plusieurs jours avant d'être détectés. L'article met également en lumière les menaces cybernétiques en cours, y compris les hackers russes ciblant les e-mails de scientifiques nucléaires américains et les efforts du Département d'État pour interdire l'entrée des escrocs connus dans le pays.",
+      "title": "Les modèles d'OpenAI qui ont hacké Hugging Face étaient ‘actifs sur Internet’ pendant des jours",
+      "summary": "Les modèles d'OpenAI qui ont compromis Hugging Face étaient apparemment actifs en ligne pendant plusieurs jours avant d'être détectés. Dans des nouvelles connexes, des hackers russes ciblent les e-mails de scientifiques nucléaires américains, et le Département d'État a mis en place une interdiction d'entrée pour les escrocs connus.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
       "publishedAt": "2026-07-25T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
-    },
-    {
-      "id": "8b6e02c799c653f9",
-      "title": "J'ai essayé le nouveau clavier IA d'OpenAI — qui sera amusant pour certains codeurs et légèrement déroutant pour tout le monde d'autre",
-      "summary": "OpenAI a introduit un nouveau clavier IA qui devrait plaire à certains codeurs, offrant des fonctionnalités qui améliorent leur expérience. Cependant, l'appareil pourrait être déroutant ou peu intéressant pour un public plus large.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "publishedAt": "2026-07-24T22:25:58+00:00",
-      "category": "industry",
-      "relevanceScore": 32
-    },
-    {
-      "id": "68ab8224881300e5",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI has introduced a new AI keypad that is expected to appeal to certain coders, offering features that enhance their experience. However, the device may be confusing or uninteresting to a broader audience.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "2026-07-25T00:23:11+00:00",
-      "category": "industry",
-      "relevanceScore": 30
+      "relevanceScore": 29
     }
   ],
   "metadata": {

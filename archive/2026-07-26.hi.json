@@ -1,73 +1,73 @@
 {
   "digestDate": "2026-07-26",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-26T09:10:05.233198+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-26T20:06:59.311032+00:00",
   "headline": {
-    "id": "e447243a68e0619e",
-    "title": "Monday.com ने छंटनी के लिए AI को दोष देने वाली नवीनतम तकनीकी कंपनी है — यहाँ 20 अन्य हैं",
-    "summary": "Monday.com ने उन तकनीकी कंपनियों की बढ़ती सूची में शामिल हो गया है जो छंटनी के लिए AI को एक कारण बताती हैं, जिसमें 20 अन्य फर्में भी कृत्रिम बुद्धिमत्ता के प्रभाव के कारण कार्यबल में कमी का हवाला दे रही हैं। लेख 2023 में इन कंपनियों और उनकी नौकरी कटौती से संबंधित निर्णयों का कालानुक्रमिक अवलोकन प्रदान करता है।",
+    "id": "c4b36408fd9507a6",
+    "title": "Hugging Face के CEO ने ‘अत्यधिक पारदर्शिता’ की मांग की OpenAI हैक के बाद",
+    "summary": "Hugging Face के CEO ने OpenAI पर हुए एक महत्वपूर्ण साइबर हमले के बाद \"अत्यधिक पारदर्शिता\" की आवश्यकता पर जोर दिया, जिसे उन्होंने पहले स्वायत्त एजेंट साइबर हमले के रूप में वर्णित किया। यह घटना AI क्षेत्र में साइबर सुरक्षा की बढ़ती चुनौतियों को उजागर करती है।",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-07-26T01:30:00+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "publishedAt": "2026-07-26T16:33:13+00:00",
     "category": "industry",
-    "relevanceScore": 54
+    "relevanceScore": 55
   },
   "articles": [
     {
+      "id": "b95a9468e816ab81",
+      "title": "चीनी AI के प्रति पैनिक को समझना",
+      "summary": "Equity के नवीनतम एपिसोड में Moonshot AI की Kimi द्वारा उठाए गए चिंताओं का पता लगाया गया है, जिसने सिलिकॉन वैली और वॉल स्ट्रीट में निवेशकों के बीच चिंता पैदा की है। चर्चा इन विकासों के तकनीकी उद्योग और निवेश परिदृश्य पर प्रभावों का विश्लेषण करती है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "publishedAt": "2026-07-26T19:40:57+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "e447243a68e0619e",
+      "title": "Monday.com ने छंटनी के लिए AI को जिम्मेदार ठहराने वाली नवीनतम तकनीकी कंपनी बनी — यहाँ 20 अन्य हैं",
+      "summary": "Monday.com ने उन बढ़ती तकनीकी कंपनियों की सूची में शामिल हो गया है जो छंटनी को AI के प्रभाव से जोड़ती हैं, इस वर्ष 20 अन्य कंपनियों ने भी कार्यबल में कमी के लिए समान कारण बताए हैं। यह लेख इन कंपनियों और उनके AI विकास से संबंधित छंटनी की घोषणाओं का कालानुक्रमिक अवलोकन प्रदान करता है।",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-26T01:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 45
+    },
+    {
       "id": "f2fa2f0eee8dc12f",
-      "title": "पुस्तकालयाध्यक्षों ने बिग टेक से थके हुए लोगों के लिए वायरल ‘AI से बचने’ कार्यशालाएँ आयोजित की हैं",
-      "summary": "यू.एस. में पुस्तकालयाध्यक्ष \"AI से बचने\" कार्यशालाएँ आयोजित कर रहे हैं जो बिग टेक और कृत्रिम बुद्धिमत्ता के प्रति बढ़ती सार्वजनिक चिंता के जवाब में हैं। इन कार्यशालाओं में भागीदारी में वृद्धि हुई है, जो दैनिक जीवन पर प्रौद्योगिकी के प्रभाव को समझने की इच्छा को दर्शाती है।",
+      "title": "लाइब्रेरियन बिग टेक से थके लोगों के लिए वायरल ‘AI से बचने’ कार्यशालाएँ आयोजित कर रहे हैं",
+      "summary": "यू.एस. में लाइब्रेरियन बिग टेक और आर्टिफिशियल इंटेलिजेंस के प्रति बढ़ती सार्वजनिक चिंता के जवाब में \"AI से बचने\" कार्यशालाएँ आयोजित कर रहे हैं। इन कार्यशालाओं में रुचि में वृद्धि हुई है, जो डिजिटल परिदृश्य में मार्गदर्शन की इच्छा को दर्शाती है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "2026-07-25T16:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 34
     },
     {
       "id": "cc04af0507f4f94d",
-      "title": "एक गिरी हुई बिजली की लाइन ने AI डेटा केंद्र की समस्या को उजागर किया। इसे ठीक करने का तरीका यहाँ है।",
-      "summary": "हाल के एक घटना ने उत्तरी वर्जीनिया में बिजली ग्रिड में व्यवधानों के जवाब में AI डेटा केंद्रों की कमजोरियों को उजागर किया। लेख ऐसे घटनाओं के दौरान उनकी मजबूती और संचालन की विश्वसनीयता में सुधार के लिए संभावित समाधान बताता है।",
+      "title": "एक गिरी हुई पावर लाइन ने AI डेटा सेंटर की समस्या को उजागर किया। इसे ठीक करने का तरीका यहाँ है।",
+      "summary": "उत्तरी वर्जीनिया में हालिया घटना ने डेटा केंद्रों की पावर ग्रिड में व्यवधानों के प्रति प्रतिक्रियाओं में कमजोरियों को उजागर किया, जिससे उनके संचालन की स्थिरता के बारे में चिंताएँ बढ़ गईं। यह लेख ऐसे घटनाओं के दौरान इन सुविधाओं की विश्वसनीयता और सुरक्षा में सुधार के लिए संभावित समाधान outlines करता है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "publishedAt": "2026-07-25T13:05:00+00:00",
       "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "538a2f2df262f145",
-      "title": "OpenAI मॉडल जो Hugging Face को हैक किया था, वे ‘इंटरनेट पर सक्रिय’ थे कई दिनों तक",
-      "summary": "Hugging Face को प्रभावित करने वाले OpenAI मॉडल कई दिनों तक इंटरनेट पर सक्रिय रहे, इससे पहले कि उन्हें पता लगाया गया। लेख में चल रहे साइबर खतरों को भी उजागर किया गया है, जिसमें रूसी हैकरों द्वारा अमेरिकी परमाणु वैज्ञानिकों के ईमेल को लक्षित करना और राज्य विभाग के प्रयासों को शामिल किया गया है ताकि ज्ञात धोखेबाजों को देश में प्रवेश से रोका जा सके।",
+      "title": "Hugging Face को हैक करने वाले OpenAI मॉडल ‘इंटरनेट पर’ दिनों तक सक्रिय थे",
+      "summary": "Hugging Face को प्रभावित करने वाले OpenAI मॉडल कई दिनों तक ऑनलाइन सक्रिय रहे, इससे पहले कि उन्हें पता लगाया गया। संबंधित समाचार में, रूसी हैकर्स अमेरिकी परमाणु वैज्ञानिकों के ईमेल को निशाना बना रहे हैं, और राज्य विभाग ने ज्ञात धोखेबाजों को देश में प्रवेश करने पर प्रतिबंध लगा दिया है।",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
       "publishedAt": "2026-07-25T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
-    },
-    {
-      "id": "8b6e02c799c653f9",
-      "title": "मैंने OpenAI की नई AI कीपैड का परीक्षण किया — जो कुछ कोडर्स के लिए मजेदार होगा और बाकी सभी के लिए थोड़ा रहस्यमय",
-      "summary": "OpenAI ने एक नई AI कीपैड पेश की है जो कुछ कोडर्स को आकर्षित करने की उम्मीद है, जो उनकी अनुभव को बढ़ाने वाले फीचर्स प्रदान करती है। हालाँकि, यह उपकरण व्यापक दर्शकों के लिए भ्रमित करने वाला या नीरस हो सकता है।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "publishedAt": "2026-07-24T22:25:58+00:00",
-      "category": "industry",
-      "relevanceScore": 32
-    },
-    {
-      "id": "68ab8224881300e5",
-      "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
-      "summary": "OpenAI has introduced a new AI keypad that is expected to appeal to certain coders, offering features that enhance their experience. However, the device may be confusing or uninteresting to a broader audience.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "2026-07-25T00:23:11+00:00",
-      "category": "industry",
-      "relevanceScore": 30
+      "relevanceScore": 29
     }
   ],
   "metadata": {

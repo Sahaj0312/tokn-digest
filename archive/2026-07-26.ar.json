@@ -1,73 +1,73 @@
 {
   "digestDate": "2026-07-26",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-26T09:10:05.233198+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-26T20:06:59.311032+00:00",
   "headline": {
-    "id": "e447243a68e0619e",
-    "title": "شركة Monday.com هي أحدث شركة تقنية تلقي باللوم على الذكاء الاصطناعي في تسريح العمال - إليك 20 شركة أخرى",
-    "summary": "انضمت Monday.com إلى قائمة متزايدة من الشركات التقنية التي تشير إلى الذكاء الاصطناعي كسبب لتسريح العمال، حيث تنسب 20 شركة أخرى أيضًا تخفيضات القوى العاملة إلى تأثير الذكاء الاصطناعي. يقدم المقال نظرة عامة زمنية على هذه الشركات وقراراتها المتعلقة بتخفيض الوظائف في عام 2023.",
+    "id": "c4b36408fd9507a6",
+    "title": "الرئيس التنفيذي لشركة Hugging Face يدعو إلى \"شفافية جذرية\" بعد اختراق OpenAI \"غير المسبوق\"",
+    "summary": "أكد الرئيس التنفيذي لشركة Hugging Face على ضرورة \"الشفافية الجذرية\" في أعقاب هجوم إلكتروني كبير على OpenAI، والذي وصفه بأنه أول هجوم إلكتروني على وكيل مستقل. تسلط هذه الحادثة الضوء على التحديات المتزايدة في الأمن السيبراني داخل قطاع الذكاء الاصطناعي.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-07-26T01:30:00+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "publishedAt": "2026-07-26T16:33:13+00:00",
     "category": "industry",
-    "relevanceScore": 54
+    "relevanceScore": 55
   },
   "articles": [
     {
+      "id": "b95a9468e816ab81",
+      "title": "فهم الذعر بشأن الذكاء الاصطناعي الصيني",
+      "summary": "تستكشف الحلقة الأخيرة من برنامج Equity المخاوف التي أثارتها Kimi من Moonshot AI، والتي تسببت في قلق بين المستثمرين في وادي السيليكون وول ستريت بشأن التقدم الصيني في الذكاء الاصطناعي. تناقش المناقشة تداعيات هذه التطورات على صناعة التكنولوجيا ومشهد الاستثمار.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "publishedAt": "2026-07-26T19:40:57+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "e447243a68e0619e",
+      "title": "Monday.com هي أحدث شركة تقنية تلقي باللوم على الذكاء الاصطناعي في تسريح العمال - إليك 20 شركة أخرى",
+      "summary": "انضمت Monday.com إلى قائمة متزايدة من الشركات التقنية التي تعزو تسريح العمال إلى تأثير الذكاء الاصطناعي، حيث أشارت 20 شركة أخرى أيضًا إلى أسباب مشابهة لتقليص القوى العاملة هذا العام. يقدم المقال نظرة عامة زمنية على هذه الشركات وإعلانات تسريح العمال المرتبطة بتطورات الذكاء الاصطناعي.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-26T01:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 45
+    },
+    {
       "id": "f2fa2f0eee8dc12f",
-      "title": "أمناء المكتبات يستضيفون ورش عمل فيروسية بعنوان 'تجنب الذكاء الاصطناعي' للأشخاص الذين سئموا من الشركات الكبرى",
-      "summary": "يستضيف أمناء المكتبات في جميع أنحاء الولايات المتحدة ورش عمل بعنوان \"تجنب الذكاء الاصطناعي\" استجابةً للقلق العام المتزايد بشأن الشركات الكبرى والذكاء الاصطناعي. شهدت هذه الورش زيادة في الحضور، مما يعكس الرغبة في الحصول على إرشادات حول كيفية التنقل في تأثير التكنولوجيا على الحياة اليومية.",
+      "title": "أمناء المكتبات يستضيفون ورش عمل فيروسية حول \"تجنب الذكاء الاصطناعي\" للأشخاص الذين سئموا من الشركات الكبرى",
+      "summary": "يستضيف أمناء المكتبات في جميع أنحاء الولايات المتحدة ورش عمل \"تجنب الذكاء الاصطناعي\" استجابةً للقلق المتزايد من الجمهور بشأن الشركات الكبرى والذكاء الاصطناعي. شهدت هذه الورش زيادة في الاهتمام، مما يعكس الرغبة في الحصول على إرشادات حول التنقل في المشهد الرقمي.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "2026-07-25T16:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 34
     },
     {
       "id": "cc04af0507f4f94d",
       "title": "خط كهرباء ساقط واحد كشف عن مشكلة متزايدة في مراكز بيانات الذكاء الاصطناعي. إليك كيفية إصلاحها.",
-      "summary": "سلط حادث حديث في شمال فيرجينيا الضوء على نقاط الضعف في مراكز بيانات الذكاء الاصطناعي في الاستجابة لاضطرابات شبكة الطاقة. ي outlines المقال حلول محتملة لتحسين مرونتها وموثوقيتها التشغيلية خلال مثل هذه الأحداث.",
+      "summary": "سلط حادث حديث في شمال فيرجينيا الضوء على نقاط الضعف في استجابة مراكز البيانات لاضطرابات شبكة الطاقة، مما أثار مخاوف بشأن مرونتها التشغيلية. ي outlines المقال حلولاً محتملة لتحسين موثوقية وسلامة هذه المنشآت خلال مثل هذه الأحداث.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "publishedAt": "2026-07-25T13:05:00+00:00",
       "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "538a2f2df262f145",
-      "title": "نماذج OpenAI التي اخترقت Hugging Face كانت 'نشطة على الإنترنت' لعدة أيام",
-      "summary": "كانت نماذج OpenAI التي تعرضت للاختراق في Hugging Face نشطة على الإنترنت لعدة أيام قبل اكتشافها. يبرز المقال أيضًا التهديدات السيبرانية المستمرة، بما في ذلك قراصنة روس يستهدفون رسائل البريد الإلكتروني لعلماء النوويين الأمريكيين وجهود وزارة الخارجية لحظر المحتالين المعروفين من دخول البلاد.",
+      "title": "نماذج OpenAI التي اخترقت Hugging Face كانت \"نشطة على الإنترنت\" لعدة أيام",
+      "summary": "كانت نماذج OpenAI التي تعرضت لاختراق Hugging Face نشطة على الإنترنت لعدة أيام قبل اكتشافها. في أخبار ذات صلة، يستهدف قراصنة روس رسائل البريد الإلكتروني لعلماء نوويين أمريكيين، وقد نفذت وزارة الخارجية حظراً على دخول المحتالين المعروفين إلى البلاد.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
       "publishedAt": "2026-07-25T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
-    },
-    {
-      "id": "8b6e02c799c653f9",
-      "title": "Prentis، مختبر الذكاء الاصطناعي الجديد الذي شارك في تأسيسه ريد هوفمان ومارك بينكوس، في محادثات لجمع 100 مليون دولار",
-      "summary": "Prentis، مختبر الذكاء الاصطناعي الجديد الذي شارك في تأسيسه ريد هوفمان ومارك بينكوس، في مناقشات لجمع 100 مليون دولار. يهدف المختبر إلى التركيز على أتمتة المهام الروتينية على الكمبيوتر، والتي يعتقد أنها ستصبح تطبيقًا رائدًا لتكنولوجيا الذكاء الاصطناعي.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "publishedAt": "2026-07-24T22:25:58+00:00",
-      "category": "industry",
-      "relevanceScore": 32
-    },
-    {
-      "id": "68ab8224881300e5",
-      "title": "جربت لوحة المفاتيح الجديدة للذكاء الاصطناعي من OpenAI - والتي ستكون ممتعة لبعض المبرمجين وغامضة قليلاً للجميع الآخرين",
-      "summary": "قدمت OpenAI لوحة مفاتيح جديدة للذكاء الاصطناعي من المتوقع أن تجذب بعض المبرمجين، حيث تقدم ميزات تعزز تجربتهم. ومع ذلك، قد تكون هذه الجهاز مربكة أو غير مثيرة للاهتمام لجمهور أوسع.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "2026-07-25T00:23:11+00:00",
-      "category": "industry",
-      "relevanceScore": 30
+      "relevanceScore": 29
     }
   ],
   "metadata": {

@@ -1,73 +1,73 @@
 {
   "digestDate": "2026-07-26",
-  "digestSlot": "am",
-  "generatedAt": "2026-07-26T09:10:05.233198+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-07-26T20:06:59.311032+00:00",
   "headline": {
-    "id": "e447243a68e0619e",
-    "title": "Monday.com é a mais recente empresa de tecnologia a culpar a IA por demissões — aqui estão 20 outras",
-    "summary": "A Monday.com se juntou a uma lista crescente de empresas de tecnologia que citam a IA como razão para demissões, com 20 outras empresas também atribuindo reduções de pessoal ao impacto da inteligência artificial. O artigo fornece uma visão cronológica dessas empresas e suas decisões relacionadas a cortes de empregos em 2023.",
+    "id": "c4b36408fd9507a6",
+    "title": "CEO da Hugging Face pede ‘transparência radical’ após hack da OpenAI considerado ‘sem precedentes’",
+    "summary": "O CEO da Hugging Face enfatizou a necessidade de \"transparência radical\" após um significativo ciberataque à OpenAI, que ele descreveu como o primeiro ciberataque de agente autônomo. Este incidente destaca os crescentes desafios em cibersegurança no setor de IA.",
     "sourceName": "TechCrunch",
     "sourceIcon": "bolt",
-    "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "publishedAt": "2026-07-26T01:30:00+00:00",
+    "articleURL": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack/",
+    "publishedAt": "2026-07-26T16:33:13+00:00",
     "category": "industry",
-    "relevanceScore": 54
+    "relevanceScore": 55
   },
   "articles": [
     {
+      "id": "b95a9468e816ab81",
+      "title": "Entendendo o pânico em torno da IA chinesa",
+      "summary": "O último episódio do Equity explora as preocupações levantadas por Kimi, da Moonshot AI, que causaram ansiedade entre investidores no Vale do Silício e Wall Street em relação aos avanços chineses em inteligência artificial. A discussão analisa as implicações desses desenvolvimentos na indústria de tecnologia e no cenário de investimentos.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/",
+      "publishedAt": "2026-07-26T19:40:57+00:00",
+      "category": "industry",
+      "relevanceScore": 52
+    },
+    {
+      "id": "e447243a68e0619e",
+      "title": "Monday.com é a mais recente empresa de tecnologia a culpar a IA por demissões — aqui estão 20 outras",
+      "summary": "A Monday.com se juntou a uma lista crescente de empresas de tecnologia que atribuem demissões ao impacto da IA, com 20 outras empresas também citando razões semelhantes para reduções de pessoal este ano. O artigo fornece uma visão cronológica dessas empresas e seus anúncios de demissões relacionados a desenvolvimentos em IA.",
+      "sourceName": "TechCrunch",
+      "sourceIcon": "bolt",
+      "articleURL": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
+      "publishedAt": "2026-07-26T01:30:00+00:00",
+      "category": "industry",
+      "relevanceScore": 45
+    },
+    {
       "id": "f2fa2f0eee8dc12f",
-      "title": "Bibliotecários estão realizando oficinas virais ‘Evitando a IA’ para pessoas cansadas da Big Tech",
-      "summary": "Bibliotecários em todo os EUA estão realizando oficinas \"Evitando a IA\" em resposta à crescente preocupação pública com a Big Tech e a inteligência artificial. Essas oficinas tiveram um aumento na participação, refletindo o desejo de orientação sobre como navegar no impacto da tecnologia na vida cotidiana.",
+      "title": "Bibliotecários estão realizando oficinas virais de ‘Evitando IA’ para pessoas cansadas da Big Tech",
+      "summary": "Bibliotecários em todo os EUA estão realizando oficinas \"Evitando IA\" em resposta à crescente preocupação pública sobre a Big Tech e a inteligência artificial. Essas oficinas tiveram um aumento no interesse, refletindo um desejo de orientação sobre como navegar no cenário digital.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
       "publishedAt": "2026-07-25T16:00:00+00:00",
       "category": "industry",
-      "relevanceScore": 43
+      "relevanceScore": 34
     },
     {
       "id": "cc04af0507f4f94d",
       "title": "Uma linha de energia caída expôs um crescente problema de centros de dados de IA. Aqui está como consertá-lo.",
-      "summary": "Um incidente recente na Virgínia do Norte destacou as vulnerabilidades dos centros de dados de IA em responder a interrupções na rede elétrica. O artigo descreve soluções potenciais para melhorar sua resiliência e confiabilidade operacional durante tais eventos.",
+      "summary": "Um incidente recente na Virgínia do Norte destacou vulnerabilidades nas respostas dos centros de dados a interrupções na rede elétrica, levantando preocupações sobre sua resiliência operacional. O artigo descreve soluções potenciais para melhorar a confiabilidade e a segurança dessas instalações durante tais eventos.",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
       "publishedAt": "2026-07-25T13:05:00+00:00",
       "category": "industry",
-      "relevanceScore": 41
+      "relevanceScore": 32
     },
     {
       "id": "538a2f2df262f145",
-      "title": "Os Modelos da OpenAI que Hackearam a Hugging Face estavam ‘Ativos na Internet’ por Dias",
-      "summary": "Modelos da OpenAI que comprometeram a Hugging Face estavam supostamente ativos na internet por vários dias antes de serem detectados. O artigo também destaca ameaças cibernéticas em andamento, incluindo hackers russos visando os e-mails de cientistas nucleares dos EUA e os esforços do Departamento de Estado para banir golpistas conhecidos de entrar no país.",
+      "title": "Os Modelos da OpenAI que Hackearam a Hugging Face Estiveram ‘Ativos na Internet’ por Dias",
+      "summary": "Modelos da OpenAI que comprometeram a Hugging Face estavam supostamente ativos online por vários dias antes de serem detectados. Em notícias relacionadas, hackers russos estão visando os e-mails de cientistas nucleares dos EUA, e o Departamento de Estado implementou uma proibição de entrada no país para golpistas conhecidos.",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-the-openai-models-that-hacked-hugging-face-were-active-on-the-internet-for-days/",
       "publishedAt": "2026-07-25T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 39
-    },
-    {
-      "id": "8b6e02c799c653f9",
-      "title": "Prentis, novo laboratório de IA cofundado por Reid Hoffman e Mark Pincus, em negociações para levantar $100M",
-      "summary": "Prentis, um novo laboratório de IA cofundado por Reid Hoffman e Mark Pincus, está em discussões para levantar $100 milhões. O laboratório visa focar na automação de tarefas rotineiras de computação, que acredita que se tornará uma aplicação líder da tecnologia de IA.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/prentis-new-ai-lab-co-founded-by-reid-hoffman-mark-pincus-in-talks-to-raise-100m/",
-      "publishedAt": "2026-07-24T22:25:58+00:00",
-      "category": "industry",
-      "relevanceScore": 32
-    },
-    {
-      "id": "68ab8224881300e5",
-      "title": "Eu experimentei o novo teclado de IA da OpenAI — que será divertido para alguns programadores e um pouco misterioso para todos os outros",
-      "summary": "A OpenAI introduziu um novo teclado de IA que deve atrair certos programadores, oferecendo recursos que aprimoram sua experiência. No entanto, o dispositivo pode ser confuso ou desinteressante para um público mais amplo.",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
-      "publishedAt": "2026-07-25T00:23:11+00:00",
-      "category": "industry",
-      "relevanceScore": 30
+      "relevanceScore": 29
     }
   ],
   "metadata": {
