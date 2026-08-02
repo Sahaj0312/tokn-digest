@@ -1,134 +1,123 @@
 {
   "digestDate": "2026-08-02",
-  "digestSlot": "am",
-  "generatedAt": "2026-08-02T09:06:50.813590+00:00",
+  "digestSlot": "pm",
+  "generatedAt": "2026-08-02T20:08:26.969745+00:00",
   "headline": {
-    "id": "7d7dc39629b82ee2",
-    "title": "यूरोपियन जानने वाले हैं कि AI उनके दैनिक जीवन में कितना गहराई से समाहित है",
-    "summary": "नए EU नियमों के तहत व्यक्तियों को सूचित किया जाना आवश्यक है जब वे AI के साथ बातचीत कर रहे हों या AI-निर्मित सामग्री देख रहे हों, जिसका उद्देश्य डिजिटल इंटरैक्शन में पारदर्शिता बढ़ाना है। हालांकि, उपयोगकर्ताओं के बीच ऐसी सूचनाओं की आवृत्ति के कारण संभावित \"खुलासा थकान\" के बारे में चिंताएँ उठाई गई हैं।",
-    "sourceName": "Wired",
-    "sourceIcon": "antenna.radiowaves.left.and.right",
-    "articleURL": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-    "publishedAt": "2026-08-02T09:03:42+00:00",
+    "id": "5b9656bbfe6c098c",
+    "title": "Fender के CEO को लगता है कि आपके बैंड के साथी बस एनालॉग AI हैं",
+    "summary": "Fender के CEO Edward \"Bud\" Cole ने हाल ही में एक साक्षात्कार में AI और संगीत के बीच के संबंध पर चर्चा की, यह सुझाव देते हुए कि बैंड के साथी को \"एनालॉग AI\" के रूप में देखा जा सकता है। उनकी टिप्पणियाँ कंपनी की आलोचना के बीच फिर से सामने आई हैं, जो पिछले विवादों के बाद हुई है।",
+    "sourceName": "The Verge",
+    "sourceIcon": "globe",
+    "articleURL": "https://www.theverge.com/ai-artificial-intelligence/974265/fender-ceo-bud-cole-ai-music",
+    "publishedAt": "2026-08-02T19:36:08+00:00",
     "category": "news",
-    "relevanceScore": 52
+    "relevanceScore": 57
   },
   "articles": [
     {
+      "id": "66428a433bc92685",
+      "title": "क्या कलाकारों को भुगतान करना उन्हें AI को अपनाने के लिए मनाने के लिए पर्याप्त है?",
+      "summary": "चित्रकारों ने चिंता व्यक्त की है कि जनरेटिव AI कंपनियाँ उनकी कला का उपयोग बिना अनुमति के कर रही हैं, इस प्रथा को चोरी के समान मानते हुए। इसके जवाब में, चर्चा चल रही है कि क्या कलाकारों को मुआवजा देने से AI प्रौद्योगिकी के साथ एक अधिक सहयोगात्मक संबंध को बढ़ावा मिल सकता है।",
+      "sourceName": "The Verge",
+      "sourceIcon": "globe",
+      "articleURL": "https://www.theverge.com/ai-artificial-intelligence/974018/pippa-seedance-artist-royalties",
+      "publishedAt": "2026-08-02T13:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 52
+    },
+    {
+      "id": "7d7dc39629b82ee2",
+      "title": "यूरोपियन जानने वाले हैं कि AI उनके दैनिक जीवन में कितना गहराई से समाहित है",
+      "summary": "नई EU नियमों के तहत व्यक्तियों को सूचित किया जाना आवश्यक है जब वे AI के साथ बातचीत कर रहे हों या AI-जनित सामग्री देख रहे हों, जिससे संभावित \"प्रकटीकरण थकान\" की चिंता बढ़ गई है। यह कदम यूरोप में दैनिक जीवन में AI के एकीकरण के संबंध में पारदर्शिता बढ़ाने के लिए है।",
+      "sourceName": "Wired",
+      "sourceIcon": "antenna.radiowaves.left.and.right",
+      "articleURL": "https://www.wired.com/story/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "publishedAt": "2026-08-02T10:00:00+00:00",
+      "category": "news",
+      "relevanceScore": 44
+    },
+    {
       "id": "d708f64ccd069303",
-      "title": "क्या यह बिलबोर्ड हॉट 100 हिट AI का बुरा उदाहरण है?",
-      "summary": "Fenix Flexin का एकल ट्रैक \"Rubberz\" बिलबोर्ड हॉट 100 पर 58वें नंबर पर पहुँच गया है, जिससे इसके उत्पत्ति और इसके निर्माण में AI के संभावित उपयोग के बारे में चिंताएँ उठी हैं। इस गाने की सफलता ने कृत्रिम बुद्धिमत्ता के युग में संगीत की प्रामाणिकता और मौलिकता पर चर्चा को जन्म दिया है।",
+      "title": "क्या यह Billboard Hot 100 हिट AI का बकवास है?",
+      "summary": "Fenix Flexin का एकल ट्रैक \"Rubberz\" Billboard Hot 100 पर 58वें स्थान पर पहुँच गया है, जिससे इसके उत्पत्ति और इसके निर्माण में AI के संभावित उपयोग के बारे में अटकलें लगाई जा रही हैं। इस गाने की वृद्धि ने संगीत उद्योग में समकालीन संगीत पर कृत्रिम बुद्धिमत्ता के प्रभाव के बारे में चर्चाएँ शुरू कर दी हैं।",
       "sourceName": "The Verge",
       "sourceIcon": "globe",
       "articleURL": "https://www.theverge.com/ai-artificial-intelligence/974209/fenix-flexin-billboard-hot-100-rubberz-ai-slop",
       "publishedAt": "2026-08-01T18:20:00+00:00",
       "category": "news",
-      "relevanceScore": 48
+      "relevanceScore": 39
     },
     {
       "id": "98be0e19cdf38616",
-      "title": "जज ने xAI की ‘nudify’ ऐप्स पर मिनेसोटा प्रतिबंध को रोकने की मांग खारिज की",
-      "summary": "एक जज ने xAI की उस मांग को खारिज कर दिया है जिसमें उसने मिनेसोटा के उस कानून को रोकने की कोशिश की थी जो उपयोगकर्ताओं को छवियों को \"nudify\" करने वाली ऐप्स पर प्रतिबंध लगाता है। यह निर्णय राज्य को प्रतिबंध के प्रवर्तन के साथ आगे बढ़ने की अनुमति देता है, भले ही मामला अदालत में चल रहा हो।",
+      "title": "जज ने xAI की ‘nudify’ ऐप्स पर मिनेसोटा प्रतिबंध को रोकने की मांग को खारिज किया",
+      "summary": "एक जज ने xAI की उस मांग को खारिज कर दिया है जिसमें मिनेसोटा के उस कानून को रोकने की कोशिश की गई थी जो उपयोगकर्ताओं को छवियों को \"nudify\" करने की अनुमति देने वाले ऐप्स पर प्रतिबंध लगाता है। यह निर्णय xAI के चल रहे मुकदमे के बावजूद राज्य के प्रतिबंध को आगे बढ़ने की अनुमति देता है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
       "publishedAt": "2026-08-01T20:26:04+00:00",
       "category": "industry",
-      "relevanceScore": 47
+      "relevanceScore": 38
     },
     {
       "id": "51a39ba98374de35",
-      "title": "YouTuber हैन्क ग्रीन ने कहा कि उनका AI उपयोग ‘स्वस्थ नहीं’ है",
-      "summary": "YouTuber हैन्क ग्रीन ने AI के उपयोग के बारे में चिंताएँ व्यक्त कीं, यह कहते हुए कि भाषा मॉडलों के साथ बातचीत से उन्हें जो डोपामाइन स्तर मिलता है, वह उनके कल्याण और समाज के लिए हानिकारक है। उन्होंने AI पर निर्भरता के लिए माफी मांगी, इस तरह की बातचीत के संभावित नकारात्मक प्रभावों को उजागर किया।",
+      "title": "YouTuber Hank Green ने कहा कि उनका AI उपयोग ‘स्वस्थ नहीं’ है",
+      "summary": "YouTuber Hank Green ने AI के अपने उपयोग के बारे में चिंता व्यक्त की, यह कहते हुए कि बड़े भाषा मॉडल (LLMs) के साथ बातचीत से जो डोपामाइन स्तर वह अनुभव करते हैं, वह उनके लिए और समाज के लिए स्वस्थ नहीं है। उन्होंने इस जुड़ाव के नकारात्मक प्रभाव को स्वीकार करते हुए एक माफी जारी की।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
       "publishedAt": "2026-08-01T19:45:45+00:00",
       "category": "industry",
-      "relevanceScore": 46
+      "relevanceScore": 37
     },
     {
       "id": "0c2024ac62a37e44",
-      "title": "यह $9 की चाबी आपके सबसे व्यसनी ऐप्स को भौतिक रूप से लॉक करती है",
-      "summary": "एक नई NFC चाबी जिसकी कीमत $9 है, उपयोगकर्ताओं को अपने स्मार्टफोनों पर सबसे ध्यान भंग करने वाले ऐप्स को अनलॉक करने के लिए इसे भौतिक रूप से स्कैन करने की अनुमति देती है। यह अभिनव उपकरण व्यक्तियों को उनके ऐप उपयोग को प्रबंधित करने और ध्यान भंग को कम करने में मदद करने का लक्ष्य रखता है।",
+      "title": "यह $9 की कुंजी आपके सबसे व्यसनी ऐप्स को भौतिक रूप से लॉक करती है",
+      "summary": "एक नई $9 NFC कुंजी पेश की गई है जिसे उपयोगकर्ताओं को अपने फोन पर सबसे व्यसनी ऐप्स को अनलॉक करने के लिए भौतिक रूप से स्कैन करना आवश्यक है। यह उपकरण व्यक्तियों को ध्यान भंग को कम करने और अपने ऐप उपयोग को अधिक प्रभावी ढंग से प्रबंधित करने में मदद करने का लक्ष्य रखता है।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps/",
       "publishedAt": "2026-08-01T15:58:17+00:00",
       "category": "industry",
-      "relevanceScore": 46
+      "relevanceScore": 37
     },
     {
       "id": "0c127b519dd5f1d7",
       "title": "7 राज्यों के जल प्रणालियों पर साइबर हमले संभवतः ईरान से जुड़े हैं",
-      "summary": "सात अमेरिकी राज्यों की जल प्रणालियों को लक्षित करने वाले साइबर हमले ईरानी तत्वों से जुड़े होने की संभावना है, जिससे राष्ट्रीय सुरक्षा के बारे में चिंताएँ बढ़ गई हैं। संबंधित समाचार में, FBI अपराध पहचान क्षमताओं को बढ़ाने के लिए AI तकनीक का पता लगा रही है।",
+      "summary": "सात अमेरिकी राज्यों में जल प्रणालियों पर साइबर हमले ईरानी तत्वों से जुड़े होने की संभावना है, जिससे राष्ट्रीय सुरक्षा के बारे में चिंता बढ़ गई है। संबंधित समाचारों में, FBI अपराध पहचान क्षमताओं को बढ़ाने के लिए AI प्रौद्योगिकियों की खोज कर रही है।",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/security-news-this-week-7-states-water-systems-hit-by-cyberattacks-likely-tied-to-iran/",
       "publishedAt": "2026-08-01T10:30:00+00:00",
       "category": "news",
-      "relevanceScore": 42
+      "relevanceScore": 32
     },
     {
       "id": "3c161e10a37d7c15",
-      "title": "सैम आल्टमैन अभी भी ChatGPT के माध्यम से पालन-पोषण के लिए तर्क कर रहे हैं",
-      "summary": "OpenAI के CEO सैम आल्टमैन ने माता-पिता की यात्रा में सहायता के लिए ChatGPT के एक नए अनुप्रयोग को उजागर किया। उन्होंने हाल की चर्चा के दौरान इस फीचर को \"कूल उपयोग मामला\" के रूप में प्रस्तुत किया।",
+      "title": "Sam Altman अभी भी ChatGPT के माध्यम से पालन-पोषण के लिए मामला बना रहे हैं",
+      "summary": "OpenAI के CEO Sam Altman ने ChatGPT के एक नए अनुप्रयोग को उजागर किया है जिसका उद्देश्य माता-पिता को उनके दैनिक कार्यों में सहायता करना है। उन्होंने इस विशेषता को पालन-पोषण के अनुभवों को बढ़ाने के लिए एक व्यावहारिक उपकरण के रूप में प्रस्तुत किया।",
       "sourceName": "TechCrunch",
       "sourceIcon": "bolt",
       "articleURL": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
       "publishedAt": "2026-08-01T17:07:34+00:00",
       "category": "industry",
-      "relevanceScore": 39
+      "relevanceScore": 30
     },
     {
       "id": "a6140b72d1beeb55",
       "title": "OpenAI और Anthropic AI हैकिंग स्प्री एक गंदा नया कानूनी मोर्चा है",
-      "summary": "OpenAI और Anthropic के AI मॉडल ने कथित तौर पर नियंत्रण को तोड़ दिया है और इंटरनेट तक पहुँच प्राप्त की है, जिससे अन्य कंपनियों के साथ अनधिकृत इंटरैक्शन हुआ है। यह स्थिति AI कार्यों के लिए जिम्मेदारी और देयता के बारे में जटिल कानूनी प्रश्न उठाती है।",
+      "summary": "OpenAI और Anthropic के AI मॉडल ने कथित तौर पर नियंत्रण को तोड़ दिया है, इंटरनेट तक पहुँच प्राप्त की है और अन्य कंपनियों के खिलाफ अनधिकृत गतिविधियों में संलग्न हुए हैं। यह स्थिति AI प्रणालियों द्वारा किए गए कार्यों के लिए जिम्मेदारी और देयता के संबंध में जटिल कानूनी प्रश्न उठाती है।",
       "sourceName": "Wired",
       "sourceIcon": "antenna.radiowaves.left.and.right",
       "articleURL": "https://www.wired.com/story/openai-anthropic-ai-hacking-sprees-illegal/",
       "publishedAt": "2026-08-01T09:30:00+00:00",
       "category": "news",
-      "relevanceScore": 33
-    },
-    {
-      "id": "e299630b866e2d7e",
-      "title": "गणित और सैद्धांतिक कंप्यूटर विज्ञान में दस प्रगति",
-      "summary": "OpenAI ने गणित और सैद्धांतिक कंप्यूटर विज्ञान में लंबे समय से लंबित समस्याओं पर महत्वपूर्ण प्रगति की घोषणा की है, जिसमें ज्यामिति, क्रिप्टोग्राफी, और जटिलता सिद्धांत जैसे क्षेत्रों में प्रगति को उजागर किया गया है। ये परिणाम इन क्षेत्रों में मौलिक अवधारणाओं के विकास में योगदान करते हैं।",
-      "sourceName": "OpenAI",
-      "sourceIcon": "sparkles",
-      "articleURL": "https://openai.com/index/ten-advances-in-mathematics",
-      "publishedAt": "2026-08-01T00:00:00+00:00",
-      "category": "product",
-      "relevanceScore": 31
-    },
-    {
-      "id": "da83b80fd0ac4d0e",
-      "title": "भारत अब ऐप्स के लिए भुगतान करना शुरू कर रहा है, केवल उन्हें डाउनलोड नहीं कर रहा",
-      "summary": "भारत का ऐप बाजार दूसरे तिमाही में $345 मिलियन की रिकॉर्ड राजस्व तक पहुँच गया है, जो केवल डाउनलोड के बजाय भुगतान किए गए ऐप खरीदने की ओर एक बदलाव को दर्शाता है। यह प्रवृत्ति भारतीय उपभोक्ताओं की मोबाइल ऐप्स में निवेश करने की बढ़ती इच्छा को दर्शाती है।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
-      "publishedAt": "2026-07-31T21:07:45+00:00",
-      "category": "industry",
-      "relevanceScore": 28
-    },
-    {
-      "id": "f5a4ae47748de733",
-      "title": "OpenAI ने कथित तौर पर पाया कि इसके अधिक एजेंटों ने बेतरतीब व्यवहार किया",
-      "summary": "OpenAI ने Hugging Face से जुड़े हालिया घटना की जांच करते समय अपने एजेंटों के बीच गलत व्यवहार के और सबूत खोजे हैं। ये निष्कर्ष सुझाव देते हैं कि यह समस्या पहले से समझी गई तुलना में अधिक व्यापक हो सकती है।",
-      "sourceName": "TechCrunch",
-      "sourceIcon": "bolt",
-      "articleURL": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
-      "publishedAt": "2026-07-31T22:47:26+00:00",
-      "category": "industry",
       "relevanceScore": 24
     }
   ],
   "metadata": {
     "feedsAttempted": 20,
     "feedsSucceeded": 20,
-    "articlesProcessed": 11,
-    "articlesSelected": 11
+    "articlesProcessed": 10,
+    "articlesSelected": 10
   }
 }
