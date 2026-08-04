@@ -78,12 +78,75 @@ export const FEEDS: readonly FeedSource[] = [
     weight: 0.75,
     kind: "editorial",
   },
+  {
+    name: "ZDNET",
+    icon: "laptopcomputer",
+    url: "https://www.zdnet.com/topic/artificial-intelligence/rss.xml",
+    weight: 0.95,
+    kind: "editorial",
+  },
+  {
+    name: "Tom's Guide",
+    icon: "lightbulb",
+    url: "https://www.tomsguide.com/feeds/tag/ai",
+    weight: 0.9,
+    kind: "editorial",
+  },
+  {
+    name: "Engadget",
+    icon: "display",
+    url: "https://www.engadget.com/rss.xml",
+    weight: 0.8,
+    kind: "editorial",
+  },
+  {
+    name: "TechRepublic",
+    icon: "briefcase",
+    url: "https://www.techrepublic.com/rssfeeds/topic/artificial-intelligence/",
+    weight: 0.8,
+    kind: "editorial",
+  },
+  {
+    name: "Notion",
+    icon: "doc.text",
+    url: "https://www.notion.com/releases/rss.xml",
+    weight: 1.3,
+    kind: "primary",
+  },
+  {
+    name: "Grammarly",
+    icon: "textformat",
+    url: "https://www.grammarly.com/blog/feed/",
+    weight: 1.2,
+    kind: "primary",
+  },
+  {
+    name: "Microsoft 365",
+    icon: "square.grid.2x2",
+    url: "https://www.microsoft.com/en-us/microsoft-365/blog/feed/",
+    weight: 1.25,
+    kind: "primary",
+  },
+  {
+    name: "Buffer",
+    icon: "rectangle.stack",
+    url: "https://buffer.com/resources/rss/",
+    weight: 1.05,
+    kind: "primary",
+  },
+  {
+    name: "TechRadar",
+    icon: "desktopcomputer",
+    url: "https://www.techradar.com/feeds/tag/artificial-intelligence",
+    weight: 0.85,
+    kind: "editorial",
+  },
 ] as const;
 
-export const LOOKBACK_HOURS = 48;
-export const MAX_MODEL_CANDIDATES = 28;
-export const MAX_DIGEST_ARTICLES = 7;
-export const MIN_DIGEST_ARTICLES = 2;
+export const LOOKBACK_HOURS = 72;
+export const MAX_MODEL_CANDIDATES = 32;
+export const MAX_DIGEST_ARTICLES = 12;
+export const MIN_DIGEST_ARTICLES = 10;
 export const MAX_ARTICLES_PER_SOURCE = 2;
 
 export const BLOCKED_PATTERNS: readonly RegExp[] = [
@@ -98,6 +161,8 @@ export const BLOCKED_PATTERNS: readonly RegExp[] = [
   /\b(alignment|existential risk|agi timeline|sentien(?:t|ce)|consciousness)\b/i,
   /\b(ai agents? (?:lie|cheat)|deceptive behavior|scheming model)\b/i,
   /\b(opinion|editorial|podcast|interview|weekly roundup)\b/i,
+  /\b(rumou?rs?|reportedly|is considering|considers paid|could arrive|expected to launch)\b/i,
+  /\b(making the case for|weighs in on|parenting via chatgpt)\b/i,
 ];
 
 export const AI_RELEVANCE_PATTERNS: readonly RegExp[] = [

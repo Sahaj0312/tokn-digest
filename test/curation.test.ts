@@ -40,6 +40,14 @@ describe("utility-first filtering", () => {
         candidate({ title: "AI startup raises $40 million", rawSummary: "A funding announcement." }),
       ),
     ).toBe(true);
+    expect(
+      isBlockedStory(
+        candidate({
+          title: "Apple reportedly considers paid AI upgrades",
+          rawSummary: "The unconfirmed feature could arrive next year.",
+        }),
+      ),
+    ).toBe(true);
   });
 
   it("requires a concrete product, workflow, access, or how-to signal", () => {
@@ -73,13 +81,23 @@ describe("utility-first filtering", () => {
 });
 
 describe("digest quality gates", () => {
-  it("caps one source at two stories and preserves candidate URLs", () => {
-    const candidates = [
-      candidate({ id: "one", articleURL: "https://openai.com/one" }),
-      candidate({ id: "two", articleURL: "https://openai.com/two" }),
-      candidate({ id: "three", articleURL: "https://openai.com/three" }),
-      candidate({ id: "four", sourceName: "Google AI", articleURL: "https://blog.google/four" }),
+  it("requires at least ten stories and caps one source at two", () => {
+    const sourceNames = [
+      "OpenAI",
+      "Google AI",
+      "Microsoft AI",
+      "ZDNET",
+      "Tom's Guide",
+      "TechRepublic",
     ];
+    const candidates = Array.from({ length: 13 }, (_, index) => {
+      const sourceName = sourceNames[Math.min(Math.floor(index / 2), sourceNames.length - 1)];
+      return candidate({
+        id: `article-${index}`,
+        sourceName,
+        articleURL: `https://example.com/article-${index}`,
+      });
+    });
     const selections: EditorialSelection[] = candidates.map((article, index) => ({
       id: article.id,
       title: `Useful AI product update number ${index + 1}`,
@@ -90,25 +108,58 @@ describe("digest quality gates", () => {
     }));
 
     const result = assembleArticles(candidates, selections);
-    expect(result).toHaveLength(3);
-    expect(result.filter((article) => article.sourceName === "OpenAI")).toHaveLength(2);
-    expect(result.at(-1)?.articleURL).toBe("https://blog.google/four");
+    expect(result).toHaveLength(12);
+    expect(Math.max(...sourceNames.map(
+      (source) => result.filter((article) => article.sourceName === source).length,
+    ))).toBe(2);
+    expect(result[0].articleURL).toBe("https://example.com/article-0");
+
+    expect(() => assembleArticles(candidates.slice(0, 9), selections.slice(0, 9))).toThrow(
+      "only 9 valid stories remained",
+    );
+  });
+
+  it("sorts selected stories by relevance before choosing the headline", () => {
+    const candidates = Array.from({ length: 10 }, (_, index) =>
+      candidate({
+        id: `ranked-${index}`,
+        sourceName: `Source ${Math.floor(index / 2)}`,
+        articleURL: `https://example.com/ranked-${index}`,
+      }),
+    );
+    const selections: EditorialSelection[] = candidates.map((article, index) => ({
+      id: article.id,
+      title: `Useful ranked AI update number ${index + 1}`,
+      summary:
+        "A practical AI feature is now available to everyday users. It can reduce repetitive work in a concrete workflow.",
+      category: "product",
+      relevanceScore: 80 + index,
+    }));
+
+    const result = assembleArticles(candidates, selections);
+    expect(result.map((article) => article.relevanceScore)).toEqual([
+      89, 88, 87, 86, 85, 84, 83, 82, 81, 80,
+    ]);
+    expect(result[0].id).toBe("ranked-9");
   });
 
   it("keeps the app's existing JSON contract", () => {
+    const candidates = Array.from({ length: 10 }, (_, index) =>
+      candidate({
+        id: `contract-${index}`,
+        sourceName: `Source ${Math.floor(index / 2)}`,
+        articleURL: `https://example.com/contract-${index}`,
+      }),
+    );
     const articles = assembleArticles(
-      [
-        candidate({ id: "one" }),
-        candidate({ id: "two", sourceName: "Google AI" }),
-        candidate({ id: "three", sourceName: "Microsoft AI" }),
-      ],
-      ["one", "two", "three"].map((id) => ({
-        id,
+      candidates,
+      candidates.map((article, index) => ({
+        id: article.id,
         title: "A useful AI feature is now available",
         summary:
           "A broadly available product gained a concrete new capability. Readers can use it today in a practical workflow.",
         category: "product" as const,
-        relevanceScore: 90,
+        relevanceScore: 90 - index,
       })),
     );
     const digest = buildDigest(articles, new Date("2026-08-03T18:50:00.000Z"), "pm", {
@@ -119,8 +170,8 @@ describe("digest quality gates", () => {
 
     expect(digest.digestDate).toBe("2026-08-03");
     expect(digest.digestSlot).toBe("pm");
-    expect(digest.headline?.id).toBe("one");
-    expect(digest.articles).toHaveLength(2);
-    expect(digest.metadata.articlesSelected).toBe(3);
+    expect(digest.headline?.id).toBe("contract-0");
+    expect(digest.articles).toHaveLength(9);
+    expect(digest.metadata.articlesSelected).toBe(10);
   });
 });

@@ -3,7 +3,7 @@ import { XMLParser } from "fast-xml-parser";
 import { FEEDS, LOOKBACK_HOURS } from "./config";
 import type { CandidateArticle, FeedSource, FetchResult } from "./types";
 
-const FEED_LIMIT_BYTES = 900_000;
+const FEED_LIMIT_BYTES = 1_200_000;
 const ARTICLE_LIMIT_BYTES = 180_000;
 const FETCH_TIMEOUT_MS = 15_000;
 const MAX_PARALLEL_FETCHES = 5;

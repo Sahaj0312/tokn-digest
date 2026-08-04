@@ -4,7 +4,7 @@ An English-only, utility-first AI news digest for UnlockAI learners. A Cloudflar
 
 ## Editorial standard
 
-The digest is for non-technical professionals, creators, freelancers, and small-business owners who want practical ways to use AI. It prioritizes product capabilities, accessible releases, useful workflows, and material pricing/access changes. It rejects politics, funding, influencer drama, layoffs, robotics, infrastructure, speculative AI debate, and abstract research without a user-facing capability. The pipeline publishes fewer stories when the quality bar is not met.
+The digest is for non-technical professionals, creators, freelancers, and small-business owners who want practical ways to use AI. It prioritizes product capabilities, accessible releases, useful workflows, and material pricing/access changes. It rejects politics, funding, influencer drama, layoffs, robotics, infrastructure, speculative AI debate, and abstract research without a user-facing capability. Every edition contains 10–12 qualified stories, ranked with the most useful first, with no more than two from one source.
 
 ## Commands
 

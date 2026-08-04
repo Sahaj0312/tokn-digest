@@ -21,6 +21,7 @@ export interface CandidateArticle {
   sourceKind: FeedSource["kind"];
   heuristicScore: number;
   coverageCount: number;
+  recentlyUsed?: boolean;
 }
 
 export interface DigestArticlePayload {
