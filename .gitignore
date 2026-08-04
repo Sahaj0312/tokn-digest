@@ -1,4 +1,7 @@
 __pycache__/
 *.pyc
 .env
+.dev.vars
+.wrangler/
+node_modules/
 venv/

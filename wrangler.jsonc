@@ -1,0 +1,56 @@
+{
+  "$schema": "./node_modules/wrangler/config-schema.json",
+  "name": "unlockai-digest",
+  "main": "src/index.ts",
+  "compatibility_date": "2026-08-03",
+  "compatibility_flags": ["nodejs_compat"],
+  "workers_dev": true,
+  "preview_urls": true,
+  "routes": [
+    {
+      "pattern": "digest.unlockai.courses",
+      "custom_domain": true
+    }
+  ],
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "unlockai-digest",
+      "database_id": "ae5dee2b-645a-4be5-b863-98b61ad4f425",
+      "migrations_dir": "migrations"
+    }
+  ],
+  "triggers": {
+    "crons": ["50 6,18 * * *"]
+  },
+  "queues": {
+    "producers": [
+      {
+        "binding": "GENERATION_QUEUE",
+        "queue": "unlockai-digest-generation"
+      }
+    ],
+    "consumers": [
+      {
+        "queue": "unlockai-digest-generation",
+        "max_batch_size": 1,
+        "max_batch_timeout": 1,
+        "max_retries": 5,
+        "retry_delay": 120,
+        "dead_letter_queue": "unlockai-digest-generation-dlq",
+        "max_concurrency": 1
+      }
+    ]
+  },
+  "observability": {
+    "enabled": true,
+    "logs": {
+      "head_sampling_rate": 1,
+      "invocation_logs": true
+    },
+    "traces": {
+      "enabled": true,
+      "head_sampling_rate": 1
+    }
+  }
+}
