@@ -7,6 +7,7 @@ import {
   hasPracticalSignal,
   heuristicScore,
   isBlockedStory,
+  parseEditorialResponse,
 } from "../src/curation";
 import type { CandidateArticle, EditorialSelection } from "../src/types";
 
@@ -81,6 +82,32 @@ describe("utility-first filtering", () => {
 });
 
 describe("digest quality gates", () => {
+  it("rejects editorial output that omits a required localization", () => {
+    const rankedSelections = Array.from({ length: 10 }, (_, index) => ({
+      id: `localized-${index}`,
+      localizations: {
+        en: {
+          title: `Useful localized AI update number ${index + 1}`,
+          summary:
+            "A practical AI feature is now available to everyday users. It can reduce repetitive work in a concrete workflow.",
+        },
+        de: {
+          title: `Nützliches lokalisiertes KI-Update Nummer ${index + 1}`,
+          summary:
+            "Eine praktische KI-Funktion ist jetzt für alltägliche Nutzer verfügbar. Sie kann wiederkehrende Arbeit in einem konkreten Ablauf reduzieren.",
+        },
+      },
+      category: "product",
+      relevanceScore: 90,
+    }));
+    delete (rankedSelections[0].localizations as Partial<typeof rankedSelections[0]["localizations"]>)
+      .de;
+
+    expect(() => parseEditorialResponse(JSON.stringify({ rankedSelections }))).toThrow(
+      "runtime validation",
+    );
+  });
+
   it("requires at least ten stories and caps one source at two", () => {
     const sourceNames = [
       "OpenAI",
@@ -100,9 +127,18 @@ describe("digest quality gates", () => {
     });
     const selections: EditorialSelection[] = candidates.map((article, index) => ({
       id: article.id,
-      title: `Useful AI product update number ${index + 1}`,
-      summary:
-        "A practical AI feature is now available to everyday users. It can reduce repetitive work in a concrete workflow.",
+      localizations: {
+        en: {
+          title: `Useful AI product update number ${index + 1}`,
+          summary:
+            "A practical AI feature is now available to everyday users. It can reduce repetitive work in a concrete workflow.",
+        },
+        de: {
+          title: `Nützliches KI-Produktupdate Nummer ${index + 1}`,
+          summary:
+            "Eine praktische KI-Funktion ist jetzt für alltägliche Nutzer verfügbar. Sie kann wiederkehrende Arbeit in einem konkreten Ablauf reduzieren.",
+        },
+      },
       category: "product",
       relevanceScore: 95 - index,
     }));
@@ -129,9 +165,18 @@ describe("digest quality gates", () => {
     );
     const selections: EditorialSelection[] = candidates.map((article, index) => ({
       id: article.id,
-      title: `Useful ranked AI update number ${index + 1}`,
-      summary:
-        "A practical AI feature is now available to everyday users. It can reduce repetitive work in a concrete workflow.",
+      localizations: {
+        en: {
+          title: `Useful ranked AI update number ${index + 1}`,
+          summary:
+            "A practical AI feature is now available to everyday users. It can reduce repetitive work in a concrete workflow.",
+        },
+        de: {
+          title: `Nützliches bewertetes KI-Update Nummer ${index + 1}`,
+          summary:
+            "Eine praktische KI-Funktion ist jetzt für alltägliche Nutzer verfügbar. Sie kann wiederkehrende Arbeit in einem konkreten Ablauf reduzieren.",
+        },
+      },
       category: "product",
       relevanceScore: 80 + index,
     }));
@@ -155,9 +200,18 @@ describe("digest quality gates", () => {
       candidates,
       candidates.map((article, index) => ({
         id: article.id,
-        title: "A useful AI feature is now available",
-        summary:
-          "A broadly available product gained a concrete new capability. Readers can use it today in a practical workflow.",
+        localizations: {
+          en: {
+            title: "A useful AI feature is now available",
+            summary:
+              "A broadly available product gained a concrete new capability. Readers can use it today in a practical workflow.",
+          },
+          de: {
+            title: "Eine nützliche KI-Funktion ist jetzt verfügbar",
+            summary:
+              "Ein breit verfügbares Produkt hat eine konkrete neue Funktion erhalten. Leser können sie heute in einem praktischen Arbeitsablauf einsetzen.",
+          },
+        },
         category: "product" as const,
         relevanceScore: 90 - index,
       })),
@@ -170,7 +224,13 @@ describe("digest quality gates", () => {
 
     expect(digest.digestDate).toBe("2026-08-03");
     expect(digest.digestSlot).toBe("pm");
+    expect(digest.availableLanguages).toEqual(["en", "de"]);
     expect(digest.headline?.id).toBe("contract-0");
+    expect(digest.headline?.title).toBe(digest.headline?.localizations.en.title);
+    expect(digest.headline?.summary).toBe(digest.headline?.localizations.en.summary);
+    expect(digest.headline?.localizations.de.title).toBe(
+      "Eine nützliche KI-Funktion ist jetzt verfügbar",
+    );
     expect(digest.articles).toHaveLength(9);
     expect(digest.metadata.articlesSelected).toBe(10);
   });

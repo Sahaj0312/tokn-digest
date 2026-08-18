@@ -1,4 +1,10 @@
-import type { FeedSource } from "./types";
+import type { DigestLanguage, FeedSource } from "./types";
+
+export const DIGEST_LANGUAGES: readonly DigestLanguage[] = ["en", "de"];
+export const DIGEST_LANGUAGE_NAMES: Record<DigestLanguage, string> = {
+  en: "English",
+  de: "German",
+};
 
 export const FEEDS: readonly FeedSource[] = [
   {

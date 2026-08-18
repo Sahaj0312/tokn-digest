@@ -1,4 +1,10 @@
 export type DigestCategory = "product" | "tutorial" | "industry" | "news";
+export type DigestLanguage = "en" | "de";
+
+export interface LocalizedArticleContent {
+  title: string;
+  summary: string;
+}
 
 export interface FeedSource {
   name: string;
@@ -28,6 +34,7 @@ export interface DigestArticlePayload {
   id: string;
   title: string;
   summary: string;
+  localizations: Record<DigestLanguage, LocalizedArticleContent>;
   sourceName: string;
   sourceIcon: string;
   articleURL: string;
@@ -47,6 +54,7 @@ export interface DigestPayload {
   digestDate: string;
   digestSlot: "am" | "pm";
   generatedAt: string;
+  availableLanguages: DigestLanguage[];
   headline: DigestArticlePayload | null;
   articles: DigestArticlePayload[];
   metadata: DigestMetadata;
@@ -59,8 +67,7 @@ export interface FetchResult {
 
 export interface EditorialSelection {
   id: string;
-  title: string;
-  summary: string;
+  localizations: Record<DigestLanguage, LocalizedArticleContent>;
   category: DigestCategory;
   relevanceScore: number;
 }

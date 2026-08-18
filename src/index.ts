@@ -1,3 +1,4 @@
+import { DIGEST_LANGUAGES } from "./config";
 import { generateDigest } from "./pipeline";
 import type { WorkflowParams } from "./types";
 
@@ -59,7 +60,8 @@ export default {
       if (url.pathname === "/" || url.pathname === "") {
         return json({
           service: "UnlockAI Digest",
-          language: "en",
+          defaultLanguage: "en",
+          availableLanguages: DIGEST_LANGUAGES,
           latest: "/latest.json",
           health: "/health",
         });
