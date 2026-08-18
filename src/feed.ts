@@ -1,6 +1,6 @@
 import { XMLParser } from "fast-xml-parser";
 
-import { FEEDS, LOOKBACK_HOURS } from "./config";
+import { FEEDS, LOOKBACK_HOURS, MAX_ENRICHED_ARTICLES } from "./config";
 import type { CandidateArticle, FeedSource, FetchResult } from "./types";
 
 const FEED_LIMIT_BYTES = 1_200_000;
@@ -268,10 +268,12 @@ function extractArticleBody(html: string): string {
 
 export async function enrichArticleText(
   articles: CandidateArticle[],
+  limit = MAX_ENRICHED_ARTICLES,
 ): Promise<CandidateArticle[]> {
-  const enriched: CandidateArticle[] = [];
-  for (let index = 0; index < articles.length; index += MAX_PARALLEL_FETCHES) {
-    const batch = articles.slice(index, index + MAX_PARALLEL_FETCHES);
+  const enriched = [...articles];
+  const enrichCount = Math.min(Math.max(0, limit), articles.length);
+  for (let index = 0; index < enrichCount; index += MAX_PARALLEL_FETCHES) {
+    const batch = articles.slice(index, Math.min(index + MAX_PARALLEL_FETCHES, enrichCount));
     const results = await Promise.allSettled(
       batch.map(async (article) => {
         const page = await fetchBounded(article.articleURL, ARTICLE_LIMIT_BYTES);
@@ -279,7 +281,9 @@ export async function enrichArticleText(
       }),
     );
     results.forEach((result, resultIndex) => {
-      enriched.push(result.status === "fulfilled" ? result.value : batch[resultIndex]);
+      enriched[index + resultIndex] = result.status === "fulfilled"
+        ? result.value
+        : batch[resultIndex];
     });
   }
   return enriched;

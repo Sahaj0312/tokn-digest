@@ -145,6 +145,7 @@ export const FEEDS: readonly FeedSource[] = [
 
 export const LOOKBACK_HOURS = 72;
 export const MAX_MODEL_CANDIDATES = 32;
+export const MAX_ENRICHED_ARTICLES = 12;
 export const MAX_DIGEST_ARTICLES = 12;
 export const MIN_DIGEST_ARTICLES = 10;
 export const MAX_ARTICLES_PER_SOURCE = 2;

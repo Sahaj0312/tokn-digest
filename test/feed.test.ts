@@ -1,7 +1,8 @@
-import { describe, expect, it } from "vitest";
+import { afterEach, describe, expect, it, vi } from "vitest";
 
-import { normalizeURL, parseFeed, stripMarkup } from "../src/feed";
-import type { FeedSource } from "../src/types";
+import { FEEDS, MAX_ENRICHED_ARTICLES } from "../src/config";
+import { enrichArticleText, normalizeURL, parseFeed, stripMarkup } from "../src/feed";
+import type { CandidateArticle, FeedSource } from "../src/types";
 
 const source: FeedSource = {
   name: "Example AI",
@@ -10,6 +11,10 @@ const source: FeedSource = {
   weight: 1.5,
   kind: "primary",
 };
+
+afterEach(() => {
+  vi.unstubAllGlobals();
+});
 
 describe("feed parsing", () => {
   it("parses RSS entries and discards stale entries", async () => {
@@ -39,5 +44,47 @@ describe("feed parsing", () => {
       "https://example.com/post",
     );
     expect(stripMarkup("<p>Hello&nbsp;<strong>world</strong></p>")).toBe("Hello world");
+  });
+
+  it("only enriches the top articles to preserve outbound request headroom", async () => {
+    const editorialRequest = 1;
+    const baseOutboundRequests = FEEDS.length + MAX_ENRICHED_ARTICLES + editorialRequest;
+    expect(baseOutboundRequests).toBeLessThanOrEqual(35);
+
+    const fetchMock = vi.fn(async () =>
+      new Response("<article>A detailed article body for editorial review.</article>", {
+        status: 200,
+      }),
+    );
+    vi.stubGlobal("fetch", fetchMock);
+
+    const candidates: CandidateArticle[] = Array.from(
+      { length: MAX_ENRICHED_ARTICLES + 3 },
+      (_, index) => ({
+        id: `article-${index}`,
+        title: `Practical AI update ${index}`,
+        rawSummary: "A useful AI feature is available today.",
+        articleText: "",
+        sourceName: "Example AI",
+        sourceIcon: "sparkles",
+        articleURL: `https://example.com/article-${index}`,
+        publishedAt: "2026-08-14T10:00:00.000Z",
+        sourceWeight: 1.5,
+        sourceKind: "primary",
+        heuristicScore: 90 - index,
+        coverageCount: 1,
+      }),
+    );
+
+    const enriched = await enrichArticleText(candidates);
+
+    expect(fetchMock).toHaveBeenCalledTimes(MAX_ENRICHED_ARTICLES);
+    expect(enriched.slice(0, MAX_ENRICHED_ARTICLES).every((article) => article.articleText)).toBe(
+      true,
+    );
+    expect(enriched.slice(MAX_ENRICHED_ARTICLES).every((article) => !article.articleText)).toBe(
+      true,
+    );
+    expect(enriched.map((article) => article.id)).toEqual(candidates.map((article) => article.id));
   });
 });
